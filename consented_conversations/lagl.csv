@@ -1,0 +1,49 @@
+role,content,created_at
+user,Ik ben klaar om te beginnen,2025-09-17T16:09:23.300319+00:00
+assistant,"Prima! Hier is het klinische vignet om onze bespreking te kaderen:
+
+A healthy 25-year-old woman had routine prenatal care. At 24 weeks of pregnancy, an ultrasound revealed a small opening (~5 mm) on the right side of the babyâs belly, near the umbilical cord. Genetic tests (amniotic fluid analysis) at 26 weeks were normal. Over time, the opening enlarged (up to 34 mm), and parts of the babyâs intestines were seen floating in the amniotic fluid. The baby also measured smaller than expected. At 37 weeks, a caesarean section was performed. The newborn boy had parts of his small and large intestines, and stomach, located outside the abdomen. The supporting tissue was short, and the bowel appeared swollen. The diagnosis was gastroschisis, a defect in the abdominal wall.
+
+We gaan ons richten op de vroege embryonale ontwikkeling met speciale aandacht voor week 4 en 5!
+
+Mijn eerste vraag:  
+Wat is gastrulatie?",2025-09-17T16:09:38.222675+00:00
+user,Mag ik de volledige casus in het nederlands krijgen?,2025-09-17T16:11:40.911081+00:00
+assistant,"Natuurlijk! Hier is het volledige vignet in het Nederlands:
+
+Een gezonde 25-jarige vrouw kreeg tijdens haar zwangerschap routine prenatale controles. Bij een echo op 24 weken werd een kleine opening (~5 mm) gezien aan de rechterkant van de buik van de baby, dicht bij de navelstreng. Genetisch onderzoek (vruchtwaterpunctie) op 26 weken was normaal. In de weken die volgden werd de opening groter (tot 34 mm), en zagen ze dat delen van de darmen van de baby vrij in het vruchtwater lagen. De baby groeide ook minder hard dan verwacht. Op 37 weken werd een keizersnede uitgevoerd. De pasgeboren jongen had delen van zijn dunne en dikke darm en maag buiten de buikholte liggen. Het steeltje waarmee dit weefsel vastzat, was kort, en de darmen zagen er gezwollen uit. De diagnose was gastroschisis, een defect in de buikwand.
+
+Mijn vorige vraag blijft hetzelfde:
+Wat is gastrulatie?",2025-09-17T16:11:56.056313+00:00
+user,"gastrulatie is het proces waarbij de drie kiembladen worden gevormd. Het endoderm, mesoderm en ectoderm vanuit de epiblast",2025-09-17T16:14:42.51225+00:00
+assistant,"Heel goed! Gastrulatie is inderdaad het proces waarbij uit de epiblast de drie kiembladen ontstaan: endoderm, mesoderm en ectoderm.
+
+Volgende vraag:  
+Welke termen gebruiken we voor de drie kiembladen en welke typen weefsels ontstaan er meestal uit elk kiemblad? Noem de namen, en geef van elk kiemblad Ã©Ã©n voorbeeld van een orgaan of weefsel dat daaruit ontstaat.",2025-09-17T16:14:50.654751+00:00
+user,Endoderm -,2025-09-17T16:16:01.13877+00:00
+assistant,"Goed, je begint met het endoderm! Kun je het aanvullen met een voorbeeld van een weefsel of orgaan dat uit het endoderm ontstaat? En kun je hetzelfde doen voor het mesoderm en ectoderm?",2025-09-17T16:16:08.378489+00:00
+user,"endoderm: epidermisch zenuwstelsel, Mesoderm: bot, spier, kraakbeen ....., Ectoderm: binnenbekleding van de embryo",2025-09-17T16:17:15.354648+00:00
+assistant,"Je hebt al geprobeerd een link te maken tussen de kiembladen en organen/weefsels, maar enkele combinaties kloppen niet helemaal.  
+Tip:  
+- Het zenuwstelsel ontstaat niet uit het endoderm.
+- De binnenbekleding van het lichaam is niet afkomstig uit het ectoderm.
+
+Laten we het per kiemblad nalopen:
+
+**Endoderm:**  
+Wat weet je over de organen die ontstaan uit het endoderm? Denk aan het maag-darmkanaal, longen...
+
+Kun je nogmaals proberen voorbeelden te geven per kiemblad, op basis van deze tip?",2025-09-17T16:17:59.758643+00:00
+user,ik weet niet meer als wat ik nu gezegd heb,2025-09-17T16:19:21.674492+00:00
+user,Ik weet het antwoord op deze vraag niet goed,2025-09-17T16:22:58.54095+00:00
+user,Ik weet het antwoord op deze vraag niet goed,2025-09-17T16:23:06.308069+00:00
+user,Over het endoderm ook nog de bloedvaten en huid,2025-09-17T16:24:06.325143+00:00
+user,ik ben klaar om te beginnen,2025-09-17T16:25:32.085703+00:00
+assistant,"Hier komt de casus om het onderwerp te kaderen:
+
+**Casus:**
+Een gezonde vrouw van 25 jaar heeft routine prenatale controles. Tijdens een echo op 24 weken zwangerschap wordt er een kleine opening (~5 mm) rechts van de navel van de baby gezien. Later wordt de opening groter (tot 34 mm), en delen van de darmen drijven in het vruchtwater. Bij de geboorte via keizersnede blijken delen van de dunne en dikke darm en de maag buiten de buikholte te liggen; ze zijn gezwollen. De diagnose is gastroschisis, een buikwanddefect.
+
+Laten we beginnen met een basale kennisvraag:
+
+**Wat is gastrulatie?**",2025-09-17T16:25:43.56523+00:00

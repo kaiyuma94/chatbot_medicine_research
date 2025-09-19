@@ -1,0 +1,77 @@
+role,content,created_at
+user,Laten we beginnen,2025-09-17T17:03:52.551058+00:00
+assistant,"Om te beginnen zal ik de casus (vignette) geven ter context, en daarna een eerste vraag stellen.
+
+###VIGNETTE###
+Een gezonde 25-jarige vrouw kreeg standaard prenatale zorg. Bij een echo op 24 weken werd er een kleine opening (~5 mm) aan de rechterkant van de buik van de baby gezien, vlakbij de navelstreng. Genetisch onderzoek was normaal. In de weken erna werd de opening groter (tot 34 mm), en delen van de darmen waren zichtbaar in het vruchtwater. De baby groeide minder goed dan verwacht. Bij 37 weken werd er een keizersnede gedaan. De pasgeboren jongen had delen van darmen en maag buiten de buikholte. De ophangband was kort en de darm was gezwollen. De diagnose: gastroschisis, een buikwanddefect.
+
+**Vraag:**  
+Wat is embryonale gastrulatie?",2025-09-17T17:04:07.769166+00:00
+user,Dan ga je van twee naar drie lagen tijdens embryologie,2025-09-17T17:04:33.627039+00:00
+assistant,"Dat klopt, heel goed! Bij gastrulatie verandert het embryo van een structuur met twee lagen naar een structuur met drie kiemlagen.
+
+Kun je de namen van deze drie kiemlagen noemen?",2025-09-17T17:04:41.426685+00:00
+user,Ectoderm endoderm en mesoderm,2025-09-17T17:04:54.714393+00:00
+assistant,"Uitstekend! Dat zijn inderdaad de drie kiemlagen: ectoderm, mesoderm en endoderm.
+
+Mijn volgende vraag sluit hierop aan:
+Wat is embryonale vouwing (embryonic folding)?",2025-09-17T17:05:01.435758+00:00
+user,ð³ nee,2025-09-17T17:05:24.775016+00:00
+assistant,Geen probleem! Kun je me vertellen wat je al weet over hoe het embryo van vorm verandert in de vroege ontwikkeling? Wat gebeurt er met de positie van de kiemlagen of het uiterlijk van het embryo?,2025-09-17T17:05:30.517888+00:00
+user,De endoderm vouwt zich volgend mij en de mesoderm wordt de meerderheid van organen en ectoderm wordt de huid enzo,2025-09-17T17:05:54.765327+00:00
+assistant,"Je zit op het goede spoor! Je noemt al hoe de kiemlagen zich ontwikkelen tot verschillende structuren. Dat is belangrijk.
+
+Wat betreft embryonale vouwing: je zei dat de endoderm zich vouwt. Stel je voor dat het embryo een platte schijf is â wat denk je dat er gebeurt met deze schijf tijdens de embryonale vouwing? Wordt het embryo platter of juist cilindervormig? Wat denk je?",2025-09-17T17:06:03.805901+00:00
+user,Het wordt cilindervormig,2025-09-17T17:06:43.755766+00:00
+assistant,"Juist! Door embryonale vouwing verandert het embryo van een platte schijf naar een meer cilindervormige (buisvormige) structuur. Dit is een cruciaal proces in de vroege ontwikkeling.
+
+Volgende vraag:
+Kun je uitleggen wat het verschil is tussen het axiale, paraxiale, intermediaire en laterale plaatmesoderm? (Je hoeft niet alles precies te wetenâprobeer te beschrijven wat je denkt dat elk onderdeel doet of waar het ligt.)",2025-09-17T17:06:52.847187+00:00
+user,Axiale zit in her midden en dan de paraxiale en intermediair en dan laterale plaatmesoderm,2025-09-17T17:07:40.547853+00:00
+assistant,"Goed! Je weet al dat het axiale mesoderm in het midden ligt. Daarna liggen, van binnen naar buiten, het paraxiale, het intermediaire en het laterale plaatmesoderm (lateral plate mesoderm).
+
+Nu een vraag over oriÃ«ntatie:
+Wat betekenen de termen ""caudaal"", ""craniaal"", ""ventraal"" en ""dorsaal"" in relatie tot het embryo?",2025-09-17T17:07:48.194409+00:00
+user,"Caudaal is onder behandeling j de voeten en craniaal bij het hoofd, ventraal is voor en dorsaal is achter",2025-09-17T17:08:11.1312+00:00
+assistant,"Precies! Je hebt ze alle vier goed beschreven:
+
+- Caudaal: richting de voeten (onderkant)
+- Craniaal: richting het hoofd (bovenkant)
+- Ventraal: de voorkant (buikzijde)
+- Dorsaal: de achterkant (rugzijde)
+
+Heel goed! Je hebt nu de basisbegrippen en termen onder de knie.
+
+Laten we nu een niveau dieper gaan:  
+Kun je uitleggen wat er gebeurt tijdens gastrulatie? Welke stappen of bewegingen maken de cellen?",2025-09-17T17:08:48.059921+00:00
+user,Je hebt de blastocyst laag en dan de hypoblastlaag en dan wordt de hyposblastlaag overgenomen door de ectoderm volgens mij,2025-09-17T17:09:40.324708+00:00
+assistant,"Je noemt inderdaad verschillende fases en lagen in het vroege embryo! Je verwart echter een paar begrippen. Even samenvatten:  
+De blastocyst bestaat uit een binnenste celmassa (embryoblast), die uit twee lagen bestaat: de epiblast en de hypoblast. Tijdens gastrulatie gebeurt er iets belangrijks met deze lagen.
+
+Kun je nagaan welke laag zich eigenlijk actief invouwt (invagineert) en de drie kiemlagen vormt? Denk aan de termen epiblast en de drie kiemlagen. Heb je een idee?",2025-09-17T17:09:53.536367+00:00
+user,"De epiblast vouwt zich actief in, dus je hebt de epiblastlaag en de hypoblastlaag en dan gaan de epiblastcellen de hypoblastlaag overnemen en dat wordt de ectoderm laag",2025-09-17T17:11:25.668031+00:00
+assistant,"Je zit heel dicht bij het goede antwoord! De epiblast is inderdaad de actieve laag tijdens gastrulatie.
+
+Laat ik je een beetje op weg helpen:  
+- Uit de epiblast ontstaan alle drie de kiemlagen.
+- Tijdens gastrulatie migreren epiblastcellen naar beneden door de primitiefstreep.
+- De eerste cellen die migreren vervangen de hypoblast en vormen de **endoderm**.
+- De volgende laag wordt het **mesoderm**.
+- De resterende epiblastcellen vormen het **ectoderm**.
+
+Kun jij nu de volgorde noemen waarin de kiemlagen tijdens gastrulatie uit de epiblast ontstaan? Welke laag ontstaat als eerste, en daarna?",2025-09-17T17:11:39.086482+00:00
+user,"Ectoderm eerst, dan de endoderm en dan de mesoderm",2025-09-17T17:11:57.510366+00:00
+user,"Ectoderm eerst, dan de endoderm en dan de mesoderm",2025-09-17T17:14:20.221651+00:00
+assistant,"Je noemt nog steeds dezelfde volgorde als net. Denk nog eens aan wat er eerst wordt vervangen: de hypoblast wordt vervangen door de eerste migrerende epiblastcellen. Die vormen de diepste laag.
+
+Tip: de diepste laag is ""endo-,"" de middelste is ""meso-,"" en de bovenste is ""ecto-."" Kun je de juiste volgorde geven van diep (onder) naar oppervlakkig (boven)?",2025-09-17T17:14:28.195112+00:00
+user,Endo meso en dan ecto,2025-09-17T17:16:16.341699+00:00
+assistant,"Helemaal goed!  
+De juiste volgorde van vorming tijdens gastrulatie is:
+1. Endoderm (binnenste/diepst)
+2. Mesoderm (middelste laag)
+3. Ectoderm (buitenste/oppervlakkigste laag)
+
+Mooi!  
+Laten we nu doorgaan:  
+Kun je uitleggen waarom embryonale vouwing belangrijk is voor het vormen van de lichaamswand en de lichaamsholten? Wat gebeurt er tijdens deze vouwing met de kiemlagen?",2025-09-17T17:16:26.468604+00:00

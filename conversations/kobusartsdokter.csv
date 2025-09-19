@@ -1,0 +1,145 @@
+role,content,created_at
+user,laten we beginnen,2025-09-17T14:14:38.052757+00:00
+assistant,"Hier is de casus om het onderwerp te introduceren:
+
+**Casus**  
+Een gezonde 25-jarige vrouw had routine prenatale controles. Bij een echo op 24 weken zwangerschap bleek er een kleine opening (~5 mm) aan de rechterkant van de buik van de baby, dicht bij de navel. Genetisch onderzoek (vruchtwaterpunctie) bij 26 weken was normaal. Later werd de opening groter (tot 34 mm), en was te zien dat delen van de darmen van de baby zweefden in het vruchtwater. De baby was ook kleiner dan verwacht. Bij 37 weken werd een keizersnede uitgevoerd. De pasgeboren jongen had delen van zijn dunne en dikke darm, en maag, buiten de buikholte. Het ondersteunend weefsel was kort en het darmweefsel zag er gezwollen uit. De diagnose was gastroschisis, een buikwanddefect.
+
+Mijn eerste vraag om jouw kennis van de basisbegrippen te toetsen:
+**Wat is gastrulatie in de embryonale ontwikkeling?**",2025-09-17T14:14:52.685526+00:00
+user,gastrulatie is het proces tijdens de ontwikkeling waar er van 2 lagen naar een 3 lagige embryo wordt gegaan,2025-09-17T14:16:05.868357+00:00
+assistant,"Dat klopt! Gastrulatie is inderdaad het proces waarbij het embryo overgaat van een tweelagige structuur (epiblast en hypoblast) naar een drielaags embryo bestaande uit ectoderm, mesoderm en endoderm.
+
+Volgende vraag:
+**Kun je de drie kiemlagen (germ layers) bij naam noemen?**",2025-09-17T14:16:12.830875+00:00
+user,"ectoderm,endoderm,mesoderm",2025-09-17T14:16:20.981385+00:00
+assistant,"Juist, dat zijn de drie kiemlagen!
+
+Nu nog een basisbegrip:
+**Wat wordt bedoeld met embryonale plooing (embryonic folding) tijdens de ontwikkeling?**",2025-09-17T14:16:26.919798+00:00
+user,de ectoderm vouwt om de endoderm en mesoderm heen waardoor de vorm van de embryo gevormd wordt,2025-09-17T14:16:54.345009+00:00
+assistant,"Je zit op het goede spoor! Inderdaad, tijdens de embryonale plooing verandert de vorm van het embryo. Zou je kunnen aanvullen of verduidelijken **hoe** die plooien precies ontstaan en **wat** het gevolg daarvan is voor de lichaamsvorm? Denk bijvoorbeeld aan plooien in de lengterichting (craniaal/caudaal) en zijkant (laterale plooing). Wat gebeurt er met de positie van de dooierzak en de lichaamsholte?",2025-09-17T14:17:03.963802+00:00
+user,"de plooien ontstaan door de instulpingen van weefsellagen, de plooien in de craniaal en caudale richting vouwen om het mesoderm en endoderm heen, hierbij gaat het premordiale hart van craniaal naar meer caudaal en ventraal gelegen positie",2025-09-17T14:19:19.532065+00:00
+assistant,"Goed, je benoemt al de craniaal- en caudaalplooiing en dat hierdoor organen (zoals het hart) hun positie veranderen. Embryonale plooing heeft dus invloed op de ruimtelijke oriÃ«ntatie!
+
+Denk nu eens aan de **laterale** (zijwaartse) plooien.  
+Wat gebeurt er door deze plooien met:
+- de buikwand
+- de dooierzak
+Kun je dit toelichten?",2025-09-17T14:19:28.39856+00:00
+user,de laterale plooien vouwen ook als het ware om de 2 andere kiemlagen heen(endoderm en mesoderm) de dooierzak wordt gedeeltelijk een soort van afgeknipt en een ander deel wordt gebruikt in de embryo,2025-09-17T14:20:37.206532+00:00
+assistant,"Precies, dit is een mooie omschrijving! Door de laterale plooiing vouwt het embryo zich cilindervormig en wordt de dooierzak deels opgenomen als primitieve darm; het overige deel blijft buiten het embryo. De buikwand sluit hierdoor (bij normaal verloop) rondom het embryo.
+
+Volgende vraag:
+De mesodermlaag wordt verder onderverdeeld in verschillende delen.  
+**Kun je de vier belangrijkste subdivisies van het mesoderm bij naam noemen?**",2025-09-17T14:20:49.094782+00:00
+user,"paraaxiale mesoderm, laterale mesoderm, intermediair mesoderm, en de chorda dorsalis",2025-09-17T14:22:09.309475+00:00
+assistant,"Heel goed!  
+Dat zijn inderdaad: paraxiaal mesoderm, intermediair mesoderm, lateraal plaat mesoderm, en de chorda dorsalis (axiaal mesoderm).
+
+Nog Ã©Ã©n belangrijke term:
+Wat betekenen âventraalâ en âdorsaalâ bij een embryo? Kun je uitleggen waar je dan naar kijkt?",2025-09-17T14:22:18.218753+00:00
+user,"ventraal is richting de buikkant, dorsaal is richting de rugkant",2025-09-17T14:22:32.413858+00:00
+assistant,"Dat klopt helemaal! Ventraal is de buikzijde, dorsaal de rugzijde van het embryo.
+
+Laten we nu eens dieper ingaan op de processen.  
+**Kun je uitleggen welke belangrijke cellulaire bewegingen plaatsvinden tijdens gastrulatie, en hoe deze leiden tot het ontstaan van de drie kiemlagen?**",2025-09-17T14:22:39.381096+00:00
+user,de migratie van epiblasten via de primitieve groeven vormt uiteindelijk het mesoderm,2025-09-17T14:23:05.81149+00:00
+assistant,"Goed begin! Je noemt al het migreren van epiblastcellen via de primitieve groeve. 
+
+Maar wat gebeurt er behalve het vormen van mesoderm nog?  
+- Wat gebeurt er met cellen die **als eerste** door de primitieve groeve migreren?
+- En welke laag blijft uiteindelijk aan de buitenkant van het embryo liggen?
+
+Kun je deze twee punten aanvullen in je uitleg?",2025-09-17T14:23:13.630373+00:00
+user,"de cellen die als eerste migreren maken meer ruimte en vervangen zich in trophoblasten, het ectoderm blijft uiteindelijk aan de buitenkant liggen",2025-09-17T14:23:58.2379+00:00
+assistant,"Je bent dichtbij! De eerste cellen die door de primitieve groeve migreren, vervangen eigenlijk de hypoblastcellen en vormen zo het **endoderm**. Daarna vormt een tweede golf binnenstromende cellen het **mesoderm** (die tussen het nieuw gevormde endoderm en het resterende epiblast komt te liggen). Het resterende epiblast wordt het **ectoderm**, en die blijft inderdaad aan de buitenkant.
+
+Nu een volgende procesvraag:
+Waarom is embryonale plooing (in week 4-5) essentieel voor het ontstaan van de lichaamsholte (coeloom) en een gesloten buikwand?",2025-09-17T14:24:08.648731+00:00
+user,"de plooien zorgen ervoor dat de lichaamsholte wordt afgesloten waardoor er een gesloten buikwand ontstaan, dit is essentieel voor het vormen van de organen",2025-09-17T14:25:09.181141+00:00
+assistant,"Dat is al een goed uitgangspunt! De plooien zorgen inderdaad dat de buikwand sluit en zo de lichaamsholte ontstaat, wat essentieel is voor orgaanontwikkeling.
+
+Kun je nog iets specifieker zijn over **hoe** de embryonale plooien daadwerkelijk leiden tot het ontstaan van Ã©Ã©n enkele lichaamsholte? Wat gebeurt er met het laterale plaatmesoderm tijdens dit proces?",2025-09-17T14:25:17.515227+00:00
+user,de laterale plaat krijgt een splanchnische en een somatische kant. als de uiteindes van de plooien bij elkaar komen vormen ze een gesloten ruimte,2025-09-17T14:26:27.454561+00:00
+assistant,"Heel goed! Het laterale plaatmesoderm splitst in een splanchnisch (visceraal) en een somatisch (parietaal) blad. Wanneer de lichaamsplooien naar elkaar toe bewegen en samenkomen, sluiten ze de embryo af, waardoor Ã©Ã©n continue lichaamsholte (coeloom) en een gesloten buikwand ontstaat.
+
+Nu nog een vraag over de kiemlagen:
+Welke kiemlaag vormt het grootste deel van de bekleding van het maagdarmkanaal? Waarom is deze relatie belangrijk in de embryonale ontwikkeling?",2025-09-17T14:26:38.443371+00:00
+user,"dat is het endoderm, deze is belangrijk want deze vormt ook meerdere organen tijdens de embryonale ontwikkeling",2025-09-17T14:27:12.586923+00:00
+assistant,"Dat klopt: het endoderm vormt de bekleding van het grootste deel van het maagdarmkanaal, en levert ook cellen voor andere inwendige organen zoals de longen, lever en pancreas.
+
+Nu je deze algemene processen goed begrijpt, gaan we terug naar de casus.
+
+**Casus (herhaling):**  
+Een gezonde 25-jarige vrouw krijgt een baby met gastroschisis: delen van de darmen en maag liggen buiten de buikwand, er is een opening naast de navel. Andere genetische testen zijn normaal.  
+
+Mijn vraag:  
+Kun je uitleggen wat er met deze kennis over embryonale ontwikkeling gebeurd is in deze casus?",2025-09-17T14:27:23.36646+00:00
+user,de ectoderm is niet goed gesloten waardoor er een opening is naar de buikwand,2025-09-17T14:27:50.683447+00:00
+assistant,"Je bent op de goede weg: er is inderdaad een probleem met de sluiting van de buikwand. Probeer nu de uitleg verder zelf te verdiepen:
+
+- Welke specifieke embryonale gebeurtenis (hint: betrekking op de laterale plooien en ventrale sluiting) is hier waarschijnlijk verstoord?
+- Waarom zouden darmen buiten het lichaam terechtkomen?
+
+Kun je hier verder over redeneren?",2025-09-17T14:28:19.474157+00:00
+user,"darmen zouden buiten het lichaam komen omdat er dus nog een opening is waar de organen naartoe kunnen, misschien zijn de laterale plooien de verstoring van de ventrale sluiting",2025-09-17T14:29:04.350451+00:00
+assistant,"Precies, dat is een sterke redenering!  
+Omdat de laterale plooien niet volledig fuseren of sluiten op de ventrale (buik-)zijde van het embryo, ontstaat er een opening in de buikwand. Hierdoor kunnen de inwendige organen, zoals de darmen, naar buiten uitstulpen in het vruchtwater.
+
+Nog een stap verder:  
+Waarom zou een baby met gastroschisis kleiner dan verwacht kunnen zijn, ook al is het buikwanddefect de belangrijkste afwijking? Kun je zelf bedenken welk effect deze afwijking op groei kan hebben?",2025-09-17T14:29:14.348248+00:00
+user,"omdat de opname van voedingsstoffen belemmerd word, hierdoor zijn er dus minder voedingsstoffen die gebruikt kunnen worden voor de groei van de baby",2025-09-17T14:30:12.530027+00:00
+assistant,"Goed nagedacht! Als de darmen buiten de buikholte liggen, kunnen ze zwellen en beschadigd raken door direct contact met het vruchtwater. Dit kan inderdaad de opname van voedingsstoffen tijdens de ontwikkeling in gevaar brengen, met als gevolg een slechtere groei van de baby.
+
+Nu je het hele proces goed kunt uitleggen, volgt hier de afsluitende oefenvraag:
+
+**Hoe begrijp je nu de oorzaken achter de klinische bevindingen in deze casus? Schrijf alles op wat in je opkomt: je ideeÃ«n, redeneringen en linkjes met wat je geleerd hebt. Hoe vollediger je uitleg, hoe beter je het begrijpt en kunt toepassen!**",2025-09-17T14:30:23.353557+00:00
+user,"ik begrijp het wel goed denk ik, de info uit de colleges en werkcolleges komen allemaal samen in deze gegeven casus en ik kan het nu goed beredeneren",2025-09-17T14:31:25.416515+00:00
+assistant,"Mooi om te horen dat je alles goed kunt beredeneren! Laten we je kennis nu eens toepassen op een andere casus.
+
+**Nieuwe casus:**  
+Een 27-jarige zwangere vrouw kwam met 13 weken voor een echo. Bij het kind werd een midlijnopening in de onderrug gezien, met een met vocht gevulde zak die delen van het ruggenmerg en de vliezen bevatte. Er was sprake van spina bifida met myelomeningocele.
+
+Mijn vraag:  
+Kun je uitleggen wat er in deze casus gebeurd is?",2025-09-17T14:31:35.239388+00:00
+user,het kind heeft spina bifida waarbij het ruggenmerg in de cele vormt,2025-09-17T14:32:56.813023+00:00
+assistant,"Dat is een goede eerste beschrijving! Kun je je uitleg nog iets verder uitbreiden?
+
+- **Welke stap in de embryonale ontwikkeling is waarschijnlijk verstoord, waardoor het ruggenmerg niet goed wordt afgesloten?**
+- **Welke kiemlaag is vooral verantwoordelijk voor de vorming van het ruggenmerg en de huid?**
+
+Kun je deze vragen meenemen in je toelichting?",2025-09-17T14:33:04.112652+00:00
+user,"de ectoderm is verantwoordelijk voor de vorming van het ruggenmerg en de huid, het vormen van de botten vanuit de mesoderm is niet helemaal gelukt waardoor er een gedeelte van een wervel niet goed is afgesloten, de ectoderm is ook niet helemaal goed gesloten, vandaar dat de cele aan de buitenzijde van de huid ligt",2025-09-17T14:34:20.446391+00:00
+assistant,"Heel goed! Je benoemt netjes dat het ectoderm betrokken is bij de vorming van zowel het ruggenmerg als de huid, en dat het sluiten van de neurale buis (ontwikkeld uit ectoderm) mis is gegaan. Ook noem je het belang van de omliggende mesodermale structuren voor de wervelboog.
+
+Laten we nog een stapje verder gaan:
+Waarom zouden kinderen met spina bifida (zoals in deze casus) problemen kunnen krijgen met hun benen en met hun blaas/darmfunctie? Wat is het onderliggende gevolg van deze embryonale afwijking voor de zenuwvoorziening?",2025-09-17T14:34:31.03482+00:00
+user,"door het in contact komen met de buitenlucht werken de zenuwen die de benen aansturen niet meer, hierbij komt ook kijken dat de darmen en de blaas ook hun spierfunctie verliezen",2025-09-17T14:35:23.583752+00:00
+assistant,"Je denkt in de goede richting: het ruggenmerg is kwetsbaar en kan beschadigd raken. Kun je die gedachte nog iets aanscherpen?
+
+- Het ruggenmerg ligt, door de aandoening, deels onbeschermd en ontwikkeld zich abnormaal. Heb je een idee waarom dat leidt tot **uitval** van de functie in onder andere benen, blaas en darmen?  
+- Denk aan welke zenuwbanen precies in dat gebied door het defect zijn aangedaan.
+
+Kun je jouw redenatie hiermee aanvullen?",2025-09-17T14:35:32.809965+00:00
+user,"het ligt dus onbeschermd buiten het lichaam, dit kan ervoor zorgen dat het niet meer goed werkt",2025-09-17T14:35:58.737105+00:00
+assistant,"Juist! Omdat het ruggenmerg zich onvolledig sluit, ligt een deel onbeschermd en raakt beschadigd. Daardoor werken de zenuwen die de onderliggende delen van het lichaam (benen, blaas en darmen) aansturen vaak niet goed. Dit verklaart de verlammings- en functiestoornissen bij deze kinderen.
+
+Mooie redenatie!  
+Wil je meer oefenvragen, of is het nu duidelijk voor je?",2025-09-17T14:36:11.114263+00:00
+assistant,"**OVERALL SUMMARY**  
+Goed gedaan! Je hebt actief meegedacht, veel vragen beantwoord en je redeneringen steeds verder uitgebreid. Je combineert feitelijke kennis met proces-inzicht en past deze toe op echte klinische casussen. Heel mooi om te zien!
+
+**WHAT YOU DID WELL**  
+- **Strong Grasp of:** Basisbegrippen zoals kiemlagen, gastrulatie, plooing, en hun functies. Je kent de grote lijnen van de embryonale ontwikkeling en benoemt belangrijke embryonale structuren correct.
+- **Good Application of:** Je past je kennis logisch toe op de klinische casus van gastroschisis en spina bifida, en legt duidelijk de oorzaak-gevolgrelaties uit.
+
+**AREAS FOR GROWTH & FOCUS**  
+- **Reviewing Key Terms:** Kleine verwarring was er soms rondom details als het vervangen van hypoblastcellen en de precieze volgorde van kiemlagen-ontwikkeling. Nog ietsje preciezer verwoorden zal je uitleg verder versterken.
+- **Connecting the Dots:** Je denkwijze is goed en gestructureerd! Soms miste een detail over bijvoorbeeld de specifieke stappen in celmigratie of het opsplitsen van het laterale plaatmesoderm. Hier kun je nog meer de âhoe en waaromâ toelichten.
+- **Applying Theory to Practice:** Je vertaalt theorie mooi naar de casus. Probeer bij neurologische afwijkingen als spina bifida nog wat preciezer uit te leggen welke zenuwbanen aangedaan zijn en de gevolgen daarvan.
+
+**ACTIONABLE STUDY RECOMMENDATIONS**  
+Gebruik het maken van overzichtelijke **concept maps of schemaâs**: Zet bijvoorbeeld de stappen van gastrulatie, het vormen van kiemlagen, en de diverse plooingsprocessen naast elkaar in een schema of tekening. Verbind elke stap aan het ontstaan van specifieke organen of afwijkingen. Zo krijg je nÃ³g meer grip op de processen en kun je bij elke casus snel de verbinding leggen tussen theorie en praktijk.
+
+Ga zo door â je bent goed op weg!",2025-09-17T14:36:36.297+00:00

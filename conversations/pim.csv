@@ -1,0 +1,70 @@
+role,content,created_at
+user,start het gesprek,2025-09-17T13:43:10.633734+00:00
+assistant,"Hier volgt eerst de klinische vignet:
+
+Een gezonde vrouw van 25 jaar krijgt routine prenatale zorg. Bij een echo op 24 weken zwangerschap wordt een kleine opening (~5 mm) aan de rechterzijde van de buik van de baby, dicht bij de navelstreng, gevonden. Genetisch onderzoek via vruchtwaterpunctie op 26 weken is normaal. De opening wordt groter (tot 34 mm), en delen van de darmen van de baby zweven in het vruchtwater. De baby lijkt ook wat kleiner dan verwacht. Bij 37 weken wordt een keizersnede gedaan. De pasgeboren jongen heeft delen van zijn dunne en dikke darm, en maag, buiten de buikholte liggen. Het ondersteunende weefsel is kort en de darmen zijn gezwollen. De diagnose is gastroschisis, een defect in de buikwand.
+
+Mijn eerste vraag om je kennis te testen:
+
+Wat is gastrulatie?",2025-09-17T13:43:23.615029+00:00
+user,"Gastrulatie is het proces in de derde week van een embryo waarbij de epiblast en hypoblast cellen, dus twee lagen naar drie lagen gaan de mesoderm endoderm en ectoderm",2025-09-17T13:44:52.696858+00:00
+assistant,"Goed! Gastrulatie is inderdaad het proces waarbij een tweelagige embryonale schijf wordt omgezet in een drielaagse schijf bestaande uit ectoderm, mesoderm en endoderm.
+
+Nieuwe vraag:  
+Wat is embryonale vouwing (embryonic folding)?",2025-09-17T13:44:59.621235+00:00
+user,Dat is het proces waarbij de aminen zich gaat vouwen,2025-09-17T13:45:45.135909+00:00
+assistant,Je zit in de goede richtingâbij embryonale vouwing verandert de vorm van het embryo flink. Kun je iets specifieker zijn? Waarin verandert de platte embryonale schijf tijdens het vouwen? Wat gebeurt er met de ligging van de verschillende structuren?,2025-09-17T13:45:52.59246+00:00
+user,De embryonale schijf veranderd van een platte schijf naar een soort ronde vorm doordat de amnion zich vouwt,2025-09-17T13:47:07.228888+00:00
+assistant,Je beschrijft de algemene vormverandering goed! Embryonale vouwing zorgt dat het embryo van een platte schijf naar een âcylindrischeâ structuur gaat. Kun je nog toelichten welke twee richtingen van vouwing er zijn en waarom die belangrijk zijn voor de uiteindelijke lichaamsvorm?,2025-09-17T13:47:13.96362+00:00
+user,lateraal,2025-09-17T13:47:30.027602+00:00
+assistant,"Goed! Laterale vouwing is inderdaad Ã©Ã©n van de richtingen van embryonale vouwing. Maar er is nog een tweede belangrijke richting van vouwing die gebeurt: weet je welke dat is, en kun je kort uitleggen waarom beide vormen van vouwing belangrijk zijn?",2025-09-17T13:47:35.70302+00:00
+user,ik weet het niet,2025-09-17T13:47:46.5365+00:00
+assistant,Geen probleem. Je kent al de laterale vouwing. Heb je gehoord van een vouwing aan de uiteinden van het embryo? Probeer te bedenken: wat gebeurt er met het hoofd- en het staartgebied tijdens de ontwikkeling? Welke richting van vouwing hoort daar bij?,2025-09-17T13:47:53.349367+00:00
+user,het embryo vormt zich als een banaanvorm,2025-09-17T13:48:25.309249+00:00
+assistant,"Juist, het embryo buigt zich inderdaad als een banaan! Dit verwijst naar de zogenaamde cranio-caudale vouwingâdus vouwing aan het hoofd (craniaal) en aan het staartuiteinde (caudaal). 
+
+Kun je nu kort beschrijven wat het effect is van beide, dus de laterale Ã©n de cranio-caudale vouwing, op de plaats van de dooierzak en de embryonale lichaamswand?",2025-09-17T13:48:33.000252+00:00
+user,geen idee,2025-09-17T13:49:10.675723+00:00
+assistant,"Dat is okÃ©! Laten we er stap voor stap naar kijken:
+
+Tijdens de embryonale vouwing bewegen de zijkanten (lateraal) Ã©n de uiteinden (craniaal en caudaal) van de platte embryonale schijf naar het midden toe. Dit zorgt ervoor dat delen van de dooierzak worden ingesloten in het embryo (delen hiervan vormen later de darm), en de lichaamswand sluit zich. 
+
+Kun je op basis hiervan proberen uit te leggen waarom dit insluiten en sluiten van de lichaamswand belangrijk is voor de ontwikkeling van het embryo?",2025-09-17T13:49:21.387918+00:00
+user,Anders is er een opening waardoor de organen eruit kunnen,2025-09-17T13:50:39.685192+00:00
+assistant,"Precies! Als de embryonale lichaamswand niet goed sluitâdoor fouten in de vouwingâkunnen organen (zoals darmen) buiten het embryo terechtkomen, zoals je in het vignet zag: gastroschisis.
+
+Laten we nog een korte kennisvraag doen voor we doorgaan. Kun je de drie kiemlagen (germ layers) noemen die ontstaan na gastrulatie?",2025-09-17T13:50:47.83513+00:00
+user,"de ectoderm, endoderm en mesoderm",2025-09-17T13:51:22.704967+00:00
+assistant,"Helemaal correct! De drie kiemlagen zijn het ectoderm, mesoderm en endoderm.
+
+Volgende vraag: Het mesoderm wordt nog verder onderverdeeld in vier delen. Kun je deze vier delen van het mesoderm benoemen?",2025-09-17T13:51:30.480225+00:00
+user,"de paraxiale mesoderm, de intermediaire mesoderm, laterale plaat mesoderm",2025-09-17T13:52:16.984788+00:00
+assistant,"Heel goed! Je hebt er al drie genoemd: paraxiaal, intermediair en laterale plaat mesoderm. Er is nog Ã©Ã©n belangrijk deel dat direct langs de centrale lijn van het embryo ligt. Kun je die aanvullen?",2025-09-17T13:52:22.973354+00:00
+user,splanchische laterale plaat mesoderm,2025-09-17T13:52:44.491787+00:00
+assistant,"Je noemt nu een subonderdeel van het laterale plaat mesoderm (splanchisch/visceraal). Denk eens terug aan de structuur die verscholen ligt precies in de middenlijn van het embryo, en die een centrale rol speelt bij de asvorming. Weet je welke dat is?",2025-09-17T13:52:50.534524+00:00
+user,notochord,2025-09-17T13:53:12.538788+00:00
+assistant,"Juist! De notochord (of chorda dorsalis) is het axiale mesoderm, het vierde deel naast paraxiaal, intermediair en laterale plaat mesoderm.
+
+Je hebt nu de belangrijkste terminologieÃ«n op een rij!  
+Nu een verdiepende kennisvraag: Kun je uitleggen wat het verschil is tussen visceraal en parietaal lateraal plaat mesoderm?",2025-09-17T13:53:20.310706+00:00
+user,die heb ik niet gehad,2025-09-17T13:54:10.673527+00:00
+assistant,"Geen probleem, laten we het samen verkennen. Het lateraal plaat mesoderm splitst zich in twee lagen rondom de embryonale lichaamsholte (coeloom): een binnenste (visceraal) en een buitenste (parietaal) laag.
+
+Welke denk je dat dichter bij de organen ligt, en welke dichter bij de lichaamswand? Wat zou je verwachten op basis van de naam visceraal (orgaan) en parietaal (wand)?",2025-09-17T13:54:22.121642+00:00
+user,visceraal meer dichter bij de organen en parketaal meer bij de want,2025-09-17T13:55:50.357813+00:00
+assistant,"Heel goed! Het visceraal (of splanchnisch) lateraal plaat mesoderm ligt direct rondom de organen en het parietaal (of somatisch) lateraal plaat mesoderm ligt tegen de lichaamswand aan.
+
+Wil je een laatste kennisvraag proberen voor we doorgaan? Kun je aangeven waar 'ventraal' en 'dorsaal' in het embryo liggen?",2025-09-17T13:55:59.316141+00:00
+user,ventraal aan de buikzijde en dorsaal aan de rugzijde,2025-09-17T13:56:42.648796+00:00
+user,ventraal aan de buikzijde en dorsaal aan de rugzijde,2025-09-17T13:57:39.718486+00:00
+assistant,"Precies! Ventraal ligt aan de buikzijde en dorsaal aan de rugzijde van het embryo.
+
+Nu gaan we verder en verdiepen we ons in de processen achter deze begrippen.  
+Kun je uitleggen wat er gebeurt tijdens gastrulatie, stap voor stap? Wat zijn de belangrijkste gebeurtenissen?",2025-09-17T13:57:46.120508+00:00
+user,van twee lagen naar drie lagen,2025-09-17T13:58:06.379747+00:00
+assistant,"Dat klopt, dat is het eindresultaat! Kun je proberen te beschrijven hoe dit proces precies verloopt? Wat gebeurt er met de cellen in de epiblast tijdens gastrulatieâen hoe worden de drie kiemlagen gevormd?",2025-09-17T13:58:12.54581+00:00
+user,de epiblastcellen laten los en migreren naar de primitiefstreep en gaan richting de hypoblastcellen en de epiblastcellen duwen de hypoblast cellen op zij en nestelen zich als enerzijds mesoderm en anderzijds endoderm en de epiblastcellen die blijven liggen vormen het ectoderm,2025-09-17T13:59:22.97311+00:00
+assistant,"Heel mooi uitgelegd! Tijdens gastrulatie migreren epiblastcellen via de primitiefstreep naar beneden, vervangen de hypoblast om het endoderm te vormen, vormen het mesoderm tussen endoderm en epiblast, en de overgebleven epiblast wordt ectoderm.
+
+Nu een volgende procesvraag:  
+Kun je uitleggen wat er gebeurt tijdens de embryonale vouwing en hoe dit leidt tot het vormen van de definitieve lichaamsvorm van het embryo?",2025-09-17T13:59:51.89443+00:00

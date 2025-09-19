@@ -1,0 +1,31 @@
+role,content,created_at
+user,ik ben klaar om te beginnen.,2025-09-17T13:14:58.063661+00:00
+assistant,"Hier is de casus om te starten:
+
+Een gezonde 25-jarige vrouw krijgt tijdens haar zwangerschap van 24 weken een echo. Daarop is een kleine opening (~5 mm) te zien aan de rechterkant van de buik van de baby, vlakbij de navelstreng. Later wordt de opening groter (tot 34 mm) en delen van de darmen zweven in het vruchtwater. Bij de geboorte liggen delen van de darmen en de maag buiten de buikholte. De diagnose is gastroschisis, een aandoening van de buikwand.
+
+Laten we met een basisvraag beginnen:  
+Wat is embryonale vouwen (embryonic folding)?",2025-09-17T13:15:08.895515+00:00
+user,Is dat niet het incompleet fuseren van de plooien waardoor dus in dit geval die opening groter wordt,2025-09-17T13:17:03.053966+00:00
+assistant,"Je denkt al in de richting van de gevolgen van foutieve embryonale vouwen, maar de vraag was nog: wat **is** embryonale vouwen? Kun je eerst uitleggen wat er normaal gebeurt tijdens embryonale vouwen, los van ziekten? Wat weet je hierover?",2025-09-17T13:17:12.407396+00:00
+user,Dat heeft te maken met de vorming van de neurale buis en de neurale plooien die naar elkaar toe bewegen en fuseren,2025-09-17T13:17:48.441931+00:00
+assistant,"Je koppelt het proces nu vooral aan de neurale buis, maar embryonale vouwen gaat niet alleen over het zenuwstelsel. Heb je een idee welke algemene vormen/assen (richting) belangrijk zijn tijdens het vouwen van het embryo? Wat gebeurt er met het hele embryo tijdens deze vouwfase?",2025-09-17T13:17:56.54905+00:00
+user,"heeft dit met gastrula en de kiemlagen: endoderm, mesoderm en ectoderm te maken?",2025-09-17T13:19:19.333634+00:00
+assistant,"Ja, dit heeft inderdaad te maken met de kiemlagen: endoderm, mesoderm en ectoderm! Tijdens embryonale vouwen ondergaat het embryo complexe veranderingen die ervoor zorgen dat deze kiemlagen de juiste plek krijgen in het lichaam.
+
+Kun je aangeven **wat** er gebeurt met de ligging van die kiemlagen (endoderm, mesoderm, ectoderm) of met de vorm van het embryo als gevolg van embryonale vouwen? Wat is het effect van dit proces op de vorm van het embryo?",2025-09-17T13:19:27.69471+00:00
+user,die lagen gaan zo liggen om de organen heen?,2025-09-17T13:22:01.250561+00:00
+assistant,"Dat is inderdaad de richting! Je benoemt dat de kiemlagen zich zo organiseren dat ze rond de toekomstige organen komen te liggen. Kun je iets specifieker zijn:  
+- Hoe verandert de vorm van het embryo hierdoor?
+- Welke lichaamsvorm ontstaat er door dit vouwen, bijvoorbeeld qua buikholte of lichaamswand?",2025-09-17T13:22:21.644629+00:00
+user,doordat die lagen ook weer met elkaar fuseren ontstaat er meer dat banaan vormige figuur van een embryo,2025-09-17T13:23:52.88243+00:00
+assistant,"Precies, het embryo krijgt door het vouwen een gekromde, C-vormige (banaan-achtige) figuur. Door het vouwen bewegen de kiemlagen naar binnen en vormen zo onder andere de buikwand en de holte waar later de organen in liggen. Het vouwen draagt dus bij aan het sluiten van de buikzijde en het insluiten van de organen.
+
+Laten we een volgende belangrijke term pakken:  
+Kun je de drie kiemlagen (germ layers) bij naam noemen? Wat zijn ze?",2025-09-17T13:24:01.939205+00:00
+user,"mesoderm, endoderm en ectoderm",2025-09-17T13:24:31.530422+00:00
+assistant,"Goed! Dat zijn inderdaad de drie kiemlagen: mesoderm, endoderm en ectoderm.
+
+Volgende vraag: het mesoderm kan worden onderverdeeld in verschillende zones. Kun je de vier belangrijkste subgroepen van het mesoderm bij naam noemen?",2025-09-17T13:24:40.053334+00:00
+user,"spiercellen, vetcellen, zenuwen en organen?",2025-09-17T13:25:12.045578+00:00
+assistant,"Je noemt nu mogelijke eindproducten van het mesoderm, maar ik vroeg specifiek naar de **onderverdeling** van het mesoderm in het embryo zelf. Kun je de vier regioâs of subtypen noemen waaruit het mesoderm is opgebouwd, bijvoorbeeld gebaseerd op hun ligging ten opzichte van de neurale buis? Denk bijvoorbeeld aan termen als âaxiaalâ of âlateraalâ. Heb je die termen eerder gehoord?",2025-09-17T13:25:20.233512+00:00

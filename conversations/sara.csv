@@ -1,0 +1,233 @@
+role,content,created_at
+user,Ik ben klaar om te beginnen!,2025-09-17T14:12:14.6417+00:00
+assistant,"Mooi! Hier is de casus om het onderwerp te verduidelijken:
+
+Een gezonde 25-jarige vrouw had routine prenatale zorg. Bij 24 weken zwangerschap werd er op de echo een kleine opening (~5 mm) aan de rechterkant van de buik van de baby gezien, vlakbij de navelstreng. Genetische tests waren normaal. De opening werd groter (tot 34 mm) en delen van de darmen kwamen buiten de buik terecht in het vruchtwater. De baby was kleiner dan verwacht. Bij 37 weken werd een keizersnede gedaan. De baby werd geboren met delen van zijn dunne en dikke darm, en maag, buiten de buik. De diagnose was gastroschisis, een defect in de buikwand.
+
+Mijn eerste vraag:  
+Wat is embryonale vouwing (embryonic folding)?",2025-09-17T14:12:28.262398+00:00
+user,Gewoon dat de embryo gevouwen wordt,2025-09-17T14:12:43.154831+00:00
+assistant,"Je hebt gelijk dat het te maken heeft met het ""vouwen"" van het embryo. Kun je ook uitleggen *hoe* en *waarom* dit gebeurt? Welk effect heeft deze vouw op de algemene vorm en structuur van het embryo?",2025-09-17T14:13:04.35002+00:00
+user,Tijdens de gastrulatie ontstaan er uit de endoderm en ectoderm de mesoderm en daarna komt de notochord en daarna vormt de neurale buis zich en daarna vouwt de embryo zich om een mens te vormen.,2025-09-17T14:14:47.751266+00:00
+assistant,"Je beschrijft een aantal belangrijke stappen in de embryonale ontwikkeling, maar laten we het even terugbrengen naar het begrip ""embryonale vouwing."" Gastrulatie en de vorming van de drie kiemlagen vinden inderdaad eerder plaats, gevolgd door de vorming van de notochord en neurale buis.
+
+Wat ik wil weten is:  
+Kun je uitleggen *in welke richtingen* het embryo zich vouwt tijdens de embryonale vouwing, en *welke consequentie* dat vouwen heeft voor de ligging van de dooierzak en het toekomstige spijsverteringskanaal? Heb je daar een idee over?",2025-09-17T14:15:22.943664+00:00
+user,Ik denk dat het in de caudale en craniale kant zich vouwt en ik weet eigenlijk niet wat de dooierzak. Ik zou hier graag meer uitleg over willen hebben,2025-09-17T14:16:39.799583+00:00
+assistant,"Goed dat je aangeeft waar je vastloopt! Je hebt gelijk dat de vouwing plaatsvindt aan de âcranialeâ (kopkant) en âcaudaleâ (staartkant) zijde van het embryo. Maar er is ook nog iets aan de hand in een andere richting. Kun je bedenken of er misschien ook een vouw plaatsvindt over de âbreedteâ van het embryo?
+
+Wat betreft de dooierzak: deze is een zakje buiten het embryo waar in het begin voedingstoffen in opgeslagen zijn. Tijdens de embryonale vouwing raakt een deel van de dooierzak *ingesloten* in het embryo en vormt zo het eerste gedeelte van het spijsverteringskanaal.  
+  
+Kun je nu proberen samen te vatten in *welke richtingen* embryonale vouwing plaatsvindt en *wat het gevolg is voor de vorming van de darmbuis*?",2025-09-17T14:16:52.115172+00:00
+user,"Ja, de vouw vind dus plaats in de craniale en caudale richting, en ook in laterale richting zeg maar om de breedte te vormen. Wat dit het gevolg is voor de vorming van de darmbuis weet ik niet, en is de dooierzak dan de voedingstoffen die de baby van de moeder krijgt?",2025-09-17T14:18:19.635125+00:00
+assistant,"Dat klopt: de vouwing vindt plaats in craniale, caudale Ã©n laterale richting (van boven, onder Ã©n zijkanten)! Goed uitgelegd.
+
+Wat betreft je andere vragen:  
+De dooierzak is een zakje dat aan het begin van de embryonale ontwikkeling voedingsstoffen levert, maar bij mensen neemt de placenta deze taak al snel over. Toch speelt de dooierzak nog een belangrijke structurele rol bij de vorming van het spijsverteringskanaal.
+
+Probeer deze stap af te maken:  
+Doordat het embryo zich lateraal en in de lengte vouwt, wordt een deel van de dooierzak in het embryo âgetrokkenâ. Dat ingesloten deel vormt iets belangrijks in de buik. Kun je bedenken wat er ontstaat uit dat deel?  
+Tip: denk aan het vroege spijsverteringskanaal.",2025-09-17T14:18:33.039086+00:00
+user,"Het dooierzak vormt uiteindelijk het spijsverteringskanaal, zoals de maag, twaalfvingerige darm, jejunum, dunne darm, dikke darm en endeldarm?",2025-09-17T14:19:34.046529+00:00
+assistant,"Heel goed! Het ingesloten deel van de dooierzak vormt inderdaad het vroege spijsverteringskanaal, waaruit later de maag, darmen en andere delen van het gastro-intestinale stelsel ontstaan. Mooi uitgewerkt!
+
+Mijn volgende vraag om de basiskennis verder te toetsen:
+Noem de drie kiemlagen (germ layers) die na gastrulatie in het embryo ontstaan.",2025-09-17T14:19:42.095676+00:00
+user,"Endoderm, mesoderm, ectoderm",2025-09-17T14:19:57.167462+00:00
+assistant,"Dat klopt helemaal! De drie kiemlagen zijn endoderm, mesoderm en ectoderm.
+
+Volgende vraag:  
+Kun je aangeven uit welke van deze kiemlagen het zenuwstelsel zich ontwikkelt?",2025-09-17T14:20:03.043555+00:00
+user,Ectoderm,2025-09-17T14:20:16.935213+00:00
+assistant,"Precies, het zenuwstelsel ontwikkelt zich uit het ectoderm!
+
+Nu een volgende term:  
+Het mesoderm wordt verder onderverdeeld in meerdere delen. Kun je er minstens twee noemen?",2025-09-17T14:20:23.49793+00:00
+user,Spijsverteringskanaal en de longen,2025-09-17T14:20:41.239439+00:00
+assistant,"**OVERALL SUMMARY**  
+Goed gedaan! Je laat zien dat je gemotiveerd en leergierig bent, zelfs als je ergens vastloopt. Je bent actief aan het meedenken en stelt heldere vervolgvragen als iets niet duidelijk is. Dat is een uitstekende basis voor verdere groei.
+
+**WHAT YOU DID WELL**
+- **Strong Grasp of:** Je hebt de drie kiemlagen (endoderm, mesoderm, ectoderm) correct benoemd en duidelijk uitgelegd uit welke laag het zenuwstelsel ontstaat. Bovendien kon je na uitleg goed aangeven in welke richtingen de embryonale vouwing plaatsvindt.
+- **Good Application of:** Je gebruikte je kennis om de vraag over het vormen van het spijsverteringskanaal vanuit de dooierzak goed te beantwoorden.
+
+**AREAS FOR GROWTH & FOCUS**
+- **Reviewing Key Terms:** Je had nog wat moeite met het benoemen van onderdelen van het mesoderm (bijvoorbeeld paraxiaal, intermediair en lateraal plaat-mesoderm) â je gaf nu organen in plaats van mesoderm-onderdelen als antwoord.  
+- **Connecting the Dots:** Je verwart soms onderdelen (zoals de voedingsrol van de dooierzak versus de placenta) en processen. Er zijn kansen om de precieze volgorde en relatie van embryonale stappen beter scherp te krijgen.  
+- **Applying Theory to Practice:** Je was nog vooral bezig met kernbegrippen, de klinische toepassing komt nog aan bod.
+
+**ACTIONABLE STUDY RECOMMENDATIONS**  
+Om je kennis van sleuteltermen en onderdelen verder te versterken, raad ik je aan:
+- Maak een set flashcards met belangrijke structuren (zoals onderdelen van het mesoderm, functies van de kiemlagen, rollen van dooierzak en placenta). Herhaal deze regelmatig; zo onthoud je beter welke termen bij welke fase horen. 
+
+Je bent goed op wegâblijf vragen stellen en actief oefenen, dan wordt de embryologie steeds duidelijker!",2025-09-17T14:25:47.463+00:00
+assistant,"**OVERALL SUMMARY**  
+Goed gewerkt! Je toont enthousiasme en inzet bij het bespreken van embryologische concepten. Je durft vragen te stellen wanneer iets niet duidelijk is en blijft actief zoeken naar uitleg. Dat is een hele sterke houding om verder te groeien.
+
+**WHAT YOU DID WELL**
+- **Strong Grasp of:** Je kon de drie kiemlagen (endoderm, mesoderm en ectoderm) goed benoemen en wist ook dat het zenuwstelsel uit het ectoderm ontstaat. Je herkende de richtingen van embryonale vouwing en wist een verband te leggen met de vorming van het spijsverteringskanaal.
+- **Good Application of:** Na uitleg zette je de stappen rond embryonale vouwing en dooierzak goed op een rijtje. Je durfde ook open te zijn over wat je niet wist, wat heel waardevol is voor jouw leerproces.
+
+**AREAS FOR GROWTH & FOCUS**
+- **Reviewing Key Terms:** Je verwisselde onderdelen van het mesoderm met eindorganen, in plaats van de daadwerkelijke onderdelen van het mesoderm te noemen (zoals paraxiaal, intermediair en lateraal plaat-mesoderm).
+- **Connecting the Dots:** Soms is het nog lastig om precies te benoemen hoe structuren en processen samenhangen, bijvoorbeeld de verwarring tussen de rol van de dooierzak en die van de placenta.
+- **Applying Theory to Practice:** Je bleef nu vooral bij de begrippen; het klinisch toepassen van kennis kwam nog niet aan bod.
+
+**ACTIONABLE STUDY RECOMMENDATIONS**  
+Aangezien het benoemen van kernstructuren een uitdaging is, raad ik je aan:  
+- Maak voor jezelf flashcards met de namen en functies van belangrijke termen, zoals de verschillende delen van het mesoderm, de kiemlagen, en de rol van de dooierzak vs. de placenta. Oefen deze regelmatig om ze echt te onthouden.
+
+Blijf dit zo aanpakkenâjouw nieuwsgierigheid en doorvragen zorgen ervoor dat je steeds sterker wordt in de embryologie!",2025-09-17T14:26:14.18+00:00
+assistant,"**OVERALL SUMMARY**  
+Goed gedaan! Je bent actief en enthousiast aan de slag gegaan met lastige embryologische begrippen. Je stelt gerichte vragen als iets niet duidelijk is en je bent niet bang om toe te geven waar je vastloopt. Dat is een sterke en leergerichte aanpak.
+
+**WHAT YOU DID WELL**
+- **Strong Grasp of:** Je kent de drie kiemlagen (endoderm, mesoderm, ectoderm) goed en weet dat het zenuwstelsel uit het ectoderm ontstaat. Daarnaast kun je, na uitleg, de richting van de embryonale vouwing correct benoemen.
+- **Good Application of:** Je paste uitleg over de dooierzak en vouwing goed toe bij het beantwoorden van vragen over de vorming van het spijsverteringskanaal. Je bleef doorvragen waar je twijfelde en pakte nieuwe informatie snel op.
+
+**AREAS FOR GROWTH & FOCUS**
+- **Reviewing Key Terms:** Het benoemen van onderdelen van het mesoderm was lastig; je verwisselde deze met eindorganen in plaats van de juiste mesoderm-subtypen te noemen.  
+- **Connecting the Dots:** Soms is het onderscheid tussen processen en eindresultaten nog verwarrend, zoals bij de functie van de dooierzak versus de placenta. Hier kun je de precieze volgorde en verbanden tussen stappen nog sterker leggen.
+- **Applying Theory to Practice:** Je was op deze casus vooral bezig met kernbegrippen; de klinische toepassing heb je nog niet kunnen oefenen.
+
+**ACTIONABLE STUDY RECOMMENDATIONS**
+Omdat de kernstructuren en termen voor jou nu de grootste uitdaging vormen, is mijn tip:
+- Maak een serie flashcards van de belangrijkste embryologische termen (zoals paraxiaal/intermediair/lateraal plaat-mesoderm, endoderm, ectoderm, dooierzak en placenta) en herhaal ze dagelijks. Hierdoor ga je sneller de juiste termen aan de juiste processen koppelen.
+
+Blijf kritisch, nieuwsgierig en durf te vragen â dat is wat een goede arts-in-opleiding sterker maakt!",2025-09-17T14:26:36.398+00:00
+user,Wat bedoel je met mesoderm wordt opgedeeld met namen als axiaal?,2025-09-17T15:08:17.203035+00:00
+assistant,"Goede vraag! Laten we de context schetsen met de casus:
+
+Een gezond zwangere vrouw onderging een echo waarbij later bleek dat het kind geboren werd met een gat in de buikwand (gastroschisis); delen van de darmen lagen buiten de buik.
+
+Nu je vraag: in de embryonale ontwikkeling ontstaat uit de primitieve kiemlaag mesoderm na gastrulatie een verdeling in verschillende regioâs. Wat betekent dit precies?
+
+**Welke vier hoofdtypen van mesodermale regioâs worden benoemd tijdens de ontwikkeling? Kun je ze opnoemen?**",2025-09-17T15:08:27.445339+00:00
+user,Ik heb geen idee,2025-09-17T15:08:46.634138+00:00
+assistant,"Dat is geen probleem! Denk eens terug aan wat je weet van de drie kiemlagen. Het mesoderm is er Ã©Ã©n van, en die wordt in vier delen gesplitst na gastrulatie. Soms gebruiken we termen die aanduiden waar ze liggen ten opzichte van de middenlijn of het embryo.
+
+**Heb je wel eens gehoord van de termen axiaal, paraxiaal, intermediair of laterale plaat-mesoderm? Welke van deze klinken misschien bekend?**  
+Of: **Probeer na te denken: als je het embryo (dwarsdoorsnede) bekijkt, wat zou 'axiaal' kunnen betekenen ten opzichte van de as van het lichaam?**",2025-09-17T15:08:57.373663+00:00
+user,"Axiaal betekent transversaal, apraxiaâs weet ik niet, intermediair of lateraal weet ik ook niet. Kun je wat meer uitleggen?",2025-09-17T15:14:45.436141+00:00
+assistant,"Goed dat je het probeert. Laten we het iets meer structureel opbouwen:
+
+Binnen het mesoderm kunnen we, van binnen naar buiten (dus vanaf de lichaamsas naar buiten), vier regio's onderscheiden. Ze worden genoemd naar hun ligging ten opzichte van de centrale as van het embryo:
+
+- **Axiaal mesoderm:** Dit ligt precies in het midden, langs de as van het embryo. Het vormt onder andere de chorda dorsalis.
+- **Paraxiaal mesoderm:** Dit ligt direct naast (para = naast) het axiaal mesoderm. Dit vormt later de somieten, waar onder andere onze wervels en skeletspieren uit ontstaan.
+- **Intermediair mesoderm:** Zoals de naam zegt, ligt dit tussen paraxiaal en laterale mesoderm in. Hieruit ontwikkelen zich de urogenitale structuren (nieren, gonaden).
+- **Laterale plaat mesoderm:** Dit ligt het meest naar buiten, tegen de lichaamswand aan, en splitst zich later in twee lagen: een die richting de binnenkant van het lichaam ligt (visceraal), en een die tegen de lichaamswand aanzit (pariÃ«taal).
+
+**Vraag:**  
+Kun je nu proberen de vier regioâs van het mesoderm, van binnen naar buiten, op volgorde te zetten? Hoe heten ze?",2025-09-17T15:15:02.482292+00:00
+user,"Axiaal is het midden waar de notochord loopt, daarnaast ligt de paraxiale waaruit spieren ontstaan, en intermediair waaruit de nieren ontwikkelen en lateraal ligt het verst van het midden vandaan en vormt dan de huidkanker",2025-09-17T15:29:10.429172+00:00
+assistant,"Dat heb je al heel goed! Je benoemt de axiale, paraxiale, intermediaire en laterale plaat in de juiste volgorde en legt ook mooi uit waar ze ongeveer voor zorgen.
+
+Een kleine correctie: uit het **lateraal plaat mesoderm** ontstaan geen huidkankers, maar wÃ©l delen van de lichaamswand (zoals de bekleding van de buikholte en delen van de huid, samen met ectoderm). Laten we het zo samenvatten:
+
+- **Axiaal mesoderm:** vormt de chorda dorsalis.
+- **Paraxiaal mesoderm:** vormt somieten â wervels, spieren, deel huid.
+- **Intermediair mesoderm:** vormt nieren en gonaden.
+- **Laterale plaat mesoderm:** vormt sereuze vliezen van buik-, borst- en hartholte (en splitst in visceraal en pariÃ«taal).
+
+**Nieuwe vraag:**  
+In het embryonale stadium spreken we vaak over craniale, caudale, dorsale en ventrale zijde.  
+**Weet je wat deze termen betekenen? Wat bedoelen we bijvoorbeeld met ventraal en dorsaal?**",2025-09-17T15:29:27.346852+00:00
+user,Ventraal is aan de buikzijde en dorsaal aan de rugzijde,2025-09-17T15:29:59.71994+00:00
+user,Ventraal is aan de buikzijde en dorsaal aan de rugzijde,2025-09-17T15:31:17.85483+00:00
+assistant,"Dat klopt helemaal! Ventraal is aan de buikzijde, dorsaal aan de rugzijde. Mooi gedaan!
+
+Een korte aanvulling:
+- **Craniaal** betekent naar het hoofd toe.
+- **Caudaal** betekent naar de staart of het onderste deel van het embryo toe.
+
+Nu een volgende term, passend bij het onderwerp:
+
+**Wat bedoelen we met gastrulatie bij de embryo-ontwikkeling? Kun je uitleggen wat gastrulatie is?**",2025-09-17T15:31:30.089887+00:00
+user,Gastrulatie is het ontstaan van de mesoderm uit de twee kiembladen endoderm en ectoderm,2025-09-17T15:32:33.096576+00:00
+assistant,"Je zit al goed in de richting! Tijdens gastrulatie ontstaat inderdaad het mesoderm, waardoor je van twee naar drie kiemlagen gaat.
+
+Wil je je uitleg nog iets verder uitbreiden? Bijvoorbeeld:
+- Wat zijn de drie kiemlagen die ontstaan na gastrulatie?
+- Kun je kort beschrijven wat gastrulatie precies voor proces is? 
+
+Dus: wat gebeurt er fysiek of morfologisch met de cellen tijdens gastrulatie?",2025-09-17T15:32:49.871669+00:00
+user,"Endoderm: de spijsverteringskanaal en de longen, mesoderm: spieren, botten en het hart. Ectoderm: hersenen, zenuwen en de huid.",2025-09-17T15:33:58.624682+00:00
+assistant,"Je kent de kiemlagen en hun afgeleiden goed! Je noemt mooi wat elk kiemblad later gaat vormen in het lichaam.
+
+Wil je nog proberen kort samen te vatten **wat** gastrulatie als proces inhoudt? Denk daarbij aan:  
+- Wat gebeurt er met de cellen van het embryo tijdens gastrulatie?
+- Hoe verandert het aantal kiemlagen?
+
+Dus: hoe verloopt het proces van gastrulatie stap voor stap?",2025-09-17T15:34:24.403943+00:00
+user,"Ik heb geen idee, zou je dat uit willen leggen",2025-09-17T15:34:40.80126+00:00
+assistant,"Dat is helemaal okÃ©! Laten we samen nadenken over gastrulatie.
+
+Tijdens gastrulatie verandert het embryo van een simpele, twee-lagige structuur naar een meerlagige structuur. In het begin heb je alleen de epiblast (die de ectoderm vormt) en de hypoblast (die vervangen wordt). Tijdens gastrulatie ontstaat een nieuwe laag: de mesoderm.
+
+Het startpunt is de primitiefstreep.  
+**Kun je bedenken: wat doen cellen van de epiblast ter hoogte van de primitiefstreep tijdens gastrulatie? Migreren ze, blijven ze liggen, of delen ze alleen?**  
+Probeer het eens te raden: wat gebeurt er met deze cellen?",2025-09-17T15:34:52.270437+00:00
+user,Migreren,2025-09-17T15:35:14.447747+00:00
+assistant,"Helemaal goed! De cellen van de epiblast migreren inderdaad naar binnen via de primitiefstreep. Dit heet **invaginatie** of **ingressie**.
+
+Hierdoor ontstaan uiteindelijk drie kiemlagen:
+- Ectoderm (buitenlaag)
+- Mesoderm (middelste laag)
+- Endoderm (binnenlaag)
+
+Laten we daarop voortborduren:
+
+**Wat verstaan we onder embryonale (of laterale) kromming (folding)? Kun je kort uitleggen wat embryonale folding is?**",2025-09-17T15:35:24.649603+00:00
+user,"De folding gebeurt toch naar craniaal, caudaal en lateraal",2025-09-17T15:36:06.494879+00:00
+assistant,"Dat klopt! Embryonale folding gebeurt in verschillende richtingen:  
+- **Craniaal-caudale (kop-staart-) richting**  
+- **Laterale (zijwaartse) richting**
+
+Wil je proberen samen te vatten wat er tijdens deze folding met het embryo gebeurt?  
+Bijvoorbeeld:  
+- Wat verandert er aan de vorm van het embryo als gevolg van deze vouwprocessen?  
+- Waarom is folding belangrijk voor de ontwikkeling van de lichaamsholtes of buik? 
+
+Probeer een korte uitleg!",2025-09-17T15:36:16.990459+00:00
+user,Ik weet echt niet,2025-09-17T15:36:27.684394+00:00
+assistant,"Dat is niet erg! Laten we het samen stap voor stap bekijken:
+
+Door embryonale folding verandert het embryo van een platte schijf naar een meer buisvormige structuur. Dit gebeurt doordat het embryo in zowel de lengte (cranio-caudale richting) als in de breedte (laterale richting) om zichzelf heen buigt.  
+
+Het resultaat van deze vouwprocessen is:  
+- Het embryo krijgt meer een cilindervorm, en de organen en kiemlagen komen op hun juiste plek te liggen.
+- De buitenste lagen van het embryo sluiten zich aan de ventrale (buik)zijde, zodat de buikholte afgesloten wordt.
+
+**Kun je met deze uitleg proberen te beschrijven waarom folding belangrijk is voor het sluiten van de buikwand?**  
+Bijvoorbeeld: hoe helpt folding om de organen binnen het lichaam te brengen?",2025-09-17T15:36:42.028413+00:00
+user,Door de folding proces worden de organen binnen het lichaam gehouden,2025-09-17T15:38:06.868515+00:00
+assistant,"Precies! Folding zorgt ervoor dat de organen, die eerst buiten het lichaam liggen of in de embryonale schijf, naar binnen worden gebracht terwijl de buikwand zich sluit.
+
+Dat is een belangrijk principe bij het ontstaan van de buikholte: goede folding zorgt dat vooraf gevormde organen echt binnen de buikwand komen te liggen.
+
+We gaan nu verder naar het verband tussen de kiemlagen en hun bijdrage aan lichaamsstructuren:
+
+**Welke laag van het mesoderm levert het grootste deel van de buikwand, en in welke mate draagt het mesoderm bij aan de vorming van de lichaamsholtes?**  
+Tip: Denk hierbij aan de eerder besproken mesodermregioâs!",2025-09-17T15:38:17.36994+00:00
+user,"Axiaal is het midden, paraxiaal daarnaast, intermediair en lateraal, ik heb geen idee welke laag van het mesoderm het grootste deel van de buikwand levert, en in welke mate mesoderm bijdraagt aan de vorming van de holtes",2025-09-17T15:39:32.074904+00:00
+user,okÃ© maar welk laag van het mesoderm vormt het grootste deel,2025-09-17T15:42:59.2746+00:00
+assistant,"Mooie, scherpe vraag! Denk aan de vorige hint: het **laterale plaat mesoderm** splitst zich in twee delen â een deel naar de lichaamswand en een deel naar de organen.
+
+Dus, het **pariÃ«taal (somatisch) blad van het laterale plaatmesoderm**, samen met het ectoderm, vormt het grootste deel van de buikwand.
+
+Nu een vervolgvraag:
+**Hoe zorgt het uitsplitsen van het laterale plaat mesoderm voor de vorming van lichaamsholtes (zoals de buikholte en borstholte)? Wat ontstaat er tussen de twee lagen?** Probeer te bedenken wat het gevolg is van deze splitsing!",2025-09-17T15:43:10.386855+00:00
+user,Wat is het parietaal blad an het laterale plaatmesoderm?,2025-09-17T15:43:49.188397+00:00
+assistant,"Goede vraag! Het laterale plaatmesoderm splitst zich tijdens de ontwikkeling in twee lagen â door een ruimte die ertussen ontstaat.
+
+- **Parietaal (somatisch) blad:** Dit is de buitenste laag van het laterale plaatmesoderm. Het ligt tegen het ectoderm aan. Samen bekleden ze de binnenkant van de lichaamswand.
+- **Visceraal (splanchnisch) blad:** Dit is de binnenste laag, die tegen het endoderm aan ligt, en de organen omgeeft.
+
+De ruimte die tussen deze twee lagen ontstaat, noemen we het **intra-embryonale coeloom**âdit wordt later de lichaamsholtes (zoals de borst- en buikholte).
+
+Dus:  
+**Het pariÃ«taal blad is het deel van het laterale plaatmesoderm dat samen met ectoderm de lichaamswand vormt.**
+
+**Nu een vraag terug:**  
+Waarom is het belangrijk dat er een ruimte ontstaat tussen het parietale en viscerale blad van het laterale plaatmesoderm? Wat kan daar dan in groeien of bewegen?",2025-09-17T15:44:07.077357+00:00

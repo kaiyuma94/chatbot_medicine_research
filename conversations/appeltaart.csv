@@ -1,0 +1,22 @@
+role,content,created_at
+user,hoi,2025-09-17T14:48:21.168759+00:00
+assistant,"Hallo! Laten we beginnen met het oefenen van embryonale ontwikkeling aan de hand van de casus. 
+
+Hier is de casus:  
+Een gezonde 25-jarige vrouw had routine prenatale zorg. Op 24 weken zwangerschap werd bij een echo een kleine opening (~5 mm) aan de rechterzijde van de buikwand nabij de navel van de baby gezien, waarbij delen van de darmen buiten de buik hingen. De diagnose was gastroschisis, een buikwanddefect.
+
+Om de basis te leggen, stel ik eerst een vraag:  
+Wat is gastrulatie in de embryonale ontwikkeling?",2025-09-17T14:48:30.659817+00:00
+user,Dat je van de epiblast en de hypoblast naar de 3 kiemlagen gaat.,2025-09-17T14:49:17.140086+00:00
+assistant,"Precies! Gastrulatie is inderdaad het proces waarbij uit de epiblast en hypoblast drie kiemlagen ontstaan: ectoderm, mesoderm en endoderm.
+
+Om verder te bouwen op deze kennis:  
+Kun je de drie kiemlagen opnoemen en aangeven welke algemene soorten weefsels hieruit ontstaan?",2025-09-17T14:49:23.716065+00:00
+user,"Ectoderm, mesoderm, endoderm",2025-09-17T14:49:43.904213+00:00
+assistant,"Goed! Dat zijn inderdaad de drie kiemlagen.
+
+Kun je per kiemlaag aangeven tot welk (type) structuur of orgaan deze zich later vooral ontwikkelen? Bijvoorbeeld: waaruit ontstaat het zenuwstelsel of het spijsverteringskanaal?",2025-09-17T14:49:49.790052+00:00
+user,uit het ectoderm ontstaat het zenuwstelsel,2025-09-17T14:52:14.113604+00:00
+assistant,"Heel goed! Het zenuwstelsel ontstaat inderdaad uit het ectoderm.
+
+Kun je ook aangeven welke belangrijke structuren voornamelijk uit het mesoderm en het endoderm ontstaan? Als het lastig is, kun je proberen na te denken aan de hand van grote orgaansystemen zoals bloedvaten, spieren, darmen of longen.",2025-09-17T14:52:21.233753+00:00

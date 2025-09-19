@@ -1,0 +1,73 @@
+role,content,created_at
+user,ik ben klaar om te beginnen,2025-09-17T13:14:53.426664+00:00
+assistant,"Hier is de casus waarmee we aan de slag gaan:
+
+Een gezonde 25-jarige vrouw had routine zwangerschapscontroles. Bij een echo op 24 weken werd een kleine opening (ongeveer 5 mm) aan de rechterkant van de buik van de baby gezien, nabij de navelstreng. Genetische testen (vruchtwaterpunctie) bij 26 weken waren normaal. De opening werd groter (tot 34 mm) en delen van de darmen waren zichtbaar in het vruchtwater. De baby was kleiner dan verwacht. Bij 37 weken werd er een keizersnede uitgevoerd. De pasgeboren jongen had delen van de dunne en dikke darm, en de maag, buiten de buikholte. Het dragend weefsel was kort, en de darm was gezwollen. De diagnose was gastroschisis, een buikwanddefect.
+
+Mijn eerste vraag voor je:
+
+Wat is embryonale vouwing (embryonic folding)?",2025-09-17T13:15:07.724961+00:00
+user,dat is dat het embryo gaat vouwen,2025-09-17T13:15:47.946653+00:00
+assistant,"Klopt, het embryo gaat inderdaad vouwen, maar kun je iets specifieker zijn?  
+Bijvoorbeeld: in welke richtingen vindt die vouwing plaats en waarom is dat belangrijk?",2025-09-17T13:15:52.814229+00:00
+user,"kop staart enb zijwaardse vouwing, dit is belangrijk omdat het van 2 lagen naar 3 gaat",2025-09-17T13:17:16.981527+00:00
+assistant,"Je zit op het goede spoor! De embryo vouwt inderdaad in de kop-staart (craniocaudale) richting en in de zijwaartse (laterale) richting. Maar, het proces waarbij het embryo van twee naar drie lagen gaat, hoort bij gastrulatie, niet bij de embryonale vouwing.
+
+Kun je uitleggen wat het belangrijkste gevolg is van deze vouwprocessen voor de vorm en de holtes van het embryo? Wat verandert er door deze vouwingen?",2025-09-17T13:17:25.814333+00:00
+user,er ontstaat een neurale buis,2025-09-17T13:17:41.643051+00:00
+assistant,"Interessante gedachte, want de neurale buis wordt inderdaad gevormd tijdens de vroege embryonale ontwikkeling, maar dat is een direct gevolg van neurulatie, niet van het proces van embryonale vouwing zelf.
+
+Denk nog eens aan wat er met het hele embryo gebeurt als het vouwt, vooral aan het ontstaan van de lichaamsvorm en de buikholte.  
+Wat gebeurt er bijvoorbeeld met de dooierzak en hoe verandert de plaats van de endodermale, mesodermale en ectodermale lagen door de vouwing?",2025-09-17T13:17:51.450543+00:00
+user,"er wordt en gehele buiten en binnenkant gevormd, de volgorde van endodermale, mesodermale en ectodermale wordt soort van verdubbelt",2025-09-17T13:18:45.986321+00:00
+assistant,"Je bent er bijna! Door de embryonale vouwing ontstaat inderdaad zowel een binnenkant (de toekomstige darm/organen) als een buitenkant (de huid), doordat de drie kiemlagen zich herschikken.
+
+Denk vooral aan de laterale vouwing: het embryo buigt zich als het ware om de dooierzak heen, zodat het endoderm een interne buis vormtâde toekomstige primitieve darm. De buitenkant (ectoderm) vormt de huid, en mesoderm komt ertussen te liggen. Ook sluiten de ventrale en laterale lichaamswanden meestal, waardoor een gesloten buikholte ontstaat.
+
+Wil je nog proberen samen te vatten waarom deze vouwing cruciaal is voor de ontwikkeling van de lichaamswand en de buikholte?",2025-09-17T13:18:58.042454+00:00
+user,dat weet ik niet,2025-09-17T13:21:32.972629+00:00
+assistant,"Geen probleem! Laten we het samen stap voor stap bekijken.
+
+De vouwing zorgt ervoor dat de verschillende lagen hun juiste positie krijgen:  
+- Het endoderm komt binnenin te liggen en vormt de darmbuis.
+- Het ectoderm vormt de buitenste laag, oftewel de huid.
+- Het mesoderm komt ertussen en vormt spieren, botten, en onder andere de lichaamswand.
+
+Door de vouwing sluiten de laterale lichaamswanden naar het midden toe en vormen zo de buikwand en de buikholte. Dit is belangrijk, want als deze sluiting niet helemaal goed verloopt, kunnen organen (zoals de darmen) buiten het lichaam terechtkomenânet als in de casus die je hebt gelezen.
+
+Zullen we doorgaan met de volgende vraag over basisbegrippen?  
+Kun je de drie kiemlagen opnoemen die tijdens de vroege embryonale ontwikkeling ontstaan, en bij benadering aangeven waaruit ze zich ontwikkelen?",2025-09-17T13:21:46.048586+00:00
+user,"de endoderm is de binnenste en wordt gevormd door epiblastcellen die door de primitieve groeve verplaatsen. de mesoderm ontstaat doordat epiblast cellen tussen de 2 bestaan de lagen in gaat, hierdoor ontstaat de middelste nieuwe kiemlaag. de ectoderm is de buitenste laag, die wordt gevromd uit de overige epiblast cellen",2025-09-17T13:24:48.727506+00:00
+assistant,"Heel goed uitgelegd! Je noemt alle drie de kiemlagen correct en beschrijft hun ontstaan tijdens gastrulatie:
+
+- **Endoderm:** binnenste laag, gevormd door epiblastcellen die via de primitieve groeve naar binnen migreren en de hypoblast vervangen.
+- **Mesoderm:** middelste laag, gevormd door epiblastcellen die tussen het endoderm en ectoderm migreren.
+- **Ectoderm:** buitenste laag, gevormd uit de overgebleven epiblastcellen.
+
+Nu een andere basisvraag:  
+Het mesoderm splitst zich op in verschillende delen. Kun je de vier hoofdonderdelen van het mesoderm noemen die ontstaan tijdens de embryonale ontwikkeling?",2025-09-17T13:25:00.020402+00:00
+user,"het paraxiale mesoderm( de somieten), het intermediaire mesoderm en het laterale plaatmesoderm",2025-09-17T13:26:20.618831+00:00
+assistant,"Goed, je noemt er al drie: paraxiaal mesoderm (dat de somieten vormt), intermediair mesoderm, en lateraal plaatmesoderm. Er is nog Ã©Ã©n deel van het mesoderm dat vaak direct langs de centrale as van het embryo ligt.
+
+Kun je bedenken hoe dat heet? Een hint: het speelt een belangrijke rol bij de vorming van de chorda dorsalis.",2025-09-17T13:26:28.706873+00:00
+user,axiaal mesoderm,2025-09-17T13:26:56.491013+00:00
+assistant,"Precies! Het axiaal mesoderm vormt onder andere de chorda dorsalis (notocord).  
+
+Goed gedaan! Dus, de vier hoofdonderdelen van het mesoderm zijn:
+- Axiaal mesoderm
+- Paraxiaal mesoderm
+- Intermediair mesoderm
+- Lateraal plaatmesoderm
+
+Nu nog een basisvraag in deze fase: Kun je kort uitleggen wat wordt bedoeld met âventraalâ en âdorsaalâ bij het embryo?",2025-09-17T13:27:30.969232+00:00
+user,"ventraal is de buikzijde van het embryo, dorsaal is de rugzijde van het embryo",2025-09-17T13:28:24.957934+00:00
+assistant,"Helemaal juist! Ventrale zijde is inderdaad de buikzijde en dorsaal de rugzijde. Knap uitgelegd.
+
+Laatste kennistoets-vraag voor deze ronde:  
+Wat wordt bedoeld met âcraniaalâ en âcaudaalâ in de context van het embryo?",2025-09-17T13:28:32.262393+00:00
+user,"craniaal is richting de kop, caudaal is richting de staart",2025-09-17T13:29:18.130386+00:00
+assistant,"Exact! Craniaal betekent richting het hoofd (de kopzijde) en caudaal is richting de staart (de staartzijde) van het embryo.
+
+Je hebt nu de basisbegrippen en termen goed onder de knie. Laten we doorgaan naar het uitleggen van processen:
+
+Kun je beschrijven wat er gebeurt tijdens gastrulatie in de vroege embryonale ontwikkeling?",2025-09-17T13:29:27.359662+00:00

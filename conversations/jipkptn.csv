@@ -1,0 +1,62 @@
+role,content,created_at
+user,ik ben klaar om te beginnen,2025-09-17T15:51:34.329213+00:00
+assistant,"We starten met een korte klinische casus om het leren te kaderen:
+
+Een gezonde 25-jarige vrouw heeft routine prenatale zorg. Bij een echo op 24 weken zwangerschap werd een kleine opening (~5 mm) rechts van de navel van de baby gezien, vlakbij de navelstreng. Genetische tests waren normaal. De opening werd groter en delen van de darmen dreven in het vruchtwater. Na de geboorte had de jongen delen van zijn darmen en maag buiten de buik. De diagnose was gastroschisis, een buikwanddefect.
+
+Eerste vraag:  
+Wat wordt bedoeld met âembryonale vouwingâ?",2025-09-17T15:51:50.632804+00:00
+user,"met de embryonale vouwing wordt de omzetting van platte schijf naar cilinder vorm bedoeld, waarbij de schijf gevouwen wordt.",2025-09-17T15:53:18.234949+00:00
+assistant,"Goed uitgelegd! Inderdaad, bij de embryonale vouwing verandert het embryo van een platte schijf in een meer cilindervormige structuur door vouwen in zowel de lengte- als de breedterichting. Hierdoor komen verschillende embryonale structuren op hun juiste plek te liggen.
+
+Volgende vraag:  
+Noem de drie kiemlagen (germ layers) die gevormd worden tijdens de embryonale ontwikkeling.",2025-09-17T15:53:25.955484+00:00
+user,"mesoderm, endoderm en ectoderm",2025-09-17T15:53:44.958287+00:00
+assistant,"Juist, de drie kiemlagen zijn het mesoderm, endoderm en ectoderm. Dat is een belangrijke basis!
+
+Volgende vraag:  
+Kun je benoemen wat er wordt bedoeld met âparaxiaal mesodermâ?",2025-09-17T15:53:51.248222+00:00
+user,vanuit het paraxiaal mesoderm ontstaan de somieten,2025-09-17T15:54:04.380802+00:00
+assistant,"Dat klopt, uit het paraxiaal mesoderm ontstaan inderdaad de somieten. Maar kun je iets specifieker zeggen waar het paraxiaal mesoderm ligt in het embryo, en hoe het zich verhoudt tot de andere mesodermale onderdelen?",2025-09-17T15:54:10.94371+00:00
+user,het paraxiaal mesoderm ligt dorsaal in het embryo,2025-09-17T15:54:48.561584+00:00
+assistant,"Mooi, je noemt dat het paraxiaal mesoderm dorsaal ligt! Kan je nog verder specificeren: ligt het paraxiaal mesoderm direct naast een bepaald belangrijk centraal embryonaal structuur? En weet je hoe het paraxiaal mesoderm zich verhoudt tot het axiaal en lateraal plaat mesoderm?",2025-09-17T15:54:55.711289+00:00
+user,"het paraxiaal mesoderm ligt naast de primitieve knop. het zorgt voor de vorming van somieten waaruit oa botweefsel, en dermatoom ontstaat",2025-09-17T15:55:45.763617+00:00
+assistant,"Heel goed, je benoemt dat het paraxiaal mesoderm naast een centrale structuur ligt en zorgt voor de vorming van somieten, waaruit onder andere bot en dermatomen ontstaan. 
+
+Let op: de centrale structuur naast het paraxiaal mesoderm is de âchorda dorsalisâ (de notochord), niet de primitieve knop. De primitieve knop is een structuur die vroeger betrokken is bij de vorming van de kiemlagen, maar niet direct het hele axiale mesoderm vormt.
+
+Volgende vraag:  
+Welke termen gebruik je om de richtingaanwijzingen in het embryo te beschrijven? Kun je âcaudaalâ, âcraniaalâ, âventraalâ en âdorsaalâ kort verklaren?",2025-09-17T15:55:57.509561+00:00
+user,caudaal = richting de staart. craniaal = richting de kop. ventraal = aan de voorzijde. dorsaal = aan de achterzijde,2025-09-17T15:56:39.593064+00:00
+assistant,"Prima, dat zijn correcte omschrijvingen! Caudaal is naar de staartzijde, craniaal naar de kopzijde, ventraal aan de buikzijde (voorzijde), en dorsaal aan de rugzijde (achterzijde). Deze richtingen zijn belangrijk bij het beschrijven van de embryonale ontwikkeling.
+
+Nog Ã©Ã©n basisvraag:
+
+Wat is gastrulatie?",2025-09-17T15:56:46.39138+00:00
+user,de vouwing van het embryo,2025-09-17T15:57:32.774284+00:00
+assistant,"Gastrulatie is inderdaad een belangrijk proces in de vroege embryonale ontwikkeling, maar het heeft een iets andere betekenis dan de embryonale vouwing. Zou je kunnen uitleggen wat er tijdens gastrulatie verandert aan het aantal en de ordening van kiemlagen in het embryo? Wat gebeurt er precies met de cellen?",2025-09-17T15:57:42.316033+00:00
+user,"tijdens de gastrelatie ontstaan de kiemlagen; het mesoderm, endoderm en ectoderm",2025-09-17T15:58:01.979974+00:00
+assistant,"Precies! Tijdens gastrulatie ontstaan de drie kiemlagen: ectoderm, mesoderm en endoderm. Dit gebeurt doordat cellen migreren en zich op nieuwe plekken in het embryo rangschikken.
+
+Nu je de belangrijkste termen en begrippen beheerst, gaan we verder naar meer verdiepende vragen.
+
+Kun je uitleggen wat er gebeurt tijdens het proces van gastrulatie? Wat zijn de belangrijkste stappen?",2025-09-17T15:58:10.336768+00:00
+user,"epiblast cellen migreren door de primitieve streep, de eerste epiblast cellen die daar aankomen veranderen in het endoderm. de epibllast cellen die daarna migreren vormen het mesoderm. de epiblast cellen die niet door de primitieve streep migreren blijven achter in het amnion en vormen het ectoderm",2025-09-17T15:59:19.02746+00:00
+assistant,"Mooi uitgelegd! Je beschrijft goed de migratie van epiblastcellen via de primitieve streep en het ontstaan van de drie kiemlagen (endoderm als eerste, daarna mesoderm, en de resterende epiblastcellen vormen het ectoderm).
+
+Nu verder:
+
+Kun je uitleggen waarom embryonale vouwing belangrijk is tijdens de ontwikkeling, en wat het resultaat is van deze vouwing voor het embryo?",2025-09-17T15:59:26.972551+00:00
+user,de embryonale vouwing is belangrijk voor het vormen van de neurale buis,2025-09-17T15:59:59.455632+00:00
+assistant,"Dat is een goed begin! De vouwing helpt inderdaad bij de vorming van de neurale buis, maar de embryonale vouwing doet nog meer. Kun je verder uitleggen wat er met het hele embryo en de plaatsing van de organen en lichaamsholten gebeurt door deze vouwing? Wat verandert er aan de vorm van het embryo en waarom is dat relevant?",2025-09-17T16:00:06.785339+00:00
+user,door de vouwing komen de orgaanstructuren op de juiste plek terecht,2025-09-17T16:00:23.283184+00:00
+assistant,"Juist, dat is correct: door de embryonale vouwing komen orgaanstructuren op hun juiste plek te liggen. Zou je ook kunnen toelichten hoe de vouwing leidt tot het ontstaan van een buisvormig lichaam en de afsluiting van de buikzijde van het embryo? Wat heeft dat te maken met de ventrale sluiting en het ontstaan van de lichaamsholten?",2025-09-17T16:00:31.94871+00:00
+user,de vouwing leidt tot het ontstaan van het notochord. dit is belangrijk voor de vorming van het ruggenmerg,2025-09-17T16:01:15.326444+00:00
+assistant,"Je noemt nu de notochord, en inderdaad, die ontstaat vroeg in de ontwikkeling en is betrokken bij de neurale buis vorming. Maar de embryonale vouwing zelf speelt nog een andere rol bij de vorming van het lichaam. Denk aan de overgang van de platte kiemschijf naar een cilindervormig embryo, waarbij de zijkanten, het hoofd- en het staartuiteinde naar beneden vouwen en naar elkaar toe groeien.
+
+Kun je uitleggen wat er gebeurt met de buikwand en de lichaamsholte tijdens dit proces? Wat gebeurt er door de ventrale sluiting?",2025-09-17T16:01:29.361643+00:00
+user,door de ventrale sluiting sluit de buikwand,2025-09-17T16:02:27.855754+00:00
+assistant,"Klopt! Door de ventrale sluiting sluit de buikwand, zodat de organen uiteindelijk omgeven worden door de buikwandstructuren in plaats van bloot te liggen. Hierdoor ontstaat een afgesloten lichaamsholte.
+
+Nu de volgende stap:
+Kun je uitleggen welke rol de verschillende kiemlagen (ectoderm, mesoderm, endoderm) hebben bij het ontstaan van verschillende weefseltypen en organen in het embryo?",2025-09-17T16:02:36.15935+00:00

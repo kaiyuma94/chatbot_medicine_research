@@ -1,0 +1,226 @@
+role,content,created_at
+user,bein,2025-09-17T13:20:46.377208+00:00
+assistant,"Hereâs the vignette to get us started:
+
+A healthy 25-year-old woman had routine prenatal care. At 24 weeks of pregnancy, an ultrasound revealed a small opening (~5 mm) on the right side of the babyâs belly, near the umbilical cord. Genetic tests (amniotic fluid analysis) at 26 weeks were normal. Over time, the opening enlarged (up to 34 mm), and parts of the babyâs intestines were seen floating in the amniotic fluid. The baby also measured smaller than expected. At 37 weeks, a caesarean section was performed. The newborn boy had parts of his small and large intestines, and stomach, located outside the abdomen. The supporting tissue was short, and the bowel appeared swollen. The diagnosis was gastroschisis, a defect in the abdominal wall.
+
+Letâs begin with a basic question:
+What are the three primary germ layers formed during early embryonic development?",2025-09-17T13:20:59.829303+00:00
+user,nederlands aub,2025-09-17T13:21:03.255793+00:00
+assistant,"Natuurlijk, ik zal in het Nederlands verdergaan!
+
+Hier is de casus nogmaals ter contextualisatie:
+
+Een gezonde 25-jarige vrouw had routine zwangerschapscontroles. Bij een echo op 24 weken zwangerschap werd een kleine opening (~5 mm) aan de rechterkant van de buik, dichtbij de navelstreng, van de baby gevonden. Genetisch onderzoek (vruchtwaterpunctie) op 26 weken was normaal. De opening werd groter (tot 34 mm) en delen van de darmen van de baby kwamen in het vruchtwater te liggen. De baby groeide minder goed dan verwacht. Bij 37 weken werd een keizersnede uitgevoerd. De pasgeboren jongen had delen van zijn dunne en dikke darm, en ook de maag, buiten de buik liggen. Het dragend weefsel was kort en de darmen leken gezwollen. De diagnose was gastroschisis, een buikwanddefect.
+
+Mijn eerste vraag:
+Wat zijn de drie primaire kiemlagen (germ layers) die ontstaan aan het begin van de embryonale ontwikkeling?",2025-09-17T13:21:17.881197+00:00
+user,"De endoderm, exoderm en mesoderm",2025-09-17T13:21:52.723051+00:00
+assistant,"Goed geprobeerd! Je hebt bijna de juiste termen â twee zijn correct, Ã©Ã©n benaming klopt niet helemaal.
+
+Heb je misschien een idee wat de juiste term is voor âexodermâ?  
+Denk aan de laag die uiteindelijk onder andere de huid en het zenuwstelsel vormt. Hoe heet deze laag?",2025-09-17T13:21:58.963657+00:00
+user,ectoderm,2025-09-17T13:22:10.404278+00:00
+assistant,"Heel goed! De drie primaire kiemlagen zijn inderdaad:
+- endoderm
+- mesoderm
+- **ectoderm**
+
+Volgende vraag:
+Wat bedoelen we met het begrip âgastrulatieâ tijdens de embryonale ontwikkeling?",2025-09-17T13:22:17.517105+00:00
+user,gastrulatie is het dichtvouwen van de primitieve spleet,2025-09-17T13:22:32.181719+00:00
+assistant,"Je zit in de goede richting door het proces van vouwen en vormverandering te noemen, maar gastrulatie omvat iets breders dan alleen het sluiten van een spleet. Denk eens na over het doel van gastrulatie: wat is het resultaat van dit proces voor de structuur van het embryo? Wat ontstaat er tijdens gastrulatie?",2025-09-17T13:22:40.639735+00:00
+user,het resultaat is het vormen van meerdere lagen,2025-09-17T13:22:54.974382+00:00
+assistant,"Precies! Gastrulatie resulteert in het ontstaan van meerdere kiemlagen.
+
+Kun je specificeren welke **drie** kiemlagen uit gastrulatie voortkomen, en wat elk van deze lagen â heel globaal â gaat vormen in het latere embryo?",2025-09-17T13:23:00.553968+00:00
+user,"zijn dat dezelfde lagen, dus endoderm, mesoderm en ectoderm",2025-09-17T13:23:26.88908+00:00
+assistant,"Ja, helemaal correct! Dat zijn inderdaad dezelfde drie lagen: endoderm, mesoderm en ectoderm.
+
+Wil je proberen kort te beschrijven welke soorten structuren of organen elk van deze kiemlagen uiteindelijk in het embryo gaan vormen? Bijvoorbeeld: waaruit ontstaan de huid, het spijsverteringskanaal en de spieren?",2025-09-17T13:23:34.624901+00:00
+user,"Uit het ectoderm ontstaat de huid en het zenuwweefsel, uit het endoderm ontstaat het urinewegstelsel, geslachtsorganen etc. uit het mesoderm ontstaan de andere organen.",2025-09-17T13:24:19.907216+00:00
+user,"Uit het ectoderm ontstaat de huid en het zenuwweefsel, uit het endoderm ontstaat het urinewegstelsel, geslachtsorganen etc. uit het mesoderm ontstaan de andere organen.",2025-09-17T13:26:19.356934+00:00
+assistant,"Je antwoord lijkt op je vorige, en ik zie dat je nog steeds het urinewegstelsel en de geslachtsorganen bij het endoderm zet. Is dat zo? Kun je nagaan: waaruit ontstaan bijvoorbeeld het spijsverteringskanaal (behalve mond en anus), de longen en de blaas? En waaruit ontstaan spieren, botten, hart en de nieren?
+
+Tip als geheugensteuntje:
+- Endoderm vormt vooral het **âinwendige bekledendeâ** van ingewanden (zoals het spijsverteringskanaal en luchtwegen).
+- Mesoderm vormt veel **steunweefsels** en **bewegingsstelsel**.
+
+Wil je nog eens een korte opsomming proberen voor:  
+a) ectoderm  
+b) endoderm  
+c) mesoderm  
+en dan bij elke laag een paar voorbeelden?",2025-09-17T13:26:32.787165+00:00
+user,Ectoderm is dus de buitenkant dus vooral de huid en het zenuwweefsel,2025-09-17T13:27:04.875757+00:00
+assistant,"Helemaal goed:  
+Het **ectoderm** vormt inderdaad de buitenkant â huid (epidermis), haar, nagels Ã©n het gehele zenuwstelsel (zowel het centrale als perifere zenuwstelsel).
+
+Kun je nu iets specifieker toelichten wat het **endoderm** vormt? Denk aan organen die aan de binnenzijde van het lichaam liggen en vooral met bekledend weefsel (epitheel) te maken hebben. Welke belangrijke orgaansystemen ontstaan uit het endoderm?",2025-09-17T13:27:14.602685+00:00
+user,"Endoderm vormt voornamelijk de inwendige organen, zoals de luchtwegen en het spijsverteringskanaal. Het mesoderm vorm de overige weefsels zoals steunweefsel, kun je een voorbeeld geven van steunweefsels en bewegingsstelsels",2025-09-17T13:28:15.091822+00:00
+assistant,"Heel goed! Je hebt gelijk:  
+- **Endoderm**: vormt het epitheel van het spijsverteringskanaal (behalve mond/anus), luchtwegen, blaas en delen van lever en pancreas.  
+- **Mesoderm**: vormt steun- en bewegingsweefsels.
+
+Voorbeelden van steunweefsels en bewegingsstelsels door het mesoderm zijn:
+- Botten (skelet)
+- Spieren (skelet-, gladde en hartspier)
+- Bloedvaten en hart
+- Bindweefsel
+- Nieren en (grotendeels) urinewegen
+- Geslachtsorganen
+
+Wil je nu proberen te benoemen wat men bedoelt met **embryonale plooivorming (embryonic folding)**? Wat gebeurt er tijdens dat proces?",2025-09-17T13:28:31.20204+00:00
+user,Tijdens de embryonic folding gaat de endoderme laag zich vouwen in de primitieve spleet,2025-09-17T13:30:13.241868+00:00
+assistant,"Je zit in de buurt met het idee van vouwen, maar het proces van **embryonic folding** is iets breder! Het heeft te maken met het vormen van het embryo in een driedimensionale, buisachtige structuur.
+
+Heb je een idee wat er met het embryo als geheel gebeurt tijdens deze plooivorming? Denk aan de vormen van het embryo vÃ³Ã³r en nÃ¡ folding â en wat het effect is op de ligging van de verschillende kiemlagen. Kun je dat proberen toe te lichten?",2025-09-17T13:30:21.539395+00:00
+user,kun je het uitleggen,2025-09-17T13:31:31.306407+00:00
+assistant,"Ik zal het proces (zonder het antwoord al helemaal te geven) in stukjes uitleggen en jou vragen om het af te maken, zodat je het actief leert.  
+
+Tijdens de embryonale plooivorming (âembryonic foldingâ) vinden in week 4 van de embryonale ontwikkeling twee soorten plooien plaats:
+- De lichaams-as (âcraniocaudalaalâ â van hoofd tot staart)
+- Dwars (âlaterale foldingâ â van zijkant naar midden)
+
+Daardoor gaat het platte embryo zich buigen en worden de kiemlagen als een buis âopgeroldâ.  
+**Door dit procesâ¦**
+â Wat gebeurt er met de dooierzak en de embryonale holte tijdens deze folding?
+â En hoe veranderen de ligging en vorm van de endoderm-laag hierdoor?
+
+Kun je deze stap aanvullen?",2025-09-17T13:31:46.563454+00:00
+user,De dooierzak wordt groter tijdens de folding,2025-09-17T13:36:03.355081+00:00
+assistant,"Denk nog eens goed na: tijdens embryonic folding âzoektâ het embryo een buisvorm en wordt het lichaam omgevouwen.  
+
+Wat gebeurt er dan met de dooierzak in verhouding tot het groeiende embryo?  
+Wordt de dooierzak juist groter â of raakt het grootste deel buiten het embryo en blijft er maar een klein deel in het embryo achter?  
+
+Kun je dat nog eens proberen te beschrijven?",2025-09-17T13:36:11.643212+00:00
+user,Het grootste deel blijft buiten het embryo en er blijft een klein deel van het embryo achter,2025-09-17T13:36:34.506063+00:00
+assistant,"Helemaal correct! Tijdens de embryonale plooivorming wordt het grootste deel van de dooierzak naar buiten âgeduwdâ en alleen een klein gedeelte blijft als dooierzak verbonden aan het embryo. Dit kleine deel wordt opgenomen in het embryo en vormt het begin van de darmbuis (het toekomstige spijsverteringskanaal).
+
+Nu een vervolgvraag:
+Tijdens deze plooivorming sluiten de zijkanten (lateraal) van het embryo naar elkaar toe. Waarom is deze âventrale sluitingâ zo belangrijk voor de ontwikkeling van het embryo? Wat zou er gebeuren als dit proces niet goed verloopt?",2025-09-17T13:36:45.267409+00:00
+user,Dan is het embryo niet levensvatbaar,2025-09-17T13:37:31.191702+00:00
+assistant,"Het klopt dat problemen met de ventrale sluiting ernstig kunnen zijn. Kun je proberen iets specifieker te verwoorden *waarom* dit proces zo belangrijk is?  
+Denk aan de vorming van de buikwand en lichaamsholtes. 
+
+Wat liggen er bij een normale sluiting âbinnenâ het embryo dankzij deze folding, en wat gebeurt er als de sluiting niet volledig is, zoals bij de casus van gastroschisis? Kun je dat uitleggen?",2025-09-17T13:37:39.662129+00:00
+user,Zonder de sluiting van de plooien kunnen de buikwand en de lichaamsholtes niet gevormd worden,2025-09-17T13:38:03.511736+00:00
+assistant,"Precies! Zonder de juiste ventrale sluiting kunnen de buikwand en de lichaamsholtes zich niet goed ontwikkelen. Daardoor kunnen organen, zoals de darmen, buiten het embryo komen te liggen â wat aansluit bij de casus van gastroschisis.
+
+Nog een basisvraag voordat we verder gaan:
+Het mesoderm splitst zich op in verschillende delen met elk hun eigen functie, zoals het axiaal, paraxiaal, intermediair en lateraal plaat mesoderm.  
+Kun je ze alle vier bij naam noemen? Weet je (of kun je gokken) welk deel bijdraagt aan de vorming van de lichaamswand?",2025-09-17T13:38:14.860818+00:00
+user,nee kun je dit uitleggen,2025-09-17T13:38:35.428385+00:00
+assistant,"Zeker! Ik leg het kort uit en laat je dan actief meedenken.
+
+Het mesoderm splitst zich (van binnen naar buiten bekeken) in vier delen:
+
+1. **Axiaal mesoderm** (notochord/korda dorsalis): dit ligt in het midden en speelt een belangrijke rol als âruggegraatâ voor de embryonale ontwikkeling.
+2. **Paraxiaal mesoderm**: ligt direct naast het axiaal mesoderm en vormt onder andere de wervels en spieren van het lichaam.
+3. **Intermediair mesoderm**: bevindt zich daarnaast en vormt onder andere de nieren en delen van het voortplantingsstelsel.
+4. **Lateraal plaat mesoderm**: ligt het meest aan de zijkant en splitst zich op in **twee lagen** (parietaal en visceraal) die samen de lichaamswand en de bekleding van de lichaamsholtes vormen.
+
+Nu mijn vraag:  
+Kun je raden/bedenken welke van deze vier het belangrijkst is voor de **vorming van de buikwand**?",2025-09-17T13:38:50.790627+00:00
+user,ik denk lateraal,2025-09-17T13:39:14.586927+00:00
+assistant,"Heel goed! Het **lateraal plaat mesoderm** speelt inderdaad een cruciale rol bij de vorming van de buikwand Ã©n de bekleding van de lichaamsholtes.
+
+Dit lateraal plaat mesoderm splitst zich vervolgens in:
+- Het **parietale (somatische) blad** (buitenste), dat samen met ectoderm de lichaamswand vormt,
+- Het **viscerale (splanchnische) blad** (binnenste), dat de organen en het darmsysteem bekleedt.
+
+Laatste basisvraag:
+We spreken vaak over âventraalâ en âdorsaalâ in de embryonale ontwikkeling.  
+Wat betekent âventraalâ en âdorsaalâ bij een embryo? Wat is het verschil?",2025-09-17T13:39:26.497887+00:00
+user,ventraal is de zijkant en dorsaal is vanaf de voorkant,2025-09-17T13:39:44.34487+00:00
+assistant,"Je verwart de termen een beetje. Denk eens aan de houding van een embryo, dat een buisvorm heeft:  
+- âVentralâ komt van het Latijnse woord voor buik  
+- âDorsalâ is gerelateerd aan de rug
+
+Kun je nu opnieuw proberen te omschrijven wat ventraal en dorsaal betekenen bij een embryo? Wat ligt aan de ventrale zijde en wat aan de dorsale zijde?",2025-09-17T13:39:54.565593+00:00
+user,ventraal is dus de buik en dorsaal de rug. bij de buik ligt de binnenste laag dus axiaal mesoderm en bij de rug ligt het lateraal plaat,2025-09-17T13:40:46.718335+00:00
+assistant,"Fijn, je hebt het eerste deel nu goed!  
+- âVentaalâ = buikzijde  
+- âDorsaalâ = rugzijde
+
+Toch ligt het **axiaal mesoderm** (notochord) juist in het midden van het embryo (de as), en het **lateraal plaat mesoderm** aan de zijkanten van het embryo.  
+De ligging van de kiemlagen en mesoderm-subtypes is wat complexer:  
+- **Axiaal mesoderm**: centrale as, tussen rug en buik
+- **Paraxiaal mesoderm**: links en rechts van de as
+- **Lateraal plaat mesoderm**: aan de buitenzijde, tegen het ectoderm aan, over beide flanken
+
+Wil je, voor we verdergaan, nogmaals kort herhalen:  
+Wat zijn de hoofdrolspelers qua kiemlagen (ectoderm, mesoderm, endoderm) aan de ventrale (buik) en dorsale (rug) zijde in een embryo? Wat vind je aan de buitenkant en wat binnenin?",2025-09-17T13:41:02.897389+00:00
+user,ja prima,2025-09-17T13:41:05.314657+00:00
+assistant,"Mooi! Wil je dan proberen het als volgt in te vullen?
+
+- **Aan de buitenkant (dorsaal):** welke kiemlaag ligt daar vooral?
+- **Middenin:** welke laag vormt de âbuisâ binnen het embryo?
+- **Tussen deze twee:** welke kiemlaag en welke mesodermgebieden vind je daar?
+
+Kun je dit kort benoemen?",2025-09-17T13:41:12.305246+00:00
+user,kun je antwoord egeven voor mij,2025-09-17T13:41:54.000408+00:00
+assistant,"Ik help je graag een stukje op weg, maar het is belangrijk dat jij actief meedoet om het echt te onthouden! Dus: ik geef alvast een beginsel, en dan kun jij het afmaken.
+
+- **Buitenkant van het embryo**: Dit wordt gevormd door het **ectoderm**.  
+Kun jij invullen wat het ectoderm uiteindelijk vormt? En wat vormt de binnenste (centrum) laag van het embryo?  
+Kun je daarna ook aangeven waar het mesoderm zich tussen bevindt? Probeer deze stappen aan te vullen!",2025-09-17T13:42:03.183255+00:00
+user,het ectoderm vormt uiteindelijk de huid en het zenuwweefsel,2025-09-17T13:42:13.888933+00:00
+assistant,"Precies!  
+- **Ectoderm**: dit vormt de buitenkant van het embryo en geeft onder andere aanleiding tot de huid (epidermis) en het zenuwstelsel.
+
+Kun je nu ook invullen:
+- Welke laag (kiemlaag) vormt de binnenbekleding van het embryo? Denk aan het spijsverteringskanaal en de luchtwegen.
+- En wat ligt daartussen in? (Denk aan spieren, botten, bindweefselâ¦)",2025-09-17T13:42:26.131801+00:00
+assistant,"**OVERALL SUMMARY**  
+Goed gedaan! Je hebt actief meegedaan en vragen beantwoord over embryonale ontwikkeling, waarbij je steeds bereid was om verder te denken en eerdere antwoorden te verbeteren. Je toont doorzettingsvermogen en nieuwsgierigheid, wat heel belangrijk is in het leerproces.
+
+**WHAT YOU DID WELL**
+- **Strong Grasp of:** Je kent de drie primaire kiemlagen (ectoderm, mesoderm, endoderm) en weet wat hun belangrijkste functies zijn. Je begrijpt globaal de processen van gastrulatie en embryonale plooivorming. Je kunt uitleggen dat het ectoderm leidt tot huid en zenuwstelsel.
+- **Good Application of:** Je past jouw kennis toe bij het verklaren van embryo-ontwikkeling en koppelt het goed aan de casus van gastroschisis. Je erkent waarom ventrale sluiting belangrijk is en noemt de gevolgen als dit misgaat.
+
+**AREAS FOR GROWTH & FOCUS**
+- **Connecting the Dots:** Soms verwissel je details over welke kiemlaag precies welke organen vormt (zoals het urinestelsel door endoderm), of hoe de verschillende types mesoderm zich positioneren. Ook kan de ruimtelijke positie (ventraal/dorsaal) en de relaties tussen de verschillende kiemlagen helderder.
+- **Reviewing Key Terms:** Er was enige verwarring bij termen als ""exoderm"" vs. ""ectoderm"", en bij het indelen van organen bij de juiste kiemlaag (bv. urinestelsel, geslachtsorganen).
+- **Process Understanding:** De beschrijving van processen als embryonale folding en gastrulatie mag nog iets specifieker en met betere koppeling naar ruimtelijk inzicht.
+
+**ACTIONABLE STUDY RECOMMENDATION**  
+Jouw grootste winst zit in beter begrijpen hoe alles samenhangt (Connecting the Dots/Process Understanding).  
+Mijn tip:  
+- **Maak een diagram of concept map** van de kiemlagen, met daarbij per laag enkele sleutelorganen/systemen. Voeg hier de ruimtelijke ligging (ventraal/dorsaal) en de verschillende mesoderm-subtypes aan toe. Door het tekenen van zoân overzicht wordt het geheel visueel en logisch: dat helpt om patronen en details beter te onthouden!
+
+Blijf vooral vragen stellen en actief samenvatten, zoals je nu ook doet â zo bouw je een echt stevig begrip op!",2025-09-17T13:44:30.522+00:00
+assistant,"**OVERALL SUMMARY**  
+Goed gedaan! Je bent actief blijven meedoen en hebt veel doorgevraagd. Je herkent je eigen onzekerheden en probeert steeds weer een antwoord te vinden, ook als het lastig is. Dat is precies de houding die nodig is om echt te leren.
+
+**WHAT YOU DID WELL**
+- **Strong Grasp of:** Je hebt duidelijk grip op de drie primaire kiemlagen (ectoderm, mesoderm, endoderm) en hun basale functies. Je kunt het ectoderm correct koppelen aan huid en zenuwweefsel, en legt het verband met embryonale ontwikkeling.
+- **Good Application of:** Je was bereid om je antwoorden waar nodig bij te stellen en om uitleg te vragen als iets niet duidelijk was. Je begreep de relevantie van ventrale sluiting en de gevolgen bij afwijkende embryonale plooivorming.
+
+**AREAS FOR GROWTH & FOCUS**
+- **Reviewing Key Terms:** Je had wat moeite met het precies toewijzen van organen aan de juiste kiemlaag (bijvoorbeeld urinestelsel, geslachtsorganen) en met het benoemen van termen als âectodermâ versus âexodermâ.
+- **Connecting the Dots:** Het verbinden van de ruimtelijke ligging (ventraal/dorsaal), de relatie tussen de kiemlagen, en de verdere onderverdeling van het mesoderm kan nog verbeteren. Ook het proces van folding en de betekenis voor de inwendige structuren mag nog helderder.
+- **Process Understanding:** Soms blijft je uitleg bij globale termen hangen (âoverige organenâ); specifieker benoemen wat waaruit ontstaat, helpt om de logisch opbouw beter te snappen.
+
+**ACTIONABLE STUDY RECOMMENDATION**
+- **Maak een tekening of concept map**! Zet daarin de drie kiemlagen met per laag enkele specifieke organen/systemen. Voeg toe waar deze lagen zich bevinden (ventraal/dorsaal) Ã©n hoe het mesoderm zich opsplitst. Door zelf zoân overzicht te tekenen worden de samenhangen en de details veel duidelijker.
+
+Blijf actief vragen stellen en oefenen â je inzet is al heel goed!",2025-09-17T13:44:48.273+00:00
+assistant,"**OVERALL SUMMARY**  
+Goed gedaan! Je hebt actief meegedaan aan het gesprek en bleef ondanks moeilijke vragen doorzetten. Je toonde nieuwsgierigheid en bereidheid om je kennis verder aan te scherpen, wat precies de juiste instelling is voor medische basiswetenschappen!
+
+**WHAT YOU DID WELL**
+- **Strong Grasp of:** Je kent de drie primaire kiemlagen (ectoderm, mesoderm, endoderm) en weet waar het ectoderm voor verantwoordelijk is. Ook had je snel door dat het belangrijk is om verschillende processen en lagen in het embryo te onderscheiden.
+- **Good Application of:** Je trekt goede conclusies over het belang van ventrale sluiting en koppelt dit aan casuÃ¯stiek zoals gastroschisis. Je laat merken dat je weet waarom sommige processen kritiek zijn voor de levensvatbaarheid van het embryo.
+
+**AREAS FOR GROWTH & FOCUS**
+- **Reviewing Key Terms:** Je had soms wat moeite met de juiste terminologie, zoals het verschil tussen exoderm en ectoderm, en met het exact toewijzen van orgaansystemen aan de correcte kiemlaag (bijvoorbeeld het urinestelsel aan endoderm i.p.v. mesoderm).
+- **Connecting the Dots:** Het ruimtelijk inzicht (ventraal/dorsaal) en het verder onderverdelen van het mesoderm verdient verdere aandacht. Het inzichtelijk maken van de onderlinge relaties tussen de kiemlagen en hun producten kan je kennis verdiepen.
+- **Process Understanding:** Je antwoorden bleven soms algemeen. Het benoemen van specifieke voorbeelden of structuren kan helpen om de processen helderder te krijgen.
+
+**ACTIONABLE STUDY RECOMMENDATION**  
+Omdat je het meeste winst kunt behalen bij het leggen van verbanden en het ruimtelijk inzicht:
+
+- **Teken een overzichtelijk schema of concept map** waarop je alle kiemlagen (ectoderm, endoderm, mesoderm) zet, met per laag enkele concrete organen/structuren. Plaats hiernaast ventraal/dorsaal en maak het mesoderm visueel inzichtelijk met zijn onderverdeling (axiaal, paraxiaal, intermediair, lateraal plaat). Zien hoe het geheel in elkaar grijpt, maakt het onthouden makkelijker!
+
+Blijf nieuwsgierig en kritisch op je eigen antwoorden â dat is dÃ© sleutel tot die âklikâ die je zoekt! Zet zo door!",2025-09-17T13:45:18.943+00:00

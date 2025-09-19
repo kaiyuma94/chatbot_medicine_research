@@ -1,0 +1,116 @@
+role,content,created_at
+user,laten we beginnen,2025-09-17T13:04:29.141145+00:00
+assistant,"We beginnen! Hier is de casus om het onderwerp te plaatsen:
+
+Een gezonde 25-jarige vrouw kreeg een routine prenatale controle. Bij een echo op 24 weken werd een kleine opening (~5 mm) aan de rechterkant van de buik van de baby, vlak bij de navelstreng, gezien. Genetisch onderzoek was normaal. Later werd de opening groter (tot 34 mm) en darmen waren in het vruchtwater zichtbaar. De baby was kleiner dan verwacht. Na een keizersnee bij 37 weken werd een jongen geboren met delen van de darmen en maag buiten de buik. Het steunweefsel was kort en de darm was gezwollen. Diagnose: gastroschisis, een buikwanddefect.
+
+Mijn eerste vraag om basiskennis op te bouwen:
+**Wat betekent âembryonale vouwâ (embryonic folding) in de context van de vroege embryonale ontwikkeling?**",2025-09-17T13:04:42.11327+00:00
+user,de cel die tijdens de ontwikkeling samen vouwt op vervolgen zich tot een fetus te ontwikkelen,2025-09-17T13:06:15.734897+00:00
+assistant,"Je zit op het goede spoor: embryonale vouw betekent inderdaad dat het embryo van vorm verandert. Kun je iets specifieker zijn? Probeer te bedenken *wanneer* en *hoe* het embryo zich opvouwtâen wat het gevolg is van deze verandering.  
+Bijvoorbeeld:  
+- In welke richting(en) vindt deze vouw plaats?
+- Wat ontstaat er doordat het embryo zich opvouwt?  
+Kun je dit toelichten?",2025-09-17T13:06:24.746073+00:00
+user,deze vouw gaat van caudaal naar craniaal bij ventraal,2025-09-17T13:08:16.03175+00:00
+assistant,"Goed dat je de richtingen benoemt! Er vinden inderdaad vouwingen plaats richting ventraal, en er is een caudale en craniaal kant. Kun je nog uitleggen *wat het concrete gevolg is van deze embryonale vouw*?  
+Bijvoorbeeld:  
+- Welke lichaamsstructuren ontstaan door deze vouw?
+- Waarom is het belangrijk dat het embryo âopgevouwenâ wordt? 
+
+Kun je daarop verder ingaan?",2025-09-17T13:08:26.292486+00:00
+user,"er ontstaan somieten, en doordat deze vouwing ontstaat kan de embryo zich verder ontwikkelen",2025-09-17T13:09:19.111864+00:00
+assistant,"Mooi, je noemt nu de somieten, die inderdaad een resultaat zijn van vroege embryonale ontwikkeling! De vouwing zelf zorgt er vooral voor dat het embryo van een platte schijf verandert in een meer buisvormige structuur. Dit maakt verdere ontwikkeling mogelijk.  
+
+Kun je uitleggen:
+- Welke *belangrijke lichaamsholte* ontstaat (of sluit) door die embryonale vouwing?
+- En wat gebeurt er met de ligging van de dooierzak (yolk sac) en de embryonale darm hierbij?
+
+Wil je dat proberen te omschrijven?",2025-09-17T13:09:29.990031+00:00
+user,"de amniale zak verandert in een neurale plaat, en de dooierzak veranderd in de oerdarm",2025-09-17T13:10:27.559159+00:00
+assistant,"Je bent dicht in de buurt, maar let op: de amnionzak en de neurale plaat zijn verschillende structuren.  
+
+De **neurale plaat** ontstaat uit het ectoderm en vouwt zich uiteindelijk tot de neurale buis (het begin van het centrale zenuwstelsel).  
+De **amnionzak** is het met vocht gevulde membraan dat het embryo omgeeft en beschermt, maar verandert niet in de neurale plaat.
+
+Over de dooierzak heb je gelijk: delen ervan worden opgenomen in het embryo en vormen de oerdarm.
+
+Kun je nu nog eens proberen:
+- Welke belangrijke lichaamsholte wordt gevormd of gesloten door embryonale vouwing?
+- Wat gebeurt er met de positie van de dooierzak vergeleken met het embryo?
+
+Probeer het nog Ã©Ã©n keer!",2025-09-17T13:10:40.600151+00:00
+user,"de neurale plaat veranderd zich in de neurale buis, het begin van het centrale zenuwstelsel, door zich ventraal te vouwen. de positie van de dooierzak komt midden in de embryo.",2025-09-17T13:12:15.613211+00:00
+assistant,"Heel goed! Je verduidelijkt mooi de neurale plaat â neurale buis transformatie, en dat is inderdaad essentieel bij het begin van het zenuwstelsel.
+
+Nog Ã©Ã©n aanvulling: de embryo vouwt zich zodanig dat een **oerdarm** wordt gevormd, die verbonden blijft met de dooierzak via een smalle *ductus vitellinus*. De dooierzak zelf komt uiteindelijk aan de buitenzijde te liggen, maar een deel ervan vormt het binnenste van het embryo.
+
+Laten we nog Ã©Ã©n kernbegrip checken:
+**Noem de drie kiemlagen (germ layers) die tijdens de vroegste ontwikkeling worden gevormd.**
+
+Wil je deze drie lagen benoemen?",2025-09-17T13:12:26.510036+00:00
+user,"endoderm, mesoderm en ectoderm",2025-09-17T13:12:50.983775+00:00
+assistant,"Precies! Endoderm, mesoderm en ectoderm zijn de drie kiemlagen die de basis vormen voor alle verdere weefsels en organen. Je begrijpt dit onderdeel goed.
+
+Volgende stap:
+**Kun je benoemen welke vier hoofdsubtypen van het mesoderm ontstaan tijdens de embryonale ontwikkeling?**
+Denk hierbij aan de ligging ten opzichte van de as van het embryo.",2025-09-17T13:13:02.00955+00:00
+user,"botten, spieren, organen, en ...",2025-09-17T13:13:24.530903+00:00
+assistant,"Ik zie dat je weefsels noemt die uit het mesoderm ontstaan, maar ik bedoel nu de vier *regioâs* van het mesoderm zelf â zoals je deze anatomisch kunt onderverdelen tijdens het vroege embryo.
+
+Heb je misschien gehoord van termen als *axiaal*, *paraxiaal*, *intermediair*, of *laterale plaat* mesoderm?  
+Kun je deze vier typen proberen op te sommen?",2025-09-17T13:13:32.627503+00:00
+user,nee,2025-09-17T13:13:44.761225+00:00
+assistant,"Geen probleem! Dit is vaak een lastig stukje anatomie. Misschien helpt het als je weet dat deze vier subtypen ontstaan doordat het mesoderm zich in stroken langs de lengteas van het embryo organiseert.
+
+Kun je eens proberen te bedenken:
+- Waar het **axiale mesoderm** zich zou kunnen bevinden? (De naam verklapt iets: âasâ)
+- Waarom we spreken van **paraxiaal** en **intermediair** mesoderm? (Denk aan ligging naast iets anders...)
+- Waar zou het **laterale plaat mesoderm** zijn?
+
+Kun je met deze hints proberen de vier typen te noemen of te omschrijven?",2025-09-17T13:13:54.867198+00:00
+user,"axiaal in het midden van het lichaam, en lateraal meer over het hele lichaam",2025-09-17T13:14:48.843718+00:00
+assistant,"Goed, dat klopt! Het axiaal mesoderm ligt inderdaad in het midden van het embryo, langs de as. Het laterale plaat mesoderm bevindt zich meer aan de zijkanten.
+
+Kun je nu proberen de twee resterende benoemingen te plaatsen? Denk eraan dat:
+- **Paraxiaal mesoderm** ligt *nÃ¡Ã¡st* het axiale mesoderm,
+- **Intermediair mesoderm** ligt tussen het paraxiale en laterale mesoderm in.
+
+Kun je nu alle vier in volgorde noemen, van midden naar buiten?",2025-09-17T13:14:58.71543+00:00
+user,"axiaal, paraxiaal, intermediair, lateraal",2025-09-17T13:15:37.989648+00:00
+assistant,"Juist! Dat zijn de vier hoofdsubtypen van mesoderm: **axiaal, paraxiaal, intermediair, en laterale plaat** (lateraal) mesoderm, van binnen naar buiten.
+
+Even een korte check op ruimtelijke begrippen:
+**Weet je wat er bedoeld wordt met de termen caudaal, craniaal, ventraal en dorsaal bij een embryo? Kun je ze kort toelichten?**",2025-09-17T13:15:46.956779+00:00
+user,"caudaal is richting de staart, craniaal is richting het hoofd, ventraal is richting de buik en dorsaal is richting de rg",2025-09-17T13:16:30.675771+00:00
+assistant,"Dat klopt helemaal! Je gebruikt de juiste termen:  
+- **Caudaal:** richting de staart  
+- **Craniaal:** richting het hoofd  
+- **Ventaal:** richting de buik  
+- **Dorsaal:** richting de rug
+
+Laten we nu een stapje verder gaan:  
+**Kun je uitleggen wat gastrulatie is en waarom dit proces belangrijk is bij de vroege embryonale ontwikkeling?**",2025-09-17T13:16:38.413486+00:00
+user,"tijdens gastrulatie verplaatsen er cellen door de neurale gleuf tussen het endoderm en ectoderm, en dit is het mesoderm, ook onstaat er de vouwing van de embryo",2025-09-17T13:18:08.496243+00:00
+assistant,"Je bent goed op weg! Gastrulatie is inderdaad het proces waarbij cellen zich verplaatsen om de verschillende kiemlagen te vormen. Een kleine aanscherping: gastrulatie zelf is niet direct het ontstaan van de neurale gleuf (dat is iets later, tijdens neurulatie). Tijdens gastrulatie verplaatsen cellen zich via de primitiefstreep.
+
+Kun je het nog eens proberen te omschrijven, met deze hints:
+- Welke drie kiemlagen ontstaan door gastrulatie?
+- Waarom is het belangrijk dat deze lagen ontstaan?
+
+Probeer dit nog een keer onder woorden te brengen!",2025-09-17T13:18:18.969888+00:00
+user,"mesoderm, ectoderm en endoderm onstaat om vervolgens tijdens de ontwikkling zich tot verschillende dingen te ontwikkelen",2025-09-17T13:19:32.807492+00:00
+assistant,"Juist! Tijdens gastrulatie ontstaan het **ectoderm, mesoderm, en endoderm**, de drie kiemlagen. Dit is inderdaad essentieel, omdat elk van deze lagen uitgroeit tot verschillende structuren van het lichaam.
+
+Laten we verder gaan:
+**Kun je uitleggen wat er gebeurt tijdens de embryonale vouwing (folding), en waarom deze stap belangrijk is voor het vormen van de lichaamsholten?**",2025-09-17T13:19:41.833488+00:00
+user,geen idee,2025-09-17T13:19:53.535095+00:00
+assistant,"Dat is niet erg, het is een lastig onderwerp! Laten we het stap voor stap aanpakken:
+
+Denk aan het embryo als een platte schijf. Tijdens de embryonale vouwing buigt deze schijf zich zowel in de lengte (craniaal-caudale richting) als in de breedte (lateraal).
+
+Kun je bedenken:  
+- Wat gebeurt er met het binnenste van die schijf (de oerdarm) tijdens deze vouwing?
+- Waarom zou het embryo niet gewoon plat kunnen blijven?
+
+Wat denk je dat het voordeel is van deze vouwbeweging voor de ontwikkeling van het lichaam?",2025-09-17T13:20:03.206654+00:00

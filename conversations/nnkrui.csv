@@ -1,0 +1,56 @@
+role,content,created_at
+user,Ik ben klaar om te beginnen.,2025-09-17T15:52:02.445681+00:00
+assistant,"Hier is de casus waarmee we werken:
+
+Een 25-jarige vrouw had een routine zwangerschapscontrole. Bij een echo op 24 weken wordt een kleine opening gezien rechts naast de navel van de baby, met darmen die buiten de buikholte in het vruchtwater drijven. Later bij de geboorte blijkt het om een jongen te gaan met delen van de dunne en dikke darm Ã©n maag buiten de buik ter hoogte van deze opening. De diagnose is gastroschisis, een defect van de buikwand.
+
+Om te beginnen met een basisvraag volgens de leerdoelen:
+
+Wat zijn de drie kiemlagen (germ layers) die ontstaan tijdens de embryonale ontwikkeling?",2025-09-17T15:52:16.788164+00:00
+user,"ectoderm, mesoderm en endoderm",2025-09-17T15:53:16.145328+00:00
+assistant,"Helemaal goed! De drie kiemlagen zijn inderdaad: ectoderm, mesoderm en endoderm.
+
+Laten we verdergaan met een andere basisvraag:
+
+Hoe noem je het proces waarbij deze drie kiemlagen worden gevormd in het vroege embryo?",2025-09-17T15:53:24.172855+00:00
+user,Gastrulatie,2025-09-17T15:53:51.86643+00:00
+assistant,"Dat klopt! Gastrulatie is het proces waarbij de drie kiemlagen ontstaan.
+
+Volgende vraag, aansluitend bij de casus en het leerdoel:
+
+Wat wordt bedoeld met ""embryonale plooing"" (embryonic folding)?",2025-09-17T15:53:58.130995+00:00
+user,de neurale plooien naderen elkaar en smelten samen. Zo sluit de neurale buis,2025-09-17T15:55:10.334951+00:00
+assistant,"Dat is een goede omschrijving van de neurale buisvorming! Maar embryonale plooing (embryonic folding) verwijst eigenlijk naar een breder en iets ander proces, waarbij het hele embryo van vorm verandert.
+
+Denk even aan het embryo als een schijfje cellen met meerdere lagen. Tijdens de embryonale plooing gebeurt er iets met zowel de lengte als de breedte van het embryo. Kun je beschrijven wat er gebeurt met het embryo als geheel tijdens deze plooing? Waarom is deze verandering belangrijk voor het latere lichaam?",2025-09-17T15:55:20.223001+00:00
+user,weefsels van het embryo krullen op en versmelten om de structuur en vorm van het embryo te vormen,2025-09-17T15:57:32.226407+00:00
+assistant,"Dat is een mooie beschrijving: het embryo krijgt inderdaad vorm doordat de weefsels opkrullen en naar elkaar toe bewegen. Embryonale plooing zorgt ervoor dat het embryo van een platte schijf verandert in een driedimensionale structuur.
+
+Wil je proberen te benoemen wat het resultaat is van deze plooing aan de ventrale (buik)zijde van het embryo? Waarom is deze ventrale transformatie belangrijk voor bijvoorbeeld de buikholte?",2025-09-17T15:57:40.377542+00:00
+user,leidt tot het sluiten van de ventrale buikwand,2025-09-17T15:59:53.332158+00:00
+assistant,"Precies! De embryonale plooing leidt tot het sluiten van de ventrale buikwand, waardoor de organen die daaruit ontstaan binnen de buikholte worden opgesloten.
+
+Laten we nog een essentiÃ«le term oefenen:
+
+Kun je de vier delen van het mesoderm opnoemen die ontstaan tijdens de embryonale ontwikkeling?",2025-09-17T16:00:01.058217+00:00
+user,"notochord, paraxiaal mesoderm, intermediair mesoderm, lateraal plat mesoderm",2025-09-17T16:01:05.351503+00:00
+assistant,"Heel goed! Je noemt ze keurig:
+
+- Notochord (axiaal mesoderm)
+- Paraxiaal mesoderm
+- Intermediair mesoderm
+- Lateraal plaat mesoderm
+
+Laten we er nog eentje doen om je basiskennis te checken:
+
+Wat betekenen de anatomische begrippen ""caudaal"", ""craniaal"", ""ventraal"" en ""dorsaal""?",2025-09-17T16:01:13.24699+00:00
+user,"caudaal is richting de staart, craniaal is richting de schedel, ventraal richting de buik en dorsaal richting de rug",2025-09-17T16:02:51.835245+00:00
+assistant,"Perfect! Je beheerst deze basistermen heel goed.
+
+Omdat je deze feitelijke kennis onder de knie hebt, gaan we nu een stapje verder en richten we ons op de processen achter deze begrippen.
+
+Kun je uitleggen wat er tijdens gastrulatie gebeurt? Waarom is dit een essentieel proces in de embryogenese?",2025-09-17T16:02:59.250394+00:00
+user,tijdens de gastrelatie worden de kiemlagen gevormd en wordt de neurale plaat gevormd die de neurale buis wordt. Ook de notochord wordt gevormd wat belangrijk is voor het zenuwstelsel,2025-09-17T16:04:42.558512+00:00
+assistant,"Dat is een goede beschrijving van enkele belangrijke gebeurtenissen! Je noemt correct dat de kiemlagen worden gevormd tijdens gastrulatie, Ã©n dat de notochord wordt aangelegd, wat belangrijk is voor het zenuwstelsel.
+
+Denk nog even terug aan het allereerste begin van gastrulatie: vanuit welk structuur of laag begint de beweging van cellen die leidt tot het vormen van ectoderm, mesoderm en endoderm? En waarom is die verplaatsing (migratie) van cellen zo'n kernpunt in dit proces?",2025-09-17T16:04:52.450937+00:00

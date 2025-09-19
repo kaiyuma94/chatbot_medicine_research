@@ -1,0 +1,29 @@
+role,content,created_at
+user,ik ben klaar voor het gesprek,2025-09-17T13:07:32.006729+00:00
+assistant,"Mooi! We beginnen met het volgende klinische vignet:
+
+Een gezonde 25-jarige vrouw had routinematige prenatale zorg. Bij 24 weken zwangerschap liet een echo een kleine opening (~5 mm) zien aan de rechterkant van de buik van de baby, nabij de navelstreng. Genetische tests waren normaal. De opening werd groter (tot 34 mm) en delen van de darmen zweefden in het vruchtwater. Het kind werd kleiner ingeschat dan verwacht. Bij 37 weken werd een keizersnede verricht. De baby had delen van de dunne en dikke darm en de maag buiten de buikholte. Het ondersteunende weefsel was kort en de darm was gezwollen. De diagnose was gastroschisis, een buikwanddefect.
+
+We starten met een feitelijke kennistoets:  
+Wat zijn de drie kiemlagen waaruit het embryo zich ontwikkelt?",2025-09-17T13:07:45.908069+00:00
+user,"exo-, meso- en endoderm",2025-09-17T13:09:12.205159+00:00
+user,ectoderm exoderm en mesoderm,2025-09-17T13:12:31.011497+00:00
+assistant,"Je zit heel dichtbij! Je noemt nu ""ectoderm"" en ""mesoderm"" correct. ""Exoderm"" is geen juiste term; het moet ""endoderm"" zijn.
+
+Kun je alle drie de kiemlagen nu juist benoemen?",2025-09-17T13:12:37.843514+00:00
+user,endoderm,2025-09-17T13:13:14.546129+00:00
+assistant,"Goed, dat is er Ã©Ã©n! Maar ik wil graag alle drie de kiemlagen van je horen. Je had er net al twee correct. Kun je ze nu nog Ã©Ã©n keer alle drie opnoemen?",2025-09-17T13:13:23.826336+00:00
+user,"ecto-, endo- en mesoderm",2025-09-17T13:13:39.61061+00:00
+assistant,"Helemaal correct! De drie kiemlagen zijn: ectoderm, endoderm en mesoderm.
+
+Dan een volgende kennisvraag:  
+Wat wordt bedoeld met âembryonale plooingâ (embryonic folding)?",2025-09-17T13:13:46.24084+00:00
+user,het fou,2025-09-17T13:14:01.911445+00:00
+assistant,Je antwoord lijkt afgekort of niet volledig. Kun je wat meer uitleg geven over wat âembryonale plooingâ precies inhoudt bij de ontwikkeling van een embryo? Wat gebeurt er met het embryo tijdens dit proces?,2025-09-17T13:14:07.608903+00:00
+user,het vouwen van de embryo,2025-09-17T13:16:02.017974+00:00
+assistant,"Dat klopt, het gaat inderdaad om het vouwen van het embryo. Kun je uitleggen waarom deze plooing belangrijk is, of wat het resultaat is van deze embryonale plooing? Wat verandert er aan het embryo na deze stap?",2025-09-17T13:16:08.768576+00:00
+user,het vormt de ruggenmerg,2025-09-17T13:16:25.865048+00:00
+assistant,"Interessant dat je het ruggenmerg noemt! De plooing heeft zeker invloed op de ligging van verschillende structuren, maar niet specifiek op het ontstaan van het ruggenmerg zelf. 
+
+Denk eens na:  
+Bij embryonale plooing gebeurt er een verandering in de vorm van het embryo waardoor het van een platte schijf verandert. Wat ontstaat er hierdoor met betrekking tot de vorm van het lichaam en de ligging van de inwendige organen? Wat gebeurt er bijvoorbeeld met de dooierzak en de toekomstige buikholte?",2025-09-17T13:16:36.545948+00:00

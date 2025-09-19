@@ -1,0 +1,78 @@
+role,content,created_at
+user,ik ben klaar om te beginnen,2025-09-17T15:47:13.784109+00:00
+assistant,"Uitstekend! Laten we beginnen met het vignet om de theorie te koppelen aan de praktijk:
+
+### VIGNETTE ###
+Een gezonde 25-jarige vrouw had routine prenatale controles. Bij 24 weken zwangerschap werd op echo een kleine opening (~5 mm) aan de rechterzijde van de buik van de baby gezien, vlak bij de navel. Genetisch onderzoek (vruchtwaterpunctie) op 26 weken was normaal. In de loop van de tijd werd de opening groter (tot 34 mm) en werden delen van de darmen van de baby zwevend in het vruchtwater waargenomen. De baby was kleiner dan verwacht. Bij 37 weken werd een keizersnede uitgevoerd. De pasgeboren jongen had delen van zijn dunne en dikke darm, en maag, buiten de buikholte liggen. Het ondersteunend weefsel was kort en de darmen waren gezwollen. Diagnose: gastroschisis, een defect in de buikwand.
+
+Mijn eerste vraag om te starten:
+
+Wat is gastrulatie?",2025-09-17T15:47:27.864148+00:00
+user,gastrulatie is het liggen van de organen buiten het lichaam,2025-09-17T15:48:09.386867+00:00
+assistant,"Bijna! Je verwart het proces âgastrulatieâ met het gevolg van een defect in de embryonale ontwikkeling (zoals bij gastroschisis). Maar gastrulatie heeft een bredere, fundamentele betekenis in de embryologie.
+
+Heb je nagedacht over welke stap gastrulatie is in de vroege ontwikkeling van het embryo, ongeveer rond week 3? Wat gebeurt er precies met de cellen tijdens gastrulatie?",2025-09-17T15:48:17.379049+00:00
+user,is gastrulatie niet het vormen van het embryo?,2025-09-17T15:49:09.293311+00:00
+assistant,"Goed dat je die koppeling maakt! Gastrulatie is inderdaad een heel belangrijke stap in de vorming van het embryo. Je zit op het juiste spoor.
+
+Kun je specifieker zijn: wat gebeurt er tijdens gastrulatie met de cellen? Denk aan termen als âkiemlagenâ. Welke lagen ontstaan er tijdens gastrulatie?",2025-09-17T15:49:16.608892+00:00
+user,"Tijdens de gastrulatie ontstaan de endoderme, mesoderme en exoderme laag",2025-09-17T15:50:00.716199+00:00
+assistant,"Heel goed! Tijdens de gastrulatie ontstaan inderdaad drie kiemlagen: endoderm, mesoderm en ectoderm. Dat is precies wat je moet weten.
+
+Kun je me nu vertellen wat het begrip âembryonale vouwingâ (embryonic folding) betekent? Wat gebeurt er tijdens dit proces met het embryo?",2025-09-17T15:50:08.011405+00:00
+user,bij de embryonale vouwing wordt onder andere de neurale buis gevormd,2025-09-17T15:52:38.212088+00:00
+assistant,"Dat is een goede gedachte! De neurale buis ontstaat inderdaad tijdens de vroege ontwikkeling, maar dat gebeurt iets eerder tijdens een proces genaamd ""neurulatie"", dat deels overlapt met de embryonale vouwing.
+
+De embryonale vouwing draait om een ander belangrijk aspect van de lichaamsvorm. Zou je kunnen proberen te beschrijven *welke* richtingen het embryo opvouwt en wat het gevolg is voor de positie van bijvoorbeeld de dooierzak, lichaamswand en de orgaanbuizen? Wat verandert er aan de vorm van het embryo door deze vouwing?",2025-09-17T15:52:48.699206+00:00
+user,het embryo wordt eivormig,2025-09-17T15:53:14.17818+00:00
+assistant,"Dat klopt: door de embryonale vouwing verandert het embryo van een platte schijf in een soort driedimensionale, buisvormige structuur die inderdaad meer op een ei of cilinder lijkt. 
+
+Kun je ook beschrijven in welke richtingen deze vouwing plaatsvindt? Denk aan termen zoals caudaal, craniaal, ventraal, en lateraal. Welke vouwing vindt plaats en wat is daarvan het gevolg voor de ligging van de organen?",2025-09-17T15:54:18.315245+00:00
+user,De vouwing vindt in de laterale richting plaats. De organen komen op deze manier op de juiste plek in het lichaam te liggen,2025-09-17T15:55:36.451124+00:00
+assistant,"Dat is een goed begin! Je noemt terecht de laterale vouwing, waarbij de zijkanten van het embryo naar beneden en naar binnen bewegen.
+
+Maar er zijn eigenlijk twee belangrijke richtingen van vouwing. Kun je ook benoemen welke andere as (behalve lateraal) betrokken is bij embryonale vouwing? En kun je uitleggen wat het verschil is tussen die twee typen vouwing (bijvoorbeeld: wat gebeurt er tijdens de craniocaudale vouwing)?",2025-09-17T15:55:44.309587+00:00
+user,"De caudale as is de tweede as, dit is in de richting omhoog en naar buiten. De vorming van het hoofd dus",2025-09-17T15:56:25.293577+00:00
+assistant,"Je zit heel dicht in de buurt! Je noemt inderdaad de caudale (staart-) as, en er is ook sprake van een craniale (hoofdeinde-) as. Tijdens de embryonale vouwing vouwt zowel het hoofd- (craniaal) als het staarteinde (caudaal) naar voren en naar beneden, waardoor het embryo een meer buisvormige structuur krijgt.
+
+Wat gebeurt er met de dooierzak en de lichaamswand door deze vouwing? En wat betekent dit voor de positie van de organen die zich uit de endodermale buis ontwikkelen, zoals de darmen?",2025-09-17T15:56:35.247325+00:00
+user,vormt de dooierzak niet een gedeelte van de darmen uit de endoderme laag?,2025-09-17T15:58:18.201264+00:00
+assistant,"Precies, dat klopt! De dooierzak vormt inderdaad (voor een deel) de primitieve darm en deze ontstaat uit de endodermale kiemlaag. Door de embryonale vouwing wordt een deel van de dooierzak opgenomen in het embryo en vormt zo het voor-, mid- en achterdarmsegment.
+
+Nu een volgende belangrijke vraag:  
+Kun je de drie kiemlagen nogmaals noemen en per laag Ã©Ã©n hoofdstructuur of orgaan die hieruit ontstaat, noemen?",2025-09-17T15:58:27.773929+00:00
+user,"1. endoderme laag; darmen
+2. mesoderme laag; botten
+3. ectoderme laag; huid",2025-09-17T15:58:55.525667+00:00
+assistant,"Heel goed gedaan! Je koppelt de lagen aan passende structuren:
+
+- Endoderm: darmen  
+- Mesoderm: botten  
+- Ectoderm: huid  
+
+Dat klopt â dit zijn basale verbanden die belangrijk zijn voor het begrijpen van de orgaanontwikkeling.
+
+Nu een volgende stap: het mesoderm wordt verder verdeeld in verschillende âsoortenâ of delen.  
+Kun je de vier hoofdsubdivisies van het mesoderm noemen?",2025-09-17T15:59:05.559522+00:00
+user,axiaal en dorsaal,2025-09-17T16:00:05.179073+00:00
+assistant,"Dat zijn interessante termen, maar ze benoemen nog niet alle subdivisions van het mesoderm zelf. Denk eens aan namen zoals ""paraxiaal"", ""intermediair"", en ""lateraal plaat"". Kun je de vier subdivisions van het mesoderm proberen te noemen, met deze hint?",2025-09-17T16:00:13.539717+00:00
+user,"paraxiaal, intermediair, lateraal en axiaal",2025-09-17T16:01:50.731569+00:00
+assistant,"Goed zo, dat is juist! De vier hoofdsubdivisies van het mesoderm zijn:
+
+1. Axiaal mesoderm  
+2. Paraxiaal mesoderm  
+3. Intermediair mesoderm  
+4. Lateraal plaat mesoderm  
+
+Laatste vraag in deze categorie:  
+Kun je uitleggen wat met de termen ""ventraal"" en ""dorsaal"" bedoeld wordt als je het hebt over het embryo? Waar zijn deze gebieden/oppervlakken te vinden?",2025-09-17T16:02:02.281782+00:00
+user,ventraal is aan de voorzijde van het lichaam. Dorsaal is aan de rugzijde van het lichaam,2025-09-17T16:02:54.213818+00:00
+assistant,"Dat is helemaal goed!  
+
+- **Ventrale zijde**: de voorzijde (buikzijde) van het lichaam of embryo  
+- **Dorsale zijde**: de rugzijde van het lichaam of embryo  
+
+Heel netjes uitgelegd. Hiermee heb je de basisbegrippen goed in de vingers!
+
+Nu gaan we een stap verder.  
+Waarom is gastrulatie van doorslaggevend belang voor de verdere ontwikkeling van het embryo? Wat âopentâ deze stap voor de volgende fasen van embryonale ontwikkeling?",2025-09-17T16:03:03.854948+00:00

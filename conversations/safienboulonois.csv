@@ -1,0 +1,65 @@
+role,content,created_at
+user,ik ben klaar om te beginnen,2025-09-17T15:50:50.320143+00:00
+assistant,"Laten we beginnen! Hier volgt de klinische casus om het onderwerp te kaderen:
+
+**VIGNETTE**  
+Een gezonde 25-jarige vrouw had routine prenatale zorg. Bij een echo op 24 weken zwangerschap werd een kleine opening (~5 mm) gevonden aan de rechterkant van de buik van de baby, naast de navelstreng. Genetisch onderzoek (vruchtwaterpunctie) op 26 weken was normaal. In de loop van de tijd werd de opening groter (tot 34 mm) en delen van de darmen van de baby waren vrij in het vruchtwater zichtbaar. De baby bleek ook kleiner te zijn dan verwacht. Op 37 weken werd een keizersnede uitgevoerd. De pasgeboren jongen had delen van de dunne en dikke darm, en de maag, buiten de buikholte. Het ondersteunende weefsel was kort en de darm was gezwollen. De diagnose was gastroschisis, een defect in de buikwand.
+
+Mijn eerste vraag:  
+Wat zijn de *drie kiemlagen* die tijdens de embryonale ontwikkeling ontstaan?",2025-09-17T15:51:04.870985+00:00
+user,ik ben klaar om te beginnen,2025-09-17T15:51:11.542173+00:00
+assistant,"Mooi! Laten we met de eerste inhoudelijke vraag starten.
+
+Wat zijn de *drie kiemlagen* die tijdens de embryonale ontwikkeling ontstaan?",2025-09-17T15:51:17.324056+00:00
+user,"ectoderm, mesoderm, endoderm",2025-09-17T15:51:39.301476+00:00
+assistant,"Dat klopt! De drie kiemlagen zijn ectoderm, mesoderm en endoderm.
+
+Volgende vraag:  
+Kun je uitleggen wat het proces van **gastrulatie** is? Wat gebeurt er tijdens dit proces?",2025-09-17T15:51:51.150027+00:00
+user,"gastrulatie is het begin van de vorming van de trimonolaire schijf, waarbij deze kiemlagen vormen",2025-09-17T15:54:28.847077+00:00
+assistant,Dat is een goed begin! Gastrulatie is inderdaad het proces waarbij de drie kiemlagen ontstaan. Kun je iets meer uitleggen **hoe** deze kiemlagen gevormd worden tijdens gastrulatie? Wat gebeurt er met de cellen van de embryonale schijf tijdens dit proces?,2025-09-17T15:54:35.322136+00:00
+user,de blastocyst verandert in een meerlagige schijf die de blastula wordt genoemd. Volgens mij gaan de blastocytcellen door de streep naar beneden zakken en veranderen dan bij de hypoblast in het \endoderm,2025-09-17T15:56:38.3007+00:00
+assistant,"Je bent op de goede weg! Je noemt al de migratie van cellen via een structuur (de primitiefstreep), en dat sommige cellen uiteindelijk het endoderm vormen.  
+Laten we het stap voor stap uitwerken:
+
+1. Er ontstaat een **primitiefstreep** op de oppervlaktelaag (epiblast).
+2. Cellen van de epiblast migreren naar beneden via deze streep.
+3. De eerste cellen vervangen de hypoblast en vormen zo het **endoderm**.
+  
+Kun je aanvullen:  
+**Wat vormen de volgende golven van invaderende cellen die via de primitiefstreep naar binnen gaan?** Wat gebeurt er met de cellen die achterblijven aan de bovenkant?",2025-09-17T15:56:51.695238+00:00
+user,De eerst bewegende cellen worden het endoderm en die daarna vormen het mesoderm. De cellen die achterblijven vormen het ectoderm,2025-09-17T15:58:23.395351+00:00
+assistant,"Precies!  
+- De eerste cellen vormen het endoderm,  
+- de volgende golf vormt het mesoderm,  
+- de cellen die niet migreren blijven bovenaan en vormen het ectoderm.
+
+Laten we verdergaan met een andere term:  
+Wat verstaan we onder **embryonale plooing**? Waar dient deze plooivorming voor?",2025-09-17T15:58:30.880775+00:00
+user,Embryonale plooing zijn toch de eerste vouwingen binnen het embryo waardoor de primortium van de organen ontstaan.,2025-09-17T16:01:24.420222+00:00
+assistant,"Mooi verwoord! Je zegt dat embryonale plooing de eerste vouwingen zijn waardoor organen kunnen ontstaanâthat klopt in hoofdlijnen. Kun je wat specifieker uitleggen **hoe** deze plooing plaatsvindt? Denk aan richtingen van de plooien, en wat het effect ervan is op de aanleg van de lichaamsvorm.",2025-09-17T16:01:32.053994+00:00
+user,Er onstaat een streep waardoor er een groeve ontstaat en windingen. deze groeve word steeds dieper en de windingen bewegen daardoor naar elkaar toe. hierdoor ontstaat een buis. Op deze manier vormt de notochord en de neurale buis,2025-09-17T16:03:44.434105+00:00
+assistant,"Je zit goed met het idee van plooiing en het ontstaan van buisvormige structuren zoals de neurale buis. De plooiing die je beschrijft geldt specifiek voor neurulatieâde vorming van de neurale buis!
+
+Maar als we kijken naar **embryonale plooing** in bredere zin, bedoelen we de vouwen die het embryo ondergaat in **twee hoofdassen**: de **craniocaudale (kop-staart)** as en de **laterale (zijkant-zijkant)** as.
+
+- Wat gebeurt er met het embryo en de positie van de dooierzak, als het embryo in deze twee assen plooiingen ondergaat?  
+Kun je dat uitleggen?",2025-09-17T16:03:58.929499+00:00
+user,Dan migreren er cellen richting de causale kant van de embryo,2025-09-17T16:04:32.58501+00:00
+assistant,"Je beschrijft migratie van cellen naar de caudale kant, wat eigenlijk meer hoort bij de vroege celmigraties rond gastrulatie. Bij **embryonale plooing** bedoelen we hier echter wat anders: het hele embryo verandert van vorm door fysiek te vouwen.
+
+Misschien helpt deze hint:  
+Tijdens de embryo plooing buigt het embryo in de lengte (kop naar staart) Ã©n vouwt het zich van links naar rechts. Hierdoor ontstaat een ""tube"" van het embryo, en wordt de dooierzak voor een deel opgenomen in het embryo, als het toekomstige darmstelsel.
+
+Met deze uitleg:  
+- Kun je nu proberen te beschrijven wat het resultaat is van embryonale plooing voor het vroege embryo? Wat ontstaat er in termen van vorm en verhouding van de kiemlagen?",2025-09-17T16:04:47.211045+00:00
+user,de plooing vouwt toch door de vorming en ontwikkeling van het zenuwstelsel een bepaalde kant op,2025-09-17T16:10:28.18993+00:00
+assistant,"Goed, je signaleert dat het vormen van het zenuwstelsel (neuralebuis) invloed heeft op de embryonale plooienâen dat klopt! De snelle groei van de neurale buis aan de dorsale kant zorgt inderdaad mede voor het buigen (plooien) van het embryo.
+
+Maar om helemaal scherp te krijgen:  
+- Door **craniocaudale plooing** (kop-staart) buigen het hoofd- en staartuiteinde naar binnen.
+- Door **laterale plooing** (zijkant-zijkant) rollen de zijkanten van het embryo naar de middenlijn.
+
+Hierdoor ontstaat een **gesloten buisvorm** van het embryo, waarbij een deel van de dooierzak wordt opgenomen als de embryonale darm.
+
+**Kun je nu kort beschrijven wat het nut is van deze buisvorming voor de ontwikkeling van de uiteindelijke lichaamsstructuren?** Waarom is het belangrijk dat het embryo van een platte schijf een buis wordt?",2025-09-17T16:10:44.560011+00:00

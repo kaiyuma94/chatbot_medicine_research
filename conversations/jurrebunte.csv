@@ -1,0 +1,96 @@
+role,content,created_at
+user,laten wij beginnen,2025-09-17T15:52:09.985055+00:00
+assistant,"Uitstekend! We gaan aan de slag aan de hand van het klinische vignet. Hier is de casus:
+
+Een gezonde 25-jarige vrouw had routine prenatale controles. Op een echo rond 24 weken zwangerschap werd een kleine opening (ongeveer 5 mm) aan de rechterkant van de buik van de baby gezien, vlakbij de navelstreng. Latere echoâs toonden dat de opening groter werd (tot 34 mm) en dat delen van de darmen van de baby buiten de buik dreven in het vruchtwater. Het kind groeide minder goed dan verwacht. Na een keizersnede bij 37 weken werd een jongetje geboren met delen van de dunne en dikke darm, en de maag, buiten de buik. De opening had een korte steel, en de darm was gezwollen. Diagnose: gastroschisis, een defect in de buikwand.
+
+Om te starten met de basis:  
+**Wat zijn de drie kiemlagen (embryonale lagen) die ontstaan tijdens de embryonale ontwikkeling?**",2025-09-17T15:52:27.174805+00:00
+user,"endoderme laag, mesoderme laag en ectoderme laag",2025-09-17T15:53:20.776995+00:00
+assistant,"Heel goed! De drie kiemlagen zijn inderdaad de endoderm, mesoderm en ectoderm.
+
+Laten we er eentje uitlichten:  
+**Wat is de voornaamste structuur of soort weefsel die zich ontwikkelt uit de ectoderm?**",2025-09-17T15:53:37.693091+00:00
+user,spierweefsel,2025-09-17T15:54:03.172125+00:00
+assistant,Dat is niet helemaal juist. Spierweefsel ontstaat voornamelijk uit een andere kiemlaag. Kun je nog eens nadenken waar spierweefsel vandaan komt? En kun je je herinneren welke belangrijke structuren juist uit de ectoderm ontstaan? Denk bijvoorbeeld aan het lichaamsoppervlak en het zenuwstelsel. Wat zou je nu antwoorden?,2025-09-17T15:54:10.133506+00:00
+user,de huid,2025-09-17T15:54:31.044424+00:00
+assistant,"Heel goed! De huid (met name de opperhuid/epidermis) ontstaat uit de ectoderm. Ook het zenuwstelsel ontwikkelt zich uit de ectoderm.
+
+Laten we verdergaan:
+**Kun je benoemen wat het mesoderm is, en noem Ã©Ã©n belangrijk structuur of orgaan dat zich uit het mesoderm ontwikkelt?**",2025-09-17T15:54:37.99541+00:00
+user,uit het mesoderm ontwikkelt zich onder andere de darmen,2025-09-17T15:54:59.980673+00:00
+assistant,"Dat is niet helemaal juist. De darmen ontstaan voornamelijk uit een andere kiemlaag. Denk je dat de darmen vooral ontstaan uit het endoderm, mesoderm of ectoderm? Kun je daarnaast proberen te benoemen welk orgaanstelsel of structuur zich WEL uit het mesoderm ontwikkelt? Denk bijvoorbeeld aan spieren, botten of het hart. Wat weet je hierover?",2025-09-17T15:55:09.758774+00:00
+user,"de darmen ontstaan dan uit het endoderm, misschien het spijsverteringsstelsel",2025-09-17T15:55:40.49335+00:00
+assistant,"Juist! De darmen en het grootste deel van het spijsverteringsstelsel ontstaan inderdaad uit het endoderm.
+
+Het mesoderm daarentegen geeft aanleiding tot andere structurenâdenk aan het spierweefsel, het skelet, het hart, en de nieren.  
+
+**Kun je nu Ã©Ã©n structuur of orgaan noemen die uit het mesoderm ontstaat?**",2025-09-17T15:55:48.838925+00:00
+user,het hart,2025-09-17T15:56:00.454896+00:00
+assistant,"Uitstekend! Het hart is inderdaad een structuur die uit het mesoderm ontstaat.
+
+Laten we nu dieper ingaan op subdivisions van het mesoderm.  
+**Het mesoderm wordt tijdens de embryonale ontwikkeling onderverdeeld in vier delen. Kun je deze vier delen benoemen?**",2025-09-17T15:56:08.572327+00:00
+user,zou ik niet weten,2025-09-17T15:56:25.993629+00:00
+assistant,"Geen probleem! Het is even ingewikkeld. Misschien kun je eerst bedenken welke hoofdassen er in het embryo zijn â bijvoorbeeld dicht bij de middellijn (mediaal), tussen het midden en de zijkant, richting de zijkant (lateraal). Kun je bedenken wat de termen voor deze gebieden kunnen zijn?  
+
+Als dat lastig is: kun je vertellen wat jij weet over de verschillende gebieden van het mesoderm of hoe het zich ontwikkelt in vroege stadia?",2025-09-17T15:56:35.153505+00:00
+user,het mesoderm ontwikkelt zich door verschillende fasen door te gaan,2025-09-17T15:57:35.590951+00:00
+assistant,"Klopt, het mesoderm differentieert inderdaad naarmate de ontwikkeling vordert in verschillende gebieden.  
+De vier delen die we zoeken, beschrijven eigenlijk de plaats en functie in het embryo. Hier zijn kleine hints:
+
+1. Het deel dat direct tegen de middellijn aanligt (hieruit ontstaat o.a. de chorda).
+2. Het segment ernaast, dat blokvormige structuren vormt (belangrijk voor spieren en botten).
+3. Het gedeelte dat tussen het segment van hierboven en de buitenzijde ligt (aanleg voor urinair systeem).
+4. Het buitenste blad dat samen met het endoderm de lichaamswanden maakt.
+
+Met deze hints, denk je dat je een van de namen kunt noemen? Misschien herken je de termen als je ze ziet!",2025-09-17T15:57:46.986936+00:00
+user,de neurale buis,2025-09-17T15:58:10.303246+00:00
+assistant,"Goede poging! De neurale buis ligt vlak bij de middellijn, maar is eigenlijk afkomstig uit de ectoderm in plaats van uit het mesoderm. De structuren die we zoeken horen echt bij het mesoderm.
+
+Laten we het samen stap voor stap doen:
+- De as, centraal in het embryo, heet het **axiale mesoderm** (waaruit de chorda ontstaat).
+- Net naast het axiale mesoderm ligt het **paraxiale mesoderm** (dit vormt onder andere de somieten).
+- Daarna komt het **intermediaire mesoderm** (aanleg voor delen van de urinewegen).
+- Het meest lateraal ligt het **laterale plaatmesoderm** (verdeeld in visceraal en pariÃ«taal blad).
+
+Herken je nu enkele van deze termen?  
+Kun je in jouw woorden uitleggen waar het paraxiale of intermediaire mesoderm voor zorgt?",2025-09-17T15:58:25.42174+00:00
+user,geen herkenning,2025-09-17T15:58:47.34577+00:00
+assistant,"Dat is helemaal niet erg; het zijn lastige termen als je ze niet vaak hebt gehoord. De vier onderdelen van het mesoderm zijn dus:
+
+1. **Axiaal mesoderm** (in het midden, vormt de chorda)
+2. **Paraxiaal mesoderm** (vlak naast het axiaal mesoderm, vormt somietenâwaaruit spieren en botten ontstaan)
+3. **Intermediair mesoderm** (daartussenin, aanleg voor nieren en delen van het geslachtsapparaat)
+4. **Lateraal plaatmesoderm** (aan de zijkanten, vormt de bekleding van lichaamswanden en bloedvaten)
+
+Wil je verder gaan met het oefenen van deze termen? Zo ja, noem dan bijvoorbeeld het onderdeel van het mesoderm dat vooral betrokken is bij de aanleg van de spieren van de romp. Of wil je eerst deze informatie zelf rustig nalezen?",2025-09-17T15:59:00.860328+00:00
+user,het paraxiaal mesoderm,2025-09-17T15:59:16.322441+00:00
+assistant,"Precies! Het **paraxiale mesoderm** is inderdaad vooral betrokken bij de aanleg van de spieren (en het skelet) van de romp, via de vorming van zogenaamde somieten.
+
+Laten we nu verdergaan:   
+**Wat betekent de term âventraalâ in het embryo?**",2025-09-17T15:59:29.009559+00:00
+user,de onderkant,2025-09-17T16:00:09.163858+00:00
+assistant,"Goed! âVentralâ verwijst inderdaad naar de onderkant van het embryoâmeer specifiek naar de buikzijde (de kant waar later de buik komt).
+
+Laten we nu de tegenovergestelde richting oefenen:   
+**Wat betekent âdorsaalâ in het embryo?**",2025-09-17T16:00:15.565899+00:00
+user,dorsaal betekent naar de rugzijde,2025-09-17T16:00:37.867731+00:00
+assistant,"Helemaal correct! âDorsaalâ betekent inderdaad naar de rugzijde van het embryo (of lichaam).
+
+Laten we nu kort focussen op een belangrijk proces:  
+**Kun je in het kort uitleggen wat gastrulatie is?**",2025-09-17T16:00:45.612258+00:00
+user,gastrulatie is als het embryo in haar vroege stadia gaat ontwikkelen,2025-09-17T16:01:06.412512+00:00
+assistant,"Dat is al een goed begin! Gastrulatie is inderdaad een proces in een vroeg stadium van de embryonale ontwikkeling. Kun je iets specifieker omschrijven wat er tijdens gastrulatie gebeurt? Bijvoorbeeld, wat gebeurt er met de cellen of met de kiemlagen tijdens dit proces?",2025-09-17T16:01:12.772112+00:00
+user,er ontstaat meerdere kiemlagen en de cellen delen zeer,2025-09-17T16:01:54.667872+00:00
+assistant,"Heel goed, je bent op de juiste weg! Tijdens gastrulatie ontstaan inderdaad meerdere kiemlagen (de ectoderm, mesoderm en endoderm). Cellen bewegen zich naar binnen en vormen zo deze verschillende lagen.
+
+Laatste check van deze fase:
+**Wat wordt bedoeld met âembryonale vouwenâ (embryonic folding) tijdens de ontwikkeling?**",2025-09-17T16:02:04.625214+00:00
+user,het embryonale vouwen wil zeggen dat het embryo en meer cilindervormige structuur krijgt,2025-09-17T16:02:35.322247+00:00
+assistant,"Heel goed! Embryonale vouwen (folding) zorgen ervoor dat het embryo van een platte schijf verandert in een meer buis- of cilinderachtige structuur, zodat de organen en de lichaamswanden zich correct kunnen vormen.
+
+Je beheerst nu de basisbegrippen en terminologie!
+Laten we nu dieper ingaan op de processen achter deze termen.
+
+Kun je uitleggen waarom gastrulatie zo belangrijk is voor de embryo? Wat maakt dit proces noodzakelijk voor de verdere ontwikkeling?",2025-09-17T16:02:46.220457+00:00

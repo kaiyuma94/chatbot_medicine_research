@@ -1,0 +1,206 @@
+role,content,created_at
+user,hoi,2025-09-17T14:47:37.932745+00:00
+assistant,"Hallo! Laten we aan de slag gaan met embryonale ontwikkeling.
+
+Hier is de casus om ons te helpen het onderwerp te begrijpen:
+
+Een gezonde 25-jarige vrouw kreeg routine prenatale zorg. Bij een echo op 24 weken werd er een kleine opening (~5 mm) aan de rechterkant van de buik van de baby gezien, vlak bij de navel. Later werden delen van de darmen buiten de buik waargenomen. De baby werd uiteindelijk met een keizersnede geboren en bleek een gastroschisis te hebben: een defect in de buikwand waarbij het buikorgaan buiten het lichaam lag.
+
+Om te starten:  
+Wat is gastrulatie?",2025-09-17T14:47:47.943177+00:00
+user,bij gastrulatie worden er vanuit 2 cellagen 3 cellagen gevormd,2025-09-17T14:48:12.888665+00:00
+assistant,"Dat klopt! Tijdens gastrulatie worden uit de twee oorspronkelijke cellagen (epiblast en hypoblast) drie kiemlagen gevormd: ectoderm, mesoderm en endoderm.
+
+Kun je vertellen wat embryonale plooivorming (embryonic folding) is?",2025-09-17T14:48:19.076837+00:00
+user,Ontstaan via de plooivorming niet de verschillende soorten mesoderm(lagen)?,2025-09-17T14:49:00.177852+00:00
+assistant,"Je brengt een goed punt naar voren! Je denkt aan de relatie tussen plooivorming en mesoderm. Even samen structureren:
+
+**Tijdens gastrulatie** ontstaan de drie kiemlagen (ectoderm, mesoderm, endoderm).  
+**Tijdens embryonale plooivorming** verandert de vorm van het embryo drastisch. Maar, de verschillende soorten mesoderm (axiaal, paraxiaal, intermediair, laterale plaat) ontstaan uit het mesoderm dat bij gastrulatie wordt gevormd.
+
+Heb je een idee wat er bedoeld wordt met axiaal, paraxiaal, intermediair en laterale plaat mesoderm? Als je wilt, kun je Ã©Ã©n van deze proberen te omschrijven.",2025-09-17T14:49:13.033214+00:00
+user,Volgens mij zijn dat de verschillende soorten mesoderm die worden gevormd. Lateraal is naar de zijkant denk ik,2025-09-17T14:49:56.342695+00:00
+user,Volgens mij zijn dat de verschillende soorten mesoderm die worden gevormd. Lateraal is naar de zijkant denk ik,2025-09-17T14:50:49.777075+00:00
+assistant,Inderdaad! Het laterale plaat mesoderm bevindt zich aan de zijkanten. Kun je nu het paraxiale mesoderm plaatsen ten opzichte van het axiale mesoderm? Waar ligt het paraxiale mesoderm ongeveer?,2025-09-17T14:50:55.244597+00:00
+user,intermediair iets met het middej,2025-09-17T14:51:19.356577+00:00
+assistant,"Precies, je zit op het goede spoor! Laten we het even op een rijtje zetten:
+
+- **Axiaal mesoderm** ligt precies in het midden (maakt bijvoorbeeld de chorda dorsalis).
+- **Paraxiaal mesoderm** ligt direct naast het axiale mesoderm, links en rechts ervan.
+- **Intermediair mesoderm** ligt tussen het paraxiale en het laterale plaat mesoderm in.
+- **Laterale plaat mesoderm** ligt het meest naar de zijkant (lateraal).
+
+Wil je nu proberen te benoemen uit welke kiemlaag het zenuwstelsel ontstaat?",2025-09-17T14:51:30.253291+00:00
+user,intermediar is in het midden,2025-09-17T14:51:51.873144+00:00
+assistant,"Klopt! Het intermediair mesoderm ligt tussen het paraxiale en het laterale plaat mesoderm in â dus min of meer âin het middenâ van deze structuren.
+
+Kun je nu aangeven uit welke kiemlaag het zenuwstelsel zich ontwikkelt?",2025-09-17T14:51:57.780821+00:00
+user,het zenuwstelsel ontstaat uit de laterale plaat denk ik,2025-09-17T14:52:31.359418+00:00
+assistant,"Denk nog eens aan de drie kiemlagen: ectoderm, mesoderm en endoderm.  
+Welke hiervan draagt bij aan de vorming van het zenuwstelsel? Heb je deze relatie eerder gezien?",2025-09-17T14:52:37.052055+00:00
+user,oh de endotherme laag dan,2025-09-17T14:52:50.765021+00:00
+assistant,"Dat is een goed geprobeerd! Maar denk even terug aan de namen van de kiemlagen: ectoderm, mesoderm en endoderm.
+
+Welke van deze drie kiemlagen klinkt alsof het âbuitensteâ (ecto-) laag is, en wordt vaak in verband gebracht met huid Ã©n het zenuwstelsel? Wat denk je?",2025-09-17T14:52:57.339016+00:00
+user,"ectoderme laag, dat is de buitenste/bovenste laag",2025-09-17T14:53:09.507336+00:00
+assistant,"Precies! Het zenuwstelsel ontstaat uit het ectodermâde buitenste laag van de drie kiemlagen.
+
+Laten we een andere basisvraag proberen: Kun je uitleggen wat ventraal en dorsaal betekenen bij het embryo?",2025-09-17T14:53:15.651737+00:00
+user,"dorsaal is een vlak, volgens mij is dat de achterkant (de rugzijde)",2025-09-17T14:53:36.003826+00:00
+assistant,"Helemaal correct! Dorsaal verwijst naar de rugzijde of achterkant.
+
+En ventraalâwat betekent die term?",2025-09-17T14:53:41.587954+00:00
+user,dat is de voorkant of buikzijde,2025-09-17T14:53:47.901478+00:00
+assistant,"Juist, ventraal is inderdaad de voorkant of buikzijde van het embryo!
+
+Nu een nieuwe: Wat is morphogenese?",2025-09-17T14:53:53.243112+00:00
+user,dat weet ik niet. ik denk dat het wel iets met de vorming van het embryo te maken heeft,2025-09-17T14:54:11.232674+00:00
+assistant,"Je intuÃ¯tie is al goed! Morphogenese betekent inderdaad de vorming van het embryo, of eigenlijk: het proces waarbij cellen en weefsels zich organiseren tot de uiteindelijke vormen en structuren van het lichaam.
+
+Wil je proberen te beschrijven: wat is het verschil tussen endoderm, mesoderm, en ectoderm? Wat zijn hun basisrollen?",2025-09-17T14:54:18.627128+00:00
+user,"het zijn 3 verschillende kiemlagen waaruit verschillende delen van ons lichaam gevormd worden, ectoderm; bijv pigmentcellen en het zenuwstelsel, mesoderm weet ik niet zo goed meer, en endoderm de darmen denk ik",2025-09-17T14:55:20.121247+00:00
+assistant,"Goed! Je noemt voor ectoderm het zenuwstelsel en pigmentcellen, dat klopt. En voor endoderm de darmen, dat is ook juist.
+
+Wil je proberen om een paar voorbeelden te bedenken van structuren die uit het mesoderm ontstaan? Je kunt denken aan weefsels of organen tussen huid/zenuwstelsel en darmen in. Wat zou er uit het mesoderm kunnen ontstaan?",2025-09-17T14:55:28.322549+00:00
+user,"bindweefsel misschien? lever, maag?",2025-09-17T14:55:39.862754+00:00
+assistant,"Je zit heel dicht bij het juiste! Bindweefsel klopt zeker; daarnaast ontstaan ook spieren, botten, het hart en bloedvaten uit het mesoderm.
+
+Wat betreft de lever en maag: kun je bedenken of deze vooral ""binnenste structuren"" zijn? Als je twijfelt, waar zou de bekleding van het spijsverteringskanaal (zoals maag en darmen) waarschijnlijk vandaan komenâvan het endoderm of het mesoderm?",2025-09-17T14:55:49.488206+00:00
+user,endoderm dan.,2025-09-17T14:55:55.044642+00:00
+user,"ik denk endoderm, net als de darmen.",2025-09-17T14:56:34.615992+00:00
+assistant,"Dat klopt als het gaat om de bekleding (epitheel) van de darmen en leverâdie komen uit het endoderm. Je begrijpt het verband goed!
+
+Nu terug naar mijn vorige vraag: Kun je uitleggen waarom gastrulatie zo'n essentiÃ«le gebeurtenis is tijdens de embryonale ontwikkeling? Wat is er na gastrulatie veranderd in het embryo, waardoor de volgende stappen mogelijk worden?",2025-09-17T14:56:43.095282+00:00
+user,Na de gastrelatie zijn er 3 kiemlagen ontstaan die de organen en stelsels etc in ons lichaam vormen,2025-09-17T14:57:05.012294+00:00
+assistant,"Precies! Na gastrulatie zijn de drie kiemlagen (ectoderm, mesoderm en endoderm) gevormd, en deze vormen de basis waaruit alle organen en weefsels van het lichaam ontstaan.
+
+Stapje verder: Kun je uitleggen waarom de embryonale plooivorming (embryonic folding) zo belangrijk is voor de ontwikkeling van het embryo? Wat gebeurt er tijdens deze plooivorming?",2025-09-17T14:57:13.510381+00:00
+user,Ik denk dat de embryo zich dan buigt,2025-09-17T14:58:14.907126+00:00
+assistant,"Dat klopt! Tijdens embryonale plooivorming buigt het embryo zich inderdaad, maar zou je kunnen beschrijven *waardoor* het embryo buigt en *wat het resultaat* is van deze plooien? Denk hierbij aan het ontstaan van de lichaamsholte of de plaatsing van de organen. Wat gebeurt er precies als de embryo plooit?",2025-09-17T14:58:22.253297+00:00
+user,is dat voor of nadat de organen zijn gevormd?,2025-09-17T14:58:37.265757+00:00
+assistant,"Goede vraag! Embryonale plooivorming gebeurt **voordat** de meeste organen hun uiteindelijke plaats en vorm krijgen. 
+
+Kun je bedenken waarom het belangrijk is dat de plooivorming plaatsvindt voordat de organen zich vormen? Wat zou er gebeuren als de organen zouden ontstaan zonder deze plooivorming?",2025-09-17T14:58:44.79612+00:00
+user,Zodat de organen op de juiste plek van het lichaam terecht komen en zo goed kunnen functioneren.,2025-09-17T14:59:01.988985+00:00
+assistant,"Helemaal juist! Door embryonale plooivorming komen de kiemlagen (en dus de organen die daaruit ontstaan) op de juiste plek in het lichaam te liggen, zodat ze hun functie goed kunnen vervullen.
+
+Nu een volgende stap: Welke rol speelt het laterale plaatmesoderm bij het vormen van de lichaamswand en de lichaamsholte? Probeer te beschrijven wat het laterale plaatmesoderm doet tijdens de vroege ontwikkeling.",2025-09-17T14:59:10.529906+00:00
+user,De laterale plaatmesoderm vormen misschien een soort van membraan of laagje cellen ter bescherming?,2025-09-17T14:59:40.23162+00:00
+assistant,"Je bent op de goede weg door te denken aan een bescherming of bekleding! Het laterale plaatmesoderm splitst zich in twee lagen.
+
+Weet je nog hoe deze twee lagen heten en welke lichaamsonderdelen of ""bladen"" ze uiteindelijk gaan bekleden of vormen? Je mag het proberen of zeggen als je het niet weet.",2025-09-17T14:59:47.522886+00:00
+user,dat weet ik niet,2025-09-17T15:00:03.513051+00:00
+assistant,"Geen probleem! Je hoeft niet alles direct te weten. De twee lagen van het laterale plaatmesoderm heten het **visceraal blad** (of splanchnisch mesoderm) en het **pariÃ«taal blad** (of somatisch mesoderm).
+
+Met dit in gedachten: Kun je voorstellen welk van deze bladen direct contact heeft met de organen in de lichaamsholte, en welk met de lichaamswand? Wat denk je?",2025-09-17T15:00:12.719008+00:00
+user,ik denk somatisch met de lichaamswand,2025-09-17T15:00:28.172981+00:00
+assistant,"Helemaal goed! Het somatisch (pariÃ«taal) mesoderm ligt tegen de lichaamswand.
+
+Kun je nu raden of het visceraal (splanchnisch) mesoderm of juist het pariÃ«taal mesoderm het orgaanoppervlak bekleedt?",2025-09-17T15:00:34.641332+00:00
+user,visceraal,2025-09-17T15:00:45.62867+00:00
+assistant,"Dat klopt! Het visceraal (splanchnisch) mesoderm bekleedt inderdaad het oppervlak van de organen.
+
+Nu een nieuwe vraag om het overzicht compleet te maken: Hoe ontstaat de lichaamsholte (coeloom) tijdens deze processen? Wat gebeurt er tussen deze lagen waardoor een ruimte ontstaat?",2025-09-17T15:01:05.954139+00:00
+user,Waar ligt de lichaamsholte?,2025-09-17T15:01:30.488127+00:00
+assistant,"Goede vraag! De lichaamsholte ligt **tussen** het pariÃ«taal (somatisch) en visceraal (splanchnisch) mesoderm.
+
+Kun je nu bedenken hoe deze ruimte ontstaat tijdens de embryonale ontwikkeling? Wat gebeurt er precies tussen deze twee lagen van het laterale plaatmesoderm?",2025-09-17T15:01:47.140766+00:00
+user,ik denk dat bepaalde cellen zich migreren naar de buitenkant waardoor er een holte ontstaat,2025-09-17T15:02:05.989153+00:00
+assistant,"Je denkt goed na over het mechanisme! Inderdaad, er vindt een proces plaats waardoor er een ruimte (âholteâ) tussen de twee bladen ontstaat. Het is niet zo dat cellen wegtrekken, maar eigenlijk **scheidt** het laterale plaatmesoderm zich in twee lagen, waardoor er zich **een splijtruimte** vormt tussen het pariÃ«taal en visceraal bladâen dÃ¡t wordt de lichaamsholte (coeloom).
+
+Waarom is het belangrijk dat deze lichaamsholte ontstaat tijdens de embryonale ontwikkeling? Wat is het voordeel hiervan voor de embryoâen later het volwassen lichaam?",2025-09-17T15:02:16.699506+00:00
+user,voor transport van stoffen misschien,2025-09-17T15:02:33.716603+00:00
+assistant,"Dat is een interessante gedachte! Transport van stoffen is inderdaad Ã©Ã©n van de functies van lichaamsholten, maar kun je ook bedenken welke **andere** voordelen zoân lichaamsholte kan bieden voor de organen die erin liggen? Denk aan beweging, groei, of bescherming van organen. Wat doet zoân âvrije ruimteâ voor onze organen?",2025-09-17T15:02:48.650965+00:00
+user,dat er ruimte tussen de organen zit?,2025-09-17T15:02:59.799284+00:00
+assistant,"Precies! De lichaamsholte zorgt ervoor dat er **ruimte tussen de organen** is. Dit maakt het mogelijk dat organen vrij kunnen bewegen en uitzetten (zoals de longen bij het ademen of het hart bij het pompen), en helpt ook om de organen te beschermen tegen wrijving en schokken.
+
+Nu je de kernprocessen in de gezonde embryonale ontwikkeling begrijpt, gaan we terug naar de oorspronkelijke casus:
+
+Een baby werd geboren met een defect aan de buikwand, waarbij delen van de darmen buiten het lichaam lagen (gastroschisis).
+
+Kun je nu met wat je geleerd hebt uitleggen wat er in dit geval misging?",2025-09-17T15:03:10.622774+00:00
+user,"de darmen zijn niet goed gevormd door de endoderme kiemlaag, maar waarschijnlijk door een andere laag waardoor ze buiten het lichaam kwamen te liggen.",2025-09-17T15:03:49.171847+00:00
+assistant,"Interessante uitleg! Je noemt terecht de endodermlaag voor de darmbekleding, maar denk nog eens aan de buikholte en buikwand. Welke embryonale processen zijn hier belangrijk, zodat de darmen binnenshuis (=in de buikholte) blijven tijdens de ontwikkeling?
+
+Wat gebeurt er zÃ³nder goede embryonale plooivorming of zonder correcte sluiting van de lichaamswand? Wil je dit proberen te verklaren in relatie tot de buikwand en het laterale plaatmesoderm?",2025-09-17T15:03:58.367901+00:00
+user,De embryonale plooivorming is dan waarschijnlijk ook niet goed gegaan doordat de darmen niet op de juiste positie zitten.,2025-09-17T15:04:27.082995+00:00
+assistant,"Heel goed! Je koppelt het aan de embryonale plooivorming. Inderdaad, als die plooivorming of de sluiting van de lichaamswand niet goed verloopt, kunnen organen zoals de darmen buiten de buikholte terechtkomen.
+
+Wil je proberen te verklaren welke rol het laterale plaatmesoderm hierin speelt? Wat gebeurt er als het somatisch (pariÃ«taal) mesoderm niet goed naar de middenlijn sluit?",2025-09-17T15:04:35.238417+00:00
+user,dan ontstaat er een grote holte / ruimte.,2025-09-17T15:04:46.052024+00:00
+assistant,"Precies. Er blijft dan een opening in de buikwand over, waar normaal gesproken het pariÃ«taal (somatisch) mesoderm samenkomt en sluit. Daardoor kunnen de ingewanden via deze opening naar buiten treden.
+
+Nu een laatste vraag voordat we afronden: Waarom zou een baby kleiner kunnen zijn dan verwacht bij een gastroschisis, zelfs als het probleem alleen in de buikwand zit? Wat zou het effect kunnen zijn op groei of voeding?",2025-09-17T15:04:53.800859+00:00
+user,misschien door te weinig transport van voedingsstoffen,2025-09-17T15:05:16.951383+00:00
+assistant,"Dat is een goed begin! Klopt, het kan te maken hebben met voedingsstoffen. 
+
+Wil je er nog iets verder over nadenken? Stel je de situatie voor: de darmen liggen buiten het lichaam en zijn blootgesteld aan het vruchtwater. Denk aan mogelijke schade aan de darmen, opname van voedingsstoffen, of groei. Wat kan er dan gebeuren?",2025-09-17T15:05:24.932643+00:00
+user,afvalstaffen kunnen er ook terechtkomen en die zijn schadelijk,2025-09-17T15:05:45.435847+00:00
+assistant,"Dat is heel goed bedacht! Inderdaad, als de darmen in contact zijn met het vruchtwater, kunnen ze beschadigd raken door verschillende stoffen, ook afvalstoffen, in het vruchtwater. Dit kan de opname van voedingsstoffen verstoren en zo de groei van de baby remmen.
+
+Nu is het tijd voor de afrondende vraag om te kijken hoe goed je het geheel begrijpt:
+
+**Hoe begrijp je nu de oorzaken achter de klinische bevindingen in deze casus? Schrijf zoveel mogelijk details opâje gedachten, redenering en de link met wat je hebt geleerd. Hoe completer je uitleg, des te meer je er van leert!**",2025-09-17T15:06:11.609269+00:00
+user,Doordat de laterale plaatmesoderm 2 cellagen heeft en de somatische cellaag niet goed naar de middellijn sluit ontstaat er een opening in de buikwand. Daardoor komen de darmen buiten het lichaam te liggen.,2025-09-17T15:07:42.958322+00:00
+assistant,"Prima uitleg! Je koppelt de sluiting van het somatisch mesoderm/latere buikwand aan het ontstaan van de opening en het buiten het lichaam liggen van de darmen.
+
+Hier is nog een nieuwe situatie waarmee je je kennis kunt toetsen:
+
+Een 27-jarige zwangere vrouw krijgt bij 13 weken een echo. Er wordt bij de baby een midlijnopening in de onderrug gezien, met een met vocht gevulde zak waar delen van het ruggenmerg en zijn vliezen uitsteken. De diagnose is spina bifida met myelomeningocele, een ernstige vorm van een neuraalbuisdefect.
+
+Kun je uitleggen wat er bij deze casus misging?",2025-09-17T15:07:54.466518+00:00
+user,De neurale buis is niet goed gesloten tijdens de ontwikkeling waardoor er een cyste ontstaat / een gevulde holte met vocht en ruggenmerg,2025-09-17T15:08:28.875929+00:00
+assistant,"Precies! De neurale buis is inderdaad niet goed gesloten, waardoor een met vocht gevulde holte is ontstaan waar ruggenmerg en vliezen uitstulpen.
+
+Wil je nog proberen te benoemen uit welke kiemlaag de neurale buis (en dus het zenuwstelsel) ontstaat? En waarom kinderen met spina bifida klachten kunnen krijgen van de benen of blaas/darm?",2025-09-17T15:08:36.567483+00:00
+user,De neurale buis ontstaat uit de ectoderme laag. kinderen krijgen klachten van de benen of blaas/darm doordat het wervelkolom zijn functie hierover kan verliezen,2025-09-17T15:09:32.149315+00:00
+assistant,"Klopt helemaal! De neurale buis ontstaat uit het ectoderm, en als deze niet goed sluit kunnen zenuwen die naar de benen of blaas/darm gaan beschadigd raken, wat tot uitval leidt.
+
+Goed gedaan! Je hebt nu de kennis over embryonale ontwikkeling toegepast op verschillende situaties. Als je nog vragen hebt mag je ze stellen, anders: mooi werk vandaag!",2025-09-17T15:09:39.757674+00:00
+user,welke onderdelen worden nou precies uit de 3 kiemlagen gevormd?,2025-09-17T15:13:52.938185+00:00
+assistant,"Goede vraag! Hier een beknopt overzicht:
+
+**Ectoderm (buitenste kiemlaag):**
+- Zenuwstelsel (hersen, ruggenmerg, zenuwen)
+- Opperhuid (epidermis) en afgeleiden (haar, nagels, zweetklieren)
+- Ooglens en cornea
+- Pigmentcellen (melanocyten)  
+- Gehoor- en reukzintuigen
+
+**Mesoderm (middelste kiemlaag):**
+- Spieren
+- Botten en kraakbeen
+- Bloedvaten en hart
+- Nieren en urinewegen (grotendeels)
+- Bindweefsel
+- Geslachtsklieren
+- Milt
+- Vliezen rond organen (bijv. buikvlies)
+
+**Endoderm (binnenste kiemlaag):**
+- Bekleding van het spijsverteringskanaal (slokdarm t/m endeldarm; behalve mond en anus)
+- Bekleding van luchtwegen
+- Lever en pancreas (alvleesklier)
+- Schildklier, bijschildklieren, thymus
+- Urineblaas (bekleding)
+
+Wil je over een specifiek orgaan weten uit welke laag het ontstaat?",2025-09-17T15:14:11.316092+00:00
+assistant,"**OVERALL SUMMARY**  
+Goed gedaan! Je laat zien dat je actief meedenkt en vragen durft te stellen wanneer je iets niet zeker weet, wat erg belangrijk is in het leerproces. Je verbindt nieuwe informatie telkens aan je bestaande kennis en je blijft gemotiveerd meedoen, zelfs bij de lastigere vragen.
+
+**WHAT YOU DID WELL**
+- **Strong Grasp of:**  
+  Je hebt een goede basiskennis van de drie kiemlagen (ectoderm, mesoderm, endoderm) en hun algemene functies. Je kon ventraal/dorsaal en gastrulatie netjes uitleggen. Ook de koppeling van embryonale plooivorming met positionering van organen begreep je goed.
+- **Good Application of:**  
+  Je paste je kennis toe op casussen (gastroschisis en spina bifida) en gaf een correcte redenatie over hoe deze ontwikkelingsstoornissen ontstaan. Je benoemde de rol van het laterale plaatmesoderm bij de buikwand Ã©n kon uitleggen waarom een buikwanddefect leidt tot problemen bij de baby.
+
+**AREAS FOR GROWTH & FOCUS**
+- **Reviewing Key Terms:**  
+  Soms twijfelde je bij het benoemen van structuren die uit het mesoderm of endoderm ontstaan. Enkele termen als âpariÃ«taal/visceraal mesodermâ en hun precieze functies kunnen nog verder worden aangescherpt.
+- **Connecting the Dots:**  
+  Je liet regelmatig al prima zien hoe processen in elkaar grijpen (bijvoorbeeld bij plooivorming en sluiting van lagen). Er is nog wat winst te behalen in het Ã©cht koppelen van iedere kiemlaag aan specifieke eindstructuren, zodat je bij elk klinisch voorbeeld meteen de juiste kiemlaag noemt.
+- **Applying Theory to Practice:**  
+  Je deed dit al goed bij de gegeven casussen, dus blijf hiermee oefenen!
+
+**ACTIONABLE STUDY RECOMMENDATIONS**  
+Maak een overzichtelijke concept map/diagram van de drie kiemlagen en zet per kiemlaag de belangrijkste organen/structuren erbij. Teken bijvoorbeeld pijlen vanuit ectoderm, mesoderm en endoderm naar hun afgeleiden als zenuwstelsel, spieren, darmen, enzovoorts. Dit geeft snel inzicht en helpt je in de toekomst sneller de juiste koppelingen te maken bij nieuwe casussen!",2025-09-17T15:14:54.36+00:00

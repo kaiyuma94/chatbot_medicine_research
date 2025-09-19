@@ -1,0 +1,40 @@
+role,content,created_at
+user,hoi,2025-09-17T14:47:58.247389+00:00
+assistant,"Hallo! Laten we beginnen met leren. Hier is de klinische casus om je te helpen de theorie te plaatsen:
+
+**VIGNETTE:**  
+Een gezonde 25-jarige vrouw krijgt routine prenatale zorg. Op een echo bij 24 weken zwangerschap wordt een kleine opening (ongeveer 5 mm) aan de rechterzijde van de buik van de baby gezien, vlakbij de navelstreng. Genetisch onderzoek is normaal. Naarmate de tijd verstrijkt, wordt de opening groter en darmdelen worden buiten de buik gezien, drijvend in het vruchtwater. Na de geboorte bij 37 weken vindt men delen van de darm en maag buiten de buik. Diagnose: gastroschisis, een defect in de buikwand.
+
+Hier komt mijn eerste vraag om de basis te checken:
+
+Wat is gastrulatie?",2025-09-17T14:48:11.312329+00:00
+user,het vormen van drie kiemlagen uit twee kiemlagen,2025-09-17T14:48:45.505358+00:00
+assistant,"Dat klopt! Gastrulatie is inderdaad het proces waarbij uit twee primaire kiemlagen (epiblast en hypoblast) drie definitieve kiemlagen ontstaan: ectoderm, mesoderm en endoderm.
+
+Nu een volgende basisvraag om je kennis verder te checken:
+
+Kun je de drie kiemlagen opnoemen die na gastrulatie ontstaan?",2025-09-17T14:48:52.60226+00:00
+user,"ectoderm, mesoderm en endoderm",2025-09-17T14:49:16.335175+00:00
+assistant,"Precies goed! De drie kiemlagen zijn ectoderm, mesoderm en endoderm.
+
+Laten we doorgaan met een volgende belangrijke term binnen dit onderwerp:
+
+Wat is embryonale plooivorming (embryonic folding)?",2025-09-17T14:49:21.826091+00:00
+user,"als de lagen naar elkaar gaan vouwen, ontstaat er een groeve in het midden van het embryo",2025-09-17T14:49:50.618896+00:00
+assistant,Je zit in de goede richting: embryonale plooivorming gaat inderdaad over het bewegen en vouwen van lagen. Kun je iets specifieker uitleggen welk soort vouwen er gebeurt en waarom deze plooivorming belangrijk is voor het embryo? Wat verandert er tijdens deze plooivorming aan de basisstructuur van het embryo?,2025-09-17T14:49:58.504846+00:00
+user,"Tijdens de plooivorming wordt het embryo geen platte schijf meer, maar meer 3d",2025-09-17T14:50:22.260569+00:00
+assistant,"Heel goed! Tijdens de embryonale plooivorming verandert het embryo van een platte schijf naar een driedimensionale structuur, waarmee het de basisvorm van een âlichaamâ krijgt.
+
+Laten we nu een verdiepingsslag maken met een volgende basisbegrip:
+
+Kun je benoemen welke vier hoofdonderdelen van het mesoderm er zijn na de differentiatie?",2025-09-17T14:50:29.656612+00:00
+user,"hart, en de andere weet ik niet",2025-09-17T14:50:48.322544+00:00
+assistant,"Het klopt dat uit het mesoderm organen zoals het hart ontstaan, maar ik bedoel hier de indeling van het mesoderm zelf in vier delen, direct na de verschillen in het kiemblad.
+
+Denk aan termen als ""axiaal"", ""paraxiaal"", enzovoort. Kun je proberen deze vier termen te noemen, of weet je waar ze zich in het embryo bevinden?",2025-09-17T14:50:59.469065+00:00
+user,Nee weet ik niet,2025-09-17T14:51:07.892179+00:00
+assistant,"Geen probleem, dit zijn belangrijke basisbegrippen. Het mesoderm wordt onderverdeeld naar ligging ten opzichte van de middellijn van het embryo. Kun je je herinneren of je termen als âaxiaal mesodermâ, âparaxiaal mesodermâ, âintermediair mesodermâ of âlaterale plaat mesodermâ eerder hebt gehoord? Welke volgorde (van midden naar buiten) zou volgens jou logisch zijn?",2025-09-17T14:51:16.612645+00:00
+user,"Nee dit heb ik niet eerder gehoord. Ik denk dat je van buiten naar binnen: laterale plaat, paraxiaal mesoderm, axiaal mesoderm en intermediair mesoderm",2025-09-17T14:51:57.781946+00:00
+assistant,"Je hebt al een paar van de juiste termen genoemd! Maar de volgorde klopt nog niet helemaal. Misschien helpt het als ik een klein beetje uitleg geef zonder alles weg te geven:
+
+Het **axiale mesoderm** ligt precies in het midden, langs de as van het embryo. Rechts en links daarvan ligt het **paraxiale mesoderm**. Wat zou logischerwijs dan verder naar buiten komen: het intermediair mesoderm of het laterale plaat mesoderm? Kun je het schema afmaken van het midden naar buiten toe?",2025-09-17T14:52:07.657695+00:00

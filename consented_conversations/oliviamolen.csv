@@ -1,0 +1,136 @@
+role,content,created_at
+user,ik ben klaar om te beginnen,2025-09-17T13:44:27.661492+00:00
+assistant,"Prima! Hier is de casus om te starten:
+
+Een 25-jarige, gezonde vrouw had een normale zwangerschap. Tijdens een echo in week 24 bleek er een kleine opening (ongeveer 5 mm) aan de rechterkant van de buik van de baby te zitten, vlakbij de navelstreng. Later werd deze opening groter (tot 34 mm) en de darmen lagen buiten de buik, zwevend in het vruchtwater. De baby was ook kleiner dan verwacht. Na een keizersnede bij 37 weken lag bij de jongen het grootste deel van de dunne en dikke darm, en de maag, buiten de buik. De diagnose was gastroschisis.
+
+Laten we starten met de eerste kennisvraag:
+
+Wat is gastrulatie?",2025-09-17T13:44:38.667855+00:00
+user,het vormen van de neurale wand,2025-09-17T13:45:04.355348+00:00
+assistant,"Dat is een goede poging! Gastrulatie en de vorming van de neurale wand (neurale buis) zijn beide belangrijke stappen in de embryonale ontwikkeling, maar gastrulatie is net iets eerder en heeft een andere focus.
+
+Kun je nog eens nadenken: wat gebeurt er tijdens gastrulatie met de cellen van het embryo? Denk aan het aantal lagen en de naam van deze lagen. Wat weet je over de verschillende kiemlagen die ontstaan bij gastrulatie?",2025-09-17T13:45:15.483391+00:00
+user,"de embryo gaat van 2 cellagen naar 3 cellagen waarbij de kiemlagen ontstaan, endoderm ectoderm en mesoderm",2025-09-17T13:45:43.009613+00:00
+assistant,"Heel goed! Tijdens gastrulatie verandert het embryo van twee naar drie kiemlagen: endoderm, mesoderm en ectoderm. Dit zijn de basislagen waaruit later alle organen en structuren van het lichaam ontstaan.
+
+Laten we nog even bij de terminologie blijven.  
+Kun je de drie kiemlagen â endoderm, mesoderm en ectoderm â elk kort benoemen? Dus: noem Ã©Ã©n structuur of orgaan die uit iedere kiemlaag ontstaat.",2025-09-17T13:45:54.084058+00:00
+user,endoderm: darmen mesoderm: organen ectoderm: huid en zenuwen,2025-09-17T13:46:25.698238+00:00
+assistant,"Goed! Je noemt kernachtige voorbeelden per kiemlaag:
+
+- Endoderm: darmen  
+- Mesoderm: organen  
+- Ectoderm: huid en zenuwen
+
+Zou je bij ""mesoderm"" iets specifieker kunnen zijn? Er zijn veel organen â aan welk type weefsel of structuur denk je, als het gaat om een directe afgeleide van het mesoderm? (Tip: Denk aan dingen als spieren, botten, bloedvatenâ¦)
+
+
+En als je wilt verdergaan:  
+We gebruiken termen als ""caudaal, craniaal, ventraal, en dorsaal"" om posities in het embryo te beschrijven. Wat betekent âventraalâ in de embryonale anatomie?",2025-09-17T13:46:36.959405+00:00
+user,mesoderm is botten en bloedvaten ventraal is bij de buik door het midden,2025-09-17T13:47:05.065766+00:00
+assistant,"Dat klopt! Mesoderm vormt inderdaad onder andere de botten, spieren en bloedvatenâpreciezer zo. Je uitleg over ""ventraal"" is ook juist: ventraal betekent aan de buikzijde, of de âvoorkantâ van het embryo (in tegenstelling tot âdorsaalâ, de rugzijde).
+
+Nog Ã©Ã©n term om deze kennisfase af te ronden:
+Welke vier hoofdsubindelingen kent het mesoderm in het embryo, dus de namen van de vier regioâs? Ze liggen als stroken naast elkaar ten opzichte van de middenlijn van het embryo.",2025-09-17T13:47:14.013574+00:00
+user,bot spier bloed,2025-09-17T13:47:45.511599+00:00
+user,ik weet niet welke regios het waren,2025-09-17T13:50:17.560578+00:00
+assistant,"Geen probleem, dit is een lastige! Laten we het samen stap voor stap bekijken.
+
+Het mesoderm wordt in het embryo verdeeld in vier hoofdgebieden, van het midden naar buiten toe. Kun je bedenken wat âaxiaalâ betekent en waar het zich ongeveer bevindt? En heb je al eens gehoord van âparaxiaal mesodermâ? Wat zou dat betekenen?
+
+Probeer eens te raden: als axiaal het midden betekent, waar zou het paraxiaal dan liggen?",2025-09-17T13:50:25.791942+00:00
+user,vlak buiten het midden?,2025-09-17T13:51:07.536398+00:00
+assistant,"Precies! âParaxiaalâ betekent inderdaad vlak buiten of naast het midden (naast het axiaal mesoderm).
+
+Dus, van binnen naar buiten in het embryo heb je:
+1. Axiaal mesoderm (midden)
+2. Paraxiaal mesoderm (naast het midden)
+3. ... ? (tussen paraxiaal en de buitenkant)
+4. ... ? (helemaal aan de zijkant/in de periferie)
+
+We missen er nu nog twee. Kun je, misschien met wat nadenken of terugdenken aan de termen, een gok doen naar de namen van die andere twee mesodermale gebieden? (Beginnen met een âiâ en een âlâ...)",2025-09-17T13:51:18.176488+00:00
+user,interaxiaal en lateral,2025-09-17T13:51:47.779428+00:00
+assistant,"Je bent heel dicht in de buurt!
+
+De correcte termen zijn:
+- **Intermediate mesoderm** (niet interaxiaal): dit ligt tussen het paraxiaal en lateral plate mesoderm.
+- **Lateral plate mesoderm**: dit zit het meest aan de buitenkant.
+
+Goed geprobeerd!  
+Laten we even herhalen:
+- Axiaal mesoderm (het midden)
+- Paraxiaal mesoderm (naast het midden)
+- Intermediate mesoderm (tussen paraxiaal en lateraal)
+- Lateral plate mesoderm (aan de zijkant)
+
+Nu je deze basale terminologie beheerst, gaan we naar de processen.  
+Kun je uitleggen wat er gebeurt tijdens de embryonale folding (embryonaal vouwen)?",2025-09-17T13:51:59.273871+00:00
+user,"de embryo gaat vouwen, hierdoor komt bijv het hart op de goede plek te liggen, de neurale buis die sluit ook dacht ik en uiteinden van de embryo bewegen naar het midden",2025-09-17T13:53:09.420933+00:00
+assistant,"Goed, je hebt de kern te pakken: het embryo ondergaat een vouwproces waarbij structuren naar hun juiste positie worden gebracht.
+
+Een kleine aanvulling: bij embryonale folding zijn er twee hoofdtypen vouwen die plaatsvinden â kun je herinneren *welke richtingen* deze vouwen plaatsvinden? Probeer te denken aan vouwen over de lengteas en de breedteas.
+
+Kun je benoemen hoe deze vouwprocessen precies heten (over welke as) en wat het gevolg is voor de ligging van de dooierzak en het embryo zelf?",2025-09-17T13:53:18.430299+00:00
+user,ventraal en lateraal,2025-09-17T13:53:40.328822+00:00
+assistant,"Je bent erg dichtbij! âVentraleâ folding is inderdaad Ã©Ã©n van de richtingen. De twee processen van embryonale folding heten meestal:
+
+- **Craniocaudale vouwen** (de lengteas, van kop naar staart)  
+- **Laterale vouwen** (de breedteas, van zijkant naar het midden)
+
+Beide zorgen ervoor dat het embryo zich rond de dooierzak buigt:  
+- Craniocaudale vouwen brengen de hoofd- en staartregio naar de ventrale zijde.
+- Laterale vouwen brengen de zijranden van het embryo naar elkaar toe aan de ventrale zijde, zodat de buikwand gesloten raakt.
+
+Wil je nog heel kort in je eigen woorden samenvatten wat het belangrijkste gevolg is van deze gecombineerde vouwprocessen voor de bouw van het embryo?",2025-09-17T13:53:54.989073+00:00
+user,hierdoor komen organen op de juiste plek en komen de kiembladen op de juiste plek,2025-09-17T13:54:22.556976+00:00
+assistant,"Goed samengevat! Embryonale folding zorgt ervoor dat de organen en kiemlagen op de juiste plek terechtkomen en het lichaam van het embryo zijn definitieve vorm krijgt, inclusief het sluiten van de buikwand aan de ventrale zijde.
+
+We gaan nu een stapje verder:  
+Kun je uitleggen waarom de vorming van de lichaamscaviteiten (lichaamsholten) â zoals de buikholte â belangrijk is tijdens de ontwikkeling? Wat is het nut van die holtes voor de organen?",2025-09-17T13:54:31.188555+00:00
+user,uit de buikholte ontstaan de darmen dus dat is belangrijk bij de ontwikkeling,2025-09-17T13:55:14.373639+00:00
+assistant,"Je zit op het goede spoor! De buikholte is inderdaad een plek waar o.a. de darmen zich ontwikkelen.
+
+Maar denk eens na: Wat is een belangrijk voordeel voor organen om in een lichaamsholte te liggen in plaats van âvastâ in weefsel? Hoe helpt die holte de organen met bijvoorbeeld bewegen of groeien?
+
+Kun je nog wat toevoegen aan je antwoord over het functionele voordeel van zoân holte voor de organen?",2025-09-17T13:55:22.460276+00:00
+user,organen kunnen dan vrij bewegen en groeien en nog schuiven kwa richting waar ze uiteindelijk moeten belanden,2025-09-17T13:55:54.844061+00:00
+assistant,"Exact! De lichaamsholten geven organen inderdaad de ruimte om vrij te bewegen, te groeien, en tijdens de ontwikkeling (en later ook bij volwassenen) op hun plek terecht te komen of licht te verschuivenâbelangrijk voor hun functie en voor de bescherming ervan.
+
+Goed, je hebt nu de basisbegrippen en processen helder!  
+Laten we de casus van het begin herhalen:
+
+Een baby werd geboren met een opening in de buikwand, waardoor delen van de darmen en de maag buiten het lichaam lagen (gastroschisis).
+
+Kun je met jouw opgedane kennis uitleggen wat er in dit geval is misgegaan tijdens de embryonale ontwikkeling?",2025-09-17T13:56:05.274083+00:00
+user,er is iets mis gegaan bij de vouwing in speciefiek bij het ontstaan van de buikholte deze werd niet gevormd,2025-09-17T13:56:45.106033+00:00
+assistant,"Dat is een goed begin! Je benoemt dat het misging met de vouwing en de vorming van de buikholte.
+
+Kun je dat iets verder uitleggen? Denk aan *waarom* die buikwand niet volledig sloot. Welke stap bij de embryonale folding â in een laterale richting â zou hierbij betrokken kunnen zijn? En wat was daar het gevolg van voor de darmen?
+
+Kun je proberen te beschrijven hoe een onvolledige ventrale sluiting tot gastroschisis kan leiden?",2025-09-17T13:56:54.551798+00:00
+user,"de vouwing ging niet helemaal goed, hij werd niet helemaal dicht gevouwen hierdoor konden de darmen ook naar buiten bewegen tijdens de ontwikkeling en ging de holte te ver dicht groeien voor de darmen om weer naar binnen te gaan",2025-09-17T13:58:22.27841+00:00
+assistant,"Mooi uitgelegd! Je vertelt dat de vouwing niet volledig is verlopen, waardoor de buikwand niet geheel is gesloten en de darmen buiten het embryo kwamen te liggen.
+
+Denk ook nog even aan dit detail:  
+Gastroschisis ontstaat specifiek door het uitblijven van een volledige **ventrale sluiting** van de buikwand (door laterale vouwen). Hierdoor ontstaat een opening waardoor de darmen (en soms de maag) uit het embryo kunnen komen te liggen en in het vruchtwater terechtkomen.
+
+Laatste doorvraag:  
+Waarom zou het zijn dat het kind in deze casus kleiner was dan verwacht, terwijl de afwijking zich vooral toont als een open buikwand? Wat zou het effect kunnen zijn van de darmen die zich buiten het lichaam in het vruchtwater bevinden op de groei van het kind?",2025-09-17T13:58:34.109681+00:00
+assistant,"**OVERALL SUMMARY**  
+Goed gedaan! Je hebt je actief ingezet, meegedacht en was niet bang om meerdere pogingen te ondernemen, ook als het even lastig werd. Je laat zien dat je bereid bent verder te denken en te leren uit feedback. Je ontwikkeling in deze oefening is duidelijk zichtbaar!
+
+**WHAT YOU DID WELL**
+- **Strong Grasp of:** De basisembryologie zoals kiemlagen, hun afgeleiden en het begrip folding. Je herkende het belang van processen als de embryonale vouw, functionele voordelen van lichaamsholten en kon goed meedenken over afwijkingen zoals gastroschisis.
+- **Good Application of:** Je wist je basiskennis toe te passen op de casus en legde een prima verband tussen een verstoring in de embryonale folding en de klinische presentatie (darmen buiten het lichaam). Je kon feedback verwerken en je antwoorden daarop aanpassen.
+
+**AREAS FOR GROWTH & FOCUS**
+- **Reviewing Key Terms:** Je vond het soms lastig om specifieke termen, zoals de subindelingen van het mesoderm, direct te benoemen. Ook de exacte terminologie (zoals âcraniocaudaalâ i.p.v. âventraal vouwenâ) kan nog wat aandacht gebruiken.
+- **Connecting the Dots:** Je kon basale processen uitleggen, maar soms bleef het antwoord wat algemeen (bijvoorbeeld âorganen ontstaan uit het mesoderm/organen op de juiste plekâ). Hier kun je winnen door preciezer te benoemen welke organen/weefsels tot welk kiemblad behoren en welke processen bij een afwijking misgaan.
+- **Applying Theory to Practice:** Je hebt de stap naar de kliniek goed gezet! Je uitleg over de pathofysiologie van gastroschisis was logisch, al zou je je redenering kunnen versterken met nog iets meer detail over de embryonale mechanismen.
+
+**ACTIONABLE STUDY RECOMMENDATIONS**  
+Omdat het benoemen en onderscheiden van specifieke termen en regioâs (zoals de mesodermsubindelingen) nog best lastig ging, is het slim om hier wat extra op te focussen:
+- Maak een overzichtelijk schema of een concept map van alle belangrijke begrippen rond de embryonale kiemlagen en het vouwen, met hun functies en afgeleiden. Door het visueel te maken, onthoud je sneller welke termen waar horen en kun je processen beter koppelen aan klinische presentaties.
+
+Blijf vooral oefenen met deze aanpak â je bent goed op weg!",2025-09-17T13:59:18.249+00:00

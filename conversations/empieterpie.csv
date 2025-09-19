@@ -1,0 +1,137 @@
+role,content,created_at
+user,hi,2025-09-17T14:03:38.736297+00:00
+assistant,"Hello! Let's get started by looking at a clinical case to guide our learning:
+
+A healthy 25-year-old woman had routine prenatal care. At 24 weeks of pregnancy, an ultrasound revealed a small opening (~5 mm) on the right side of the babyâs belly, near the umbilical cord. Genetic tests (amniotic fluid analysis) at 26 weeks were normal. Over time, the opening enlarged (up to 34 mm), and parts of the babyâs intestines were seen floating in the amniotic fluid. The baby also measured smaller than expected. At 37 weeks, a caesarean section was performed. The newborn boy had parts of his small and large intestines, and stomach, located outside the abdomen. The supporting tissue was short, and the bowel appeared swollen. The diagnosis was gastroschisis, a defect in the abdominal wall.
+
+Letâs begin building your foundational knowledge. 
+
+**First question:**  
+Can you name the three primary germ layers formed early in embryonic development?",2025-09-17T14:03:53.084766+00:00
+user,"endoderm, mesoderm en ectoderm",2025-09-17T17:40:34.014953+00:00
+assistant,"Correct! The three primary germ layers are the endoderm, mesoderm, and ectoderm.
+
+Letâs keep building your vocabulary.
+
+What is **gastrulation**, and at which week of embryonic development does this process typically occur?",2025-09-17T17:40:40.224548+00:00
+user,"gastrulatie is het proces waarin de bilaminaire schijf een trilaminaire schijf wordt. Hij gaat dus van hypoblast en epiblast naar mesoderm, ectoderm en endoderm. Dit gebeurt in de 3de week van de embryonale ontwikkeling",2025-09-17T17:41:56.986514+00:00
+assistant,"Heel goed! Gastrulatie is inderdaad het proces waarbij de bilaminaire schijf (epiblast en hypoblast) wordt omgevormd tot een trilaminaire schijf (ectoderm, mesoderm en endoderm), en dit vindt plaats in de derde week van de embryonale ontwikkeling.
+
+Laten we nu een ander kernbegrip behandelen:
+
+Wat wordt bedoeld met **embryonale vouwing** (âembryonic foldingâ)?",2025-09-17T17:42:33.197776+00:00
+user,Hiermee wordt bedoeld dat de embryo zich zowel in de lengte als in de breedte vouwt,2025-09-17T17:43:25.725763+00:00
+assistant,"Dat klopt! Embryonale vouwing betekent dat de embryonale schijf zich zowel in de lengte (craniaal-caudale richting) als in de breedte (laterale richting) opvouwt.
+
+Kun je uitleggen **waarom** deze vouwing belangrijk is voor de ontwikkeling van het embryo?",2025-09-17T17:43:34.618875+00:00
+user,Zodat de organen kunnen ontstaan,2025-09-17T17:43:55.613194+00:00
+assistant,"Dat is een goed begin! Het kloppen van vouwing is dat het belangrijk is voor de orgaanvorming.
+
+Denk iets specifieker: embryonale vouwing zorgt ervoor dat de platte embryonale schijf een meer buisvormige structuur krijgt. Hierdoor kunnen de verschillende lichaamswanden en holtes ontstaan, en worden de organen op hun juiste plek gebracht.
+
+Kun je benoemen welke **richting** de vouwing heeft (bijvoorbeeld craniaal, caudaal, lateraal) en welk gevolg dit heeft voor de ligging van bijvoorbeeld de dooierzak en het intraembryonale coeloom?",2025-09-17T17:44:06.828886+00:00
+user,de vouwing gaat van craniaal naar caudaal en lateraal en dit zorgt ervoor de dooierzak aan de ventrale kant komt en de intraembryonale coeloom aan de dorsale kant,2025-09-17T17:45:36.135829+00:00
+assistant,"Je hebt goed de richtingen benoemd: de vouwing vindt zowel craniaal-caudaal als lateraal plaats! 
+
+Let alleen op de ligging: tijdens de vouwing wordt een deel van de dooierzak opgenomen in het embryo als de primitieve darm, terwijl het grootste deel buiten het embryo blijft als de extraembryonale dooierzak. Het intra-embryonale coeloom (de toekomstige lichaams-holte) ligt intern en vormt uiteindelijk de lichaamsholten.
+
+Nog Ã©Ã©n basiselement:  
+Kun je de vier hoofdonderdelen (subdivisies) van het mesoderm benoemen?",2025-09-17T17:46:11.017563+00:00
+user,nee sorry,2025-09-17T17:47:00.630391+00:00
+assistant,"Geen probleem! Laten we het samen verkennen.
+
+Het mesoderm wordt in de embryonale ontwikkeling verdeeld in vier hoofdsubdivisies. Kun je misschien bedenken of een van deze in de buurt van de rug of van de organen ligt? Wat weet je nog meer over het mesoderm of zijn subdelen?",2025-09-17T17:47:08.714291+00:00
+user,ik ken het paraxiaal mesoderm deze ligt denk ik bij de rug,2025-09-17T17:47:27.458757+00:00
+assistant,"Dat klopt! Het paraxiale mesoderm ligt inderdaad naast de chorda dorsalis (bij de rug) en vormt onder andere de somieten.
+
+De andere drie hoofdonderdelen zijn het axiaal mesoderm (de chorda zelf), het intermediaire mesoderm (tussen paraxiaal en lateraal), en het lateraal plaat mesoderm (aan de zijkant).
+
+Wil je proberen de functies of structuren te benoemen die door (een van) deze andere mesodermale subdivisies worden gevormd?",2025-09-17T17:47:36.524594+00:00
+user,wat is de chorda?,2025-09-17T17:47:52.586552+00:00
+assistant,"Goede vraag! Laten we het kort verkennen:  
+De **chorda** (voluit: chorda dorsalis) is een structuur die tijdens de vroege embryonale ontwikkeling ontstaat.
+
+Weet je of de chorda uit Ã©Ã©n van de kiemlagen (ectoderm, mesoderm, endoderm) ontstaat? En kun je bedenken wat de functie is van de chorda tijdens de embryonale ontwikkeling?",2025-09-17T17:48:02.040808+00:00
+user,ik denk dat het uit het mesoderm ontstaat en dat het een functie heeft bij de neurulatie,2025-09-17T17:48:52.17564+00:00
+assistant,"Precies juist! De chorda dorsalis ontstaat uit het **axiaal mesoderm** en speelt een belangrijke rol bij de neurulatie â het proces waarbij de neurale buis (de voorloper van het centrale zenuwstelsel) zich vormt. De chorda stuurt signalen uit naar het bovenliggende ectoderm om de vorming van de neurale plaat te stimuleren.
+
+Laten we nog een basisterm uitlichten:
+
+Wat betekent **ventraal** en **dorsaal** bij het beschrijven van de ligging van structuren in een embryo?",2025-09-17T17:49:02.579511+00:00
+user,ventraal is aan de kant van de buik en dorsaal is aan de kant van de rug,2025-09-17T17:49:24.85887+00:00
+user,klopt dat?,2025-09-17T17:52:12.093121+00:00
+assistant,"Goede vraag! Ik kan je helpen beoordelen of je uitleg klopt, maar ik zie hieronder nog geen uitleg van jou over het belang van gastrulatie.â¯Wil je proberen uit te leggenâ¯waarom dit proces zo essentieel is voor de embryonale ontwikkeling? Wat gebeurt er na gastrulatie dat zonder deze stap niet zou kunnen?",2025-09-17T17:52:19.565614+00:00
+user,de laterale vouwingen en neurulatie,2025-09-17T17:53:24.240229+00:00
+assistant,"Juist! Na gastrulatie vinden processen zoals laterale vouwingen en neurulatie plaats. Maar kun je een stapje dieper gaan: waarom zijn deze processen alleen mogelijk **na** gastrulatie, en niet ervoor? Wat is het verschil tussen de situatie vÃ³Ã³r en na gastrulatie voor het embryo, waardoor verdere lichaamsontwikkeling kan plaatsvinden?",2025-09-17T17:53:32.191317+00:00
+user,"Neurulatie is het ontstaan van de neurale buis uit het ectoderm dus daarvoor moet eerst wel gastrulatie plaatsvinden, want bij gastrulatie ontstaat endoderm, mesoderm en ectoderm",2025-09-17T17:55:30.420597+00:00
+assistant,"Precies, goed beredeneerd! Gastrulatie is essentieel omdat pas dan de drie kiemlagen â ectoderm, mesoderm en endoderm â gevormd zijn. Vanuit deze lagen kunnen alle organen en weefsels zich ontwikkelen. Dus zonder gastrulatie zou bijvoorbeeld het ectoderm (waaruit de neurale buis ontstaat) niet gevormd zijn, en kan neurulatie niet plaatsvinden.
+
+Laten we nu de stap maken naar embryonale vouwing:
+
+Kun je uitleggenâ¯waarom embryonale vouwing een belangrijke rol speelt bij de vorming van de lichaamswand en de interne organen? Probeer zo concreet mogelijk te zijn!",2025-09-17T17:55:46.648466+00:00
+user,Door de laterale vouwingen krijgt de embryo vorm en ontstaat er een lichaamswad,2025-09-17T17:56:30.736751+00:00
+assistant,"Dat klopt: door de laterale vouwing krijgt het embryo een buisvorm en ontstaat er een begin van de lichaamswand. Kun je uitleggen wat er met de positie van de kiemlagen gebeurt tijdens deze vouwing, en hoe dat helpt bij het âinsluitenâ van de organen en het vormen van de lichaamsholtes? Waarom is dat insluiten belangrijk?",2025-09-17T17:56:39.37771+00:00
+user,Bij de laterale vouwingen vouwt het mesoderm zich om het endoderm heen. Uit dit endoderm zullen de spijsverteringsorganen ontstaan. en het ectoderm wat boven op het mesoderm zit vormt de lichaamswand,2025-09-17T17:58:33.008808+00:00
+assistant,"Heel goed verwoord! Het endoderm wordt ingesloten door het mesoderm en omhuld door het ectoderm tijdens de vouwing. Hierdoor ontstaan het âbuis-in-buisâ-model, waarbij de organen (zoals de darmen) worden omgeven door de lichaamswand.
+
+Waarom is de correcte afsluiting van de ventrale zijde (dus het sluiten van de buis aan de buikzijde) zo belangrijk tijdens deze fase van ontwikkeling? Wat zijn mogelijke gevolgen als deze sluiting niet goed verloopt?",2025-09-17T17:58:41.83562+00:00
+user,"Hieruit ontstaan alle organen dus als deze niet goed sluit, ontwikkelen de organen van het embryo niet goed",2025-09-17T17:59:47.022821+00:00
+assistant,"Dat is een goed uitgangspunt! De sluiting van de ventrale zijde is inderdaad cruciaal, maar kun je het nog iets specifieker maken met betrekking tot de ligging van de organen? Wat gebeurt er bijvoorbeeld met de positie van organen zoals de darmen als de ventrale buis niet volledig sluit? Wat kan hiervan het gevolg zijn voor het embryo?",2025-09-17T17:59:54.285199+00:00
+user,"Hierdoor liggen de darmen heel hoog, waardoor het embryo later last kan krijgen van de stoelgang",2025-09-17T18:00:30.938074+00:00
+assistant,"Je zit op het goede spoor: als de ventrale zijde niet goed sluit, kunnen de darmen (en soms ook andere organen) buiten de buikwand terechtkomen, in plaats van netjes binnen de lichaamsholte te liggen. Dit kan direct na de geboorte problemen veroorzaken, bijvoorbeeld doordat de darmen niet beschermd zijn, kunnen uitdrogen of beschadigd raken.
+
+Laten we dit nu toepassen op het beginsel van de lichaamsholtes:
+
+Kun je uitleggen wat het **coeloom** is tijdens de embryonale ontwikkeling? Welke lichaamsholtes ontstaan hieruit later?",2025-09-17T18:00:41.08061+00:00
+user,hieruit ontstaat de darmholte,2025-09-17T18:01:03.347326+00:00
+assistant,"Bijna goed! Je verwart nu de darmholte (waaruit het spijsverteringskanaal ontstaat, vooral uit het ingesloten endoderm) met het coeloom.
+
+Het **intraembryonale coeloom** vormt zich als een ruimte in het mesoderm tijdens de embryonale ontwikkeling. Daaruit ontstaan later de lichaamsholtes, zoals de borstholte, buikholte en bekkenholte.
+
+Wil je proberen uit te leggen hoe het intraembryonale coeloom zich vormt? Wat gebeurt er in het laterale plaatmesoderm tijdens dit proces?",2025-09-17T18:01:12.950814+00:00
+user,het laterale plaatmesoderm vouwt zich volledig om het endoderm heen,2025-09-17T18:01:53.040396+00:00
+assistant,"Heel goed, het laterale plaatmesoderm vouwt zich inderdaad om het endoderm heen. Maar denk nog iets verder: het laterale plaatmesoderm splitst zich in twee lagenâweet je misschien hoe deze twee lagen heten en wat ertussen ontstaat? Wat vormt zich tussen deze lagen?",2025-09-17T18:02:00.818149+00:00
+user,het axiaal mesoderm en het paraxiaal mesoderm. ik weet niet wat er tussen deze lagen licht,2025-09-17T18:02:38.911913+00:00
+assistant,"Je benoemt het axiaal en paraxiaal mesoderm, maar deze horen niet bij het laterale plaatmesoderm. Geen probleemâdit is een lastige stap.
+
+Het laterale plaatmesoderm splitst zich in twee lagen:
+- Deâ¯**viscerale (splanchische) laag**â¯die aan het endoderm grenst (richting organen),
+- Deâ¯**pariÃ«tale (somatische) laag**â¯die aan het ectoderm grenst (richting lichaamswand).
+
+Tussen deze twee lagen ontstaat hetâ¯**intraembryonale coeloom**âde voorlopige lichaamsholte.
+
+Wil je een laatste keer proberen te benoemen welke drie hoofd-lichaamsholtes zich uit dit coeloom ontwikkelen naarmate het embryo groeit?",2025-09-17T18:02:51.667759+00:00
+user,"borstholte, buikholte en bekkenholte",2025-09-17T18:03:13.201253+00:00
+assistant,"Precies! Uit het intraembryonale coeloom ontstaan de borstholte (pleurale holte), buikholte (peritoneale holte) en bekkenholte. Mooi gedaan.
+
+Je hebt nu een goed overzicht van de normale processen in de vroege ontwikkeling.
+
+Laten we deze kennis nu toepassen op de casus waar we mee zijn begonnen:
+
+A healthy 25-year-old woman had routine prenatal care. At 24 weeks of pregnancy, an ultrasound revealed a small opening (~5 mm) on the right side of the babyâs belly, near the umbilical cord. Genetic tests (amniotic fluid analysis) at 26 weeks were normal. Over time, the opening enlarged (up to 34 mm), and parts of the babyâs intestines were seen floating in the amniotic fluid. The baby also measured smaller than expected. At 37 weeks, a caesarean section was performed. The newborn boy had parts of his small and large intestines, and stomach, located outside the abdomen. The supporting tissue was short, and the bowel appeared swollen. The diagnosis was gastroschisis, a defect in the abdominal wall.
+
+**Can you explain what happened in this case with the knowledge you just reviewed?**",2025-09-17T18:03:30.363265+00:00
+user,De holte gelegen aan de ventrale kant van het embryo is niet goed gesloten waardoor de organen buiten de buikholte zijn gaan groeien,2025-09-17T18:04:54.929211+00:00
+assistant,"Goed samengevat! Je benoemt dat door een onvolledige sluiting aan de ventrale zijde van het embryo de organen buiten de buikholte terecht zijn gekomen.
+
+Kun je zelf verklaren **welke stap in de embryonale ontwikkeling verstoord moet zijn geweest** om tot deze afwijking te leiden? En, denk je dat het hier gaat om een probleem met embryonale vouwing of met iets anders?",2025-09-17T18:05:04.723855+00:00
+user,ik denk dat de inductie fout is gegaan,2025-09-17T18:05:29.64578+00:00
+assistant,"Interessante gedachte! Met inductie bedoel je waarschijnlijk het proces waarbij signalen van ene structuur de ontwikkeling van een andere structuur sturen, klopt dat?
+
+Heb je overwogen of het hier mogelijk meer te maken heeft met de **embryonale vouwing**, en dan specifiek de ventrale sluiting? Wat gebeurt er normaal gesproken met de buikwand tijdens de embryonale vouwing, en wat zou hier niet goed zijn verlopen bij deze baby?",2025-09-17T18:05:38.920569+00:00
+user,de buikwand wordt normaal gesproken omgeven door ectoderm dus door lichaamswand. de buikwand is dus niet goed gesloten door de problemen met laterale vouwingen,2025-09-17T18:06:25.358428+00:00
+assistant,"Heel mooi uitgelegd! In normale omstandigheden vormt de lichaamswand zich via de laterale vouwingen waarbij het ectoderm en onderliggende lagen samenkomen aan de ventrale zijde en zo de buikwand sluiten. In dit geval is er dus een defect in die ventrale sluiting van de buikwand, waardoor de darmen buiten het lichaam liggen.
+
+Een vervolgvraag:  
+**Waarom zou een baby waarbij de buikorganen buiten het lichaam liggen (zoals hier) vaak kleiner zijn of groeivertraging vertonen in de zwangerschap?** Probeer dit mechanistisch te verklaren met je kennis van embryonale ontwikkeling en de functie van de buikwand.",2025-09-17T18:06:37.572233+00:00
+user,"Een embryo groeit omdat een groot deel van de organen in de buikwand moet passen. Dus als de organen groter worden groeit het embryo ook. Als de organen buiten de buikwand groeien stimuleert dit dus niet de groei, waardoor het embryo kleiner zal zijn",2025-09-17T18:07:49.442492+00:00
+assistant,Goed geredeneerd â je noemt dat het ontbreken van de bescherming van de buikwand de groei kan beperken. Denk nog even na: hoe kan het contact van de darminhoud met het vruchtwater en het ontbreken van een normale buikholte bijdragen aan groeivertraging of andere problemen voor de baby? Wat kan er gebeuren met deze buitenliggende organen in de buikholte van de moeder?,2025-09-17T18:08:05.873445+00:00
+user,weet ik niet,2025-09-17T18:08:26.597721+00:00
+user,weet ik niet,2025-09-17T18:10:59.572+00:00
+assistant,"Geen probleemâdit is best lastig! 
+
+Stel je voor: de darmen liggen buiten het lichaam, in het vruchtwater. Wat weet je van hoe kwetsbaar embryo- of babyweefsel kan zijn zonder bescherming? Zou je verwachten dat het vocht, stoffen of infecties uit de omgeving effect kunnen hebben?
+
+Als je het niet zeker weet, raad ik aan hierover na te zoeken in een leerboek of een betrouwbare bron over de gevolgen van gastroschisis voor de groei van een embryo. Wil je dat proberen en het dan opnieuw in je eigen woorden uitleggen?",2025-09-17T18:11:09.71944+00:00
+user,Jaa doe ik morgen even. Ik ga nu eerst sporten,2025-09-17T18:11:37.357031+00:00
+assistant,Prima plan! Succes met sporten en tot de volgende keerâdan pakken we het samen weer op waar we gebleven zijn. Veel plezier!,2025-09-17T18:11:44.142286+00:00

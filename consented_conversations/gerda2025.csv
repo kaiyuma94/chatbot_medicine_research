@@ -1,0 +1,104 @@
+role,content,created_at
+user,hoi,2025-09-17T13:24:58.763513+00:00
+assistant,"Hallo! Laten we beginnen met de casus om het onderwerp te verdiepen.
+
+### VIGNETTE ###
+Een gezonde 25-jarige vrouw kwam op routine prenatale controle. Bij de 24-weken echo werd een kleine opening (ongeveer 5 mm) rechts van het navellint van de baby gezien. De genetische testen waren normaal. De opening werd groter en delen van de darmen dreven in het vruchtwater. Bij de geboorte lagen maag en darmen buiten het lichaam: diagnose gastroschisis.
+
+Mijn eerste vraag voor jou is:
+**Wat is embryonale vouwing?**",2025-09-17T13:25:08.541288+00:00
+user,het vouwen van de foetus na de neurulatie,2025-09-17T13:26:00.526945+00:00
+assistant,"Goed geprobeerd! Je noemt al dat het vouwen gebeurt na de neurulatie. Kun je iets specifieker uitleggen wat er precies gebeurt met het embryo tijdens deze vouwing? Denk bijvoorbeeld aan de vormen en richtingen van de vouwing, of waarom dit proces belangrijk is. Wat weet je daarvan?",2025-09-17T13:26:07.228928+00:00
+user,er wordt in meerdere richtingen gevouwen,2025-09-17T13:26:59.574702+00:00
+assistant,"Dat klopt, het embryo vouwt zich inderdaad in meerdere richtingen! Kun je benoemen in welke richtingen deze vouwingen plaatsvinden? En weet je misschien wat het effect is van deze vouwingen op de positie van de organen of de lichaamsholte?",2025-09-17T13:27:07.266865+00:00
+user,de organen komen hierdoor op de goede plek in het lichaam te liggen,2025-09-17T13:27:37.584192+00:00
+assistant,Mooi gezegd! Embryonale vouwing is inderdaad belangrijk om de organen op hun juiste plek te krijgen. Er zijn twee hoofdassen waarin het embryo vouwt â kun je benoemen hoe deze twee richtingen heten? Misschien kun je ook uitleggen wat de gevolgen zijn als er problemen ontstaan in Ã©Ã©n van deze vouwingen?,2025-09-17T13:27:46.743736+00:00
+user,saggitaal en transversaal,2025-09-17T13:27:59.408048+00:00
+assistant,"Goed zo, dat klopt! De vouwingen vinden plaats in het sagittale (craniaal-caudale) en transversale (links-rechts of laterale) vlak.
+
+Laten we nu een ander begrip uit de embryologie bespreken.  
+**Kun je de drie kiemlagen opnoemen die gevormd worden tijdens de embryonale ontwikkeling?**",2025-09-17T13:28:06.966279+00:00
+user,ectoderm endoderm en mesoderm,2025-09-17T13:28:23.171414+00:00
+assistant,"Precies goed! De drie kiemlagen zijn ectoderm, mesoderm en endoderm.
+
+Laten we iets dieper ingaan op het mesoderm, want dat speelt een belangrijke rol tijdens de embryonale ontwikkeling.  
+**Kun je de vier onderdelen (subdivisies) van het mesoderm noemen?**",2025-09-17T13:29:06.944041+00:00
+user,nee dat weet ik nog niet,2025-09-17T13:29:24.205648+00:00
+assistant,"Dat is niet erg! Denk even aan het woord ""mesoderm"" en waar het allemaal in het embryo te vinden is. Misschien kun je je herinneren dat het mesoderm in de lengterichting verdeeld wordt in gebieden. Je hebt bijvoorbeeld iets wat vlak naast de centrale as ligt, en iets wat meer aan de buitenkant ligt. Zegt dit je iets? Wat weet je dan over de opbouw van het mesoderm?",2025-09-17T13:29:39.097802+00:00
+user,"mesoderm vormt alle organen, maar verder weet ik niet precies wat voor soorten er zij",2025-09-17T13:30:02.788109+00:00
+assistant,"Je hebt gelijk dat het mesoderm bij veel organen betrokken is! Laten we het verder samen ontrafelen:
+
+Het mesoderm wordt onderverdeeld op basis van zijn ligging in het embryo:
+- Dichtst bij de middenlijn, langs de chorda dorsalis
+- Naast het axiale deel
+- Weer iets verder naar buiten
+- En helemaal aan de buitenrand
+
+Kun je, met deze hints, misschien namen bedenken voor deze onderverdelingen? Of wil je proberen ze op te zoeken en opnieuw te antwoorden?",2025-09-17T13:30:12.153031+00:00
+user,ecto mesoderm,2025-09-17T13:30:21.796459+00:00
+assistant,"Je zit in de richting, maar ""ectomesoderm"" is niet Ã©Ã©n van de standaard onderverdelingen waar we het nu over hebben. Denk aan termen als ""axiaal"", ""paraxiaal"", ""intermediair"" en ""laterale plaat"". Zijn deze termen je bekend, of kun je beschrijven wat je denkt dat ze betekenen?",2025-09-17T13:30:28.419449+00:00
+user,lateraal lijkt me rug,2025-09-17T13:30:58.975772+00:00
+assistant,"Dat is een logische gedachte, want ""lateraal"" betekent inderdaad ""aan de zijkant"", maar het verwijst niet specifiek naar de rug. Het geeft meer de buitenste ligging van het mesoderm aan.
+
+Hier zijn wat hints:
+- **Axiaal**: Dit is het gedeelte precies in het midden, langs de ""as"" van het embryo.
+- **Paraxiaal**: Dit ligt direct naast het axiale deel.
+- **Intermediair**: Dit bevindt zich tussen paraxiaal en lateraal in.
+- **Laterale plaat**: Dit is het meest aan de buitenkant gelegen deel.
+
+Met deze uitleg: kun je nu de vier hoofdindelingen van het mesoderm benoemen?",2025-09-17T13:31:09.368342+00:00
+user,"het axiale gedeelte, het paraaxiale gedeeld, intermediare gedeelte en het laterale gedeelte",2025-09-17T13:31:32.992433+00:00
+assistant,"Precies goed! Dat zijn de vier onderverdelingen: axiaal, paraxiaal, intermediair en laterale plaat mesoderm.
+
+Nu een vraag over anatomische richtingen, want die zijn ook belangrijk om processen als vouwing goed te kunnen begrijpen.
+
+**Wat bedoelen we met de begrippen caudaal, craniaal, ventraal en dorsaal?** Kun je kort benoemen wat elk van deze richtingen aangeeft bij het embryo?",2025-09-17T13:31:41.399587+00:00
+user,"caudaal is hooft, craniaal staart, ventraal is buik en dorsaal is rug",2025-09-17T13:32:03.144218+00:00
+assistant,"Je hebt de begrippen bijna goed gebruikt! Kleine verwisseling:
+
+- **Craniaal** verwijst naar het hoofd
+- **Caudaal** verwijst naar de staartzijde (onderkant)
+- **Ventral** is de buikzijde (voorzijde)
+- **Dorsaal** is de rugzijde (achterzijde)
+
+Let dus goed op: craniaal = hoofd, caudaal = staart. 
+
+Wil je dit met eigen woorden nog Ã©Ã©n keer herhalen, zodat het goed blijft hangen?",2025-09-17T13:32:12.597034+00:00
+user,ventraal is buik dorsaal is rug caudaal is staat en craniaal ishoogd,2025-09-17T13:33:10.160288+00:00
+assistant,"Heel goed, nu zijn de richtingen duidelijk aangegeven:
+
+- Ventraal = buikzijde  
+- Dorsaal = rugzijde  
+- Caudaal = staartzijde  
+- Craniaal = hoofdzijde  
+
+Nu je deze basisbegrippen en termen goed kent, gaan we een stapje verder en verdiepen we ons in de processen die bij die eerste acht weken horen.
+
+Kun je uitleggen **wat gastrulatie is en welk doel dit proces heeft bij de embryonale ontwikkeling?**",2025-09-17T13:33:18.349899+00:00
+user,gastrulatie is de vorming van een gastrula,2025-09-17T13:33:25.915572+00:00
+assistant,"Dat klopt, tijdens gastrulatie ontstaat inderdaad de gastrula. Maar kun je iets meer uitleggen over wat er precies gebeurt tijdens dit proces? Denk bijvoorbeeld aan het aantal lagen die gevormd worden en waarom dat belangrijk is voor de verdere ontwikkeling. Wat weet je daar al over?",2025-09-17T13:33:32.597922+00:00
+user,"tijdens dit proces ga je van een blastula, eenlagig, naar een gastrula met 3 lagen, mesoderm ectoderm en endoderm",2025-09-17T13:34:04.926612+00:00
+assistant,"Juist! Tijdens de gastrulatie verandert het embryo van een eenlagige blastula naar een drielagige gastrula, bestaande uit ectoderm, mesoderm en endoderm. Deze kiemlagen vormen samen de basis voor alle orgaansystemen.
+
+De volgende vraag:  
+**Kun je uitleggen waarom gastrulatie zoân cruciale stap is in de embryonale ontwikkeling? Wat maakt het zo belangrijk?**",2025-09-17T13:34:12.501658+00:00
+user,uit deze lagen worden alle organen etc te vormen,2025-09-17T13:34:29.799867+00:00
+assistant,"Precies! Gastrulatie is essentieel omdat uit de drie kiemlagen uiteindelijk alle organen en weefsels van het lichaam gevormd worden. Het is als het ware de blauwdruk voor de verdere ontwikkeling.
+
+Laten we nu kijken naar embryonale vouwing:  
+**Waarom is embryonale vouwing belangrijk voor de ontwikkeling van het embryo?** Wat gebeurt er als deze vouwing niet goed verloopt?",2025-09-17T13:34:37.515775+00:00
+assistant,"**OVERALL SUMMARY**  
+Je hebt je goed ingezet om de kernbegrippen van de embryologie te benoemen en te verklaren. Je was niet bang om door te vragen of aan te geven waar je twijfelde, en dat is heel waardevol voor je leerproces!
+
+**WHAT YOU DID WELL**
+- **Strong Grasp of:** Je kent de drie kiemlagen (ectoderm, endoderm, mesoderm) en hun belangrijke rol. Je benoemde goed dat embryonale vouwing in meerdere richtingen plaatsvindt en dat dit nodig is voor de positie van organen. Ook de anatomische richtingen waren na uitleg duidelijk.
+- **Good Application of:** Je kon uitleggen wat gastrulatie is en wat het oplevert (overgang van eenlagig naar drielagig embryo) en je koppelde het goed aan het ontstaan van organen.
+
+**AREAS FOR GROWTH & FOCUS**
+- **Reviewing Key Terms:** Je had enige moeite met de indeling en namen van de verschillende mesoderm-onderdelen. Ook zaten de richtingen ""craniaal"" en ""caudaal"" eerst even omgedraaid.
+- **Connecting the Dots:** Soms bleef je antwoord wat algemeen (bijv. âmesoderm vormt alle organenâ) in plaats van het proces of de indeling uit te werken.
+- **Applying Theory to Practice:** Je kon goed stappen volgen, maar hebt de concepten nog niet toegepast in een (klinisch) voorbeeld of casus.
+
+**ACTIONABLE STUDY RECOMMENDATIONS**
+Omdat het benoemen van de verschillende onderdelen van het mesoderm en de juiste richtingen lastig was, raad ik je aan:
+- **Maak flashcards** met de belangrijkste embryologische termen (zoals axiaal/paraxiaal/intermediair/lateraal mesoderm, craniaal/caudaal/ventraal/dorsaal). Schrijf op de voorkant het begrip, en op de achterkant een korte definitie of een tekening. Test jezelf hier regelmatig op, zodat je de feiten automatisch paraat hebt en sneller door kunt naar het toepassen in grotere contexten. Succes!",2025-09-17T13:35:10.737+00:00

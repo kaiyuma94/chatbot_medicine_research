@@ -1,0 +1,32 @@
+role,content,created_at
+user,Laten we beginnen,2025-09-17T15:52:06.450485+00:00
+assistant,"Hier is de klinische *vignette* die we gaan gebruiken om de theorie van de embryonale ontwikkeling te verkennen:
+
+Een gezonde 25-jarige vrouw had routine prenatale zorg. Bij een echo op 24 weken zwangerschap werd een kleine opening (~5 mm) rechts van de navel van de baby gezien. Genetisch onderzoek uit vruchtwater op 26 weken was normaal. De opening werd groter (tot 34 mm) en delen van de darmen waren zichtbaar in het vruchtwater. De baby was kleiner dan verwacht. Op 37 weken werd een keizersnede uitgevoerd. De pasgeborene had delen van de darm en maag buiten de buik, met een korte ondersteuning en opgezwollen darmen. Er werd gastroschisis vastgesteldâeen defect in de buikwand.
+
+Laten we starten bij de basis.  
+Wat is âembryonale gastrulatieâ?",2025-09-17T15:52:19.858971+00:00
+user,De eerste weken van de embryonale ontwikkeling,2025-09-17T15:54:08.98732+00:00
+assistant,"Dat klopt, gastrulatie vindt plaats in de vroege stadia van de embryonale ontwikkeling! Kun je iets specifieker uitleggen **wat gastrulatie is**? Bijvoorbeeld: wat gebeurt er tijdens dit proces, en welk belangrijk resultaat ontstaat er na gastrulatie?",2025-09-17T15:54:17.574153+00:00
+user,De eerste bouwstenen van het lichaam van het kind worden gevormd,2025-09-17T15:55:34.704771+00:00
+assistant,"Dat is juist! Tijdens gastrulatie beginnen inderdaad de eerste bouwstenen van het lichaam te vormen.
+
+Kun je het nog iets concreter maken: *hoe* worden deze bouwstenen genoemd? En hoeveel zijn het er?",2025-09-17T15:56:02.076679+00:00
+user,De drie soorten kiembladen,2025-09-17T15:57:15.215416+00:00
+assistant,"Heel goed! Nu een vervolgvraag:
+
+Hoe heten deze drie kiembladen?",2025-09-17T15:58:32.300764+00:00
+user,"Mesoderm, ectoderm en endoderm",2025-09-17T15:58:42.360758+00:00
+assistant,"Uitstekend! Je hebt de drie kiembladen correct benoemd: mesoderm, ectoderm en endoderm.  
+
+Laten we nog zo'n basisbegrip pakken uit de embryonale ontwikkeling:  
+Wat wordt bedoeld met âembryonale vouwingâ (embryonic folding)?",2025-09-17T15:58:50.179339+00:00
+user,De embryo zo 'vouwen'dat de beginsels van wat organen worden op de juiste plekken komen,2025-09-17T15:59:45.771512+00:00
+assistant,"Mooi gezegd! Je geeft goed aan dat het te maken heeft met het op de juiste plek brengen van toekomstige organen, door het âvouwenâ van het embryo.
+
+Kun je iets specifieker beschrijven *wat* er tijdens deze embryonale vouwing met de structuur van het embryo zelf gebeurt? Bijvoorbeeld, verandert de vorm van plat naar â¦? Wat ontstaat hierdoor?",2025-09-17T15:59:53.238896+00:00
+user,"De vorm van de embryo, dan nog neurale plaat, is plat. Daarna wordt het een cilinder en wordt het de neurale buis",2025-09-17T16:00:42.772278+00:00
+assistant,"Heel goed! Je beschrijft mooi dat het embryo van een platte structuur (de embryonale schijf/neurale plaat) naar een meer cilindrische vorm overgaat. Hierbij vormt zich ook de neurale buis.
+
+Nog een stapje verder:  
+De mesodermlaag splitst tijdens de vroege ontwikkeling in vier delen (of regioâs). Kun je de namen geven van deze vier mesodermale subdivisies?",2025-09-17T16:00:50.494552+00:00

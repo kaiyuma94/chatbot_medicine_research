@@ -1,0 +1,405 @@
+role,content,created_at
+user,Laten we beginnen,2025-09-17T17:04:24.419843+00:00
+assistant,"Hier is de klinische casus ter context:
+
+Een gezonde 25-jarige vrouw kreeg tijdens haar zwangerschap bij 24 weken een echo. Daarbij werd een kleine opening (~5 mm) rechts van de navel van de baby gezien. Genetisch onderzoek (vruchtwaterpunctie) bij 26 weken was normaal. Later werd de opening groter (tot 34 mm) en werden delen van de darmen in het vruchtwater gezien. Bij de geboorte, via een keizersnede, bleek bij het jongetje dat de maag en delen van de darmen buiten de buikholte lagen. Het steunweefsel was kort, en de darmen waren gezwollen. De diagnose was gastroschisis (âbuikwanddefectâ).
+
+Om te beginnen, een inhoudsvraag:
+
+Wat is gastrulatie?",2025-09-17T17:04:45.643945+00:00
+user,Ontwikkelen van 3kiembladen uit 2 lagen,2025-09-17T17:05:05.905423+00:00
+assistant,Goed! Gastrulatie is inderdaad het proces waarbij uit de bilaminaire embryonale schijf (met twee lagen) drie kiembladen ontstaan. Kun je de namen noemen van deze drie kiembladen?,2025-09-17T17:05:12.203941+00:00
+user,Ectoderm endoderm en mesoderm,2025-09-17T17:05:29.150147+00:00
+assistant,"Helemaal juist! De drie kiembladen zijn het ectoderm, endoderm en mesoderm.
+
+Nu een vervolgvraag:  
+Wat betekent embryonale vouw of embryonale plooing (embryonic folding) binnen de embryonale ontwikkeling?",2025-09-17T17:05:35.49162+00:00
+user,Idk,2025-09-17T17:05:42.166041+00:00
+assistant,"Geen probleem, dat is helemaal okÃ©!  
+
+Denk je dat âvouwenâ of âplooienâ te maken heeft met de vorm die het embryo aanneemt? Waar denk je dat het embryo zich âvouwtâ of beweegt, en waarom zou dat belangrijk kunnen zijn in de ontwikkeling? Wat weet je hier al van?",2025-09-17T17:05:50.026897+00:00
+user,Kan je het uitleggen,2025-09-17T17:06:08.272326+00:00
+assistant,"Ik ga je helpen door wat richting te geven, maar probeer daarna vooral zelf een korte uitleg te geven!
+
+Tijdens de vierde en vijfde week van de embryonale ontwikkeling, âvouwtâ het platte embryo zich in verschillende richtingen: van hoofd tot staart (âcraniocaudaleâ richting) en van zijkant tot zijkant (âlateraleâ richting). Hierdoor verandert het embryo van een platte schijf naar een buisachtige structuur. Dit is belangrijk voor het ontstaan van de lichaamsvorm zoals we die kennen, en voor het omsluiten van de lichaamsorganen binnen de romp.
+
+Kun jij nu in je eigen woorden kort uitleggen waarom embryonale plooing belangrijk is?",2025-09-17T17:06:18.922132+00:00
+user,Geef me tentamenvragen,2025-09-17T17:08:06.590339+00:00
+assistant,"Dat ga ik doen, maar eerst: oefenen met deze basiskennis is heel belangrijk voordat we tentamenvragen kunnen maken of behandelen. Dit helpt je straks bij ingewikkeldere casussen en examenvragen. Mag ik dat eerst met je oefenen? 
+
+Kun jij eerst nog kort uitleggen, in je eigen woorden, waarom embryonale vouw (embryonic folding) belangrijk is tijdens de embryonale ontwikkeling? Zo zijn we goed voorbereid op tentamenvragen!",2025-09-17T17:08:18.892888+00:00
+user,Geef me tentamenvragen,2025-09-17T17:08:36.386119+00:00
+assistant,"Begrijpelijk dat je wilt oefenen! Laten we jouw voorbereiding effectief maken door eerst een paar korte feitelijke vragen (zoals tentamenvragen) op het niveau van je huidige kennis te doen. Daarna kunnen we doorgaan naar ingewikkeldere examenvragen. Hier komen enkele korte kennisvragen over de vroege embryologie die je op tentamen zou kunnen tegenkomen:
+
+1. **Noem en beschrijf de drie kiembladen die tijdens gastrulatie ontstaan.**
+2. **Wat is het verschil tussen de paraxiale en de laterale plaat mesoderm?**
+3. **Wat wordt bedoeld met de ventrale zijde van het embryo?**
+4. **Welke lichaamsstructuren ontstaan uit het endoderm? Noem er twee.**
+5. **Leg het proces van gastrulatie stap voor stap uit.**
+
+Wil je een van deze vragen beantwoorden? Kies er Ã©Ã©n uit waar je zelfvertrouwen in hebt, of waar je juist meer over wilt leren!",2025-09-17T17:08:50.595203+00:00
+user,Nee,2025-09-17T17:09:15.853379+00:00
+assistant,"Geen probleem! Als je toch wilt oefenen of vragen hebt over embryonale ontwikkeling, laat het maar weten. Je leert het meest als je actief oefent. Als je liever wilt stoppen of het op een ander moment wilt proberen, is dat ook prima. Succes met studeren!",2025-09-17T17:09:22.284187+00:00
+user,nee ik weet het niet,2025-09-17T17:09:51.030741+00:00
+assistant,"Helemaal prima dat je het nog niet weet! Je hoeft het niet meteen allemaal te kunnen â leren gaat stap voor stap.
+
+Zullen we er eentje samen oefenen?  
+Bijvoorbeeld:  
+**Wat zijn de drie kiembladen die tijdens gastrulatie ontstaan?**  
+We hadden die eerder genoemd. Kun je ze nog een keer opschrijven? Zo niet, kun je aangeven waar je vastloopt?",2025-09-17T17:09:59.937651+00:00
+user,Nee,2025-09-17T17:10:46.521714+00:00
+assistant,"Geen probleem! Dan stel ik voor: kijk dit onderwerp rustig eens na in je leerboek of online, bijvoorbeeld over de drie kiembladen (ectoderm, mesoderm, endoderm) en wat âgastulatieâ en âembryonale vouwâ betekenen.
+
+Probeer daarna een van de vragen hierboven te beantwoorden. Je zult merken dat het helpt om actief te oefenen! Als je het nog eens wilt proberen of vragen hebt, weet je me te vinden. Veel succes!",2025-09-17T17:10:55.277143+00:00
+assistant,"**OVERALL SUMMARY**  
+Je hebt een goede start gemaakt met enkele basisbegrippen in de embryologie, ondanks dat je het lastig vond om de draad op te pakken bij de meer procesmatige vragen. Je houding is eerlijk en je geeft duidelijk aan wanneer je iets lastig vindt, wat heel waardevol is in je leerproces!
+
+**WHAT YOU DID WELL**
+- **Strong Grasp of:** Je weet de drie kiembladen (ectoderm, mesoderm, endoderm) goed te benoemen en herkent het proces van gastrulatie op hoofdlijnen.
+- **Good Application of:** Je was bereid de eerste feitelijke vragen over te nemen en hebt laten zien dat je de kernbegrippen herkent.
+
+**AREAS FOR GROWTH & FOCUS**
+- **Reviewing Key Terms:** Je lijkt de belangrijkste termen zoals âgastrulatieâ en de namen van de kiembladen goed te kennen, maar na de eerste vragen werd het moeilijker deze te benoemen zonder hulp. Herhaling kan hier helpen!
+- **Connecting the Dots:** Bij vragen over processen zoals âembryonale plooingâ of het uitleggen in eigen woorden waarvoor deze processen belangrijk zijn, had je het zichtbaar lastig. Deze stap is belangrijk voor dieper begrip en examenvragen.
+- **Applying Theory to Practice:** Hier kwam je nog niet aan toe, doordat je bij de procesvragen bleef haken.
+
+**ACTIONABLE STUDY RECOMMENDATIONS**
+Omdat procesbegrip (âconnecting the dotsâ) het lastigste punt was, kun je veel winnen door verbanden visueel te maken.
+
+- **Maak een overzichtelijk schema of tekening van het vroege embryo:**  
+Teken hoe het embryo er eerst plat uitziet, en hoe het âvouwtâ tot een gesloten buis. Zet bij elke stap wat er gebeurt en waarom het belangrijk is. Door eigen schemaâs te tekenen wordt het makkelijker processen en oorzaken/gevolgen te onthouden.
+
+Blijf oefenen en geef het tijd â je bent goed op weg en actief aan het leren, dat is het allerbelangrijkst!",2025-09-17T17:11:07.336+00:00
+user,Laten we beginnen,2025-09-17T17:11:18.42872+00:00
+assistant,"Hier is de klinische casus om het onderwerp te contextualiseren:
+
+**Vignette:**  
+Een gezonde 25-jarige vrouw had routine zwangerschapscontroles. Bij een echo op 24 weken zag men een kleine opening (~5 mm) rechts naast de navel van de baby. De genetische tests (amniocente) op 26 weken waren normaal. Later werd de opening groter (tot 34 mm), en delen van de darmen van de baby waren zichtbaar in het vruchtwater. De baby groeide ook minder goed dan verwacht. Bij 37 weken werd een keizersnede uitgevoerd. De pasgeboren jongen had delen van de dunne en dikke darm, en maag buiten de buikholte. Het steeltje was kort en de darmen gezwollen. De diagnose was gastroschisis, een defect in de buikwand.
+
+**Vraag:**  
+Wat wordt bedoeld met 'embryonale plooivorming' (embryonic folding) tijdens de vroege ontwikkeling?",2025-09-17T17:11:32.63632+00:00
+user,Ik weet niet,2025-09-17T17:11:41.725409+00:00
+user,Kan je me 50 oefenvr tentamen vragen geven voor geneeskunde B1 op de Rijksuniversiteit,2025-09-17T17:13:06.510586+00:00
+assistant,"Om je zo goed mogelijk te helpen, heb ik wat extra informatie nodig:
+
+1. **Welk vak binnen jaar 1 van geneeskunde bedoel je precies?** (Bijvoorbeeld: Anatomie, Fysiologie, Embryologie, Biochemie, etc.)
+2. **Wat zijn de belangrijkste onderwerpen of thema's uit dit vak waar je oefenvragen over wilt?**
+3. **Wil je open vragen, meerkeuzevragen of een mix?**
+4. **Moet het in het Nederlands of Engels?**
+
+Laat het even weten, dan stel ik gerichte oefenvragen samen die passen bij jouw tentamenvoorbereiding!",2025-09-17T17:13:16.283419+00:00
+user,Over de eerste tentamen van bachelor 1 geneeskunde student aan de Rijksuniversiteit,2025-09-17T17:13:54.686987+00:00
+assistant,"Dank voor je toelichting! Het eerste tentamen van bachelor 1 geneeskunde aan de Rijksuniversiteit Groningen (of vergelijkbare universiteiten) beslaat meestal basiskennis over onderwerpen als:  
+- Celbiologie  
+- Embryologie  
+- Anatomie (basis, bijv. orgaansystemen, ligging)  
+- Fysiologie (basisprocessen)  
+- Weefselleer (histologie)  
+- Biochemie (basis, zoals eiwitten, DNA, metabolisme)  
+
+Zonder een nauwkeurige vakomschrijving of tentamenprogramma, houd ik de oefenvragen breed en gevarieerd â open en meerkeuze door elkaar. Hier komen de eerste 10, zodat je kunt aangeven of dit goed aansluit. Daarna kan ik ze verder aanvullen tot 50 als je wilt.  
+
+---
+
+**1. Geef een korte definitie van homeostase.**
+
+**2. Noem drie belangrijke celorganellen en beschrijf hun functie.**
+
+**3. Leg uit wat het verschil is tussen mitose en meiose.**
+
+**4. In welk deel van de cel vindt de transcriptie van DNA naar mRNA plaats?**  
+A) Celmembraan  
+B) Cytoplasma  
+C) Cytosol  
+D) Celkern
+
+**5. Welke drie kiemlagen ontstaan bij de mens tijdens de embryonale ontwikkeling, en wat is hun betekenis?**
+
+**6. Wat is de functie van ribosomen?**
+
+**7. Welk hormoon wordt geproduceerd door de pancreas en speelt een sleutelrol in glucosehuishouding?**
+
+**8. Wat wordt verstaan onder 'apoptose'?**
+
+**9. Welk weefseltype bevat de meeste collageenvezels: epitheel, bindweefsel, spierweefsel, of zenuwweefsel?**
+
+**10. Welke structuur in het hart zorgt ervoor dat bloed alleen in Ã©Ã©n richting stroomt?**
+
+---
+
+Laat weten of dit in lijn ligt met jullie tentamenstof/verwachtingen! Als dit goed past, maak ik graag de volgende 40 vragen voor je. Wil je ergens extra nadruk op, bijvoorbeeld embryologie of anatomie? Of volledig willekeurig uit alle themaâs?",2025-09-17T17:14:21.934407+00:00
+user,Ik wil 50 vragen per onderwerp,2025-09-17T17:14:29.669086+00:00
+assistant,"Prima! Geef alsjeblieft per onderwerp (bijvoorbeeld anatomie, fysiologie, etc.) aan welke je wilt, dan maak ik voor elk onderwerp 50 oefenvragen. Voor nu begin ik met **embryologie** als voorbeeld (aangezien dat vaak onderdeel is van jaar 1), met een mix van open en meerkeuzevragen, in het Nederlands.
+
+Laat gerust weten voor welke andere onderwerpen je dit wilt (anatomie, fysiologie, biochemie, enz.)âdan maak ik die lijsten ook!
+
+---
+
+**50 oefenvragen embryologie â bachelor 1 geneeskunde**
+
+1. Wat is de definitie van embryologie?
+2. In welke week na de bevruchting vindt de innesteling van het embryo plaats?
+3. Noem de drie kiemlagen van het embryo in de derde week.
+4. Uit welk kiemblad ontstaat het zenuwstelsel voornamelijk?
+5. Wat is gastrulatie?
+6. Welke structuur ontstaat als eerste na de bevruchting?
+7. Tijdens welke week begint de neurulatie?
+8. Wat is het verschil tussen morula en blastocyst?
+9. Wat gebeurt er tijdens de implantatie?
+10. Welke hormonen spelen een sleutelrol bij de innesteling van het embryo?
+11. Waaruit ontstaat de chorda dorsalis?
+12. Wat zijn somieten?
+13. Hoeveel somieten worden er uiteindelijk gevormd bij de mens?
+14. Welke kiemlaag vormt de bekleding van het spijsverteringskanaal?
+15. In welke week begint het hart met kloppen?
+16. Wat wordt er bedoeld met ""embryonic folding""?
+17. Welke structuur wordt gevormd uit het ectoderm?
+18. Wat gebeurt er met de dooierzak tijdens de vierde week?
+19. Noem twee derivaten van het mesoderm.
+20. Hoe heet het proces waarbij organen gevormd worden?
+21. Waaruit ontstaat het bloedvatenstelsel?
+22. Welke functie heeft het trophoblast?
+23. Wat is de amnionholte?
+24. Welke structuren vormen samen het vruchtvlies?
+25. Wat zijn de gevolgen van een defect in de neurale buis?
+26. Beschrijf de rol van de placenta.
+27. Wanneer vindt de belangrijkste orgaanvorming (organogenese) plaats?
+28. Welke stoffen kunnen placentabarriÃ¨re passeren?
+29. Uit welke kiemlaag ontstaat het skelet?
+30. Wat is de functie van het allantois?
+31. Wat is een teratogeen?
+32. Bij welke week wordt een embryo officieel fetus genoemd?
+33. Welke structuur verbindt het embryo met de placenta?
+34. Wat is de embryonale schijf?
+35. Wat is het verschil tussen primaire en secundaire villi?
+36. Benoem een oorzaak van schisis (gespleten lip/gehemelte).
+37. Wat is de functie van het foramen ovale tijdens de embryonale ontwikkeling?
+38. Welke kiemlaag vormt de nieren?
+39. Hoe wordt de middendarm gevormd?
+40. Welke cellen zijn afkomstig van de neurale lijst?
+41. Wat gebeurt er met het coeloom tijdens de embryonale ontwikkeling?
+42. Welke structuur ontstaat uit de paraxiale mesoderm?
+43. Welke factor bepaalt het cranio-caudale lichaamsplan?
+44. Welke groei- en transcriptiefactoren zijn belangrijk bij limb development?
+45. Wat is ventrale sluiting?
+46. Welke elementen ontstaan uit het endoderm?
+47. Benoem een voorbeeld van een congenital defect door fout in embryogenese.
+48. Wat is het verschil tussen een blastule en een gastrula?
+49. Wanneer sluit de neurale buis zich?
+50. Benoem een reden waarom embryologie belangrijk is voor de geneeskunde.
+
+---
+
+**Geef nu aan welke andere onderwerpen je wilt (bijvoorbeeld: anatomie, fysiologie, biochemie, histologieâ¦), dan maak ik daar Ã³Ã³k lijsten van 50 vragen voor.** Wil je bij bepaalde onderwerpen alleen meerkeuze of juist open vragen?",2025-09-17T17:15:18.0547+00:00
+user,Alle onderwerpen en per onderwerp 20 vragen,2025-09-17T17:15:38.417918+00:00
+assistant,"Helemaal duidelijk! Hier volgt een overzicht met **20 representatieve oefenvragen** per basisonderwerp uit het eerste bachelorjaar Geneeskunde aan de universiteit. Per onderwerp geef ik een mix van open vragen en enkele meerkeuzevragen. Als je wilt kan ik later voor elk specifiek onderwerp verder uitbreiden, of juist meerkeuzevragen per onderwerp toevoegen.
+
+**Onderwerpen:**
+1. Celbiologie
+2. Embryologie
+3. Anatomie
+4. Fysiologie
+5. Histologie
+6. Biochemie
+
+---
+
+### 1. Celbiologie (20 vragen)
+
+1. Benoem drie hoofdcomponenten van de celmembraan.
+2. Waar vindt de energieproductie in de cel hoofdzakelijk plaats?
+3. Wat is het verschil tussen passief en actief transport over de membraan?
+4. Welke organel bevat het erfelijk materiaal?
+5. Beschrijf kort de functie van lysosomen.
+6. Hoe wordt een cel genoemd die geen nucleus bevat?
+7. (MC) Welke structuur is verantwoordelijk voor de vorming van ATP?
+   A) Lysosoom  
+   B) Golgi-apparaat  
+   C) Mitochondrion  
+   D) Ribosoom
+8. Waaruit bestaat chromatine?
+9. Wat houdt celcycluscontrole precies in?
+10. Noem twee functies van het cytoskelet.
+11. Wat is fagocytose?
+12. Welke rol speelt het endoplasmatisch reticulum bij eiwitsynthese?
+13. Welke betekenis heeft apoptose?
+14. Hoe verschilt RNA structureel van DNA?
+15. Wat doet het golgi-apparaat?
+16. Waarom is semipermeabiliteit belangrijk voor cellen?
+17. Wat is het verschil tussen prokaryoten en eukaryoten?
+18. (MC) In welk celorganel vindt translatie plaats?  
+   A) Celkern  
+   B) Mitochondrion  
+   C) Ribosoom  
+   D) Lysosoom
+19. Beschrijf kort het verschil tussen exocytose en endocytose.
+20. Hoe wordt genetische informatie overgedragen bij celdeling?
+
+---
+
+### 2. Embryologie (20 vragen)
+
+1. Wat zijn de drie kiemlagen na gastrulatie?
+2. Wanneer begint het hart met kloppen in het embryo?
+3. Welke structuur ontstaat uit de chorda dorsalis?
+4. Leg uit wat neurulatie is.
+5. Welke kiemlaag vormt het zenuwweefsel?
+6. Wat houdt embryonale vouw in (embryonic folding)?
+7. Welke rol speelt de dooierzak?
+8. (MC) Wat vormt de placenta?  
+   A) Alleen maternale weefsel  
+   B) Alleen foetaal weefsel  
+   C) Zowel maternale als foetale weefsel  
+   D) Alleen endoderm
+9. Wat zijn somieten en welke structuren ontwikkelen hieruit?
+10. Wat is het verschil tussen een morula en een blastocyst?
+11. Beschrijf het proces van gastrulatie.
+12. Welke functie heeft het foramen ovale tijdens de embryonale periode?
+13. Wat gebeurt er bij falende neurale buissluiting?
+14. Uit welke laag ontstaan de nieren?
+15. Wat is organogenese?
+16. Noem een voorbeeld van een teratogene factor.
+17. Wat is de functie van de amnionholte?
+18. Wanneer begint de fetal period?
+19. (MC) Waaruit ontstaan de melanocyten?  
+   A) Mesoderm  
+   B) Neurale lijstcellen  
+   C) Endoderm  
+   D) Trophoblast
+20. Geef een voorbeeld van een embryonaal ontwikkelingsdefect.
+
+---
+
+### 3. Anatomie (20 vragen)
+
+1. Noem drie organen van het spijsverteringskanaal.
+2. Welke botten vormen samen het bekken?
+3. Waar ligt het hart ten opzichte van de longen?
+4. Wat wordt verstaan onder de anatomische houding?
+5. Benoem de vier hoofdcompartimenten van de hersenen.
+6. (MC) Welke structuur ligt het meest mediaal?  
+   A) Nier  
+   B) Milt  
+   C) Aorta abdominalis  
+   D) Lever
+7. Wat is het grootste inwendige orgaan?
+8. Beschrijf de opbouw van de huid.
+9. Welke spier is primair verantwoordelijk voor ademhaling?
+10. Noem de drie onderdelen van het borstbeen.
+11. Wat is de functie van het diafragma?
+12. Waar bevinden zich de alveoli?
+13. Noem twee gewrichtstypen.
+14. Wat verstaan we onder de term âcraniaalâ?
+15. (MC) De humerus bevindt zich in:  
+   A) Het onderbeen  
+   B) De bovenarm  
+   C) De onderarm  
+   D) De schoudergordel
+16. Welke structuur scheidt de thorax van het abdomen?
+17. Wat zijn lymfeklieren?
+18. Wat is de ligging van de schildklier?
+19. Noem vier grote bloedvaten van het hart.
+20. Beschrijf het verschil tussen axiaal en appendiculair skelet.
+
+---
+
+### 4. Fysiologie (20 vragen)
+
+1. Wat is homeostase?
+2. Hoe werkt negatieve terugkoppeling?
+3. (MC) Welk orgaan produceert insuline?  
+   A) Lever  
+   B) Bijnier  
+   C) Pancreas  
+   D) Milt
+4. Wat is de functie van rode bloedcellen?
+5. Beschrijf kort het actiepotentiaal.
+6. Wat doet het autonome zenuwstelsel?
+7. Wat is osmose?
+8. Welke functie heeft de glomerulus in de nier?
+9. Wat gebeurt er met de hartfrequentie bij inspanning?
+10. Welke stof reguleert de bloeddruk op korte termijn?
+11. Wat is de rol van hemoglobine?
+12. Noem twee verschillen tussen arterieel en veneus bloed.
+13. Wat veroorzaakt spiercontractie op cellulair niveau?
+14. Wat is de functie van hormonen?
+15. (MC) Waar vindt gaswisseling plaats in de longen?  
+   A) BronchiÃ«n  
+   B) Alveoli  
+   C) Pleura  
+   D) Trachea
+16. Hoe werkt de zuurstofopname in het bloed?
+17. Wat is filtratie in de nier?
+18. Waarom transpireert het lichaam?
+19. Uitleg van de werking van de hypofyse.
+20. Wat is het effect van adrenaline?
+
+---
+
+### 5. Histologie (20 vragen)
+
+1. Wat is histologie?
+2. Noem vier hoofdtypen weefsels.
+3. Waaruit bestaat epitheelweefsel?
+4. Wat is de functie van bindweefsel?
+5. Hoe herken je spierweefsel onder een microscoop?
+6. Wat verstaan we onder extracellulaire matrix?
+7. (MC) Welke celtype maakt myeline in het centrale zenuwstelsel?  
+   A) Astrocyt  
+   B) Oligodendrocyt  
+   C) Schwanncel  
+   D) Pericyt
+8. Waar vind je kraakbeenweefsel?
+9. Wat zijn kenmerken van zenuwweefsel?
+10. Beschrijf de opbouw van een klier.
+11. Waaruit bestaat botweefsel?
+12. Welke cellen zijn betrokken bij afweerreacties in weefsels?
+13. Wat zijn lacunes in bot?
+14. Noem twee typen epitheel.
+15. Waar liggen de basale cellen?
+16. (MC) In welke laag van de huid vind je melanocyten?  
+   A) Stratum corneum  
+   B) Stratum basale  
+   C) Stratum spinosum  
+   D) Stratum lucidum
+17. Wat is het verschil tussen compacte en sponsachtig bot?
+18. Wat is een intercalairschijf?
+19. Waarom is ciliair epitheel van belang in de luchtwegen?
+20. Wat zijn mastcellen?
+
+---
+
+### 6. Biochemie (20 vragen)
+
+1. Wat is een aminozuur?
+2. Waaruit bestaat een nucleotide?
+3. Wat doet een enzym?
+4. Beschrijf het verschil tussen DNA en RNA.
+5. (MC) Wat is de basisstructuur van een sacharide?  
+   A) Vetzuur  
+   B) Suikerring  
+   C) Aminozuurketen  
+   D) Fosfaatgroep
+6. Wat is glycolyse?
+7. Wat doet ATP?
+8. Wat wordt verstaan onder metabolisme?
+9. Noem twee essentiÃ«le vetzuren.
+10. Hoe wordt een peptidebinding gevormd?
+11. Wat is een co-enzym?
+12. Beschrijf kort de citroenzuurcyclus (Krebs-cyclus).
+13. Welke rol speelt insuline in de glucosehuishouding?
+14. (MC) Wat gebeurt er bij hydrolyse van ATP?  
+   A) Er wordt energie gevormd  
+   B) Er wordt glucose gevormd  
+   C) Er wordt zuurstof verbruikt  
+   D) Er wordt ureum gevormd
+15. Wat is een lipoproteÃ¯ne?
+16. Hoe verschilt een monosacharide van een polysacharide?
+17. Waarom zijn vitamines belangrijk in de biochemie?
+18. Wat doet katalase?
+19. Hoe reguleert het lichaam de pH?
+20. Wat zijn iso-enzymen?
+
+---
+
+**Wil je per onderwerp ook de antwoorden, uitleg of alleen de vragen? Geef gerust aan als je nog extra onderwerpen of verdieping wilt!**",2025-09-17T17:17:28.216589+00:00

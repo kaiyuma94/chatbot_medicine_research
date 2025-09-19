@@ -1,0 +1,49 @@
+role,content,created_at
+user,laten we beginnen!,2025-09-17T14:21:17.345482+00:00
+assistant,"Goed! Hier is de casus die we zullen gebruiken om de embryonale ontwikkeling te verkennen:
+
+Een gezonde 25-jarige vrouw kreeg routine prenatale zorg. Bij een echo op 24 weken zwangerschap werd een klein gaatje (~5 mm) gezien aan de rechterkant van de buik van de baby, vlak bij de navelstreng. Genetisch onderzoek van het vruchtwater op 26 weken was normaal. In de loop van de tijd werd het gaatje groter (tot 34 mm), en delen van de darmen van de baby lagen zichtbaar in het vruchtwater. De baby was ook kleiner dan verwacht. Bij 37 weken werd een keizersnede uitgevoerd. De pasgeboren jongen had delen van de dunne en dikke darm, en maag, buiten de buik liggen. Het ondersteunende weefsel was kort en de darm was opgezwollen. De diagnose was gastroschisis, een defect in de buikwand.
+
+Mijn vraag om mee te starten:
+Wat is gastrulatie?",2025-09-17T14:21:33.821425+00:00
+user,hai,2025-09-17T14:21:43.936451+00:00
+assistant,Geen probleem! We kunnen rustig beginnen. Kun je me uitleggen wat gastrulatie is? Wat weet je al over deze term?,2025-09-17T14:21:51.097522+00:00
+user,aub,2025-09-17T14:21:57.767598+00:00
+assistant,"Ik help je graag verder! Gastrulatie is een belangrijk begrip binnen de embryonale ontwikkeling. Kun je mij vertellen wat je denkt dat gastrulatie inhoudt, of waar het plaatsvindt in het vroege embryo? Wat komt er volgens jou na de bevruchting, voordat het embryo naar de volgende fase gaat?",2025-09-17T14:22:04.441814+00:00
+user,laten we beginnen,2025-09-17T14:22:11.131467+00:00
+assistant,"Prima! We beginnen bij het begin:
+
+Kun je uitleggen wat gastrulatie is, of benoemen wat het resultaat is van gastrulatie tijdens de embryonale ontwikkeling? Wat gebeurt er precies met het embryo tijdens deze fase?",2025-09-17T14:22:20.550273+00:00
+user,yo,2025-09-17T14:22:43.087399+00:00
+assistant,"Let's get started!
+
+Here's a clinical case to help us contextualise embryonic development:
+
+A healthy 25-year-old woman had routine prenatal care. At 24 weeks of pregnancy, an ultrasound revealed a small opening (~5 mm) on the right side of the babyâs belly, near the umbilical cord. Genetic tests (amniotic fluid analysis) at 26 weeks were normal. Over time, the opening enlarged (up to 34 mm), and parts of the babyâs intestines were seen floating in the amniotic fluid. The baby also measured smaller than expected. At 37 weeks, a caesarean section was performed. The newborn boy had parts of his small and large intestines, and stomach, located outside the abdomen. The supporting tissue was short, and the bowel appeared swollen. The diagnosis was gastroschisis, a defect in the abdominal wall.
+
+Let's start with a basic question related to embryonic development:
+What are the three primary germ layers formed during early embryogenesis?",2025-09-17T14:22:56.719676+00:00
+user,je moeder,2025-09-17T14:23:24.527199+00:00
+assistant,"Letâs bring the focus back to embryology!  
+To build a foundation for understanding the clinical case, can you name the three primary germ layers established in early embryonic development?",2025-09-17T14:23:32.469172+00:00
+user,"mesoderm, ectoderm, endoderm",2025-09-17T14:24:04.612994+00:00
+assistant,"Correct! The three primary germ layers are ectoderm, mesoderm, and endoderm. Each of these layers gives rise to different tissues and organs in the body.
+
+Letâs try another foundational question:
+What is the term for the process that leads to the formation of these three germ layers from the early embryo?",2025-09-17T14:24:12.194709+00:00
+user,gastrulatie,2025-09-17T14:24:36.449171+00:00
+assistant,"Exactly right! Gastrulation is the process that forms the three germ layers: ectoderm, mesoderm, and endoderm.
+
+Now, letâs expand on embryonic structure terminology:
+Embryonic folding is a critical part of development in weeks 4 and 5. Can you explain what âventralâ and âdorsalâ refer to in the context of the developing embryo?",2025-09-17T14:24:49.781903+00:00
+user,"dorsal naar de voorkant, ventral naar de achterkant",2025-09-17T14:25:37.459706+00:00
+assistant,"Nice try! It looks like thereâs a little mix-up in the directions.  
+Think about the orientation of the embryoâimagine youâre looking at it from the side. The nervous system (like the brain and neural tube) is on one side, and the developing gut is on the opposite side.
+
+Which side do you think âdorsalâ refers toâwhere the neural tube (future spinal cord) is located, or where the gut forms? And what about âventralâ?",2025-09-17T14:25:45.781495+00:00
+user,dorsal is toward the neural tube and ventral not,2025-09-17T14:26:36.701849+00:00
+assistant,"Thatâs correct! Dorsal refers to the side where the neural tube (future spinal cord and brain) develops, and ventral refers to the opposite side (where structures like the gut form).
+
+Moving on, letâs connect this orientation to another key developmental process:
+
+Can you name the four major subdivisions of the mesoderm, and pick one to briefly describe where itâs located relative to the midline of the embryo?",2025-09-17T14:26:45.292684+00:00

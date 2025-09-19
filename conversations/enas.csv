@@ -1,0 +1,123 @@
+role,content,created_at
+user,ik ben klaar om te beginnen,2025-09-17T13:14:22.838169+00:00
+assistant,"Hier is de casus waarmee we werken:
+
+Een gezonde 25-jarige vrouw kreeg routine prenatale zorg. Bij een echo op 24 weken zwangerschap werd een kleine opening (~5 mm) aan de rechterkant van de buik van de baby, vlak bij de navelstreng, gezien. Genetisch onderzoek (vruchtwaterpunctie) op 26 weken was normaal. In de loop van de tijd werd de opening groter (tot 34 mm), en delen van de darmen van de baby waren zichtbaar in het vruchtwater. De baby was kleiner dan verwacht. Bij 37 weken werd een keizersnede gedaan. De pasgeboren jongen had delen van zijn dunne en dikke darm en maag buiten de buikholte. Het steuntje waarmee de darmen vastzaten was kort en de darm was gezwollen. De diagnose was gastroschisis, een defect in de buikwand.
+
+Mijn eerste vraag:
+
+Wat zijn de drie kiemlagen waaruit alle organen en weefsels van het embryo ontstaan?",2025-09-17T13:14:38.804922+00:00
+user,"Ectoderm, mesoderm en endoderm",2025-09-17T13:16:04.143851+00:00
+assistant,"Mooi! Dat klopt: ectoderm, mesoderm en endoderm zijn de drie kiemlagen waaruit zich alle organen en weefsels ontwikkelen.
+
+Nu een volgende basisvraag rondom de vroege ontwikkeling:
+
+Wat wordt bedoeld met ""embryonale vouwprocessen"" (embryonic folding) tijdens de vierde en vijfde week van de embryonale ontwikkeling?",2025-09-17T13:16:14.007005+00:00
+user,"tijdens de embryonale vouwproces buigt de neurale plaat naar binnen en vormt de neurale groeve. De randen van de neurale groeve sluiten naar elkaar en vormen de neurale buis, waaruit de hersenen en het ruggenmerg ontstaan",2025-09-17T13:18:06.185795+00:00
+assistant,"Je beschrijft hier vooral het proces van neurulatie, waarbij de neurale plaat zich omvormt tot de neurale buis. Dit is een belangrijk onderdeel van de embryonale ontwikkeling, maar het ""embryonale vouwproces"" betreft een breder fenomeen.
+
+Denk aan hoe het embryo van een platte schijf naar een meer buisvormige, driedimensionale structuur verandert. Kun je iets zeggen over wat er met de hele embryo gebeurt (niet alleen de neurale plaat) tijdens dit vouwproces, bijvoorbeeld qua vorm en richting van de vouwen? Wat gebeurt er met de ligging van de dooierzak en de amnionholte?",2025-09-17T13:18:16.557135+00:00
+user,dat weet ik niet,2025-09-17T13:18:33.757458+00:00
+assistant,"Geen probleem, dit is een lastig concept! Denk aan het embryo als een platte ovaal. In week 4/5 vinden er twee belangrijke vouwrichtingen plaats: de lengteas (craniocaudaal) en de zijwaartse as (lateraal). 
+
+Kun je, met deze aanwijzing, proberen te omschrijven wat het effect is van deze vouwen op de vorm van het embryo? Bijvoorbeeld: wat gebeurt er met de buiten- en binnenkant van het embryo door deze vouwbewegingen?",2025-09-17T13:18:43.272687+00:00
+user,ik weet het echt niet,2025-09-17T13:19:05.520997+00:00
+assistant,"Dank voor je eerlijkheid! Het is een complex idee, dus laten we het samen stap voor stap bekijken.
+
+Tijdens het embryonale vouwproces buigt het embryo zowel in de lengte (craniaal-caudale richting) als zijdelings (laterale richting) om van een platte schijf naar een cilindervorm te worden. Daardoor ontstaat een buikzijde en een rugzijde.
+
+Een kritische uitkomst van deze vouw is dat delen van het endoderm naar binnen worden getrokken, waardoor er een vroege darmbuis ontstaat, en de dooierzak steeds kleiner wordt. De amnionholte gaat geleidelijk rond het embryo liggen.
+
+Mijn volgende vraag om opnieuw wat basiskennis te oefenen:
+
+Kun je de vier typen mesoderm benoemen die tijdens de vroege embryonale ontwikkeling ontstaan, en aangeven waar ze ongeveer in het embryo ten opzichte van elkaar liggen?",2025-09-17T13:19:18.606096+00:00
+user,"axiale mesoderm, deze ligt in het midden van het embryo en daaruit komt de notochord. praxiale mesoderm ligt naast het axiale mesoderm en deze vromt somieten die uiteindelijk ontwikkelen tot sclerotoom, myotoom en dermatoom. dan heb je de intermediar mesoderm, deze ligt tussen de praxiale en laterale mesoderm en deze vormt de nieren en geslachtsorganen. als laatste heb je de aterale plaat mesoderm, ookwel de zijkant mesoderm en deze wordt opgesplitst in somatopleure en splanchnopleure",2025-09-17T13:22:26.863123+00:00
+assistant,"Heel goed! Je hebt de indeling en ligging van axiaal, paraxiaal, intermediair en lateraal plaat mesoderm correct uitgelegd, inclusief hun belangrijkste bijdragen.
+
+Kleine aanvulling: ""praxiaal"" bedoel je waarschijnlijk ""paraxiaal"" mesoderm, maar de rest klopt uitstekend.
+
+Nu een volgende basisvraag:
+
+Wat betekenen de termen âcraniaalâ, âcaudaalâ, âventraalâ en âdorsaalâ wanneer je de embryonale oriÃ«ntatie beschrijft?",2025-09-17T13:22:36.060629+00:00
+user,craniaal(boven) caudiaal (lengte) ventraal (geen idee) en dorsaal( dwars),2025-09-17T13:23:14.015693+00:00
+assistant,"Je kent al enkele termen! Laten we samen kijken:
+
+- ""Craniaal"" betekent inderdaad ""richting het hoofd"" (dus bovenaan bij het embryo).
+- ""Caudaal"" betekent ""richting het staartgedeelte"" (onderaan of aan het einde).
+Maar ""ventraal"" en ""dorsaal"" gaan niet over lengte of dwars. Kun je bedenken of ""dorsaal"" en ""ventraal"" te maken hebben met de buikzijde of de rugzijde van het embryo? Wat denk je dat bij welk hoort?",2025-09-17T13:23:22.881338+00:00
+user,ik denk dat dorsaal de buikzijde is en ventraal de rugzijde,2025-09-17T13:23:56.916629+00:00
+assistant,"Dat is een logische gok, maar het is precies omgekeerd!
+
+Dorsaal = rugzijde  
+Ventraal = buikzijde  
+
+Dus:
+- Dorsaal verwijst naar de âachterkantâ (de rugzijde) van het embryo.
+- Ventraal verwijst naar de âvoorkantâ (de buikzijde) van het embryo.
+
+Wil je nog dat ik Ã©Ã©n van deze termen verder toelicht, of wil je nu een nieuwe vraag?",2025-09-17T13:24:06.485668+00:00
+user,needoe maar toelichten,2025-09-17T13:24:24.740523+00:00
+assistant,"Uiteraard! Laten we âdorsaalâ en âventraalâ kort verduidelijken binnen de embryonale ontwikkeling:
+
+- **Dorsaal** betekent ârugzijde.â Je kunt het zien als de kant waar bij mensen later de wervelkolom komt. In het vroege embryo is de dorsale zijde de achterkant, waar bijvoorbeeld de neurale buis (voorloper van het ruggenmerg) zich ontwikkelt.
+  
+- **Ventraal** betekent âbuikzijde.â Dit is de kant van waaruit de buik, borst en later de organen in de buikholte zich ontwikkelen. In het embryo is de ventrale zijde dus de voorkant, daar waar de buikwand zich gaat sluiten.
+
+In de context van het vignet van gastroschisis: bij deze aandoening sluiten ventrale structuren (buik) niet goed, waardoor darmen naar buiten kunnen treden via een opening aan de buikzijde.
+
+Wil je verder oefenen met basisbegrippen, of wil je door naar vragen over processen?",2025-09-17T13:24:38.856326+00:00
+user,nee doe maar basis begrippen,2025-09-17T13:25:28.165967+00:00
+assistant,"Prima! Hier komt nog een basisbegrip:
+
+Wat is âgastrulatieâ in de embryonale ontwikkeling? Wat gebeurt er tijdens deze fase met het embryo?",2025-09-17T13:25:34.146757+00:00
+user,"bij de gastrulatie onstaan er de drie kiemlagen. dat gebeurt doordat de cellen van het epiblast via de primitive streak naar de tussenlaag gaan en de mesoderm vormt. later ontstaan er de ectoderm, mesoderm en het endoderm",2025-09-17T13:26:28.684691+00:00
+assistant,"Mooi uitgelegd! Je benoemt correct dat tijdens de gastrulatie uit het epiblast via de primitiefstreep cellen migreren, en zo ontstaan de drie kiemlagen: ectoderm, mesoderm en endoderm.
+
+Laatste basisbegrip voor nu:
+
+Wat betekent het begrip âmorfogeneseâ in de context van de embryonale ontwikkeling?",2025-09-17T13:26:38.647173+00:00
+user,ik weet het niet,2025-09-17T13:26:48.956313+00:00
+assistant,"Geen probleem! Denk aan het woord âmorfogeneseâ: het komt van de Griekse woorden âmorphÃªâ (vorm) en âgenesisâ (ontstaan, worden).  
+Denk je dat morfogenese vooral te maken heeft met hoe organen en structuren verschijnen, of meer met het functioneren van cellen? Wat lijkt jou het meest logisch?",2025-09-17T13:26:56.019307+00:00
+user,oooh embryonale afwijkingen,2025-09-17T13:27:06.825026+00:00
+assistant,"Je zit op het goede spoor! Morfogenese verwijst echter niet alleen naar afwijkingen. Het begrip gaat over het hele proces waarbij het embryo en zijn organen hun specifieke vorm krijgen. Dus: het ontstaan van structuur en vorm in het embryo, of het nu normaal of afwijkend verloopt.
+
+Wil je proberen te formuleren wat morfogenese betekent, met deze uitleg erbij?",2025-09-17T13:27:15.665561+00:00
+user,morfogenese is de ontwikkeling van de basisorganen van het embryo,2025-09-17T13:27:46.80289+00:00
+assistant,"Dat is al een mooie poging! Zou je het begrip nog iets breder kunnen beschrijven? Denk aan niet alleen de organen, maar ook de algemene vorm en structuur van het embryo â bijvoorbeeld, hoe een platte schijf verandert in een driedimensionaal lichaam.
+
+Wil je het proberen te zeggen als: âMorfogenese is het proces waarbij ...â?",2025-09-17T13:27:53.926771+00:00
+user,Morfogenesen is de ontwikkeling van de de drie basis kiemalgaen of bouwstenen van het lichaam,2025-09-17T13:28:19.533651+00:00
+assistant,"Je bent erg dichtbij! Toch gaat morfogenese nog een stap verder dan alleen het ontstaan van de drie kiemlagen (dat gebeurt vooral tijdens gastrulatie).
+
+Denk aan wat er daarna gebeurt: uit die kiemlagen moeten vele structuren en vormen ontstaan.
+
+Probeer eens:  
+âMorfogenese is het proces waarbij het embryo en zijn organen en weefsels hun uiteindelijke vorm en structuur krijgen.â  
+Kun je dat zo verwoorden of aanpassen?",2025-09-17T13:28:28.702614+00:00
+user,nee,2025-09-17T13:28:34.040672+00:00
+assistant,"Dat is helemaal okÃ©! Hier is een voorbeeldzin die je als referentie kunt gebruiken:
+
+Morfogenese is het proces waarbij het embryo, met zijn organen en weefsels, hun uiteindelijke vorm en structuur krijgt tijdens de ontwikkeling.
+
+Wil je nu doorgaan naar vragen over processen (zoals gastrulatie en vouwprocessen), of nog een basisbegrip oefenen?",2025-09-17T13:28:41.420852+00:00
+user,ik wil graag feedback,2025-09-17T13:28:56.781404+00:00
+assistant,"Natuurlijk, hier volgt feedback op hoe je het tot nu toe doet:
+
+**Sterke punten:**
+- Je kent de drie kiemlagen en kunt ze benoemen.
+- Je snapt de ligging en functie van de soorten mesoderm grotendeels goed.
+- Je begrijpt de basis van gastrulatie.
+- Je vraagt goed door als iets niet duidelijk is, en je pogingen zijn steeds logisch opgebouwd.
+
+**Ontwikkelpunten:**
+- Bij enkele termen (zoals morfogenese, dorsaal/ventraal) kun je soms verwarren wat het precies betekent. Je leert ze echter snel bij zodra er uitleg is!
+- Probeer bij abstracte begrippen altijd te bedenken of het iets zegt over âvormâ/âbouwâ (zoals morfogenese) of over functie.
+- Bij anatomische richtingen: probeer ze te koppelen aan echte lichaamsdelen (dorsaal = rug, ventraal = buik).
+
+**Tips:**
+- Blijf doorvragen en probeer steeds het begrip in je eigen woorden te vatten, ook als je twijfelt.
+- Maak het visueel voor jezelf: teken bijvoorbeeld het embryo in doorsnede en zet pijlen bij dorsaal/ventraal etc.
+- Begrippen als âmorfogeneseâ en âembryonale vouwenâ kun je goed onthouden door te denken: âVan een platte schijf naar een buisje naar een mini-mensje.â
+
+Wil je nu oefenen met de processen van embryonale ontwikkeling?",2025-09-17T13:29:19.98619+00:00

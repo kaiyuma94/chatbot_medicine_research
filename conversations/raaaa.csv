@@ -1,0 +1,127 @@
+role,content,created_at
+user,ik ben klaar om the beginnen,2025-09-17T14:11:08.471033+00:00
+assistant,"Hier is de casus die we als uitgangspunt nemen:
+
+Een gezonde 25-jarige vrouw had routine prenatale zorg. Bij 24 weken zwangerschap ontdekte echografie een kleine opening (~5 mm) aan de rechterkant van de buik van de baby, dicht bij de navelstreng. Genetische tests (vruchtwateranalyse) bij 26 weken waren normaal. De opening werd groter (tot 34 mm) en delen van de darmen zweefden in het vruchtwater. De baby was kleiner dan verwacht. Bij 37 weken werd een keizersnede uitgevoerd. De pasgeboren jongen had delen van de dunne en dikke darm, en maag, buiten de buikholte. Het ondersteunende weefsel was kort, en de darmen zagen gezwollen uit. Diagnose: gastroschisis, een defect in de buikwand.
+
+Mijn eerste vraag:
+Wat is gastrulatie?",2025-09-17T14:11:22.315436+00:00
+user,het vormen van de kiemlagenn in de derde week van de embryonale ontwikkeling,2025-09-17T14:12:01.964702+00:00
+assistant,"Dat klopt! Gastrulatie is het proces waarbij tijdens de derde week van de embryonale ontwikkeling de drie kiemlagen worden gevormd.
+
+Volgende vraag:
+Kun je de drie kiemlagen benoemen?",2025-09-17T14:12:08.670701+00:00
+user,ectoderm mesoderm endoderm,2025-09-17T14:12:33.707021+00:00
+assistant,"Helemaal juist! De drie kiemlagen zijn ectoderm, mesoderm en endoderm.
+
+Volgende vraag:
+Wat wordt bedoeld met ""embryonale plooing"" (embryonic folding)?",2025-09-17T14:12:57.655133+00:00
+user,het vouwen van de mesoderm om de yolk sac,2025-09-17T14:13:31.637063+00:00
+assistant,"Je bent al op de goede weg! Embryonale plooing heeft inderdaad te maken met het vouwen van het embryo, maar gaat het alleen om het mesoderm? En wat gebeurt er met de andere structuren of kiemlagen tijdens dit proces?
+
+Kun je iets meer uitleggen over wat er precies wordt gevouwen en wat het doel is van embryonale plooing?",2025-09-17T14:13:40.221873+00:00
+user,de andere kiemlagen vouwen ook het ectoderm naar boven en het endoderm naar beneden en het doel is zodat de mond op de oeie plek komt,2025-09-17T14:14:30.035754+00:00
+user,"Conditional probability of an event: ""Probability of an event given a certain conditio",2025-09-17T14:18:12.055251+00:00
+assistant,"Het lijkt erop dat je per ongeluk een andere richting inslaat met je antwoord! We waren bezig met embryonale plooing in de context van de vroege embryonale ontwikkeling. Laten we daarbij blijven.
+
+Wil je proberen mijn vorige vraag over de dooierzak en het amnion tijdens embryonale plooing te beantwoorden?
+
+Wat gebeurt er met de positie van de dooierzak en het amnion tijdens embryonale plooing, en wat is het gevolg hiervan voor de vorming van de lichaamsholte?",2025-09-17T14:18:22.037182+00:00
+user,de dooierzak gaat verkleinen en naar beneden en het amnion gaat omhoog en de lichaamsholte word kleiner,2025-09-17T14:19:02.384291+00:00
+assistant,"Je bent goed op weg! Inderdaad, de dooierzak wordt kleiner en bevindt zich meer aan de onderkant van het embryo, terwijl het amnion zich rondom het embryo plooit. Toch is Ã©Ã©n detail net niet helemaal correct: wat gebeurt er eigenlijk met de grootte van de lichaamsholte (de intra-embryonale coeloom) tijdens de embryonale plooing? Wordt deze juist kleiner, groter, of blijft die gelijk?
+
+Kun je dat nog eens verduidelijken?",2025-09-17T14:19:11.235402+00:00
+user,groter om plaats te maken voor de hersenen,2025-09-17T14:19:22.04559+00:00
+assistant,"Heel goed! De lichaamsholte (de intra-embryonale coeloom) wordt inderdaad groter tijdens de embryonale plooing. Dit is belangrijk, omdat het ruimte biedt voor de zich ontwikkelende organen, inclusief de hersenen en andere structuren.
+
+Volgende vraag:  
+Kun je de verschillende delen van het mesoderm benoemen?",2025-09-17T14:19:29.432846+00:00
+user,"paraxiaal mesoderm, intermediair mesoderm",2025-09-17T14:19:48.381269+00:00
+assistant,"Goed! Je noemt het paraxiaal mesoderm en het intermediair mesoderm. Er is nog Ã©Ã©n belangrijke onderverdeling van het mesoderm die we missen.
+
+Kun je deze laatste aanvulling geven? Wat is het derde deel en weet je misschien ook hoe het in twee bladen verdeelt?",2025-09-17T14:19:55.068988+00:00
+user,somieten,2025-09-17T14:20:16.443238+00:00
+assistant,"De somieten zijn inderdaad afkomstig van het paraxiale mesoderm, dus dat klopt! Maar ik bedoelde eigenlijk nog Ã©Ã©n bredere indeling naast het paraxiale en intermediaire mesoderm.
+
+Heb je gehoord van het **laterale plaatmesoderm**? En weet je hoe dit zich verder opsplitst?",2025-09-17T14:20:24.543061+00:00
+user,geen idee,2025-09-17T14:20:30.342034+00:00
+assistant,"Geen probleem, dat is helemaal niet erg! Het laterale plaatmesoderm is het derde grote deel van het mesoderm. Dit laterale plaatmesoderm splitst zich uiteindelijk in twee lagen:
+
+1. **Het pariÃ«tale (somatische) mesoderm**  
+2. **Het viscerale (splanchnische) mesoderm**
+
+Wil jij proberen uit te leggen (of te raden) welk deel bij de lichaamswand hoort en welk deel rondom de organen ligt?",2025-09-17T14:20:39.309867+00:00
+user,visceral ligt bij de lichaamswnd en parietal ligt rondom de orgnaen,2025-09-17T14:21:19.522978+00:00
+assistant,"Je hebt het net omgedraaid! Wil je nog eens proberen? Denk aan de betekenis van de woorden: ""pariÃ«taal"" heeft te maken met de wand, en ""visceraal"" verwijst naar de ingewanden of organen. Wat betekent dit voor hun ligging?",2025-09-17T14:21:26.067898+00:00
+user,parietaal ligt dichter bij de hid en visceral zit dieper in het lichaam,2025-09-17T14:21:52.668278+00:00
+assistant,"Precies! Het pariÃ«tale (somatische) mesoderm ligt dichter bij de lichaamswand, terwijl het viscerale (splanchnische) mesoderm juist rondom de organen in het lichaam ligt.
+
+Volgende vraag:  
+Wat betekenen de volgende richtingen in het embryo: caudaal, craniaal, ventraal en dorsaal? Kun je ze kort verklaren?",2025-09-17T14:22:00.775035+00:00
+user,caudaal is onderin craniaal is irchting de schedel ventraal is richting de ubk dorsaal is richting de rug,2025-09-17T14:22:34.738102+00:00
+assistant,"Helemaal goed!  
+- **Caudaal** = onderin (richting het âstaartâ-einde)
+- **Craniaal** = richting de schedel (âhoofdâ-einde)
+- **Ventraal** = richting de buik
+- **Dorsaal** = richting de rug
+
+Je hebt nu veel basiskennis over de termen en indeling!  
+Nu wil ik wat dieper ingaan op de processen achter deze termen.
+
+Kun je uitleggen wat er tijdens gastrulatie precies gebeurtâhoe ontstaan de kiemlagen?",2025-09-17T14:22:46.291631+00:00
+user,"er onstaat een primitieve streek en de cellen van de epiblast migreren hier in naar onder en daaruit ontstaan d endoderm en de epiblast word ny de ectoderm genoemd, daarna migreren de ectoerm cellen weer door de streek en hieruit otstaat de mesoderm",2025-09-17T14:23:53.363153+00:00
+assistant,"Heel goed! Je beschrijft het ontstaan van de primitieve streep, de migratie van epiblastcellen, en de vorming van de kiemlagen. Je hebt goed in de gaten hoe cellen van de epiblast naar beneden bewegen en zo het endoderm en mesoderm vormen, terwijl de overgebleven epiblastcellen het ectoderm worden.
+
+Laten we nu verder gaan:
+Waarom is embryonale plooing essentieel voor de ontwikkeling van het embryo? Wat wordt hierdoor mogelijk gemaakt?",2025-09-17T14:24:01.923022+00:00
+user,het vormen van organen,2025-09-17T14:24:42.25401+00:00
+assistant,"Dat klopt, het draagt bij aan de orgaanvorming! Kun je iets specifieker zijn? Denk aan hoe de plooien bijdragen aan de ruimtelijke organisatie van het embryo en wat er gebeurt met de buisvormige structuren zoals de darm. Wat wordt nog meer mogelijk gemaakt door deze plooien?",2025-09-17T14:24:49.897441+00:00
+user,ik weet het echt neit,2025-09-17T14:25:13.636412+00:00
+user,ik weet ht echt niet,2025-09-17T14:25:57.650509+00:00
+user,ik weet ht echt niet,2025-09-17T14:26:06.24543+00:00
+assistant,"Dat is helemaal niet erg! Laten we het samen bekijken:
+
+Tijdens de embryonale plooing vouwt het embryo zich van een plat schijfje tot een driedimensionaal buis-achtig lichaam.  
+Hierdoor:  
+- Worden de organen op de juiste plaats gebracht.  
+- Wordt het dooierzakje opgenomen en ontstaat de darmbuis.  
+- Ontstaat de voorlopige lichaamsholte waarin organen zich verder kunnen ontwikkelen.
+
+Zou je zelf (kort) willen proberen samen te vatten waarom embryonale plooing belangrijk is aan de hand van deze punten?",2025-09-17T14:26:16.991935+00:00
+assistant,"**OVERALL SUMMARY**  
+Je hebt veel inzet en doorzettingsvermogen getoond tijdens deze sessie! Je durfde eerlijk te zijn over wat je niet wist en bleef proberen om samen met mij de stof te ontrafelen. Dat is heel waardevol in het leerproces.
+
+**WHAT YOU DID WELL**
+- **Strong Grasp of:** Je kent belangrijke begrippen en termen, zoals de kiemlagen, hun namen, en de basis van gastrulatie. Ook de richtingen in het embryo (caudaal, craniaal, ventraal, dorsaal) kon je prima benoemen.
+- **Good Application of:** Je legde goed de volgorde in het ontstaan van de kiemlagen uit, en je wist na hints in te zien hoe het pariÃ«tale en viscerale mesoderm liggen ten opzichte van de organen en de lichaamswand.
+
+**AREAS FOR GROWTH & FOCUS**
+- **Connecting the Dots:** Je vindt het nog lastig om te omschrijven welke processen plaatsvinden tijdens grote veranderingen zoals de embryonale plooing, en waarom deze processen functioneel belangrijk zijn voor de ontwikkeling van het embryo. Je kent de termen, maar het âwaarom/hoeâ mag je verder oefenen.
+- **Applying Theory to Practice:** Nu de basis zit, kun je nog meer oefenen met het uitleggen van de verbanden en het logisch koppelen van begrippen aan hun functie tijdens de embryonale ontwikkeling.
+
+**ACTIONABLE STUDY RECOMMENDATION**  
+Omdat het verklaren van processen en verbanden jouw grootste uitdaging is, raad ik je aan om een concept map of schematische tekening te maken van de stappen die plaatsvinden tijdens gastrulatie en embryonale plooing. Laat in je schema zien hoe de kiemlagen gevormd worden, hoe ze zich verplaatsen, en hoe dit uiteindelijk leidt tot de vorming van belangrijke structuren als de darmbuis en de lichaamsholte. Dit helpt je het geheel visueel en logisch op een rijtje te zetten!",2025-09-17T14:26:25.671+00:00
+assistant,"**OVERALL SUMMARY**  
+Je hebt erg goed meegedaan en je niet uit het veld laten slaan, zelfs als je het antwoord even niet wist. Je inzet, eerlijkheid en vasthoudendheid zijn echt een kracht in je leerproces!
+
+**WHAT YOU DID WELL**
+- **Strong Grasp of:** Je kunt belangrijke begrippen als de kiemlagen (ectoderm, mesoderm, endoderm) benoemen, evenals de richtingen binnen het embryo. Ook werd duidelijk dat je de volgorde van gastrulatie goed begrijpt.
+- **Good Application of:** Je wist met aanwijzingen de locatie van pariÃ«taal en visceraal mesoderm correct te koppelen, en je kunt uitleggen hoe uit de epiblast de verschillende kiemlagen ontstaan.
+
+**AREAS FOR GROWTH & FOCUS**
+- **Connecting the Dots:** Je hebt nog moeite met het logisch verbinden van termen en processen: bijvoorbeeld waarom en hoe de embryonale plooing zorgt voor de uiteindelijke organisatie van het embryo. Het verklaren van de functionele betekenis van deze stappen vraagt nog wat oefening.
+- **Applying Theory to Practice:** Nu je de losse feiten kent, kun je oefenen deze informatie samen te voegen tot een kloppend verhaal over het ontstaan van de belangrijke structuren door de vroege embryonale processen.
+
+**ACTIONABLE STUDY RECOMMENDATION**  
+Aangezien het uitleggen van processen en het leggen van verbanden tussen begrippen het lastigste voor je is, zou ik je aanraden om schemaâs of concept maps te tekenen. Maak een tekening van het embryo in verschillende ontwikkelingsstadia en geef pijlen aan om te laten zien hoe en waar de kiemlagen ontstaan en zich verplaatsen, en welk gevolg dit heeft (bv. vorming van de lichaamsholte of darmbuis). Dit visueel maken zal je enorm helpen om de procesmatige stappen goed te gaan snappen!",2025-09-17T14:26:33.835+00:00
+user,ik ben klaar om te beginnen,2025-09-18T11:45:41.344122+00:00
+assistant,"Hier is de casus om het onderwerp te contextualiseren:
+
+Een gezonde 25-jarige vrouw had normale prenatale controles. Bij een echo op 24 weken werd een kleine opening (ongeveer 5 mm) aan de rechterkant van de buik van de baby gevonden, dichtbij de navelstreng. Genetische testen waren normaal. De opening werd groter, en delen van de darmen van de baby waren zichtbaar in het vruchtwater. Bij de geboorte had de baby delen van de dunne en dikke darm, en de maag, buiten de buikholte. De ondersteunende weefsels waren kort en de darm was gezwollen. De diagnose was gastroschisis.
+
+Eerste vraag:  
+Wat wordt bedoeld met ""gastrulatie"" tijdens de embryonale ontwikkeling?",2025-09-18T11:45:57.22916+00:00
+user,olntstaan van de kiemlagen,2025-09-18T11:46:20.639127+00:00
+assistant,"Klopt! Gastrulatie is inderdaad het proces waarbij de drie kiemlagen ontstaan.
+
+Kun je deze drie kiemlagen bij naam noemen?",2025-09-18T11:46:24.877831+00:00

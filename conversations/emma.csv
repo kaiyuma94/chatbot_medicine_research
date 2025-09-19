@@ -1,0 +1,83 @@
+role,content,created_at
+user,ik ben klaar om te beginnen,2025-09-17T13:14:41.850947+00:00
+assistant,"Mooi, laten we beginnen!
+
+Hier is de casus om mee te werken:
+
+Een gezonde 25-jarige vrouw had tijdens de zwangerschap reguliere controles. Op een echo bij 24 weken werd een kleine opening (~5 mm) rechts van de navel van de baby gevonden. Later werd deze opening groter (tot 34 mm), en delen van de darmen dreven los in het vruchtwater. Bij de geboorte staken delen van de dunne en dikke darm en de maag naar buiten. De diagnose was gastroschisis, een buikwanddefect.
+
+Mijn eerste vraag:  
+Wat is gastrulatie?",2025-09-17T13:14:54.448569+00:00
+user,gastrelatie is het proces waarbij de 3 kiemlagen worden gevormd,2025-09-17T13:17:33.418887+00:00
+assistant,"Goed! Gastrulatie is inderdaad het proces waarbij de drie kiemlagen ontstaan.
+
+Kun je de namen noemen van deze drie kiemlagen?",2025-09-17T13:17:38.461031+00:00
+user,ectoderm mesoderm endoderm,2025-09-17T13:17:49.13948+00:00
+assistant,"Helemaal correct! De drie kiemlagen zijn ectoderm, mesoderm en endoderm.
+
+Nu een andere basisvraag:
+Wat is embryonale vouwing (embryonic folding)?",2025-09-17T13:17:55.530688+00:00
+user,dat het embryo dubbel vouwt,2025-09-17T13:18:09.545628+00:00
+assistant,"Dat is een goed begin! Je zegt dat het embryo dubbel vouwt. Kun je iets specifieker zijn? Bijvoorbeeld:  
+- In welke richtingen vindt deze vouwing plaats?
+- Waarom is deze vouwing belangrijk voor het embryo?
+
+Wat weet je daarover?",2025-09-17T13:18:16.036403+00:00
+user,het vouwt naar boven en het gebeurt om de binnenste lagen te beschermen,2025-09-17T13:18:45.959108+00:00
+assistant,"Je noemt ""naar boven"" (bovenwaarts), en dat het gebeurt om binnenste lagen te beschermen. Dat komt in de buurtâmooie poging!
+
+Kun je nog bedenken of het embryo ook in een andere richting vouwt, behalve alleen naar boven (craniaal of caudaal)?  
+En wat gebeurt er met de positie van de dooierzak, darm en lichaamsholte tijdens deze vouwingen?
+
+Probeer je antwoord verder toe te lichten!",2025-09-17T13:18:54.86408+00:00
+user,craniaal,2025-09-17T13:19:19.328853+00:00
+assistant,"Goed, het embryo vouwt inderdaad in craniaal richting! Er is echter nog een andere belangrijke richting waarin vouwing optreedt. Kun je die benoemen?
+
+En weet je wat er gebeurt met de dooierzak en de embryonale darm tijdens dit proces van vouwing? Probeer beide vragen te beantwoorden.",2025-09-17T13:19:27.950113+00:00
+user,de dooierzak wordt de primitieve darm,2025-09-17T13:21:24.332032+00:00
+assistant,"Heel goed! De dooierzak vormt inderdaad de basis voor de primitieve darm door het vouwingproces.
+
+Kun je nu proberen te benoemen in welke tweede belangrijke richting, naast craniaal, het embryo vouwt tijdens deze periode?  
+(Denk bijvoorbeeld aan voor-achter of links-rechts beweging.)
+
+Daarna stel ik weer een nieuwe vraag!",2025-09-17T13:21:32.301926+00:00
+user,links en rechts,2025-09-17T13:21:47.225152+00:00
+assistant,"Precies! Naast de craniaal-caudale (kop-staart) vouwing, vindt er ook laterale (links-rechts) vouwing plaats. Daardoor krijgt het embryo een cilindrische vorm en ontstaat de buikwand.
+
+Volgende vraag:  
+Kun je de verschillende delen van het mesoderm benoemen die tijdens de embryonale ontwikkeling worden gevormd?",2025-09-17T13:21:54.495154+00:00
+user,"axiaal, paraxial mesoderm",2025-09-17T13:22:29.335054+00:00
+assistant,"Dat is een goed begin! Naast axiaal en paraxiaal mesoderm zijn er nog andere delen van het mesoderm. Kun je deze ook noemen? Misschien ken je de namen die te maken hebben met de positie ten opzichte van het embryo of lichaamsholten (zoals ""lateraal"")?
+
+Probeer je antwoord aan te vullen.",2025-09-17T13:22:35.965586+00:00
+user,lateraal plaatmesoderm,2025-09-17T13:22:49.761878+00:00
+assistant,"Super, dat klopt! Je hebt nu axiaal, paraxiaal en lateraal plaatmesoderm genoemd. Er is nog Ã©Ã©n belangrijk type mesoderm, dat zich tussen het paraxiale en laterale plaatmesoderm bevindt. Kun je deze ook benoemen? (De naam begint met âinter-â¦â)
+
+Probeer het eens!",2025-09-17T13:22:56.961017+00:00
+user,intermediair mesoderm,2025-09-17T13:23:25.412125+00:00
+assistant,"Correct! Het intermediair mesoderm vormt samen met de andere genoemde delen het geheel van de mesodermale subtypes.
+
+Laatste basisvraag voordat we verder gaan:  
+Wat betekenen de begrippen ventraal en dorsaal?",2025-09-17T13:23:30.782309+00:00
+user,de voor en achterkant van een persoon,2025-09-17T13:24:06.611234+00:00
+assistant,"Goed! ""Ventral"" verwijst naar de voorkant (buikzijde) en ""dorsaal"" naar de achterkant (ruggengraat- of rugzijde).
+
+Nu dat je deze termen en basale processen kent, zullen we ze in meer detail en samenhang gaan toepassen.
+
+Kun je mij uitleggen wat er gebeurt tijdens gastrulatie? Wat zijn de belangrijkste stappen in dit proces?",2025-09-17T13:24:14.229871+00:00
+user,"een primitieve groeve wordt gevormd op het epiblast waarna het epiblast door de groeve stroomt en tussen het epiblast en hypoblast komt en een nieuwe laag 3e laag vormt, het mesoderm",2025-09-17T13:25:29.97429+00:00
+assistant,"Mooie uitleg! Je noemt de primitieve groeve, epiblast, en hoe cellen invagineren om tussen epiblast en hypoblast het mesoderm te vormen.
+
+Even samenvatten en iets aanvullen:  
+Welke kiemlaag ontstaat er uit de cellen die *als eerste* door de primitieve groeve migreren, en waar komt de endoderm vandaan in dit proces?
+
+Kun je dit proces verder toelichten?",2025-09-17T13:25:38.580502+00:00
+user,"het mesoderm ontstaat uit de gemigreerde cellen, het epiblast veranderd in het ectoderm en hypoblast veranderd in het endoderm",2025-09-17T13:26:57.104256+00:00
+assistant,"Je zit op het goede spoor, maar er is een klein misverstand. Laten we het samen oplossen:
+
+De cellen van het **epiblast** migreren door de primitieve groeve.  
+Eerst vervangen ze de hypoblastcellen volledigâde cellen die als eerste naar beneden migreren worden het nieuwe **endoderm**.  
+Daarna migreren er meer epiblastcellen, die tussen het endoderm en het overgebleven epiblast gaan zittenâdat wordt het **mesoderm**.  
+Het resterende epiblast wordt het **ectoderm**.
+
+Kun je dat nog eens proberen samen te vatten? Welke laag vormt het endoderm, welke het mesoderm, en welke het ectoderm?",2025-09-17T13:27:10.865267+00:00

@@ -1,0 +1,24 @@
+role,content,created_at
+user,Laten we beginnen,2025-09-17T17:03:48.444162+00:00
+assistant,"Prima! Hier is de klinische casus om te starten:
+
+Een gezonde 25-jarige vrouw kreeg tijdens de routine prenatale controle bij 24 weken zwangerschap via echografie te horen dat er een kleine opening (~5 mm) rechts van de navel van haar baby was. Genetisch onderzoek rond 26 weken was normaal. De opening in de buikwand werd echter groter (tot 34 mm), en delen van de darmen waren te zien buiten de buik, zwevend in het vruchtwater. Bij de geboorte waren delen van de maag en darmen buiten de buik, met korte steunweefsels en gezwollen darmen. De diagnose: gastroschisis, een defect van de buikwand.
+
+Hier komt de eerste vraag:
+
+Wat betekent de term âgastrulatieâ in de context van de embryonale ontwikkeling?",2025-09-17T17:04:05.832455+00:00
+user,Als we van 2 naar 3 lagen in de embryo gaan,2025-09-17T17:05:00.48299+00:00
+assistant,"Juist, met gastrulatie bedoelen we het proces waarbij het embryo van twee naar drie lagen gaat. Kun je deze drie lagen benoemen?",2025-09-17T17:05:05.97395+00:00
+user,"Endoderm, mesoderm en ectoderm",2025-09-17T17:05:26.484648+00:00
+assistant,"Dat klopt! De drie kiemlagen zijn het endoderm, mesoderm en ectoderm.
+
+Volgende vraag:  
+Wat wordt bedoeld met âembryonale vouwingâ (embryonic folding), en wanneer vindt dit ongeveer plaats tijdens de embryonale ontwikkeling?",2025-09-17T17:05:33.930217+00:00
+user,Embryonale vouwing betekent als de amnion rondom vouwt,2025-09-17T17:07:01.891333+00:00
+assistant,"Je bent op de goede weg: bij embryonale vouwing verandert de vorm van het embryo inderdaad sterk. Maar er is iets specifieks met hoe het embryo zelf vouwt, niet alleen het amnion. Kun je iets meer zeggen over hoe het embryo vouwt (bijvoorbeeld richting of soort vouwing) en rond welke weken dit gebeurt?",2025-09-17T17:07:11.530163+00:00
+user,De vouwing gaat van boven naar beneden om buizen te vormen wat gebeurt in weel 3/4,2025-09-17T17:09:56.1846+00:00
+assistant,"Je noemt het vouwen van boven naar beneden â dat is de craniocaudale vouwing. Er gebeurt echter ook iets aan de zijkanten van het embryo, en de belangrijkste vouwing vindt vooral plaats in week 4. Kun je beschrijven wat er met de zijkanten van het embryo gebeurt tijdens deze periode? Wat is het gevolg daarvan voor het embryo?",2025-09-17T17:10:06.654775+00:00
+user,Het embryo wordt verstevigd door de vouwing aan de buitenkant,2025-09-17T17:13:09.24067+00:00
+assistant,"Gedeeltelijk waar: embryonale vouwing zorgt zeker voor een compactere, stevigere structuur. Maar denk aan de vorm: door de zijkanten naar elkaar toe te vouwen, ontstaat er een specifieke verandering aan de onderkant (ventraal) van het embryo. 
+
+Wat gebeurt er met het dooierzakgedeelte en hoe verandert dat het embryo zelf? Wat ontstaat er binnenin het embryo door deze zijdelingse (laterale) vouwing?",2025-09-17T17:13:17.906717+00:00

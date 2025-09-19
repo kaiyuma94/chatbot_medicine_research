@@ -1,0 +1,62 @@
+role,content,created_at
+user,begin,2025-09-17T08:32:02.736095+00:00
+assistant,"Letâs begin your learning session on early embryonic development, using the provided clinical vignette.
+
+### VIGNETTE ###
+A healthy 25-year-old woman had routine prenatal care. At 24 weeks of pregnancy, an ultrasound revealed a small opening (~5 mm) on the right side of the babyâs belly, near the umbilical cord. Genetic tests (amniotic fluid analysis) at 26 weeks were normal. Over time, the opening enlarged (up to 34 mm), and parts of the babyâs intestines were seen floating in the amniotic fluid. The baby also measured smaller than expected. At 37 weeks, a caesarean section was performed. The newborn boy had parts of his small and large intestines, and stomach, located outside the abdomen. The supporting tissue was short, and the bowel appeared swollen. The diagnosis was gastroschisis, a defect in the abdominal wall.
+
+Letâs start at the foundation.
+
+**What is âembryonic foldingâ?**",2025-09-17T08:32:18.060422+00:00
+user,het proces waarbij de embryonale schijf zich vouwt in 2 richtingen om zo een 3 dementionale structuur te vormen en de vorm van de baby te vormen,2025-09-17T08:33:17.158065+00:00
+assistant,"Goed! Je zegt dat embryonale schijf zich vouwt in twee richtingen om een driedimensionale structuur te vormenâen zo krijgt het embryo de vorm van een âbabyâ.
+
+Kun je ook aangeven **in welke twee richtingen** deze embryonale plooien optreden? Wat weet je daarvan?",2025-09-17T08:33:23.523342+00:00
+user,"in sagitale richting, hierbij vouwt het hoofd en het staarteinde naar elkaar toe zodat de organen op de juiste plaats komen te liggen, en in transversale richting waarbij het amnion een deel van de dooierzak insluit zodat er een buis ontstaat die later het verteringstelsel word",2025-09-17T08:35:07.212891+00:00
+assistant,"Prima! Je noemt inderdaad de **sagittale richting** (craniaal en caudaal, waarbij hoofd en staarteinde naar elkaar toe vouwen) en **transversale richting** (lateraal, waarbij de zijkanten van het embryo naar ventraal toe vouwen). Hierdoor ontstaat er een voorlopige lichaamsvorm en worden de organen op de juiste plaats georganiseerd.
+
+Laten we verdergaan met een ander kernbegrip:
+
+**Wat is gastrulatie?**",2025-09-17T08:35:15.050612+00:00
+user,"het proces waarbij de enbryonale schijf zich vormt tot een 3 laagse schijf, dit gebeurt doordat cellen van het epiblast via de centrale groeve naar binnen differentieren en zo een laag vormen genaamd het endoderm (binnenste laag), als deze laag gevormt is gaan de epiblastcellen nog een keer door de groeve en vormen zo het mesoderm, en de overige epiblast cellen vormen het ectoderm",2025-09-17T08:37:37.518187+00:00
+assistant,"Heel goed! Je beschrijft het proces van gastrulatie nauwkeurig: het is het proces waarbij uit de embryonale schijf drie kiemlagen ontstaanâendoderm, mesoderm en ectodermâdoor migratie van epiblastcellen via de primitiefstreep.
+
+Nu, kun je deze drie kiemlagen benoemen en **kort Ã©Ã©n belangrijk lichaamsstructuur noemen die uit elke laag ontstaat**?",2025-09-17T08:37:45.727396+00:00
+user,endoderm: binnenbekleding spijsverteringstelsel en binnenbekleding van sommige organen,2025-09-17T08:38:27.297259+00:00
+assistant,"Goed begin! Je wijst het endoderm correct toe aan de binnenbekleding van het spijsverteringsstelsel en binnenbekleding van sommige organen.
+
+Wat kun je zeggen over het **mesoderm**? Kun je daarvan ook een belangrijk lichaamsstructuur noemen die eruit ontstaat? En wat weet je van het **ectoderm**?",2025-09-17T08:38:34.61733+00:00
+user,"mesoderm: spieren, botten en bindweefsel, ectoderm: epidermes opperhuid en zenuwweefsel",2025-09-17T08:39:08.908497+00:00
+assistant,"Precies goed!  
+- **Mesoderm:** spieren, botten en bindweefsel  
+- **Ectoderm:** epidermis (opperhuid) en zenuwweefsel
+
+Laten we nu even verdergaan met een andere relevante set van termen.  
+**Noem de vier hoofdonderdelen (subdivisies) van het mesoderm.**",2025-09-17T08:39:17.321296+00:00
+user,"ik weet niet hoe ze heten maar 1 vormt spier, 1 vormt bot, 1 vormt bindweefsel en de laatste weet ik niet",2025-09-17T08:40:03.923914+00:00
+assistant,"Geen probleem! De namen zijn misschien nog lastig te onthouden. Denk eens aan de richting binnen het embryoâvan het midden naar buiten. EÃ©n van de subdivisies wordt vaak geassocieerd met de wervelkolom, een ander met nieren/urogenitaal systeem, en de buitenste delen met de lichaamswand en organen.
+
+Kun je je herinneren hoe ze ongeveer genoemd worden, of misschien Ã©Ã©n van de termen? Bijvoorbeeld iets met âaxiaalâ, âparaxiaalââ¦ Misschien helpt het als je de benaming âplaatâ of âschijfâ in gedachten houdt voor de buitenste regioâs?
+
+Probeer ze eens op te sommen of schrijf op wat je weet.",2025-09-17T08:40:14.563428+00:00
+user,end conversation,2025-09-17T08:40:32.619908+00:00
+assistant,"OkÃ©, ik stop hierbij. Als je later weer verder wilt gaan met embryologie of een ander onderwerp, weet je me te vinden!",2025-09-17T08:40:38.688208+00:00
+user,geef feedback,2025-09-17T08:41:09.045495+00:00
+assistant,"Natuurlijk, hierbij je feedback!
+
+**Wat ging goed:**  
+- Je kunt duidelijk uitleggen wat embryonale plooing (folding) en gastrulatie zijn, en je benoemt de kiemlagen correct.
+- Je weet uit welke kiemlaag belangrijke structuren ontstaan.
+- Je gebruikt correcte terminologie en redeneert in je eigen woorden.
+
+**Waar kun je verder op oefenen:**  
+- De namen van de vier subdivisies van het mesoderm zijn belangrijk om te kennen. Ze zijn:  
+  1. Axiaal mesoderm (of chorda)
+  2. Paraxiaal mesoderm (vormt oa. spieren, wervels)
+  3. Intermediair mesoderm (vormt nieren, urogenitaal stelsel)
+  4. Laterale plaat mesoderm (visceraal/pariÃ«taal blaadje, vormt oa. lichaamswand, hartbekleding)
+
+**Advies:**  
+Leer deze namen in volgorde vanaf het midden (axiaal), na elkaar richting buiten. Probeer telkens te koppelen welke structuur hieruit ontstaat. Gebruik eventueel een plaatje uit je boek of college om voor jezelf te herhalen.
+
+Wil je nog verder oefenen of was dit voldoende voor nu?",2025-09-17T08:41:25.245726+00:00
