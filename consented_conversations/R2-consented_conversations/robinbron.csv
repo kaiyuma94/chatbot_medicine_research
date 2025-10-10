@@ -1,0 +1,61 @@
+"role","content"
+"user","hoi"
+"assistant","###VIGNETTE 1###
+Het lichaam slaat glucose op in de vorm van glycogeen, vooral in de lever en spieren, zodat het kan worden gebruikt als energiebron wanneer dat nodig is—zoals tussen maaltijden of tijdens inspanning. 
+Bij Glycogeenstapelingsziekten (GSD) is dit proces verstoord door een erfelijk tekort aan bepaalde enzymen. Hierdoor kan het lichaam de bloedglucose niet goed op peil houden, vooral tijdens vasten. Om dit te compenseren, worden andere metabole routes geactiveerd. Maar in GSD zijn alternatieve routes, zoals de Cori-cyclus, vaak overactief of ook niet optimaal.
+Een 3-jarig meisje met GSD komt bij de arts omdat ze erg prikkelbaar is en haar buik opgezet lijkt. Ze heeft een vergrote lever en bloedonderzoek toont het volgende:
+Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
+Bloedketonen: Negatief (normaal: negatief)
+Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
+
+Kun je uitleggen wat er in dit geval aan de hand is?"
+"user","omdat er te weinig glucose in het bloed zit, kan de citroenzuurcyclus en oxidatieve fosforylering ook niet genoeg atp produceren, om dit te compenseren vindt er extra glycose plaats waarbij lactaat ontstaat"
+"assistant","Goede poging! Voordat we verder gaan, laten we even een stapje terug doen om samen de basiskennis op te frissen. Dit helpt om straks het klinisch probleem beter uit te puzzelen. Heb je tot nu toe vragen of dingen waar je over twijfelt? 
+
+Zo niet, wil ik je vragen: Kun je kort uitleggen wat glycolyse inhoudt? Of is er een ander onderdeel (bijvoorbeeld glycogenolyse, aerobe of anaerobe afbraak) waarvan je denkt dat je daar de basis van wilt terughalen?"
+"user","omzetting van glucose naar pyruvaat"
+"assistant","Klopt! Tijdens de glycolyse wordt glucose omgezet in pyruvaat, en daarbij komt een kleine hoeveelheid ATP vrij. Weet je ook wat er met pyruvaat kan gebeuren na de glycolyse, afhankelijk van de hoeveelheid zuurstof? 
+
+En kun je benoemen waar in de cel glycolyse plaatsvindt?"
+"user","doe 1 vraag tegelijk!!"
+"assistant","Goed punt, laten we het simpel houden!
+
+Wat gebeurt er met pyruvaat na de glycolyse als er genoeg zuurstof aanwezig is?"
+"user","dan gaat het door de citroenzuurcyclus"
+"assistant","Precies! Pyruvaat wordt dan eerst omgezet in acetyl-CoA en vervolgens opgenomen in de citroenzuurcyclus (Krebs-cyclus), wat plaatsvindt in de mitochondriën.
+
+Nu een andere basisvraag om zeker te weten dat de kennis stevig zit: wat gebeurt er met pyruvaat als er géén (of weinig) zuurstof is?"
+"user","dan wordt het omgezet in lactaat"
+"assistant","Helemaal correct! In dat geval vindt anaerobe glycolyse plaats, waarbij pyruvaat wordt omgezet in lactaat. Dit gebeurt vooral in het cytoplasma.
+
+Laatste korte vraag om het plaatje compleet te maken: hoe krijgt het lichaam bij vasten normaal gesproken glucose in het bloed als er geen voeding is? Welke processen zijn hierbij betrokken?"
+"user","van glycogenolyse"
+"assistant","Goed! Glycogenolyse breekt glycogeen af tot glucose om het bloedglucosegehalte op peil te houden, vooral in de lever.
+
+Normaal komen bij langer vasten (als de glycogeenvoorraad opraakt) ook gluconeogenese en andere mechanismen in beeld, maar voor nu is jouw antwoord prima.
+
+Laten we nu de kennis die we hebben besproken toepassen op de casus.
+
+###VIGNETTE 1###
+Het lichaam slaat glucose op in de vorm van glycogeen, vooral in de lever en spieren, zodat het kan worden gebruikt als energiebron wanneer dat nodig is—zoals tussen maaltijden of tijdens inspanning. 
+Bij Glycogeenstapelingsziekten (GSD) is dit proces verstoord door een erfelijk tekort aan bepaalde enzymen. Hierdoor kan het lichaam de bloedglucose niet goed op peil houden, vooral tijdens vasten. Om dit te compenseren, worden andere metabole routes geactiveerd. Maar in GSD zijn alternatieve routes, zoals de Cori-cyclus, vaak overactief of ook niet optimaal.
+Een 3-jarig meisje met GSD komt bij de arts omdat ze erg prikkelbaar is en haar buik opgezet lijkt. Ze heeft een vergrote lever en bloedonderzoek toont het volgende:
+Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
+Bloedketonen: Negatief (normaal: negatief)
+Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
+
+Nu je de kennis hebt opgefrist: kun je uitleggen wat er in dit geval gebeurt, met gebruik van de kennis die we net hebben besproken?"
+"user","omdat ze geen glycogeen kan maken, kan daar geen glucose weggehaald worden. hierdoor is het gehalte bloedglucose lager, dan normaal."
+"assistant","Mooie start! Je geeft goed aan dat de bloedglucose laag is door het probleem met glycogeen. 
+
+Kun je verder uitleggen waarom haar lactaat verhoogd is? Denk hierbij aan welke processen geactiveerd worden als bloedglucose laag blijft en waarom er juist meer lactaat wordt gevormd. Wat gebeurt er met het pyruvaat als glucose schaars is en de energiebehoefte ontstaat?"
+"user","omdat er weinig glucose is, moet het lichaam over op glyconeolyse, hiervoor is pyruvaat uit lactaat nodig, maar dit lactaat moet naar de lever getransporteerd worden via het bloed. daarom is het lactaat gehalte hoger in het bloed"
+"assistant","Goed geredeneerd! Inderdaad, wanneer de glucose laag is en glycogenolyse niet goed werkt, schakelt het lichaam over op andere manieren om aan energie te komen—zoals de omzetting van lactaat via de Cori-cyclus.
+
+Zou je kunnen aanvullen waarom het pyruvaat niet gewoon volledig in de citroenzuurcyclus terechtkomt in deze situatie? Wat beperkt de aerobe route hier, denk je?"
+"user","dat er geen nadh uit glycose is?"
+"assistant","Interessante gedachte! NADH is inderdaad belangrijk voor energieproductie, maar zelfs bij glycolyse wordt wel wat NADH gevormd. Laten we het iets breder bekijken. 
+
+Als het lichaam door enzymdeficiënties in GSD niet goed overweg kan met glucose/glycogeen, wordt er veel pyruvaat gevormd uit glycolyse, maar het vermogen om dat pyruvaat volledig te laten doorstromen in de citroenzuurcyclus raakt beperkt.
+
+Kun je bedenken wat er bijvoorbeeld kan gebeuren met NAD+ bij een verhoogde glycolyse en beperkte aerobe omzetting van pyruvaat, en hoe dit de aanmaak van lactaat kan stimuleren?"

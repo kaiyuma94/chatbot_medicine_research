@@ -1,0 +1,71 @@
+"role","content"
+"user","ik ben klaar om te beginnen"
+"assistant","Hier komt het eerste casus om ons te helpen bij het leren!
+
+###VIGNETTE 1###
+Het lichaam slaat glucose op in de vorm van glycogeen, vooral in de lever en spieren, zodat het kan worden gebruikt als er energie nodig is—vooral tussen maaltijden of tijdens inspanning.  
+Bij Glycogeenstapelingsziekten (GSD’s) is dit proces verstoord door erfelijke enzymdeficiënties. Hierdoor is het lichaam minder goed in staat de normale bloedglucosespiegel te handhaven, zeker tijdens vasten. Om te compenseren activeert het andere metabole routes. Bij deze GSD verlopen alternatieve routes, zoals de Cori-cyclus, aangepast.  
+Een 3-jarig meisje met GSD komt bij de arts omdat ze erg prikkelbaar is en een opgezwollen buik heeft. Haar lever is vergroot en bloedonderzoek laat zien:  
+Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)  
+Bloedketonen: Negatief (normaal: negatief)  
+Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
+
+Kun je uitleggen wat er in dit geval gebeurd is?"
+"user","er is een verlaagd bloedglucose gehalte en er is sprake van anaerobe dissimilatie"
+"assistant","Goede poging! Voordat we verdergaan, laten we even een stapje terug doen en samen de basiskennis doornemen die hierbij hoort. Dit helpt bij het beter begrijpen van het geval straks. Zijn er bepaalde onderdelen waar je nu al vragen over hebt of waar je onzeker over bent?
+
+Zo niet, kun je mij dan kort uitleggen wat je weet van glycolyse? Wat gebeurt er precies in deze route?"
+"user","glycolyse is de dissimilatie van 1 glucose molecuul naar 2 pyruvaat moleculen. Hierin wordt ATP opgewekt en NADH en FADH2"
+"assistant","Dat is een mooie start! Je noemt dat bij glycolyse 1 glucosemolecuul wordt omgezet in 2 pyruvaatmoleculen. Klopt helemaal, en daarbij wordt inderdaad wat ATP en NADH gevormd. FADH2 komt echter niet direct vrij bij de glycolyse—die wordt in een latere fase van de aerobe dissimilatie gevormd.
+
+Even check: weet je ook waar glycolyse in de cel plaatsvindt, en wat er gebeurt met pyruvaat als er wel of geen zuurstof aanwezig is?"
+"user","het vindt plaats in het cytoplasma, wanneer er wel zuurstof aanwezig is zal er decarboxylering plaatsvinden, wanneer er geen zuurstof aanwezig is zal er gisting plaatsvinden"
+"assistant","Heel goed! Glycolyse vindt inderdaad plaats in het cytoplasma.  
+Als er zuurstof aanwezig is, wordt pyruvaat verder verwerkt in de mitochondriën (via decarboxylering naar acetyl-CoA) en dan de citroenzuurcyclus in gestuurd.  
+Als er geen zuurstof is, krijgt pyruvaat een andere bestemming—namelijk fermentatie, of anders gezegd: omzetting naar lactaat (melkzuur) bij mensen.
+
+Nu een vervolgvraag: weet je wat er gebeurt met NADH onder aerobe en anaerobe omstandigheden? Waarom is dit belangrijk voor energievoorziening?"
+"user","NADH wordt gebruikt voor de oxidatieve fosforylering, dit is belangrijk omdat de oxidatieve fosforylering zorgt voor het grotendeel van het totale geproduceerde ATP van 1 glucose molecuul."
+"assistant","Precies, onder aerobe omstandigheden wordt NADH in de mitochondriën gebruikt bij de oxidatieve fosforylering (elektronentransportketen), wat het grootste deel van de ATP oplevert.  
+En onder anaerobe omstandigheden, zoals bij fermentatie naar lactaat—wat gebeurt er dan met NADH? Waarom is dat van belang voor het blijven doorgaan van glycolyse?
+
+Als je dat weet, zijn we goed op weg!"
+"user","onder anaerobe omstandigheden wordt het gebruikt bij de fermentatie om NAD op te wekken, wat weer nodig is voor de glycolyse"
+"assistant","Helemaal juist! Onder anaerobe omstandigheden wordt NADH weer omgezet in NAD⁺ bij de omzetting van pyruvaat naar lactaat. Hierdoor kan glycolyse blijven doorgaan, ondanks het gebrek aan zuurstof.
+
+Wil je nog iets vragen over glycolyse of de processen daarna, of zal ik doorvragen over een ander deel van de energiehuishouding zoals glycogenolyse of de Cori-cyclus?"
+"user","ik heb graag dat je doorvraagt naar een ander deel van de energiehuishouding"
+"assistant","Prima! Laten we dan even kort stilstaan bij glycogenolyse:  
+– Kun je uitleggen wat glycogenolyse is, waar het gebeurt en welk doel het dient voor het lichaam?  
+Laat horen wat je al weet!"
+"user","glycogenolyse is de afbraak van glycogeen naar glucose, het gebeurt in de lever en het helpt bij de energieopwekking op lange termijn"
+"assistant","Goed uitgelegd! Glycogenolyse is inderdaad het proces waarbij glycogeen wordt afgebroken tot glucose, vooral in de lever (voor de bloedglucose) en in mindere mate in de spieren (voor lokaal gebruik).
+
+Misschien weet je ook:  
+– Wat is het verschil tussen de rol van lever- en spierglycogeen—waarom kan spierglycogeen niet bijdragen aan de bloedglucose?
+
+Als je dat wilt proberen te beantwoorden, hebben we de kern van glycogeenmetabolisme te pakken! Zo niet, laat het gerust weten."
+"user","het spierglycogeen kan niet bijdragen aan de bloedglucose omdat het spierglycogeen alleen gebruikt wordt in de spieren en het wordt niet uitgescheid"
+"assistant","Dat is helemaal correct! Spierglycogeen voorziet echt alleen de spier zelf van energie, omdat spiercellen het enzym glucose-6-fosfatase missen. Daardoor kan vrijgekomen glucose niet uit de spiercel naar het bloed worden getransporteerd.
+
+Ik denk dat je de basis goed beheerst. Ben je klaar om deze kennis toe te passen op het klinische voorbeeld? Of wil je nog iets vragen over bijvoorbeeld gluconeogenese, of de Cori-cyclus, voor we door gaan?"
+"user","ik ben klaar om deze kennis toe te passen op het klinische voorbeeld"
+"assistant","Hier nogmaals het klinische voorbeeld:
+
+###VIGNETTE 1###
+Het lichaam slaat glucose op in de vorm van glycogeen, vooral in de lever en spieren, zodat het kan worden gebruikt als er energie nodig is—vooral tussen maaltijden of tijdens inspanning.  
+Bij Glycogeenstapelingsziekten (GSD’s) is dit proces verstoord door erfelijke enzymdeficiënties. Hierdoor is het lichaam minder goed in staat de normale bloedglucosespiegel te handhaven, zeker tijdens vasten. Om te compenseren activeert het andere metabole routes. Bij deze GSD verlopen alternatieve routes, zoals de Cori-cyclus, aangepast.  
+Een 3-jarig meisje met GSD komt bij de arts omdat ze erg prikkelbaar is en een opgezwollen buik heeft. Haar lever is vergroot en bloedonderzoek laat zien:  
+Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)  
+Bloedketonen: Negatief (normaal: negatief)  
+Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
+
+Nu je de basiskennis hebt opgefrist: kun je uitleggen wat er bij dit meisje gebeurt met behulp van jouw kennis van de energiemetabolisme?"
+"user","er is sprake van anaerobe dissimilatie, hierdoor wordt er meer glucose gebruikt dan normaal omdat er bij anaerobe dissimilatie geen sprake is van oxidatieve fosforylering wat zorgt voor het gros van het ATP, hierdoor moet er meer glucose gebruikt worden om dezelfde hoeveelheid ATP te produceren. Ik herken dat er sprake is van anaerobe dissimilatie wegens het verhoogde lactaatgehalte in het bloed, wat geproduceerd wordt tijdens de anaerobe dissimilatie"
+"assistant","Mooi dat je het verhoogde lactaat koppelt aan anaerobe dissimilatie, heel goed bekeken! Je wijst terecht op het inefficiënte gebruik van glucose bij anaerobe glycolyse.
+
+Laten we nog wat dieper graven:  
+– Waarom is haar bloedglucose eigenlijk níet normaal, ondanks dat het lichaam glucose nodig heeft voor energie? Met andere woorden: waarom is het glucosegehalte in haar bloed juist laag?  
+– En waarom lukt het niet om over te schakelen op vet (denk aan de afwezigheid van ketonen)?
+
+Kun je eens verder redeneren wat hier precies misgaat met de glucosevoorziening én het gebruik van alternatieve energiebronnen?"

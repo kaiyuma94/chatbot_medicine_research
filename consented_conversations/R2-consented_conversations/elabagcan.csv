@@ -1,0 +1,50 @@
+"role","content"
+"user","Ik ben klaar om te beginnen"
+"assistant","Hier is de eerste casus:
+
+###VIGNETTE 1###
+Het lichaam slaat glucose op als glycogeen, vooral in lever en spieren, om te gebruiken wanneer er energie nodig is—vooral tussen maaltijden of tijdens inspanning. Bij Glycogeenstapelingsziekten (GSD's) is dit proces verstoord door een erfelijk enzymtekort. Daardoor heeft het lichaam moeite om normale bloedglucosewaarden te behouden, vooral tijdens vasten. Om te compenseren schakelt het alternatieve metabole routes in. In GSD’s zijn alternatieve routes, zoals de Cori-cyclus, meer actief. 
+Een 3-jarig meisje heeft GSD en bezoekt haar arts omdat ze erg prikkelbaar is en haar buik opgezwollen lijkt. Haar lever is vergroot en haar bloedwaarden zijn als volgt:
+- Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
+- Bloedketonen: Negatief (normaal: negatief)
+- Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)  
+
+Kun je uitleggen wat er in dit geval aan de hand is?"
+"user","het gehalte bloedglucose is laag en de gehalte lactaat is te hoog. de glucose kan niet afgebroken worden en gezet worden in het bloed, het wordt dus anaëroob en dit zorgt voor ene hogere lactaat"
+"assistant","Goede poging! Je benoemt inderdaad een aantal opvallende labwaarden. Voordat we verdergaan met de casusanalyse, laten we een stapje terug doen en samen de basiskennis kort ophalen. Zo kun je straks de casus beter analyseren.  
+
+Heb je tot nu toe vragen of snap je iets niet van wat we besproken hebben?  
+Zo niet: kun je mij vertellen wat je weet over glycolyse? Wat is het doel van glycolyse, en waar in de cel vindt het plaats?"
+"user","glycolyse vind plaats in het cytoplasma en breekt glucose af in 2 pyrodruivenzuur en 2 nadh"
+"assistant","Dat klopt! Glycolyse vindt plaats in het cytoplasma. Hierbij wordt één glucosemolecuul afgebroken tot twee moleculen pyrodruivenzuur (ook wel pyruvaat genoemd) en er ontstaan ook twee moleculen NADH. Denk je dat er bij deze afbraak ook energie vrijkomt voor de cel? Zo ja, in welke vorm gebeurt dat?"
+"user","er komt atp vrij, en de nadh2 zorgt uiteindelijk voor meer atp vorming bij de oxidatieve fosforylering"
+"user","er komt atp vrij, en de nadh2 zorgt uiteindelijk voor meer atp vorming bij de oxidatieve fosforylering"
+"assistant","Dat klopt! Je gaf dit net ook aan, mooi dat je de link blijft leggen. Nu is mijn vraag: pyruvaat (het eindproduct van glycolyse) kan verschillende routes volgen afhankelijk van de hoeveelheid zuurstof. Wat gebeurt er met pyruvaat als er **voldoende zuurstof** is? En wat gebeurt er met pyruvaat als er **geen of weinig zuurstof** is? Kun je beide situaties kort beschrijven?"
+"user","met genoeg zuurstof wordt dit afgebroken tot acetyl-co-a en als er geen zuurstof is wordt het afgebroken tot lactaat"
+"assistant","Precies! Bij voldoende zuurstof gaat pyruvaat de mitochondriën in, wordt omgezet in acetyl-CoA en verder gemetaboliseerd in de citroenzuurcyclus (Krebs-cyclus). Is er weinig of geen zuurstof, dan wordt pyruvaat omgezet in lactaat in het cytoplasma.
+
+Om het basisplaatje nog even af te maken:  
+Weet je wat er tijdens de citroenzuurcyclus en bij de oxidatieve fosforylering verder gebeurt met het acetyl-CoA, en waarom dit belangrijk is voor de energielevering? Je hoeft niet alles in detail te vertellen, als je het maar globaal kunt uitleggen.  
+Of zijn er andere onderdelen waar je nu juist vragen over hebt?"
+"user","het acetyl co a gata d ecitroenzuurcyckus in en dat wordt afgebroken tot energiedragers"
+"assistant","Goed, dat is het hoofdpunt! Acetyl-CoA gaat de citroenzuurcyclus in en wordt daar verder 'verbrand' (afgebroken) tot CO₂. Tijdens deze cyclus ontstaan NADH en FADH₂ (de energiedragers).  
+
+Deze energiedragers geven hun elektronen uiteindelijk af in de mitochondriën aan de elektronentransportketen, waar via de opbouw van een protonengradiënt de meeste ATP geproduceerd wordt (oxidatieve fosforylering).
+
+Het lijkt erop dat je de hoofdlijnen kent! Laten we nu de kennis toepassen op de casus van het 3-jarige meisje.
+
+###VIGNETTE 1###
+Het lichaam slaat glucose op als glycogeen, vooral in lever en spieren, om te gebruiken wanneer er energie nodig is—vooral tussen maaltijden of tijdens inspanning. Bij Glycogeenstapelingsziekten (GSD's) is dit proces verstoord door een erfelijk enzymtekort. Daardoor heeft het lichaam moeite om normale bloedglucosewaarden te behouden, vooral tijdens vasten. Om te compenseren schakelt het alternatieve metabole routes in. In GSD’s zijn alternatieve routes, zoals de Cori-cyclus, meer actief.  
+Een 3-jarig meisje heeft GSD en bezoekt haar arts omdat ze erg prikkelbaar is en haar buik opgezwollen lijkt. Haar lever is vergroot en haar bloedwaarden zijn als volgt:  
+- Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)  
+- Bloedketonen: Negatief (normaal: negatief)  
+- Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)  
+
+Nu je de basis hebt opgehaald: kun je uitleggen wat er in deze casus aan de hand is met de kennis die we net hebben doorgenomen?"
+"user","het glucose kan niet afgebroken worden en naar het bloed, dit blijft in de lever waardoor deze vergroot is. omdat de overgang met GDS naar anaroabe gaat is er vermoeidheid en weinig app dat komt."
+"assistant","Dat is een goed begin! Je beschrijft dat glucose niet uit glycogeen kan worden vrijgemaakt, waardoor het glucosegehalte in het bloed laag blijft en er ophoping in de lever optreedt (leververgroting). Je noemt ook al het gebrek aan energieproductie.
+
+Laten we deze redenering samen verder uitbouwen.  
+1. Waarom is het lactaat bij dit meisje verhoogd, denk je?  
+2. En waarom kan haar lichaam, ondanks de lage glucose, geen ketonen produceren?  
+Kun je daarover verder nadenken en je antwoorden toelichten?"

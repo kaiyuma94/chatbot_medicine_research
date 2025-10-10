@@ -1,0 +1,93 @@
+"role","content"
+"user","Ik ben klaar om te beginnen"
+"assistant","Mooi! Hier is de eerste casus om mee te starten:
+
+###VIGNETTE 1###
+Het lichaam slaat glucose op in de vorm van glycogeen, vooral in de lever en spieren, om te gebruiken als er energie nodig is—vooral tussen maaltijden door of tijdens inspanning.  
+Bij Glycogeen Stofwisselingsziekten (GSD’s) is dit proces verstoord door een erfelijk enzymdefect. Daardoor heeft het lichaam moeite om de normale bloedsuikerspiegels te handhaven, vooral tijdens vasten. Om te compenseren worden andere metabole routes geactiveerd. Bij GSD’s zijn alternatieve routes, zoals de Cori-cyclus, vaak actiever, met bijwerkingen tot gevolg.  
+Een meisje van 3 jaar met GSD komt bij de arts omdat ze erg prikkelbaar is en een opgezwollen buik heeft. Haar lever is vergroot en bloedonderzoek laat het volgende zien:  
+- Bloedsuiker: 45 mg/dL (normaal: 70–110 mg/dL)  
+- Bloedketonen: Negatief (normaal negatief)
+- Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
+
+Kun jij uitleggen wat er in deze casus gebeurt?"
+"user","Ik ben klaar om te beginnen"
+"assistant","Helemaal goed! Hier volgt nogmaals de casus:
+
+Het lichaam slaat glucose op in de vorm van glycogeen, vooral in de lever en spieren, om te gebruiken als er energie nodig is—vooral tussen maaltijden door of tijdens inspanning.  
+Bij Glycogeen Stofwisselingsziekten (GSD’s) is dit proces verstoord door een erfelijk enzymdefect. Daardoor heeft het lichaam moeite om de normale bloedsuikerspiegels te handhaven, vooral tijdens vasten. Om te compenseren worden andere metabole routes geactiveerd. Bij GSD’s zijn alternatieve routes, zoals de Cori-cyclus, vaak actiever, met bijwerkingen tot gevolg.  
+Een meisje van 3 jaar met GSD komt bij de arts omdat ze erg prikkelbaar is en een opgezwollen buik heeft. Haar lever is vergroot en bloedonderzoek laat het volgende zien:  
+- Bloedsuiker: 45 mg/dL (normaal: 70–110 mg/dL)  
+- Bloedketonen: Negatief (normaal negatief)
+- Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
+
+Kun jij uitleggen wat er in deze casus gebeurt?"
+"user","Ik ben klaar om te beginnen"
+"assistant","Prima, we gaan van start! Hier volgt de casus nogmaals:
+
+Het lichaam slaat glucose op in de vorm van glycogeen, vooral in de lever en spieren, om te gebruiken als er energie nodig is—vooral tussen maaltijden door of tijdens inspanning.  
+Bij Glycogeen Stofwisselingsziekten (GSD’s) is dit proces verstoord door een erfelijk enzymdefect. Daardoor heeft het lichaam moeite om de normale bloedsuikerspiegels te handhaven, vooral tijdens vasten. Om te compenseren worden andere metabole routes geactiveerd. Bij GSD’s zijn alternatieve routes, zoals de Cori-cyclus, vaak actiever, met bijwerkingen tot gevolg.  
+Een meisje van 3 jaar met GSD komt bij de arts omdat ze erg prikkelbaar is en een opgezwollen buik heeft. Haar lever is vergroot en bloedonderzoek laat het volgende zien:  
+- Bloedsuiker: 45 mg/dL (normaal: 70–110 mg/dL)  
+- Bloedketonen: Negatief (normaal negatief)
+- Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
+
+Kun jij uitleggen wat er in deze casus gebeurt?"
+"user","Ze heeft een te lage bloedsuikerspiegel en een te hoge lactaatspiegel omdat de glycogeen die opgeslagen is in haar lever niet omgezet kan worden in glucose"
+"assistant","Goede poging! Voordat we verder gaan, laten we even een stap terug doen en samen wat basiskennis ophalen. Dat helpt om straks nog beter te snappen wat er aan de hand is in deze casus. Heb je op dit moment ergens vragen of onduidelijkheden over?
+
+Om te beginnen: wat weet je van glycolyse? Of wil je liever herhalen hoe glycogeenafbraak (glycogenolyse) normaal gesproken verloopt? Je mag het zelf kiezen of eventueel zelf een vraag stellen!"
+"user","Ja"
+"assistant","Prima! Waar zou je graag mee willen beginnen: een korte herhaling van glycolyse, van glycogenolyse, of heb je een andere vraag over dit onderwerp?
+
+Laat vooral weten waar je behoefte aan hebt, of vertel wat je al weet over bijvoorbeeld glycolyse. Zo bouwen we samen je kennis op!"
+"user","begin maar met de glycolyse"
+"assistant","Goed idee! Even kort en overzichtelijk:
+
+Glycolyse is het proces waarbij één molecuul glucose wordt afgebroken tot twee moleculen pyruvaat, met als opbrengst een kleine hoeveelheid ATP en NADH. Dit proces vindt plaats in het cytoplasma van de cel.
+
+Weet je welke hoofdproducten er vrijkomen (denk aan ATP, NADH, pyruvaat)? En wat heb je nodig als ""input"" voor de glycolyse? Wil je dat eens proberen op te sommen?"
+"user","er ontstaan 2 pyruvaat moleculen, ATP en nog iets"
+"assistant","Heel goed! Je noemt al pyruvaat en ATP. Er ontstaat inderdaad ook ""nog iets"". Heb je misschien een idee welke energie-dragende molecule (behalve ATP) ontstaat bij glycolyse? 
+
+En weet je hoeveel ATP glycolyse netto oplevert per glucosemolecuul?"
+"user","CO2?"
+"assistant","Goede poging! Maar bij glycolyse zelf ontstaat er géén CO₂. Heb je enig idee in welke fase van de energiehuishouding wél CO₂ gevormd wordt?
+
+En als je nog eens nadenkt: naast ATP ontstaat er bij glycolyse nog een gereduceerd co-enzym dat belangrijk is voor de volgende stappen in de stofwisseling. Weet je welke dat is? Misschien herken je het aan de afkorting NADH?"
+"user","melkzuur?"
+"assistant","Dat is een begrijpelijke gedachte! Melkzuur (lactaat) kan inderdaad gevormd worden, maar pas als pyruvaat – het eindproduct van glycolyse – verder wordt omgezet wanneer er weinig zuurstof is (anaeroob). 
+
+Tijdens de glycolyse zelf ontstaat dus:
+- 2 pyruvaat
+- 2 (netto) ATP
+- 2 NADH
+
+Dus NADH is het co-enzym dat ik bedoelde. Is dat duidelijk nu? Zou je kort kunnen omschrijven wat het verschil is tussen glycolyse onder aerobe en anaerobe omstandigheden?"
+"user","Ja, glycolyse onder aerobe omstandigheden dan is het in aanwezigheid met zuurstof, anaerobe omstandigheden, dan is er geen zuurstof"
+"assistant","Precies, dat klopt!  
+Wil je proberen uit te leggen wat er dan met pyruvaat en NADH gebeurt bij aerobe omstandigheden, en wat er gebeurt onder anaerobe omstandigheden? Wat doen de cellen met deze stoffen in beide gevallen?"
+"user","onder aerobe omstandigheden ontstaat er CoA-acetaat en nog iets en gaat dat de citroenzuurcyclus in, wanneer het anaeroob is gebeurt er iets waardoor er melkzuur ontstaat ipv ATP"
+"assistant","Je bent op de goede weg! Laat me je redenering aanvullen: bij voldoende zuurstof (aeroob) wordt pyruvaat omgezet in acetyl-CoA, en dat gaat de citroenzuurcyclus (Krebs-cyclus) in. Daarbij wordt NADH gebruikt in de mitochondriën voor de productie van veel ATP via oxidatieve fosforylering.
+
+Bij weinig zuurstof (anaeroob) wordt pyruvaat omgezet in lactaat (melkzuur), en op die manier wordt NADH weer omgezet in NAD+, zodat glycolyse kan doorgaan. Er wordt dan veel minder ATP gevormd, alleen uit glycolyse.
+
+Wil je nog kort benoemen waar in de cel glycolyse, de citroenzuurcyclus en oxidatieve fosforylering plaatsvinden? En weet je ook waarom het belangrijk is dat NAD+ wordt geregenereerd bij anaerobe glycolyse?"
+"user","glycolyse in het cytosol en citroenzuurcyclus in de matrix en oxidatieve fosforylering erbuiten"
+"assistant","Heel goed! Glycolyse vindt inderdaad plaats in het cytosol en de citroenzuurcyclus in de mitochondriale matrix. Oxidatieve fosforylering vindt plaats in het binnenmembraan van de mitochondriën, ofwel aan het binnenste membraanoppervlak.
+
+Wil je nog kort uitleggen waarom NAD+ regeneratie zo belangrijk is bij anaerobe glycolyse? Waarom kan glycolyse niet doorgaan als NAD+ opraakt?"
+"user","Geen idee"
+"user","Kan je het me uitleggen?"
+"assistant","Zeker! Stel je voor:  
+Tijdens glycolyse (de afbraak van glucose naar pyruvaat) gebruikt het lichaam het molecuul NAD+ om elektronen op te vangen. NAD+ wordt daardoor NADH. Je hebt continu NAD+ nodig, anders stopt glycolyse.
+
+Als er genoeg zuurstof is, wordt NADH in de mitochondriën weer omgezet naar NAD+ tijdens de oxidatieve fosforylering, en kan het opnieuw gebruikt worden—de 'kringloop' blijft draaien.
+
+Maar als er te weinig zuurstof is (zoals in spiercellen bij zware inspanning), werkt de mitochondriale oxidatieve fosforylering niet goed. NADH kan niet worden omgezet naar NAD+. Daarom zet het lichaam pyruvaat om in lactaat (via het enzym lactaatdehydrogenase). Hierbij levert NADH zijn elektronen weer af en ontstaat er opnieuw NAD+. Zo kan glycolyse doorgaan en blijft er een, zij het kleine, hoeveelheid ATP geproduceerd worden.
+
+Dus:  
+- Zonder NAD+ stopt glycolyse helemaal, net als een lopende band zonder nieuwe bakjes.
+- Door pyruvaat om te zetten naar lactaat wordt NAD+ weer aangevuld.
+
+Wil je dit nog verder verduidelijkt hebben, of klinkt dit nu logisch?"

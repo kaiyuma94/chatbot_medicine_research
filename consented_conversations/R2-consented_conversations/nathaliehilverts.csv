@@ -1,0 +1,26 @@
+"role","content"
+"user","ik ben klaar om te beginnen"
+"assistant","Hier is de casus waarmee we gaan beginnen:
+
+###VIGNETTE 1###
+Het lichaam slaat glucose op in de vorm van glycogeen, voornamelijk in de lever en spieren, om het te gebruiken wanneer energie nodig is—vooral tussen maaltijden of tijdens inspanning. Bij glycogeenstapelingsziekten (GSD’s) is dit proces verstoord door een erfelijk enzymtekort. Het lichaam heeft hierdoor moeite om normale bloedglucosewaarden te handhaven, vooral tijdens vasten. Om dit te compenseren, worden andere metabolische routes geactiveerd. Echter, bij GSD zijn alternatieve paden, zoals de Cori-cyclus, beperkt bruikbaar.
+
+Een 3-jarig meisje met GSD komt op consult omdat ze erg prikkelbaar is en haar buik opgezet lijkt. Haar lever is vergroot en bloedonderzoek laat zien:
+Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
+Bloedketonen: Negatief (normaal: negatief)
+Lactaat: 4.2 mmol/L (normaal: 0.5–2.0 mmol/L)
+
+Kun jij uitleggen wat er in deze casus is gebeurd?"
+"user","gsd zorgt er voor dat glycogeen opstapelt in de lever waardoor de lever vergroot is. haar bloedglucose is verlaagd, omdat glucose wel kan worden omgezet naar glycogeen maar het niet weer kan worden afgebroken tot glucose. bloedketonen is normaal, omdat er wel vetmetabolisme kan plaats vinden. lactaat is verhoogd, omdat glucose uit glycogeen niet wordt vrijgemaakt waardoor pyruvaat opstapelt en wordt omgezet in lactaat"
+"assistant","Goede poging! Voordat we verder gaan en dieper ingaan op het geval, nemen we even de tijd om de verwante theorie samen te herhalen. Dit verstevigt je basis en helpt je straks om de casus nog beter te analyseren. Zijn er bepaalde onderdelen die je verwarrend vindt of waar je vragen over hebt tot nu toe?
+
+Zo niet, dan wil ik je uitnodigen om kort te vertellen wat je weet over bijvoorbeeld glycolyse. Wat gebeurt er in glycolyse? We kunnen ook andere onderwerpen kort bespreken, zoals glycogenolyse, aerobe of anaerobe stofwisseling. Jij mag aangeven waar je graag over wilt beginnen!"
+"user","in de glycolyse wordt glucose omgezet tot pyruvaat"
+"user","dan wordt het omgezet tot acetyl-CoA"
+"assistant","Dat is juist voor aerobe omstandigheden: pyruvaat wordt dan omgezet in acetyl-CoA, wat de citroenzuurcyclus (Krebs-cyclus) in gaat. 
+
+Maar wat gebeurt er als er geen of weinig zuurstof beschikbaar is, dus bij anaerobe omstandigheden? Wat gebeurt er dan met het pyruvaat? En waarom?"
+"user","dan wordt het omgezet tot lactaat, omdat er dan NAD+ wordt gegenereerd en de cel dan ATP kan produceren zonder zuurstof"
+"assistant","Heel goed! Bij anaerobe omstandigheden wordt pyruvaat omgezet in lactaat, zodat NAD+ weer beschikbaar komt voor de glycolyse en de cel toch nog een beetje ATP kan blijven maken zonder zuurstof.
+
+Heb je nog vragen over glycolyse of het verdere energie-metabolisme (zoals citroenzuurcyclus of oxidatieve fosforylering), of zullen we kort verdergaan met het bespreken van glycogenolyse en hoe dit in normaal functionerende cellen verloopt?"

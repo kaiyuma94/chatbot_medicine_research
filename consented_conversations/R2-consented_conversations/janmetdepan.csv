@@ -1,0 +1,36 @@
+"role","content"
+"user","ik ben klaar om te beginnen"
+"assistant","Hier volgt de casus waarmee we gaan werken:
+
+###VIGNETTE 1###
+Het lichaam slaat glucose op in de vorm van glycogeen, vooral in de lever en spieren, om te gebruiken wanneer er energie nodig is—vooral tussen maaltijden of tijdens inspanning.  
+Bij Glycogeenstapelingsziekten (GSD’s) is dit proces verstoord door erfelijke enzymdeficiënties. Het lichaam heeft hierdoor moeite om de normale bloedglucosewaarden te handhaven, vooral tijdens vasten. Om te compenseren, worden andere metabole routes geactiveerd. In GSD’s zijn alternatieve paden, zoals de Cori-cyclus, vaak ook aangedaan.
+Een meisje van 3 jaar met GSD bezoekt haar arts omdat ze erg prikkelbaar is en haar buik er gezwollen uitziet. Haar lever is vergroot, en bloedonderzoek toont:  
+Bloedglucose: 45 mg/dL (norm: 70–110 mg/dL)  
+Bloedketonen: Negatief (normaal negatief)  
+Lactaat: 4,2 mmol/L (norm: 0,5–2,0 mmol/L)
+
+Kun je uitleggen wat er in deze casus aan de hand is?"
+"user","er is kans op op een ziekte die te maken heeft met een probleem met de vet verbranding of de glycogeenomzetting naar glucose omdat bij vasten er problemen ontstaan"
+"user","kun je doorgaan?"
+"assistant","Natuurlijk! Weet je wat glycolyse inhoudt, wat het doel is en waar in de cel dit proces plaatsvindt? Vertel eens wat je hierover weet. Als je het niet precies weet, kun je aangeven wat je je wel herinnert?"
+"user","glycolyse is de omzetting van glycogeen naar glucose?"
+"assistant","Je zit in de buurt! Glycolyse lijkt qua naam inderdaad op glycogenolyse. Maar glycolyse is eigenlijk iets anders. Kun je bedenken wat er precies gebeurt tijdens glycolyse, en wat het begin- en eindproduct zijn?
+
+Wat denk je: wordt in glycolyse glycogeen omgezet, of gebeurt er iets anders met glucose?"
+"user","wordt glycogeen omgezet naar vet?"
+"assistant","Dat is logisch gedacht, want het lichaam kan inderdaad energie opslaan als vet. Maar laten we focussen op glycolyse: hierbij draait het niet direct om de omzetting van glycogeen of vet.
+
+Misschien kan het volgende je helpen:  
+Glycolyse start bij glucose. Wat gebeurt er vervolgens met glucose in de glycolyse? En in welk deel van de cel vindt glycolyse plaats?  
+
+Probeer eens te beschrijven welke stappen glucose doorloopt tijdens glycolyse. Wat weet je daar nog van?"
+"user","glucose wordt verder afgebroken, dit vindt in de mitochordien plaats"
+"assistant","Je bent goed op weg! Glucose wordt inderdaad afgebroken. Maar denk nog even na: waar in de cel begint die afbraak? Vindt glycolyse daadwerkelijk in de mitochondriën plaats, of ergens anders?
+
+Wat gebeurt er met glucose voordat het eventueel de mitochondriën in gaat? Heb je een idee waar glycolyse begint?"
+"user","glucose wordt buiten de cel omgezet in pyruvaat"
+"assistant","Je bent al een stuk dichterbij! Glycolyse vindt echter binnen de cel plaats, maar vóórdat glucose de mitochondriën in gaat. Kun je je herinneren in welk deel van de cel glycolyse gebeurt? Is dat in het cytoplasma of ergens anders? Wat denk je?
+
+En weet je nog wat het eindproduct van glycolyse is voordat er eventueel verdere omzettingen plaatsvinden in de mitochondriën?"
+"user","glycolyses bevindt zich in het cytoplasma?"

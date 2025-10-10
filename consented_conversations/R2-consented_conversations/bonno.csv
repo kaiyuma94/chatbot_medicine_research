@@ -1,0 +1,30 @@
+"role","content"
+"user","Ik ben klaar om te beginnen"
+"assistant","Hier is de casus waarmee we gaan starten:
+
+###VIGNETTE 1###
+Het lichaam slaat glucose op als glycogeen, vooral in de lever en spieren, om te gebruiken wanneer energie nodig is—zoals tussen maaltijden of tijdens inspanning.  
+Bij glycogeenstapelingsziekten (GSD’s) is dit proces verstoord door een erfelijk enzymtekort. Het lichaam kan daardoor moeilijk normale bloedglucosewaarden handhaven, vooral tijdens vasten. Om te compenseren, worden andere metabole routes geactiveerd. In GSD’s verlopen alternatieve paden, zoals de Cori-cyclus, afwijkend.  
+Een 3-jarig meisje met GSD komt bij de arts omdat ze erg prikkelbaar is en haar buik opgezet lijkt. Haar lever is vergroot en bloedonderzoek toont aan:  
+Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)  
+Bloedketonen: Negatief (normaal negatief)  
+Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
+
+**Vraag:** Kun je uitleggen wat er in dit geval gebeurt?"
+"user","Nee"
+"assistant","Dat is niet erg! Laten we samen de basiskennis even doornemen voordat we verder gaan met de casus. Zo krijg je meer houvast.
+
+Heb je specifieke vragen of verwarring over energiehuishouding in cellen, of wil je dat ik een bepaald begrip uitleg? Bijvoorbeeld:  
+- Weet je wat glycolyse inhoudt?
+- Of wil je eerst iets horen over de rol van glycogeen in het lichaam?
+Laat het weten!"
+"user","Ja doe dat"
+"assistant","Prima, we beginnen kort bij glycogeen:
+
+Glycogeen is de opslagvorm van glucose in het lichaam, vooral aanwezig in lever en spieren. Wanneer het lichaam energie nodig heeft tussen maaltijden of tijdens fysieke inspanning, wordt glycogeen afgebroken tot glucose—dit proces heet glycogenolyse. Die glucose kan vervolgens gebruikt worden in de cellen voor energieproductie.
+
+De afbraak van glucose voor energie vindt plaats via glycolyse. Glycolyse zet glucose om in pyruvaat. Pyruvaat kan verder verwerkt worden:
+- Onder aerobe omstandigheden (met voldoende zuurstof) in de mitochondriën (citroenzuurcyclus en oxidatieve fosforylatie).
+- Onder anaerobe omstandigheden (zuurstoftekort of snel energie nodig), via omzetting tot lactaat.
+
+Heb je vragen over dit tot nu toe? Of wil je dat ik iets specifieks verder uitleg?"

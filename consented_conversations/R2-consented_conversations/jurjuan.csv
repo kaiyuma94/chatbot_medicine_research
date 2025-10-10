@@ -1,0 +1,75 @@
+"role","content"
+"user","hallo"
+"assistant","###VIGNETTE 1###
+Het lichaam slaat glucose op in de vorm van glycogeen, vooral in de lever en spieren, om te gebruiken wanneer er energie nodig is—vooral tussen maaltijden of tijdens inspanning. 
+Bij glycogeenopslagziekten (GSD’s) is dit proces verstoord door een aangeboren enzymdeficiëntie. Hierdoor heeft het lichaam moeite om de bloedsuikerspiegel normaal te houden, vooral tijdens vasten. Ter compensatie worden andere metabole routes geactiveerd. Bij GSD’s zijn alternatieve wegen, zoals de Cori-cyclus, overactief of raken overbelast.
+Een 3-jarig meisje met GSD komt bij de arts omdat ze erg prikkelbaar is en haar buik opgezet oogt. De lever is vergroot en in het bloedonderzoek vind je:
+Glucose: 45 mg/dL (normaal: 70–110 mg/dL)
+Ketonen: Negatief (normaal negatief)
+Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
+
+Kun je uitleggen wat er in dit geval gebeurt?"
+"user","ongeveer, er is sprake van een hypo. er wordt te veel lactaat gesynthetisserd. waarschijnlijk als energie alternatief. dus waarschijnlijk last van glycogeenopstapelingsziekte. de lever is vergroot. door de hoeveelheid glycogeen waarschijnlijk en toxines. de patiënt moet zo snel mogelijk op dieet met maizena."
+"assistant","Goede poging! Voordat we verder gaan, laten we even een stapje terug doen om samen de belangrijkste basiskennis door te nemen. Dit helpt om straks een beter onderbouwde analyse te maken. Heb je tot nu toe vragen of onduidelijkheden?
+
+Zo niet, kun je me dan vertellen wat je weet over het proces van glycolyse? Wat gebeurt er precies tijdens glycolyse?"
+"user","glycolyse - gebeurt in het cytosol. produceert atp en NaDH. van glucose. produceert pyrfuaat."
+"assistant","Mooi! Je noemde dat glycolyse ATP en NADH produceert, en dat het eindproduct pyruvaat is (uit glucose), dat klopt allemaal. Je zei ook dat het in het cytosol gebeurt—helemaal goed.
+
+Heb je een idee wat er met pyruvaat gebeurt na de glycolyse, afhankelijk van of er wel of geen zuurstof beschikbaar is? En kun je iets vertellen over waar deze verschillende vervolgstappen plaatsvinden in de cel?"
+"user","pyrufaat gaat naar de citroenzuurcylcus."
+"assistant","Je zit op het juiste spoor! Pyruvaat kan inderdaad naar de citroenzuurcyclus (Krebs-cyclus), maar daarvoor moet het eerst worden omgezet. Weet je welk molecuul er vóór de citroenzuurcyclus uit pyruvaat wordt gevormd, en waar in de cel deze omzetting en de cyclus plaatsvinden? 
+
+En wat gebeurt er met pyruvaat als er géén zuurstof beschikbaar is?"
+"user","in de mitochondrium in de matrix."
+"assistant","Precies, de citroenzuurcyclus vindt plaats in de mitochondriale matrix! 
+
+Weet je ook welk molecuul er wordt gevormd uit pyruvaat vóórdat het de cyclus ingaat? En kun je toelichten wat er gebeurt met pyruvaat bij zuurstofgebrek—denk bijvoorbeeld aan de productie van lactaat?"
+"user","vraag voor jou wat is de cori cyclus/"
+"assistant","Goede vraag! Ik geef je graag een kort antwoord, zodat je niet wordt overspoeld met informatie.
+
+De Cori-cyclus is een metabolisch proces waarbij spieren tijdens anaerobe activiteit (bijvoorbeeld intensieve inspanning) glucose omzetten in lactaat via glycolyse. Dit lactaat wordt vervolgens afgegeven aan het bloed en getransporteerd naar de lever. In de lever wordt lactaat weer omgezet in glucose via gluconeogenese, en die glucose kan weer terug naar de spieren.
+
+Wil je meer weten over wat het nut is van deze cyclus, of over hoe glucose precies weer wordt aangemaakt uit lactaat? Of heb je andere vragen rondom deze cyclus?"
+"user","dus het is niet hetzelfde als de citroenzuurcyclus"
+"assistant","Klopt, het is inderdaad niet hetzelfde als de citroenzuurcyclus!
+
+De Cori-cyclus draait om het transport en de omzetting van lactaat en glucose tussen spieren en lever, vooral belangrijk als er weinig of geen zuurstof is of als de spieren veel energie nodig hebben.
+
+De citroenzuurcyclus (Krebs-cyclus) daarentegen vindt plaats in de mitochondriën en is vooral actief bij voldoende zuurstof, waarbij pyruvaat volledig wordt afgebroken tot CO₂ en veel ATP oplevert.
+
+Is het verschil voor jou nu duidelijk, of wil je dat ik de belangrijkste punten nog eens naast elkaar zet? Heb je verdere vragen over de samenhang tussen deze processen?"
+"user","we moeten ook de termen gluconeogenese weten en glycogenese en andere termen kan je ze voor mij goed herhalen. en hoeveel atp ongeveer onstaat bij de oxidatieve fosforylering citroenzuurclycus glycolyse?"
+"assistant","Fijn dat je dit vraagt—het is inderdaad belangrijk om alle termen uit elkaar te houden. Ik som ze kort, overzichtelijk op:
+
+1. **Glycolyse**  
+   - Locatie: cytosol  
+   - Proces: Afbraak van glucose tot pyruvaat  
+   - Netto energieopbrengst: 2 ATP + 2 NADH per glucosemolecuul  
+
+2. **Glycogenese**  
+   - Locatie: vooral lever en spieren  
+   - Proces: Vorming van glycogeen uit glucose (opslagvorm)
+
+3. **Glycogenolyse**  
+   - Locatie: lever en spieren  
+   - Proces: Afbraak van glycogeen tot glucose-6-fosfaat (en glucose in lever)
+
+4. **Gluconeogenese**  
+   - Locatie: vooral lever  
+   - Proces: Vorming van nieuwe glucose uit niet-koolhydraatbronnen (zoals lactaat, glycerol, aminozuren)
+
+5. **Citroenzuurcyclus (Krebs-cyclus)**  
+   - Locatie: mitochondriale matrix  
+   - Proces: Volledige afbraak van acetyl-CoA tot CO₂; levert NADH en FADH₂  
+   - Per cyclus: 1 ATP (GTP), 3 NADH, 1 FADH₂ per acetyl-CoA
+
+6. **Oxidatieve fosforylering**  
+   - Locatie: binnenste mitochondriële membraan  
+   - Proces: Gebruik van NADH/FADH₂ om via elektronentransportketen een protonengradiënt te maken → ATP-productie met O₂ als eindacceptor
+
+**Totaal ATP per glucose:**  
+- Glycolyse: 2 ATP direct  
+- Citroenzuurcyclus + oxidatieve fosforylering: samen (met glycolyse) ongeveer 30–32 ATP per glucose
+
+Is dit overzicht duidelijk? Wil je nu verder met een van deze processen, of is er een andere term die je uitgelegd wilt hebben?"

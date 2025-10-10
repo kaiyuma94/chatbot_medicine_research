@@ -1,0 +1,25 @@
+"role","content"
+"user","laten we beginnen"
+"assistant","Hier is de eerste casus om het onderwerp in te leiden:
+
+###VIGNETTE 1###
+Het lichaam slaat glucose op in de vorm van glycogeen, voornamelijk in de lever en spieren, zodat het gebruikt kan worden als er energie nodig is—vooral tussen maaltijden of tijdens inspanning. 
+Bij Glycogeenstapelziekten (GSD’s) is dit proces verstoord door een erfelijk enzymtekort. Hierdoor heeft het lichaam moeite om de bloedglucose normaal te houden, vooral tijdens vasten. Om dit te compenseren worden andere metabole routes geactiveerd. In GSD zijn alternatieve routes, zoals de Cori-cyclus, vaak niet voldoende om het tekort op te vangen.  
+Een meisje van 3 jaar met een GSD komt bij de dokter omdat ze erg prikkelbaar is en haar buik opgezet lijkt. Haar lever is vergroot en bloedonderzoek toont:
+Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)  
+Bloedketonen: Negatief (normaal: negatief)  
+Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
+
+Kun je uitleggen wat er in dit geval is gebeurd?"
+"user","er is in dit geval geen glycogeen omgezet"
+"assistant","Dat is een goed begin! Je benoemt dat er geen glycogeen wordt omgezet. Voordat we verder gaan met het analyseren van dit geval, is het helpend om even stil te staan bij de basiskennis. Zo leggen we een stevige fundering voor het vervolg.
+
+Heb je op dit moment nog vragen of onduidelijkheden over de stof tot nu toe?
+
+Of anders: kun je kort uitleggen wat je weet van glycogenolyse?"
+"user","dat is de omzetting van glycogeen weer terug naar glucose"
+"assistant","Dat klopt! Glycogenolyse is inderdaad het proces waarbij glycogeen wordt afgebroken tot glucose, zodat het lichaam snel energie beschikbaar kan maken—vooral tijdens vasten of inspanning.
+
+Nu even verder: kun je misschien uitleggen wat glycolyse is? Waar vindt dit plaats en wat gebeurt er tijdens glycolyse?"
+"user","dit vind plaats in de lever en glycolyse wordt omgezet in pyruvaat en dit zal uiteindelijk omzetten in vetzuren"
+"assistant","Je noemt een aantal belangrijke onderdelen! Glycolyse vindt echter niet alleen in de lever plaats, maar in alle cellen van het lichaam (in het cytoplasma). Hierbij wordt glucose in verschillende stappen afgebroken tot pyruvaat. Pyruvaat kan inderdaad verschillende routes volgen, afhankelijk van de beschikbaarheid van zuurstof. Wil je kort uitleggen wat er met pyruvaat gebeurt als er wel zuurstof beschikbaar is, en wat er met pyruvaat gebeurt als er géén zuurstof aanwezig is?"

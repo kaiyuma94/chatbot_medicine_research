@@ -1,0 +1,33 @@
+"role","content"
+"user","hallo, begin"
+"assistant","###VIGNETTE 1###
+Het lichaam slaat glucose op in de vorm van glycogeen, voornamelijk in de lever en spieren, om te gebruiken wanneer energie nodig is—vooral tussen maaltijden of tijdens inspanning.  
+Bij Glycogeenstapelingsziekten (GSD’s) is dit proces verstoord door aangeboren enzymdeficiënties. Hierdoor heeft het lichaam moeite om normale bloedglucosewaarden te handhaven, vooral tijdens vasten. Om te compenseren worden andere metabole routes geactiveerd. In GSD zijn deze alternatieve routes, zoals de Cori-cyclus, extra van belang maar vaak beperkt.
+Een meisje van 3 jaar met een GSD is bij de dokter omdat ze erg prikkelbaar is en een opgezette buik heeft. Haar lever is vergroot. Bloedonderzoek toont:
+Bloedglucose: 45 mg/dL (norm: 70–110 mg/dL)
+Bloedketonen: Negatief (normaal ook negatief)
+Lactaat: 4,2 mmol/L (norm: 0,5–2,0 mmol/L)
+
+Kun je uitleggen wat er in deze casus is gebeurd?"
+"user","Ze heeft een verlaagde bloedglucose, waarschijnlijk is hier een glycolyse gebeurd die niet verder kwam, waardoor het daarna is omgezet naar lactaat. Misschien omdat er geen zuurstof beschikbaar was"
+"assistant","Goede poging! Voordat we verder gaan, laten we samen kort de relevante kennis doornemen om een stevige basis te leggen voor het vervolg van deze casus. Heb je tot nu toe vragen of onzekerheden over wat we besproken hebben?
+
+Zo niet, zou je kort kunnen uitleggen wat je weet over glycolyse? Of is er een ander metabolismeonderwerp waar je graag eerst iets over wilt horen, zoals glycogenolyse, aerobe of anaerobe energieproductie? Laat gerust weten!"
+"user","Bij de glycolyse wordt glucose in 4 (?) stappen omgezet in 2 moleculen pyrodruivenzuur. Hierbij verkrijg je netto 2 ATP."
+"assistant","Mooi, je weet dat glycolyse glucose afbreekt tot pyrodruivenzuur (pyruvaat) en dat er netto 2 ATP worden gevormd. Kleine aanvulling: glycolyse verloopt via ongeveer 10 enzymatische stappen, niet 4. Dat pyruvaat is inderdaad een belangrijk knooppunt in het metabolisme!
+
+Misschien goed om ook even te bekijken:  
+- Wat gebeurt er met pyruvaat *bij voldoende zuurstof* (aeroob)?
+- En wat gebeurt ermee *bij weinig zuurstof* (anaeroob, of bij een blokkade verderop)?
+
+Kun je kort vertellen welke processen dan betrokken zijn?  
+Of: Welke rol spelen de citroenzuurcyclus (Krebs-cyclus) en oxidatieve fosforylatie in de energielevering van de cel?"
+"user","Bij voldoende zuurstof wordt pyruvaat omgezet in Acetyl-CoA, wat vervolgens de citroenzuurcyclus in gaat door te binden aan oxoalaat. Uit een glucose molecuul kan deze cyclus twee keer worden doorlopen. Er worden dan elektronendragers FADH2 en NADH verkregen. Deze gaan door naar de oxidatieve fosforylering. Hier wordt in de 4 complexen met behulp van redox centra energie uit gewonnen. Deze energie wordt vervolgens gebruikt om de protonengradiënt in stand te houden. ATP-syntese kan vervolgens door deze protonengradiënt plaatsvinden"
+"assistant","Sterk uitgelegd! Je benoemt hoe pyruvaat via Acetyl-CoA de citroenzuurcyclus in gaat en dat NADH/FADH₂ elektronen overdragen naar de oxidatieve fosforylatie. Ook de rol van de protonengradiënt bij ATP-synthese licht je goed toe.
+
+Om het plaatje compleet te maken: kun je nog kort aangeven wat er gebeurt met pyruvaat als er géén zuurstof is, of als de aerobe route niet goed werkt? Wat ontstaat er dan, en waarom zou dit belangrijk zijn voor de energiebalans in de cel?"
+"user","Als er geen zuurstof is kunnen de citroenzuurcyclus en de oxidatieve fosforylering niet plaatsvinden. Pyruvaat wordt dan omgezet in lactaat, wat zorgt voor opstapeling van lactaat en minder ATP"
+"assistant","Heel goed! Dus bij zuurstofgebrek (of blokkade van de aerobe route) wordt pyruvaat omgezet in lactaat via lactaatdehydrogenase. Hierdoor wordt NAD⁺ geregenereerd, zodat glycolyse kan doorgaan, maar de energiewinst blijft beperkt (slechts 2 ATP per glucose).
+
+Voordat we verdergaan naar de casus:  
+Wil je ook nog iets korts uitleggen over glycogeenafbraak (glycogenolyse) en -vorming (glycogenese)? Dit is belangrijk voor casussen waarin glucosevoorraden worden aangesproken. Of voel je je hier zeker in?"

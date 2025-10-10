@@ -1,0 +1,226 @@
+"role","content"
+"user","hiiii chat, laten we beginnen!"
+"assistant","###VIGNETTE 1###
+Het lichaam slaat glucose op in de vorm van glycogeen, voornamelijk in de lever en spieren, om dit te gebruiken wanneer energie nodig is—vooral tussen maaltijden of tijdens inspanning.
+Bij Glycogeenstapelingsziekten (GSD’s) is dit proces verstoord door erfelijke enzymdeficiënties. Hierdoor heeft het lichaam moeite om normale bloedglucosewaarden te handhaven, vooral tijdens vasten. Ter compensatie worden andere metabole routes geactiveerd. Echter, in GSD zijn alternatieve routes, zoals de Cori-cyclus, beperkt effectief.  
+Een 3-jarig meisje met GSD komt bij de arts omdat ze erg prikkelbaar is en haar buik opgezet lijkt. Haar lever is vergroot en bloedonderzoek toont:
+Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
+Bloedketonen: Negatief (normaal: negatief)
+Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
+
+Kun jij uitleggen wat er in dit geval is gebeurd?"
+"user","Ik lees dat haar lever vergroot is. Daarnaast lees ik ook dat haar bloedglucose erg laag is en er veel lactaat wordt gevormd. bij een GSD wordt er te weinig glycogeen omgezet naar glucose en als er veel glycogeen is kan dit ook veel worden omgezet in lactaat"
+"assistant","Goed geprobeerd! Je benoemt al een aantal kernpunten zoals de lage bloedglucose en de betrokkenheid van glycogeen. Voordat we verder gaan, laten we even een stapje terug doen en samen de belangrijke basiskennis kort ophalen: dit versterkt je fundament voor hierna.
+
+Wil je misschien eerst uitleggen of navragen wat je al weet over glycolyse, glycogenolyse, of misschien de Cori-cyclus? Heb je daar vragen over of wil je dat ik een van deze onderwerpen kort toelicht?"
+"user","te grote lever, ophoping glycogeen. te lage bloedglucose, dus er wordt te weinig glucose gemaakt uit glycogeen."
+"assistant","Mooi, je koppelt de vergrote lever aan ophoping van glycogeen en herkent dat er via glycogenolyse te weinig glucose vrijkomt.  
+
+Zullen we even samenvatten hoe glycogenolyse normaal gesproken werkt?
+Wat gebeurt er met glycogeen in de lever wanneer de bloedglucose te laag wordt?  
+En kun je kort uitleggen wat het belangrijkste verschil is tussen glycogenolyse en gluconeogenese—weet je waarin ze van elkaar verschillen qua uitgangsstof?"
+"user","de glycogenolyse dan wordt er vanuit glucose glycogeen gevormd in de lever oiv insuline. wanneer de bloedglucose te laat wordt zorgt glucagon in de lever ervoor dat glycogeen omgezet wordt in glucose. het verschil is welke stom er gemaakt wordt en qua uitgangsstof is het of glycogeen of glucose"
+"assistant","Je bent al goed op weg! Je beschrijft eigenlijk de processen van glycogeensynthese (vorming van glycogeen uit glucose) én van glycogenolyse (afbraak van glycogeen tot glucose).  
+Dus:  
+- **Glycogenolyse:** breekt glycogeen af tot glucose (onder invloed van glucagon en adrenaline, vooral tijdens lage bloedglucose).
+- **Glycogeensynthese:** maakt glycogeen van glucose (onder invloed van insuline, bij hoge bloedglucose).
+
+Wat betreft **gluconeogenese**: hierbij wordt glucose gemaakt uit andere moleculen, zoals lactaat, aminozuren en glycerol—dus niet uit glycogeen.
+
+Wil je nog kort aangeven wat je weet over glycolyse en het verschil tussen aëroob en anaëroob verloop? Of zal ik een korte uitleg geven?"
+"user","wil je een korte uitleg geven"
+"assistant","Natuurlijk, hier komt een korte uitleg:
+
+**Glycolyse** is het proces waarbij glucose wordt afgebroken tot twee moleculen pyruvaat. Dit gebeurt in het cytoplasma van de cel en levert een beetje ATP (energie). 
+
+- Als er voldoende zuurstof is (**aëroob**), wordt pyruvaat verder afgebroken in de mitochondriën via de citroenzuurcyclus en volgt oxidatieve fosforylering (veel meer ATP wordt gevormd).
+- Als er onvoldoende zuurstof (of als de mitochondriën het pyruvaat niet kunnen verwerken, zoals bij sommige ziektes), verloopt het **anaëroob**. Hierbij wordt pyruvaat omgezet in lactaat (melkzuur) en wordt minder ATP geproduceerd.
+
+Helder tot zover? Heb je vragen over glycolyse of het verschil tussen aëroob en anaëroob? Is het duidelijk wat er voor- en nadelen zijn van elk pad?"
+"user","het is duidelijk"
+"assistant","Mooi! Dan gaan we met deze kennis terug naar het klinische geval.
+
+###VIGNETTE 1###
+Het lichaam slaat glucose op in de vorm van glycogeen, voornamelijk in de lever en spieren, om dit te gebruiken wanneer energie nodig is—vooral tussen maaltijden of tijdens inspanning.
+Bij Glycogeenstapelingsziekten (GSD’s) is dit proces verstoord door erfelijke enzymdeficiënties. Hierdoor heeft het lichaam moeite om normale bloedglucosewaarden te handhaven, vooral tijdens vasten. Ter compensatie worden andere metabole routes geactiveerd. Echter, in GSD zijn alternatieve routes, zoals de Cori-cyclus, beperkt effectief.  
+Een 3-jarig meisje met GSD komt bij de arts omdat ze erg prikkelbaar is en haar buik opgezet lijkt. Haar lever is vergroot en bloedonderzoek toont:
+Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
+Bloedketonen: Negatief (normaal: negatief)
+Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
+
+Nu je de kennis hebt herhaald: kun je uitleggen wat er in dit geval gebeurt met de kennis die je net opnieuw hebt doorgenomen?"
+"user","Er is dus sprake een glycogeenstapelingsziekte waardoor er teveel glycogeen aanwezig is in de lever. Er is teveel lactaat dus dit betekent dat er anaerobe glycolyse is waarbij glucose afgebroken wordt tot pyruvaat en dan pyruvaat weer afgebroken wordt in lactaat en dit is nu veel aanwezig omdat er ook meer glycogeen is. daarnaast is er te weinig glucose/"
+"assistant","Goed begin! Je benoemt al dat bij deze ziekte glycogeen zich ophoopt in de lever, en dat er door anaerobe glycolyse veel lactaat ontstaat. Je geeft ook aan dat er te weinig glucose is. Maar, mag ik je uitdagen wat verder te denken?
+
+Als er veel glycogeen in de lever is, maar het kind tóch een te laag glucosegehalte heeft, wat zegt dat over het gebruik van glycogeen als energiebron? Waarom kan dat glycogeen niet zomaar worden omgezet in glucose en gebruikt worden?  
+En denk ook eens na: waarom maakt het lichaam dan zoveel lactaat aan? Lukt het nog om glucose op een andere manier (zoals via gluconeogenese) aan te maken, en wat zijn daar de beperkingen? Kun je deze zaken met elkaar verbinden? 
+
+Wat denk jij hierover?"
+"user","glycogeen wordt niet meer omgezet tot glucose daarom is haar bloedglucose zo laag. glycogeen wordt dan dus meer als energiebron gebruikt dan als bron voor het produceren van glucose. het omzetten van glycogeen naar glucose moet gedaan worden als de bloedsuikerspiegel te laag is."
+"assistant","Je hebt goed door dat het probleem ligt bij het omzetten van glycogeen naar glucose—dat proces (glycogenolyse) werkt niet goed bij deze ziekte. Hierdoor ontstaat er dus een tekort aan glucose in het bloed, ondanks de grote glycogeenvoorraad.
+
+Je zegt ook: “glycogeen wordt dan dus meer als energiebron gebruikt dan als bron voor het produceren van glucose.” Is dat wel zo? Of kan het glycogeen eigenlijk überhaupt niet effectief gebruikt worden als energiebron bij deze patiënten?
+
+Wat denk je dat er met het overtollig glycogeen gebeurt in de lever, en waarom ontstaat er dan alsnog veel lactaat?  
+Kun je uitleggen waarom het lichaam, bij een tekort aan glucose, overschakelt op andere processen en hoe dat bij deze patiënt uitpakt?"
+"user","nee want glucose is de energiebron en als glycogeen niet omgezet wordt tot glucose is er ook geen olie voor de motor. ik vind het lastig om uit te leggen waarom er alsnog lactaat ontstaat bij een overschot aan glycogeen, kan je mij dit uitleggen? als er een tekort is aan glucose, waar we normaal gesproken energie uit halen, schakelt het lichaam over naar anaerobe dissimilatie of aerobe dissimilatie zodat er alsnog energie kan worden gewonnen, maar het bijproduct hiervan is lactaat"
+"assistant","Je hebt het juiste idee: als glycogeen niet kan worden omgezet in glucose, is er inderdaad “geen olie voor de motor”—er is onvoldoende glucose beschikbaar als energiebron.
+
+Laten we nu samen naar de lactaatvorming kijken. Je geeft aan dat bij gebrek aan glucose, het lichaam overschakelt op andere vormen van dissimilatie (energieproductie). Klopt! Maar wat gebeurt er nu specifiek bij deze patiënt?
+
+Stel: glycolyse kan nog wel plaatsvinden (want een beetje glucose is er nog, bijvoorbeeld uit spierafbraak of voeding). Maar als er in de lever een blokkade zit verderop in de route van pyruvaat naar glucose (door het enzymtekort bij GSD), wat gebeurt er dan met het pyruvaat dat wordt gemaakt uit glycolyse?  
+Wordt dat pyruvaat vooral gebruikt voor aërobe verbranding in de mitochondriën, of wordt het omgezet naar iets anders—en waarom?
+
+Kun je deze redenering afmaken?"
+"user","het wordt omgezet naar lactaat?"
+"assistant","Precies! Dat klopt. Als pyruvaat door het enzymtekort in de lever niet via gluconeogenese kan worden omgezet in glucose, en als de mitochondriën het niet allemaal aëroob kunnen verbranden (door bijvoorbeeld beperkte zuurstof, of omdat het lichaam snel energie nodig heeft), dan wordt het pyruvaat omgezet in lactaat.
+
+Dus:  
+- Pyruvaat stapelt zich op,  
+- Wordt omgezet in lactaat (vooral tijdens anaëroob metabolisme),  
+- Lactaat komt in het bloed terecht, waardoor de lactaatspiegel stijgt.
+
+Heb je nu een duidelijker beeld hoe de link tussen GSD, tekort aan glucose én verhoogd lactaat ontstaat? Wil je nog iets weten over het verloop van bijvoorbeeld de Cori-cyclus en de rol daarvan?"
+"user","kan je misschien een klein schema opstellen van de link tussen GSD, tekort aan glucose en een verhoogd lactaat?"
+"assistant","Goede vraag! Laten we samen het schema stap voor stap opbouwen, zodat jij het zelf verder kunt uitwerken. Ik begin — kun jij het aanvullen?
+
+1. **GSD → Enzymdeficiëntie bij glycogenolyse in de lever**  
+   ↓  
+2. **Glycogeen kan niet worden omgezet naar glucose**  
+   ↓  
+3. **Bloedglucose daalt**  
+   ↓  
+
+Wat gebeurt er nu met de andere paden van energievoorziening en het pyruvaat? Kun jij de stappen afmaken en het schema aanvullen richting verhoogd lactaat?"
+"user","pyruvaat ontstaat en dit wordt omgezet in lactaat"
+"assistant","Heel goed! Je vult het schema goed aan. Zal ik het volledige schema samenvoegen? Kijk even mee:
+
+1. **GSD → Enzymdeficiëntie bij glycogenolyse in de lever**  
+   ↓  
+2. **Glycogeen kan niet worden omgezet naar glucose**  
+   ↓  
+3. **Bloedglucose daalt (hypoglykemie)**  
+   ↓  
+4. **Het lichaam schakelt over op alternatieve energievoorziening (vooral glycolyse van wat er nog aan glucose is of lactaat uit spieren via de Cori-cyclus)**  
+   ↓  
+5. **Pyruvaat (eindproduct glycolyse) kan niet worden omgezet tot glucose vanwege de blokkade in gluconeogenese**  
+   ↓  
+6. **Pyruvaat wordt omgezet in lactaat**  
+   ↓  
+7. **Lactaat hoopt zich op in het bloed (verhoogde lactaatspiegel)**
+
+Is deze samenvatting duidelijk voor je? Zou jij hier nog een stap of een koppeling aan willen toevoegen, bijvoorbeeld over de relatie tot energievoorziening in de spier of het kind zijn klachten?"
+"user","kan je de Cori-cyclus nog uitleggen?"
+"assistant","Natuurlijk! De Cori-cyclus is een belangrijk mechanisme als het gaat om de uitwisseling van energie- en afvalstoffen tussen spieren en lever. Hier volgt een korte uitleg—wil je ondertussen nadenken waar het bij GSD meestal fout gaat?
+
+De Cori-cyclus werkt als volgt:
+- In de spieren wordt tijdens inspanning (of als er weinig zuurstof is) glucose via glycolyse afgebroken tot pyruvaat, en pyruvaat wordt omgezet in lactaat.
+- Dit lactaat wordt afgegeven aan het bloed en getransporteerd naar de lever.
+- In een gezonde lever kan lactaat via gluconeogenese weer worden omgezet in glucose.
+- Die glucose keert terug naar het bloed en kan opnieuw door de spieren worden gebruikt als brandstof.
+
+Bij GSD is vooral het omzetten van lactaat terug naar glucose (de gluconeogenese) in de lever gestoord.  
+Wat denk jij: wat gebeurt er dan met het lactaat, en welke gevolgen heeft dit voor het energiemetabolisme in het lichaam?"
+"user","lactaat hoopt op en dit zorgt er dus voor dat er minder glucose kan worden aangemaakt waardoor meerdere processen in het lichaam worden verstoord omdat glucose een energiebron is voor het lichaam"
+"assistant","Dat klopt! Wanneer de lever het lactaat niet goed kan omzetten in glucose (door gestoorde gluconeogenese bij GSD), hoopt het lactaat zich op in het bloed (hoge lactaatspiegel). Hierdoor kan het lichaam ook minder “nieuwe” glucose maken uit dit lactaat, waardoor de hypoglykemie blijft bestaan en het tekort aan energie voor belangrijke organen, zoals de hersenen en spieren, nog ernstiger wordt.
+
+Je ziet dus: de Cori-cyclus kan niet goed functioneren, en beide problemen (verhoogd lactaat en aanhoudend lage glucose) versterken elkaar.
+
+Laatste vraag hierover:
+Kun je nu in je eigen woorden zo volledig mogelijk uitleggen wat de oorzaken zijn achter de klinische bevindingen in deze casus? Schrijf alle details, je redenering en de koppelingen met de stof die je geleerd hebt op. Hoe vollediger, hoe beter!"
+"user","erg prikkelbaar komt omdat er te weinig glucose aanwezig is voor processen in de hersenen waaronder de verwerking van prikkels. Haar buik is opgezet, dit kan ook door de grote lever komen en door haar eetgedrag, maar ik kan niet goed de link met voedsel leggen. De bloedglucose waarden zijn zo laag omdat het glycogeen via een omweg omgezet wordt in lactaat, lactaat dat hoopt op maar door GSD kan dit niet goed omgezet worden naar glucose, waardoor de bloedglucose waarde zo laag is. daarnaast is het lactaat gehalte dus erg hoog maar dit komt omdat het in de lever niet omgezet kan worden in glucose"
+"assistant","Prima, nu gaan we kijken of je de kennis kunt toepassen in een nieuwe situatie.
+
+###VIGNETTE 2###
+Het menselijk lichaam is afhankelijk van een constante toevoer van glucose voor energie, vooral voor de hersenen en rode bloedcellen. Als de voedselinname stopt, moet het lichaam zich aanpassen om het energiebalans te behouden. Deze aanpassing omvat een verschuiving in metabole routes. Aanvankelijk worden glycogeenvoorraden gebruikt. Als het vasten langer dan 24 uur duurt, worden andere processen geactiveerd.
+Een 13-jarige gezonde jongen wordt erg slap gevonden na vier dagen meedoen aan een “vasten challenge”. Tijdens die periode dronk hij alleen water. Zijn bloeduitslagen:
+Bloedglucose: 55 mg/dL (normaal: 70–110 mg/dL)
+Bloedketonen: Positief (normaal: negatief)
+Lactaat: 2,8 mmol/L (normaal: 0,5–2,0 mmol/L)
+
+Leg uit waarom de jongen deze testresultaten heeft en waarom hij zich zo slap voelt."
+"user","doordat je niet eet komt er ook geen glucose in je lichaam want dit haal je voornamelijk uit glucose. Je lichaam raakt door de glycogeenvoorraad heen waardoor je lichaam moet overschakelen op vetverbranding om energie te kunnen leveren. bij vetverbranding worden vetzuren afgebroken tot betonlichamen en de lactaat gehalte is ook wat hoger omdat dit waarschijnlijk is omgezet vanuit pyruvaat om NAD+ vrij te maken voor de productie van ATP bij glyconelyse"
+"assistant","Goed uitgelegd! Je benoemt al enkele kernpunten: geen voedselinname leidt tot uitputting van de glycogeenvoorraad, waarna het lichaam overschakelt op vetverbranding en ketonvorming. Ook benoem je het ontstaan van lactaat.
+
+Mag ik je vragen om je redenering nog wat verder uit te diepen?  
+- Welke metabole routes zijn actief na enkele dagen vasten, naast vetverbranding?
+- Kun je nog uitleggen waarom de glucosewaarde wel verlaagd is, maar niet geheel afwezig? 
+- En: waarom is (in tegenstelling tot het vorige geval) de ketonproductie nu wel mogelijk?
+
+Wat denk jij?"
+"user","bij het vorige geval was ze niet zolang aan het vasten want ze at wel gewoon waardoor haar lichaam niet hoeft over te schakelen op vetproductie. ik weet niet welke metabole routes er verder actief zijn na enkele dagen vasten en waarom glucosewaarde niet afwezig is, is omdat het allerlaatste glycogeen omgezet is in glucose voor energielevering"
+"assistant","Je zit al goed met je observatie dat bij het meisje de glycogenolyse niet werkte, terwijl bij de jongen de voorraden wél uitgeput zijn door langdurig vasten.
+
+Wil je samen nagaan welke metabole routes er dan actief worden als alle glycogeen op is?  
+- Na een dag vasten zijn de glycogeenvoorraden op.  
+- Wat gebruikt het lichaam dan om alsnog glucose te maken?  
+- Hoe heet het proces waarbij het lichaam zelf glucose maakt uit bijvoorbeeld aminozuren en lactaat?
+
+Kun je deze vragen beantwoorden of terugleiden naar de stof die je eerder hebt geleerd?"
+"user","in ons lichaam zijn nog aminozuren vanuit lactaat kan er opnieuw glucose gemaakt worden. dit heet gluconeogenese"
+"user","n ons lichaam zijn nog aminozuren vanuit lactaat kan er opnieuw glucose gemaakt worden. dit heet gluconeogenese"
+"assistant","Klopt! Gluconeogenese gebruikt aminozuren, lactaat en ook glycerol om nieuwe glucose te maken wanneer de glycogeenvoorraad op is.
+
+Wil je ook nog uitleggen waarom het lichaam ketonen gaat maken tijdens langdurig vasten?  
+En hoe draagt dit bij aan de energievoorziening wanneer de glucose laag is?"
+"user","omdat bij vetverbranding vetzuren worden omgezet in ketonen, ik weet niet waarom dit is"
+"assistant","Prima, dat is een goed begin! Wil je samen die stap volledig maken? Je zegt dat vetzuren worden omgezet in ketonen bij vetverbranding. Maar waarom gaat het lichaam nou precies over op ketonvorming?
+
+Denk aan het volgende:  
+- De hersenen en sommige andere weefsels kunnen normaal alleen glucose als brandstof gebruiken.  
+- Tijdens langdurig vasten neemt de glucose verder af.  
+- Vetzuren kunnen niet (of nauwelijks) door de bloed-hersenbarrière.  
+- Het lichaam maakt dus iets anders van vetzuren dat wél de hersenen als energiebron kunnen gebruiken.
+
+Kun je nu bedenken waarom én waarvoor het lichaam ketonen vormt bij langdurig vasten?"
+"user","ketenen kunnen wel door de hersenbarriere en worden daar als energiebron gebruikt"
+"assistant","Precies! Ketonen worden door de lever uit vetzuren gemaakt en kunnen wél door de bloed-hersenbarrière, zodat ze als alternatieve energiebron voor de hersenen kunnen dienen als er te weinig glucose is. Zo blijven vitale functies mogelijk als de glucose schaars wordt.
+
+Samengevat: gluconeogenese en ketonvorming samen zorgen ervoor dat je lichaam, zelfs bij langdurig vasten, energie kan leveren aan organen zoals hersenen en spieren.
+
+Goed gedaan vandaag! Je hebt laten zien dat je de kernprocessen van energiemetabolisme, de overschakeling van glycogeenverbranding naar gluconeogenese en ketonvorming, en de samenhang met klinische verschijnselen begrijpt.
+
+Blijf oefenen met het in je eigen woorden uitleggen—zo onthoud je het het beste. Heb je verder nog vragen over dit onderwerp, of wil je weer verder oefenen met een nieuwe casus?"
+"user","nee bedankt!!!! fijne dag bestie"
+"assistant","Graag gedaan, jij ook een fijne dag! Super gewerkt! Mocht je nog eens willen oefenen: ik ben er voor je. Veel succes met studeren!"
+"assistant","**1. Identified Context and Roles**  
+Dit betreft een tutor–leerling interactie, waarschijnlijk in een medische of biomedische bacheloropleiding, gericht op het begrijpen van metabole processen zoals glycogenese, glycolyse en de Cori-cyclus, toegepast op klinische casuïstiek. Het doel van deze feedback is om het leerproces van de gebruiker (student) op het gebied van metabole fysiologie en klinisch redeneren constructief te ondersteunen.
+
+---
+
+**A. What Went Well**
+- Je reageerde steeds op de terugkoppeling en vervolgvraag van de tutor, waarmee je een actieve leerhouding liet zien.
+- Je formuleerde je redeneringen meestal helder en begreep wanneer verdere uitleg nodig was.
+- Je vroeg actief om verduidelijking of een schema waar nodig, wat duidt op zelfreflectie op je kennisniveau.
+- Je gebruikte relevante medische termen (zoals gluconeogenese, glycolyse, ketonen) op correcte wijze.
+- Je liet groei zien in je begrip van de stof door eerdere feedback toe te passen in latere antwoorden.
+
+**B. Areas for Improvement**
+- Bij het uitleggen van metabole routes (zoals glycogenolyse vs. glycogeensynthese) was je soms onnauwkeurig in de benaming van processen, wat tot verwarring kan leiden.
+- In het klinisch redeneren miste je soms het completeren van causale ketens (bijv. het streven niet alleen naar het feitelijke proces, maar ook de achterliggende reden).
+- Uitleg bleef soms te summier en bevatte onvolledige redeneringen, vooral bij de overgang van klinisch beeld naar moleculaire oorzaak.
+- Bij de laatste open uitwerkingen verwarde je incidenteel de volgorde van processen en werden enkele details onjuist vermeld (bijv. glycogeen zou worden ‘omgezet in lactaat’).
+- Het taalgebruik was heel informeel (“bestie”), wat in professionele medische communicatie niet gebruikelijk is.
+
+**C. Actionable Suggestions**
+
+1. **Verbeter precisie in metabole terminologie**  
+   - *Waarom het ertoe doet*: Specifiek en correct taalgebruik bevordert helderheid in afleggen van verantwoording en klinische communicatie.  
+   - *Hoe te implementeren*: Maak na elk antwoord een korte checklijst voor jezelf: “Heb ik de processen en hun richting goed benoemd?” Gebruik eventueel een getekend schema als visueel hulpmiddel.
+  
+2. **Rond causale ketens volledig af**  
+   - *Waarom het ertoe doet*: Volledige causale redeneringen versterken je klinisch inzicht en voorkomen lacunes bij patiëntuitleg of tentamen.  
+   - *Hoe te implementeren*: Schrijf als oefening bij elke casus de hele keten op van genetisch defect → biochemisch gevolg → orgaanstoornis → klachtenbeeld.
+   
+3. **Geef antwoorden vollediger en onderbouw ze expliciet**  
+   - *Waarom het ertoe doet*: Uitgebreidere onderbouwing maakt inzichtelijk dat je niet alleen kennis reproduceert, maar deze ook overwogen en logisch toepast.  
+   - *Hoe te implementeren*: Gebruik de structuur ‘Omdat.../daardoor.../dit leidt tot...’, en benoem bij twijfel expliciet verbanden stap voor stap.
+   
+4. **Handhaaf professionele communicatiestijl**  
+   - *Waarom het ertoe doet*: Professionele interactie is essentieel voor samenwerking en werkhouding in de (bio)medische praktijk.  
+   - *Hoe te implementeren*: Sluit antwoorden altijd netjes af (“Dank voor de uitleg, dit helpt!” i.p.v. “fijne dag bestie”), zodat gewenning ontstaat.
+
+---
+
+**Forward-looking guidance**  
+In de volgende sessie kun je doelgericht oefenen met het expliciet en volledig formuleren van biochemisch-klinische redeneerlijnen, en feedback meenemen over professioneel taalgebruik. Richt je, waar nodig, extra op het uitleggen van oorzakelijke verbanden tussen genetisch defect, biochemische pathway en klinisch symptoom."
