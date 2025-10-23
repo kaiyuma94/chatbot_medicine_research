@@ -56,4 +56,4 @@ Thumbs.db
 .idea/
 
 # converations without research consent
-/conversations
+#/conversations
