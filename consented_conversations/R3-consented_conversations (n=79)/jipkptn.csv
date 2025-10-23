@@ -1,0 +1,91 @@
+"role","content","created_at"
+"user","ik ben klaar om te starten","2025-10-15T16:38:54.095791+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Hier is een korte casus om ons gesprek te starten:
+
+Een 19-jarige jongen geeft aan dat hij, vlak voor zijn eerste universiteitstentamens, zijn hart voelde bonzen, zijn handpalmen begonnen te zweten, en zijn ademhaling versnelde. Ook voelde hij zich wat misselijk en had hij een droge mond. Toen hij eenmaal in de examenzaal zat en een paar keer diep ademhaalde, merkte hij dat zijn hartslag na zo’n 10 minuten vertraagde, zijn ademhaling normaliseerde, en hij ineens aandrang voelde om naar het toilet te gaan.
+
+Kun je uitleggen welke symptomen de student ervaart? En aan welk deel van het autonome zenuwstelsel denk je bij deze symptomen?","2025-10-15T16:39:12.736379+00:00"
+"user","ik denk aan het autonome sympathische zenuwstelsel. De symptomen die hij ervaart komen van zenuwen","2025-10-15T16:39:53.014707+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed begin! Laten we even pauzeren en naar Phase 1 – Knowledge Activation gaan. In deze fase nemen we kort de belangrijkste concepten en mechanismen door die met deze casus te maken hebben.
+
+Heb je voordat we starten nog vragen of dingen waar je meer duidelijkheid over wilt, bijvoorbeeld over het autonome zenuwstelsel of de signalen die daarbij horen? 
+
+Of kun je misschien alvast vertellen: weet je wat de twee belangrijkste delen zijn van het autonome zenuwstelsel, en wat elk deel precies doet?","2025-10-15T16:40:03.606328+00:00"
+"user","het sympathische en parasymphatische zenuwstelsel zijn de 2 belangrijkste delen van het autonome zenuwstelsel. Het parasympatische zenuwstelsel zorgt voor rest and digest en sympathische voor fight or flight. in actie is de sympathicus actiever en in rust de parasympaticus","2025-10-15T16:41:33.919075+00:00"
+"assistant","Mooi uitgelegd! Je noemt dat het sympathische stelsel zorgt voor ""fight or flight"" en het parasympatische voor ""rest and digest."" 
+
+Kun je ook uitleggen hoe een signaal van de hersenen bij een orgaan terechtkomt binnen het autonome zenuwstelsel? Welke stoffen worden bij deze signaaloverdracht gebruikt?","2025-10-15T16:41:40.821943+00:00"
+"user","de signalen komen bij een orgaan terecht via neuronen, er worden neurotransmitters gebruikt zoals acetylcholine","2025-10-15T16:42:13.91764+00:00"
+"assistant","Klopt, via zenuwvezels verlopen signalen naar de organen. Je noemt acetylcholine als neurotransmitter. Denk je dat voor beide delen van het autonome zenuwstelsel (sympathisch en parasympathisch) dezelfde neurotransmitters worden gebruikt? Of verschillen deze? Wat weet je hierover?","2025-10-15T16:42:22.62977+00:00"
+"user","nee, ook (nor)adrenaline kan worden gebruikt als neurotransmitter. Daarnaast heb je inhibirende en exilerende neurotransmitters afhankelijk van de vereiste functie","2025-10-15T16:42:57.918252+00:00"
+"assistant","Goed, je noemt (nor)adrenaline! Inderdaad, het sympathische deel gebruikt meestal noradrenaline (en soms adrenaline) als neurotransmitter aan het einde van de zenuw. Het parasympathische deel gebruikt vooral acetylcholine voor de signaaloverdracht naar organen.
+
+Wil je zelf nog iets vragen over deze basisprincipes voordat we verder gaan? Of denk je dat je nu de belangrijkste onderdelen van signalering en neurotransmitters binnen het autonome zenuwstelsel helder hebt?","2025-10-15T16:43:06.456079+00:00"
+"user","ja","2025-10-15T16:43:12.699624+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Mooi, dan gaan we nu naar Phase 2 – Narrative Construction.
+
+Nog even de casus:
+
+Een 19-jarige jongen geeft aan dat hij, vlak voor zijn eerste universiteitstentamens, zijn hart voelde bonzen, zijn handpalmen begonnen te zweten, en zijn ademhaling versnelde. Ook voelde hij zich wat misselijk en had hij een droge mond. Toen hij eenmaal in de examenzaal zat en een paar keer diep ademhaalde, merkte hij dat zijn hartslag na zo’n 10 minuten vertraagde, zijn ademhaling normaliseerde, en hij ineens aandrang voelde om naar het toilet te gaan.
+
+Kun je nu, met de kennis van net, uitleggen welke processen in het autonome zenuwstelsel verantwoordelijk zijn voor deze symptomen? Leg stap voor stap uit wat er gebeurt, en hoe je dat kunt verklaren.","2025-10-15T16:43:25.062915+00:00"
+"user","de sympaticus is actiever dan de parasympaticus. Zijn hartslag versnelt hierdoor, bij begint hierdoor te zweten door versnelt metabolisme, ademhaling versnelt door ook de sympaticus. na diep ademhalen zorgt hij ervoor dat zijn zenuwstelsel wat tot rust is gekomen en de parasympaticus weer actiever wordt hierdoor verlaagd zijn hartslag en neemt het digestie systeem toe hierdoor voelt hij de drang om te plassen --> eerder voelde hij dit niet doordat de sympaathicus het verteringssysteem inhibeert","2025-10-15T16:45:53.660832+00:00"
+"assistant","Goede uitleg! Je beschrijft duidelijk de rol van de sympaticus in de beginfase en de overgang naar de parasympaticus daarna.
+
+Laten we het nu nog iets concreter maken:
+- Welke neurotransmitters en receptoren zijn tijdens de stressfase (dus vlak voor het examen) vooral betrokken bij zijn hart, longen en zweetklieren?
+- En andersom: welke neurotransmitter en welk type receptor speelt een hoofdrol bij het herstel (rustfase) en de aandrang om te plassen?
+
+Kun je dat toelichten?","2025-10-15T16:46:05.063301+00:00"
+"user","tijdens de stressfase: (nor)Adrenaline. tijdens rustfase: acetylcholine","2025-10-15T16:46:36.51578+00:00"
+"assistant","Dat klopt, mooi! Tijdens stress zorgt (nor)adrenaline voor stimulatie via adrenerge receptoren (zoals β1 bij het hart, β2 bij de longen, α1 bij vaten en zweetklieren). Acetylcholine werkt juist via muscarine-receptoren in de rustfase en brengt het lichaam weer tot herstel.
+
+Hiermee kun je alle symptomen in deze casus verklaren.
+
+Nu het assessment:
+
+Een 19-jarige jongen geeft aan dat hij, vlak voor zijn eerste universiteitstentamens, zijn hart voelde bonzen, zijn handpalmen begonnen te zweten, en zijn ademhaling versnelde. Ook voelde hij zich wat misselijk en had hij een droge mond. Toen hij eenmaal in de examenzaal zat en een paar keer diep ademhaalde, merkte hij dat zijn hartslag na zo’n 10 minuten vertraagde, zijn ademhaling normaliseerde, en hij ineens aandrang voelde om naar het toilet te gaan.
+
+**Hoe begrijp je nu de symptomen in deze casus? Schrijf alles op wat je kunt bedenken—je ideeën, redenering en wat je aan kennis kunt koppelen. Hoe vollediger je uitleg, hoe beter je jezelf voorbereidt op vergelijkbare klinische situaties!**","2025-10-15T16:46:53.367902+00:00"
+"user","hart voelen bonzen: hartslag verhoogt, activatie sympaticus, afgifte (nor)adrenaline via adrenerge (B1) receptoren. Handpalmen zweten: activatie sympathicus, afgifte (nor)Adrenaline via alfa1 receptoren. Ademhaling versneld: activatie sympaticus, afgifte (nor)adrenaline via B2 receptoren. Misselijk door onderdrukking spijsverteringssysteem evenals droge mond. Hartslag verlaagd na diep ademhalen en 10 min wachten: parasympaticus actiever, sympaticus onderdrukt, afgifte (nor)adrenaline via muscarine-receptoren. Aandrang voor toilet: parasympaticus actiever, symapticus onderdrukt, acetylcholine afgifte via muscarine receptoren, spijsverteringsstelsel weer op gang doordat onderdrukking is tegengegaan door activatie parasympaticus.","2025-10-15T16:51:28.344804+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Goed! Nu gaan we naar Phase 3 – Reasoning Transfer.
+
+Hier een nieuwe casus:
+
+Een 76-jarige man staat op een warme middag in de rij bij de apotheek. Na enkele minuten begint hij zich licht in het hoofd te voelen, hij wordt misselijk, gaat zweten, en ervaart “tunnelvisie” voordat hij even het bewustzijn verliest en in elkaar zakt. Bystanders leggen hem op de grond, waarna hij binnen een paar minuten bij bewustzijn komt: hij voelt zich zwak, is bij kennis, zijn hartslag is laag en zijn bloeddruk is laag. Na enkele minuten is hij weer volledig hersteld. 
+
+Kun je uitleggen welke processen in het autonome zenuwstelsel deze symptomen en het herstel veroorzaken? Geef een stap-voor-stap uitleg, ook met kennis over neurotransmitters waar mogelijk.","2025-10-15T16:51:43.998647+00:00"
+"user","door de warmte wordt de sympaticus actiever dan de parasympaticus","2025-10-15T16:53:24.448017+00:00"
+"assistant","Interessante gedachte! Je zegt dat door de warmte de sympaticus actiever wordt dan de parasympaticus. Laten we daar eens verder op inzoomen.
+
+Stel je voor: de man staat lang stil in de warmte. Op een gegeven moment zakt hij in elkaar, en zijn hartslag en bloeddruk zijn laag, terwijl hij zich ook zwak voelt. 
+
+- Zou je verwachten dat bij een lage hartslag en lage bloeddruk de sympaticus juist actiever is dan de parasympaticus?
+- Of denk je, gezien deze symptomen, dat er juist iets anders gebeurt in de balans tussen deze twee systemen?
+Kun je uitleggen wat er volgens jou misgaat in deze situatie?","2025-10-15T16:53:36.366708+00:00"
+"user","nee de parasympaticus wordt actiever","2025-10-15T16:53:52.527978+00:00"
+"assistant","Precies! De parasympaticus wordt hier tijdelijk te actief. 
+
+Kun je uitleggen:
+- Welke rol de parasympaticus speelt bij het ontstaan van klachten zoals lage hartslag, lage bloeddruk, zweten en het kortdurend bewustzijnsverlies?
+- Wat gebeurt er met de signalen en neurotransmitters op dat moment?
+  
+Probeer te beschrijven wat er stap-voor-stap gebeurt, vanaf het moment dat de man zich niet lekker voelt tot aan het herstel nadat hij is gaan liggen.","2025-10-15T16:54:06.544109+00:00"
+"user","lage hartslag: parasympaticus actiever, afgifte (nor)Adrenaline via B1 receptoren. Lage bloeddruk: parasympaticus actiever, afgifte (nor)adrenaline via B1 receptoren waardoor hart minder snel klopt en daardoor de bloeddruk afneemt. Zweten: parasympaticus actiever, weet ik verder niet zo goed kun je daarin helpen? komt het doordat het spijsverteringsstelsel niet meer onderdrukt wordt en het metabolisme toeneemt? of doordat de warmte kwijt moet worden geraakt en de parasympaticus niet er heel veel toe doe tnu","2025-10-15T16:58:16.095333+00:00"
+"assistant","Goede poging! Laten we samen kijken naar een paar punten die je noemt, vooral bij de neurotransmitters en het zweten:
+
+1. **Parasympaticus activiteit:** Bij een overschot aan parasympatische activiteit (zoals bij vasovagale syncope), is juist acetylcholine de belangrijkste neurotransmitter die vrijkomt uit de nervus vagus. Deze werkt op **muscarine-receptoren** in het hart en zorgt voor een trage hartslag (bradycardie).
+
+2. **Lage bloeddruk:** Door gelijktijdig wegvallen van sympaticus-tonus (dus minder noradrenaline!) worden de bloedvaten wijder (vasodilatatie), waardoor de bloeddruk daalt. Dus het is juist een afname van sympathische activiteit, niet een toename.
+
+3. **Zweten:** Zweten wordt meestal door de sympaticus geregeld, maar bij vasovagale reactie kan er kortdurend een verhoogde sympathische output zijn voordat de reflex omslaat. Vervolgens kan er (door de val van de bloeddruk) een bleek en klam gevoel ontstaan, deels door de reactie van het lichaam op stress.
+
+Wil jij deze redenering verder afmaken? Kun je stap voor stap beschrijven wat er gebeurt, vanaf het gevoel van licht in het hoofd bij het wachten tot het moment van herstel als hij ligt? Wat gebeurt er bij de overgang tussen parasympaticus en sympaticus, en hoe herstelt het lichaam zich daarna?","2025-10-15T16:58:37.262819+00:00"

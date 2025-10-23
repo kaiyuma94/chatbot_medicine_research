@@ -1,0 +1,137 @@
+"role","content","created_at"
+"user","hoi! reageer even snel vandaag","2025-10-15T15:59:25.131067+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+We beginnen meteen met een casus: 
+
+Een 19-jarige jongen vertelt dat hij, terwijl hij naar zijn eerste universitaire examens ging, zijn hart voelde bonzen, zijn handpalmen begon te zweten en merkte dat zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Na aankomst in de examenzaal en het gaan zitten, haalde hij een paar keer diep adem. Binnen 10 minuten vertraagde zijn hartslag, normaliseerde zijn ademhaling, en kreeg hij aandrang om naar het toilet te gaan.
+
+Kun je uitleggen welke klachten de student ervaarde? Denk daarbij aan welke tak van het autonoom zenuwstelsel verantwoordelijk zou kunnen zijn voor deze symptomen.","2025-10-15T15:59:36.290732+00:00"
+"user","Hij voelde zijn hart bonzen, handpalmen begonnen te zweten, ademhalingsversnelling. Dit komt door de stress die hij ervaarde, hierdoor werd zijn sympatische ZS geactiveerd","2025-10-15T16:34:01.786661+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we even pauzeren en starten met Fase 1 – Kennisactivering. In deze fase lopen we kort de belangrijkste concepten en mechanismen door die met deze casus te maken hebben.
+
+Heb je op dit moment vragen of dingen die je graag eerst verduidelijkt wilt hebben voordat we samen de basis herhalen? 
+
+En zo niet: Kun je mij vertellen wat de twee hoofdonderdelen van het autonoom zenuwstelsel zijn, én wat elk van deze systemen doet?","2025-10-15T16:34:12.587422+00:00"
+"user","hoi","2025-10-15T16:34:28.084768+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+We zitten nu nog steeds in de kennisactivatie-fase, waarin we de basisprincipes kort bespreken. Ik wil je vragen om je antwoord te geven op de vorige vraag:
+
+Wat zijn de twee hoofdonderdelen van het autonoom zenuwstelsel, en wat zijn de belangrijkste functies van elk systeem?","2025-10-15T16:34:34.83634+00:00"
+"user","Parasympatisch en sympatisch. Sympatisch zorgt verhoging hartslag en verlaging van vertering, Parasympatisch meer energie naar vertering en minder naar hartslag en ademhaling","2025-10-15T16:36:45.339444+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Mooi uitgelegd. Je benoemt dat het sympatisch zenuwstelsel zorgt voor verhoging van de hartslag en het verminderen van de spijsvertering, terwijl het parasympatisch systeem dit juist omdraait. 
+
+Een vervolgvraag: Weet je hoe een signaal van het centrale zenuwstelsel bij een orgaan terechtkomt via het autonoom zenuwstelsel? Wat gebeurt er precies onderweg van hersenen naar doelorgaan?","2025-10-15T16:36:55.72694+00:00"
+"user","Door neuronen via nervus vagus","2025-10-15T16:37:57.340042+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Je noemt de nervus vagus; dat is inderdaad heel belangrijk, vooral voor het parasympathisch zenuwstelsel. Maar hoe zit dat bij het sympathisch zenuwstelsel? Kun je beschrijven hoe signalen daar verlopen, en welke neurotransmitters (signaalstoffen) betrokken zijn bij beide systemen?","2025-10-15T16:38:05.536496+00:00"
+"user","neuron ganglion, adrenaline wordt voornamelijk gebruikt","2025-10-15T16:39:37.80701+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed dat je het ganglion noemt! Je zegt dat adrenaline wordt gebruikt, dat klopt deels. Kun je nog specifieker zijn: weet je welke neurotransmitter vooral vrijkomt bij het synapsen van het sympathisch zenuwstelsel op het doelorgaan? En bij het parasympathisch zenuwstelsel? 
+
+Denk ook na over: welke receptoren zijn belangrijk in het hart, de longen en de bloedvaten?","2025-10-15T16:39:46.94958+00:00"
+"user","nor adrenaline bij het sympatisch en acetylcholine bij het parasympatisch.","2025-10-15T16:41:10.637133+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Dat klopt: noradrenaline is de belangrijkste neurotransmitter bij het sympathisch zenuwstelsel op het doelorgaan en acetylcholine bij het parasympathisch zenuwstelsel. 
+
+Kun je nog aangeven welke receptoren hierbij horen? Bijvoorbeeld: welke receptoren spelen een belangrijke rol in het hart (denk aan hartslag), de luchtwegen en de bloedvaten?
+
+Als je dit kan benoemen, denk je dat je klaar bent om deze kennis toe te passen op het oorspronkelijke vignet van de student?","2025-10-15T16:41:20.084178+00:00"
+"user","Nee","2025-10-15T16:41:37.721364+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Geen probleem, laten we het samen stap voor stap doornemen!
+
+Voor het sympathisch zenuwstelsel:
+- In het hart: welke adrenerge receptor zorgt ervoor dat de hartslag omhoog gaat?
+- In de longen: welke adrenerge receptor wordt gestimuleerd om de luchtwegen te verwijden?
+- In de bloedvaten van de huid en darmen: welke adrenerge receptor veroorzaakt vasoconstrictie (nauwer worden van het bloedvat)?
+
+Probeer per orgaansysteem het type receptor te benoemen. Weet je het (deels) nog?","2025-10-15T16:41:47.461322+00:00"
+"user","geen idee","2025-10-15T16:41:58.60584+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Geen probleem—dit zijn lastige details om te onthouden. Hier een korte herhaling:
+
+- In het hart zit vooral de **β1-receptor** (beta-1), die zorgt voor verhoging van de hartslag en de kracht van de hartspier.
+- In de longen zit vooral de **β2-receptor** (beta-2), die ontspant de spieren in de luchtwegen, zodat je makkelijker kunt ademen.
+- In de bloedvaten van huid en darmen werkt de **α1-receptor** (alfa-1), die zorgt ervoor dat deze bloedvaten nauwer worden, zodat bloed naar spierweefsel kan gaan.
+
+Bij het parasympathisch zenuwstelsel worden de **muscarine receptoren** geactiveerd door acetylcholine, bijvoorbeeld in het hart (om de hartslag te verlagen) en de darmen (voor vertering).
+
+Zijn deze punten nu duidelijk, of wil je hierover nog doorvragen voordat we naar het toepassen hiervan bij de casus gaan?","2025-10-15T16:42:13.324402+00:00"
+"user","Ja het is duidelijk","2025-10-15T16:42:36.333771+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Mooi! Dan gaan we nu naar Fase 2 – Narratieve Constructie.
+
+Hier is nogmaals de casus:
+Een 19-jarige jongen vertelt dat hij, terwijl hij naar zijn eerste universitaire examens ging, zijn hart voelde bonzen, zijn handpalmen begon te zweten en merkte dat zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Na aankomst in de examenzaal en het gaan zitten, haalde hij een paar keer diep adem. Binnen 10 minuten vertraagde zijn hartslag, normaliseerde zijn ademhaling, en kreeg hij aandrang om naar het toilet te gaan.
+
+Kun je nu met de kennis die we net besproken hebben verklaren welke veranderingen in het autonoom zenuwstelsel voor deze symptomen zorgden? Probeer zoveel mogelijk te benoemen.","2025-10-15T16:42:55.312614+00:00"
+"user","Doordat hij stress had kwam er adrenaline vrij. Dit kwam aan op de beta 1 en 2. Dit zorgde ervoor dat dit meer geactiveerd werd, hierdoor krijg je een verhoogde hartslag ademhaling en minder focus op de spijsvertering waardoor de dorge mond ontstaat","2025-10-15T16:45:10.786214+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Je zit al goed op het spoor! Je noemt adrenaline—deze wordt inderdaad vrijgemaakt, maar let op: bij de meeste zenuwuiteinden van het sympathisch zenuwstelsel wordt **noradrenaline** vrijgelaten (adrenaline wordt vooral door het bijniermerg afgegeven).
+
+Je benoemt ook de β1- en β2-receptoren en het effect op hartslag en ademhaling. Goed!
+
+Misschien kun je ook even nadenken over:
+- Waarom gaat de spijsvertering omlaag (en krijg je een droge mond)?
+- En wat gebeurt er precies als hij na het examen weer ontspant? Welke zenuwstelsel komt nu juist meer op gang, en wat zie je terug in zijn klachten (bv. aandrang om te plassen)?
+
+Kun je deze stukjes nog aanvullen?","2025-10-15T16:45:23.950451+00:00"
+"user","Spijsvertering, parasympathisch wordt tevens minder geactiveerd waardoor er minder acetylcholine vrijgegeven wordt waardoor er minder effect is op de spijsvertering. dan is er minder activatie van de sympatische omdat hij tot rust is gekomen door het diepe ademhalen","2025-10-15T16:47:24.270747+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Mooie aanvullingen! Je geeft precies aan dat bij stress het parasympathisch systeem geremd wordt, waardoor er minder acetylcholine is en de spijsvertering dus minder actief. Goed gezien!
+
+Nog één puntje ter verduidelijking: als de student tot rust komt, draait het sympathisch systeem juist terug en wordt het **parasympathisch systeem** weer actiever. Dit zorgt ervoor dat functies als spijsvertering en blaaslediging weer “aangezet” worden en de hartslag daalt. 
+
+Nu lijkt het erop dat je begrip hebt van de mechanisme achter deze klachten.
+
+Hier komt de eindvraag voor deze casus:
+
+Een 19-jarige jongen vertelt dat hij, terwijl hij naar zijn eerste universitaire examens ging, zijn hart voelde bonzen, zijn handpalmen begon te zweten en merkte dat zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Na aankomst in de examenzaal en het gaan zitten, haalde hij een paar keer diep adem. Binnen 10 minuten vertraagde zijn hartslag, normaliseerde zijn ademhaling, en kreeg hij aandrang om naar het toilet te gaan.
+
+**Hoe begrijp je nu de klachten in deze casus? Schrijf zo volledig mogelijk je uitleg op—je gedachten, je redenering, je koppeling met wat je hebt geleerd. Hoe vollediger, hoe beter je begrip, voorbereiding op tentamens en klinisch redeneren in vergelijkbare gevallen!**","2025-10-15T16:47:44.068939+00:00"
+"user","We begrijpen het verschil, we kunnen over naar fase 3","2025-10-15T16:48:29.952553+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Goed, we gaan naar Fase 3 – Kennisoverdracht.
+
+Hier is een nieuwe casus:  
+Een 76-jarige man staat in de rij bij de apotheek op een warme middag. Na enkele minuten begint hij zich licht in het hoofd te voelen, misselijk en zweterig. Hij meldt een gevoel van “tunnelvisie” voordat hij kort het bewustzijn verliest en in elkaar zakt. Omstanders helpen hem op de grond en enkele minuten later komt hij weer bij, voelt zich zwak maar alert, met een trage hartslag en lage bloeddruk. In de loop van enkele minuten herstelt hij volledig.
+
+Kun je uitleggen welke veranderingen in het autonoom zenuwstelsel hier een rol spelen — zowel op het moment dat hij flauwvalt, als tijdens zijn herstel? Probeer zoveel mogelijk details te noemen.","2025-10-15T16:48:43.396474+00:00"
+"user","Initieel een lage bloeddruk, lage sympathische activiteit en verhoogde parasympatische activiteit, waardoor de bloeddruk daalt en hij collabeert. Als reactie op de lage bloeddruk wordt het sympathsiche systeem geactiveerd, welke noradrenaline vrijkomt op de b1 en b2 receptoren, waardoor de bloeddruk omhoog gaat","2025-10-15T16:52:47.1598+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Je denkt goed in stappen. Je beschrijft een lage sympathische activiteit en een verhoogde parasympatische activiteit voorafgaand aan het flauwvallen, wat klopt bij een vasovagale reactie. Ook benoem je goed dat noradrenaline het sympathisch systeem activeert bij herstel. 
+
+Kun je verder toelichten:
+- Waarom zou de parasympatische activiteit opeens “overmatig” stijgen bij deze man, denkend aan de situatie waarin hij zich bevindt (warmte, lang staan)?
+- En wat gebeurt er precies met zijn hartslag en bloedvaten tijdens het flauwvallen?
+- Welke signalen zorgen dat het sympathisch systeem uiteindelijk weer omhoog gaat bij zijn herstel?
+
+Kun je dat nog aanvullen?","2025-10-15T16:52:58.656858+00:00"
+"user","door het lange staan zakt het naar zijn voeten en door warmte is er dilatatie van de bloedvaten. Door de lage bloeddruk worden baroreceptoren geactiveerd, waardoor het sympathische systeem geactiveerd.","2025-10-15T16:54:46.966558+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Heel goed, je brengt nu ook de rol van de baroreceptoren in! Nog een korte aanvulling (om het rond te maken):
+
+- Tijdens het lang staan en de warmte wordt bloed naar de benen getrokken door de zwaartekracht en vasodilatatie, wat zorgt voor lagere veneuze terugstroom en lagere bloeddruk.  
+- Door “overactivatie” van het parasympathisch systeem (via de nervus vagus) wordt de hartslag extra vertraagd (bradycardie) en verwijden de bloedvaten verder, waardoor weinig bloed naar de hersenen gaat en hij flauwvalt.
+- Als hij plat ligt, neemt door de zwaartekracht de veneuze terugstroom toe, krijgen de hersenen weer bloed, en geven de baroreceptoren uiteindelijk het signaal om het parasympathisch systeem te remmen en het sympathisch systeem weer te activeren.
+
+Wil je hier nog iets over weten of is het nu duidelijk?","2025-10-15T16:55:01.497169+00:00"
+"user","het is duidelijk","2025-10-15T16:55:09.110265+00:00"
+"assistant","Prima! Hiermee zijn we aan het einde van de opdracht gekomen. Goed gedaan met het stapsgewijs opbouwen van je kennis, het toepassen ervan op verschillende situaties en het verwoorden van je redenering. Als je verdere vragen hebt over het autonoom zenuwstelsel of wilt oefenen met een nieuw klinisch scenario, kun je later altijd weer verdergaan. Succes met studeren!","2025-10-15T16:55:17.972564+00:00"

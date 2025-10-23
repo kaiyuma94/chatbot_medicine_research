@@ -1,0 +1,104 @@
+"role","content","created_at"
+"user","he pap","2025-10-15T13:38:07.897922+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Kun je uitleggen welke symptomen de student (uit het eerste vignet) ervaart? Denk aan het deel van het autonome zenuwstelsel dat verantwoordelijk is voor deze symptomen.","2025-10-15T13:38:13.276289+00:00"
+"user","welke student","2025-10-15T13:38:45.677797+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goede vraag, laten we samen starten! Hier is het klinische vignet:
+
+Een 19-jarige jongen meldt dat hij tijdens zijn eerste universitaire examens zijn hart voelde bonzen, zijn handpalmen zweterig werden en zijn ademhaling versnelde. Ook voelde hij zich een beetje misselijk en had hij een droge mond. Na aankomst in de examenzaal en een paar keer diep ademhalen, merkte hij dat zijn hartslag vertraagde, zijn ademhaling weer normaal werd en hij aandrang kreeg om naar het toilet te gaan.
+
+Kun je uitleggen welke symptomen de student ervaart? Denk aan het deel van het autonome zenuwstelsel dat hiervoor verantwoordelijk is.","2025-10-15T13:38:59.513121+00:00"
+"user","stress parasympatisch","2025-10-15T13:40:17.529337+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed! Je noemt stress en het parasympathisch zenuwstelsel. Dat zijn belangrijke begrippen. Laten we kort pauzeren en met kennis activeren beginnen:
+
+Great try! Let’s take a short pause and start Phase 1 – Knowledge Activation. In deze fase overlopen we kort de belangrijkste concepten en mechanismen die bij deze casus passen. Heb je al specifieke vragen of punten die je graag wilt verduidelijken voordat we starten?
+
+Als je nog geen vragen hebt:  
+Kun je vertellen wat de twee hoofdonderdelen van het autonome zenuwstelsel zijn, en waar elk verantwoordelijk voor is?","2025-10-15T13:40:28.516548+00:00"
+"user","parasympatisch en orthosympatisch","2025-10-15T13:40:44.313995+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Klopt, heel goed! Het autonome zenuwstelsel heeft inderdaad twee hoofdonderdelen: het parasympathisch en het orthosympathisch (of sympathisch) zenuwstelsel.
+
+Kun je zelf omschrijven wat het parasympathisch systeem doet, en wat het sympathisch systeem doet? Wat gebeurt er in het lichaam als het ene systeem actiever wordt dan het andere?","2025-10-15T13:40:52.640755+00:00"
+"user","parasympatisch gebruik je in rust en sympatisch in actieve situaties","2025-10-15T13:42:20.365257+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Precies, heel helder! Het parasympathisch systeem is actief in rust (“rest and digest”) en het sympathisch systeem in actieve of stressvolle situaties (“fight or flight”). 
+
+Wil je proberen uit te leggen hoe signalen van de hersenen hun weg vinden naar organen in deze systemen? Welke stoffen (neurotransmitters) spelen hierin een rol?","2025-10-15T13:42:27.950284+00:00"
+"user","ja er wordt via elektrische signalen via het zenuwstelsel overgegeven van zenuw op zenuw via neurotransmitters","2025-10-15T13:44:32.173391+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Dat klopt helemaal! De signalen gaan als elektrische impulsen door de zenuwbanen en worden tussen zenuwcellen doorgegeven via neurotransmitters.
+
+Weet je toevallig welke neurotransmitters vooral betrokken zijn bij het sympathisch zenuwstelsel, en welke bij het parasympathisch zenuwstelsel? En naar welk orgaan reizen deze signalen bijvoorbeeld bij stress?","2025-10-15T13:44:40.42604+00:00"
+"user","acetylcholine is de neurotransmitter bij stress vooral naar de spieren en het hart","2025-10-15T13:45:20.452463+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Het klopt dat acetylcholine een belangrijke neurotransmitter is, vooral in het parasympathisch systeem. Maar bij stress speelt eigenlijk een andere neurotransmitter een grote rol in het sympathisch systeem. Kun je bedenken of je daar eerder iets over hebt gelezen? Wat weet je over noradrenaline (norepinefrine) in het sympathisch zenuwstelsel? 
+
+En welke receptoren zijn hier betrokken bij bijvoorbeeld het versnellen van de hartslag?","2025-10-15T13:45:29.599557+00:00"
+"user","adrenaline","2025-10-15T13:45:46.977364+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Juist! Adrenaline (en noradrenaline) zijn belangrijk in het sympathisch zenuwstelsel bij stress. Het zijn de stoffen die bijvoorbeeld de hartslag verhogen.
+
+Weet je welke receptoren op het hart reageren op deze stoffen om de hartslag te versnellen? (Denk aan namen als α, β, etc.) Of wil je dat we dat stukje samen bespreken?","2025-10-15T13:45:54.422149+00:00"
+"user","bespreek dit met mij","2025-10-15T13:46:20.062045+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Natuurlijk, doen we samen! Wanneer het sympathisch zenuwstelsel actief is (bijvoorbeeld bij stress), dan geven de zenuwuiteinden noradrenaline af. Ook komt adrenaline vrij uit het bijniermerg. Deze stoffen binden aan adrenerge receptoren op verschillende organen.
+
+Belangrijk in het hart zijn de β₁-receptoren (bèta-1-receptoren). Als adrenaline of noradrenaline aan deze receptoren bindt, versnelt de hartslag en wordt de hartcontractie krachtiger.
+
+Wil je proberen kort samen te vatten wat er dan gebeurt in het hart en bijvoorbeeld in de huid of longen als het sympathisch zenuwstelsel actief wordt?","2025-10-15T13:46:30.951006+00:00"
+"user","je hartslag gaat versnellen waardoor je sneller het bloed door je lichaam rondpompt en je gaat sneller ademen en ook dieper en je aderen gaan ook verwijden zodat je meer warmte verliest en je huid wordt rood","2025-10-15T13:48:05.205853+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goede poging! Je beschrijft een aantal reacties. Een kleine aanvulling: niet alle bloedvaten verwijden.  
+
+Welke bloedvaten vernauwen juist door het sympathisch zenuwstelsel, en welke verwijden? Kun je uitleggen waarom dat nuttig is tijdens stress of actie?","2025-10-15T13:48:12.98797+00:00"
+"user","slagaderen verwijden","2025-10-15T13:48:54.938812+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Dat is deels waar, maar het is iets genuanceerder. Bij stress (sympathische activatie) verwijden met name de bloedvaten naar de skeletspieren, zodat er meer bloed (en zuurstof) naartoe kan. Tegelijkertijd vernauwen de bloedvaten naar minder belangrijke organen op dat moment, zoals de huid en het spijsverteringsstelsel.
+
+Waarom zou het voor het lichaam handig zijn om het bloed op deze manier te verdelen tijdens stressvolle situaties?","2025-10-15T13:49:03.510278+00:00"
+"user","zodat je alle zuurstof naar de belangrijke plekken stuurt voor de fight or flight situatie zodat je zo weg kan rennen of iets anders","2025-10-15T13:50:10.012701+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Helemaal correct! Het lichaam zorgt er zo voor dat de spieren (en het hart) alles krijgen wat ze nodig hebben om snel te kunnen reageren in een stressvolle situatie.
+
+Ik denk dat je de hoofdlijn nu goed begrijpt. Zullen we doorgaan naar de volgende fase waarin we deze kennis toepassen op de casus?","2025-10-15T13:50:17.34184+00:00"
+"user","wat zijn je hobby's","2025-10-15T13:52:35.898242+00:00"
+"assistant","Ik ben er alleen om jou te begeleiden bij het leren over het autonome zenuwstelsel. Laten we doorgaan met de leerfase! 
+
+Wil je verder met het toepassen van je kennis op de casus?","2025-10-15T13:52:44.227406+00:00"
+"user","wat zijn leerpunten voor mij","2025-10-15T13:53:21.569485+00:00"
+"assistant","Uitstekende vraag! Op basis van ons gesprek tot nu toe, zijn dit belangrijke leerpunten over het autonome zenuwstelsel:
+
+- Het autonome zenuwstelsel bestaat uit het sympathisch (“fight or flight”) en parasympathisch (“rest and digest”) systeem.
+- Bij stress raakt het sympathisch zenuwstelsel geactiveerd: hartslag en ademhaling gaan omhoog, bloed wordt herverdeeld naar spieren, en processen als spijsvertering vertragen.
+- Neurotransmitters als noradrenaline/adrenaline en acetylcholine zijn betrokken, met verschillende receptoren zoals β₁ in het hart.
+- De sympathische activatie is gericht op snelle actie; parasympathisch juist op herstel en rust.
+
+Zullen we nu overgaan naar de volgende fase en deze kennis toepassen op de oorspronkelijke casus? Dat helpt bij het dieper begrijpen!","2025-10-15T13:53:34.776764+00:00"
+"user","voor mij persoonlijk op basis van mijn gegeven antwoorden","2025-10-15T13:53:57.679976+00:00"
+"assistant","Dankjewel voor je vraag en reflectie! Op basis van jouw gegeven antwoorden zijn de volgende persoonlijke leerpunten relevant voor jou:
+
+1. **Je herkent het verschil tussen sympathisch en parasympathisch goed.**  
+   Mogelijk kun je dit nog verder concretiseren bij het benoemen van typische reacties in het lichaam.
+
+2. **Je weet al dat neurotransmitters signalen doorgeven,** maar de precieze verdeling tussen acetylcholine (vooral parasympathisch) en noradrenaline/adrenaline (sympathisch) kan je nog verder uitdiepen.
+
+3. **Je snapt goed het herverdelen van bloed tijdens stress,** maar het specifieke patroon—welke vaten verwijden (bij de spieren, hart) en welke vernauwen (huid, spijsvertering)—mag je verder verfijnen.
+
+4. **Je redeneert al klinisch:** je koppelt fysiologie aan uitleg (fight-or-flight), maar het benoemen van de bijbehorende receptoren en neurotransmitters kan je nog bewuster toepassen.
+
+Wil je nu oefenen met het toepassen van deze kennis op het klinisch voorbeeld uit het vignet? Dat is de volgende stap!","2025-10-15T13:54:13.628675+00:00"

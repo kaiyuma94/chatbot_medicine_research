@@ -1,0 +1,55 @@
+"role","content","created_at"
+"user","klaar om te beginnnen","2025-10-15T16:03:50.990477+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Hier volgt de eerste casus waarmee we aan de slag gaan:
+
+###VIGNETTE 1###
+Een 19-jarige jongen vertelt dat hij, terwijl hij naar zijn eerste universitaire tentamens ging, zijn hart voelde bonzen, zijn handpalmen begonnen te zweten en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook een beetje misselijk en had een droge mond. Nadat hij was aangekomen in de tentamenzaal en was gaan zitten, haalde hij een paar keer diep adem. Binnen tien minuten werd zijn hartslag rustiger, zijn adem weer normaal en kreeg hij aandrang om naar het toilet te gaan.
+
+Kun je uitleggen waardoor deze symptomen worden veroorzaakt bij de student? Denk na over het deel van het autonoom zenuwstelsel dat hierbij betrokken is.","2025-10-15T16:04:06.782799+00:00"
+"user","Voorafgaand aan het tentamen wordt zijn lichaam als het ware klaargemaakt voor actie. Hierbij wordt het sympathische zenuwstelsel gestimuleerd en zijn parasympatische zenuwstelsel juist onderdrukt. Het sympathische zenuwstelsel heeft bijvoorbeeld als invloed dat de hartslag omhoog gaat voor een verhoogde bloodflow en dat de ademhaling sneller wordt. om meer zuurstof op te nemen. Het parasympathische zenuwstelsel zorgt juist voor een lagere bloeddruk en stuurt bijvoorbeeld de vertering en de speekselklieren aan. Dit is dan ook passend bij een periode van rust.","2025-10-15T16:07:30.297103+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we even een korte pauze nemen en starten met Fase 1 – Kennisactivatie. In deze fase nemen we kort de kernbegrippen en mechanismen door die bij deze casus horen. Heb je op dit moment vragen of zijn er punten die je graag verduidelijkt zou willen hebben voordat we verder gaan?
+
+Zo niet, kun je mij vertellen welke twee hoofdonderdelen het autonoom zenuwstelsel heeft, en wat elk van deze onderdelen doet?","2025-10-15T16:07:43.03131+00:00"
+"user","Dat heb ik je letterlijk net uitgelegd","2025-10-15T16:08:05.857049+00:00"
+"assistant","Dat klopt, je hebt inderdaad al uitgelegd dat het sympathische zenuwstelsel zorgt voor “actie” en het parasympathische voor “rust.” Goed opgemerkt!
+
+Om zeker te zijn dat de basiskennis goed staat, wil ik een stapje verder gaan:  
+Kun je uitleggen hoe een signaal van het brein bij een orgaan terechtkomt in het autonoom zenuwstelsel? Wat is daarbij de rol van neurotransmitters zoals noradrenaline of acetylcholine?","2025-10-15T16:08:15.772909+00:00"
+"user","Er wordt een signaal gemaakt dat wordt getransporteerd over neuronen. Hierbij verandert de elektrische gradient en beweegt het signaal zo over de neuron. Neuronen hebben dendrieten en axonen. Met dendrieten ontvangen neuronen een signaal en met axonen sturen ze deze juist door, naar andere neuronen of naar bijvoorbeeld een target orgaan. Neurotransmitters spelen een rol bij die transitie van het signaal. Op het moment dat een signaal het uiteinde van een axon bereikt geeft dit uiteinde neurotransmitters af in de spleet tussen twee neuronen: de synaptische spleet. Deze neurotransmitters binden aan receptoren aan de andere kant van de synaps op de volgende neuron. Zo ontstaat hier weer een signaal dat over het neuron beweegt.","2025-10-15T16:13:48.290688+00:00"
+"assistant","Precies, dat klopt allemaal! Het signaal wordt elektrisch geleid door neuronen en via neurotransmitters “doorgegeven” in de synaps naar het volgende neuron of direct naar een doelorgaan.
+
+Wil je nog kort benoemen welke neurotransmitters vooral gebruikt worden in het sympathische en parasympathische deel van het autonoom zenuwstelsel voor de communicatie met organen? Of is dat nog niet helemaal duidelijk?","2025-10-15T16:13:56.73953+00:00"
+"user","Neurotransmitters als noradrenaline zijn voor het sympathische zenuwstelsel, dus voor actie. neurotransmitters als acetylcholine zijn juist voor de parasympaticus, dus voor rust","2025-10-15T16:14:54.582128+00:00"
+"assistant","Heel goed! Noradrenaline is inderdaad de belangrijkste neurotransmitter van het sympathische zenuwstelsel richting de organen (zoals hart, bloedvaten). Acetylcholine is juist kenmerkend voor het parasympathische zenuwstelsel.
+
+Laatste kennisvraag voordat we door kunnen:  
+Kun je kort beschrijven wat er met het lichaam gebeurt als het sympathische systeem actief wordt, vergeleken met als het parasympathische systeem actief wordt? Noem daarbij één of twee voorbeelden van orgaanfuncties of reacties die veranderen.","2025-10-15T16:15:03.626506+00:00"
+"user","Ook al uitgelegd in mijn eerst reactie","2025-10-15T16:15:22.32508+00:00"
+"assistant","Klopt, je hebt dit inderdaad al goed genoemd in je eerste uitleg! Je hebt laten zien dat je de basiskennis beheerst.
+
+We stappen nu over naar de volgende fase waarin je deze kennis gaat toepassen.
+
+=== PHASE 2: Narrative Construction ===
+
+Hier volgt nogmaals de casus:
+
+###VIGNETTE 1###
+Een 19-jarige jongen vertelt dat hij, terwijl hij naar zijn eerste universitaire tentamens ging, zijn hart voelde bonzen, zijn handpalmen begonnen te zweten en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook een beetje misselijk en had een droge mond. Nadat hij was aangekomen in de tentamenzaal en was gaan zitten, haalde hij een paar keer diep adem. Binnen tien minuten werd zijn hartslag rustiger, zijn adem weer normaal en kreeg hij aandrang om naar het toilet te gaan.
+
+Kun je nu met de opgedane kennis uitleggen waardoor deze symptomen bij de student ontstaan? Denk aan het evenwicht tussen het sympathisch en parasympathisch zenuwstelsel en licht toe met wat er in het lichaam gebeurt.","2025-10-15T16:15:38.213416+00:00"
+"user","Ook dit heb ik je al uitgelegd in mijn eerste reactie","2025-10-15T16:15:57.478575+00:00"
+"assistant","Je hebt inderdaad al in je eerste reactie benoemd dat de sympathicus actief is bij stress voor het tentamen, en dat de parasympathicus overheerst als de rust terugkeert. Goed gezien!
+
+Ik wil je vragen om nu een stapje verder te gaan en explicieter de koppeling te maken tussen de symptomen uit de casus en de onderliggende mechanismen. Kun je per symptoom (bijvoorbeeld bonzend hart, zweten, versnelde ademhaling, droge mond), aangeven welk deel van het zenuwstelsel dit aanstuurt en via welk mechanisme dat gebeurt? Wat gebeurt er daarna als de rust terugkeert?","2025-10-15T16:16:07.442178+00:00"
+"user","Ook al gedaan","2025-10-15T16:16:22.760142+00:00"
+"assistant","Prima! Je beheerst duidelijk de kern van deze fase. We gaan nu over op een slotvraag om te toetsen hoe compleet je begrip is.
+
+###VIGNETTE 1 (herhaling)###
+Een 19-jarige jongen vertelt dat hij, terwijl hij naar zijn eerste universitaire tentamens ging, zijn hart voelde bonzen, zijn handpalmen begonnen te zweten en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook een beetje misselijk en had een droge mond. Nadat hij was aangekomen in de tentamenzaal en was gaan zitten, haalde hij een paar keer diep adem. Binnen tien minuten werd zijn hartslag rustiger, zijn adem weer normaal en kreeg hij aandrang om naar het toilet te gaan.
+
+###ASSESSMENT QUESTION###
+Hoe begrijp je nu de symptomen uit deze casus? Schrijf zo volledig mogelijk op: je ideeën, je redeneerstappen en verbindingen met wat je geleerd hebt. Hoe completer je uitleg, hoe meer je je begrip verdiept en hoe beter je voorbereid bent op klinisch redeneren bij vergelijkbare patiënten!","2025-10-15T16:16:37.509379+00:00"

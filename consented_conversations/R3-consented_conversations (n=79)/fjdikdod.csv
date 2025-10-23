@@ -1,0 +1,141 @@
+"role","content","created_at"
+"user","laten we beginnen","2025-10-15T16:03:12.978391+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+VIGNETTE 1:  
+Een 19-jarige jongen merkt dat zijn hart sneller gaat kloppen, zijn handpalmen gaan zweten en zijn ademhaling versnelt wanneer hij naar zijn eerste universitaire tentamens gaat. Hij voelt zich ook wat misselijk en heeft een droge mond. Nadat hij in de examenzaal is gaan zitten en een paar keer diep heeft ademgehaald, merkt hij dat zijn hartslag vertraagt, zijn ademhaling weer normaal wordt en dat hij ineens naar het toilet moet.
+
+Kun je uitleggen welke symptomen deze student ervaart? Denk aan het deel van het autonoom zenuwstelsel dat verantwoordelijk is voor die symptomen.","2025-10-15T16:03:23.984373+00:00"
+"user","geen idee","2025-10-15T16:06:41.257525+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed dat je eerlijk bent! Laten we dan samen rustig de basis doornemen. We starten met de belangrijkste onderdelen van het autonoom zenuwstelsel.
+
+Weet je wat de twee hoofdonderdelen zijn van het autonoom zenuwstelsel, en wat elk onderdeel doet?","2025-10-15T16:06:48.251429+00:00"
+"user","geen idee","2025-10-15T16:07:23.23863+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Geen probleem, daar zijn we voor! Het autonoom zenuwstelsel heeft twee hoofdonderdelen:
+
+1. Het sympathisch zenuwstelsel
+2. Het parasympathisch zenuwstelsel
+
+Kun je met deze begrippen aangeven welke van de twee meestal actief wordt als je lichaam klaar moet zijn voor actie (zoals stress of angst), en welke juist actief is als je lichaam wil uitrusten of herstellen? Wat denk je?","2025-10-15T16:07:32.381518+00:00"
+"user","voor actie is sympatisch, parasympathisch voor herstel","2025-10-15T16:08:02.947427+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Dat klopt helemaal! Het sympathisch zenuwstelsel maakt je lichaam klaar voor actie (“fight or flight”), terwijl het parasympathisch zenuwstelsel zorgt voor herstel en rust (“rest and digest”).
+
+Wil je dat we kort bespreken hoe signalen vanaf de hersenen een orgaan bereiken via deze systemen, of heb je daar al een idee van?","2025-10-15T16:08:16.831791+00:00"
+"user","vertel maar","2025-10-15T16:08:40.607331+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Prima! Laten we het simpel houden:
+
+Het begint in de hersenen, vooral in de hypothalamus. Vanuit daar gaan signalen via zenuwvezels naar het ruggenmerg en vervolgens naar zenuwcellen die naar organen lopen. 
+
+Bij het sympathisch systeem worden vooral noradrenaline (norepinefrine) als chemische boodschapper gebruikt. Die wordt afgegeven aan het einde van de zenuw en bindt aan receptoren op de organen.
+
+Bij het parasympathisch systeem wordt vooral acetylcholine afgegeven aan organen, ook via zenuwvezels (vooral de nervus vagus).
+
+Eigenlijk “vertellen” deze boodschappers de organen wat ze moeten doen.  
+Begrijp je het tot zover, of wil je weten hoe deze signalen invloed hebben op specifieke organen?","2025-10-15T16:08:53.060549+00:00"
+"user","ik begrijp","2025-10-15T16:09:49.858871+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Mooi! Dan de volgende vraag:  
+Wat gebeurt er in je lichaam als het sympathisch systeem actief is? Kun je één of twee veranderingen noemen die optreden in organen of lichaamsfuncties?","2025-10-15T16:09:55.642722+00:00"
+"user","hart gaat sneller kloppen en vertering minder","2025-10-15T16:10:32.118157+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Heel goed! De hartslag versnelt, zodat je meer bloed (en dus zuurstof) naar je spieren krijgt, en de spijsvertering wordt afgeremd omdat daar op dat moment minder prioriteit aan wordt gegeven.
+
+Nog één vervolgvraag voordat we verdergaan:  
+Wat denk je dat gebeurt als het parasympathisch systeem weer dominant wordt, bijvoorbeeld na het stressmoment? Welke lichaamsfuncties keren dan terug naar “ruststand”?","2025-10-15T16:10:40.595217+00:00"
+"user","hartslag rustiger en vertering weer belangrijker","2025-10-15T16:11:04.71503+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Precies! De hartslag vertraagt weer en de spijsvertering komt op gang. Dit is belangrijk om je lichaam weer in balans te brengen na stress.
+
+Heb je nog vragen over dit basisproces van het autonoom zenuwstelsel, of zullen we naar de volgende fase gaan en kijken hoe deze kennis van toepassing is op het eerste vignet?","2025-10-15T16:11:12.196852+00:00"
+"user","ja laten we doorgaan","2025-10-15T16:11:37.901799+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Hier is nogmaals VIGNETTE 1:  
+Een 19-jarige jongen merkt dat zijn hart sneller gaat kloppen, zijn handpalmen gaan zweten en zijn ademhaling versnelt wanneer hij naar zijn eerste universitaire tentamens gaat. Hij voelt zich ook wat misselijk en heeft een droge mond. Nadat hij in de examenzaal is gaan zitten en een paar keer diep heeft ademgehaald, merkt hij dat zijn hartslag vertraagt, zijn ademhaling weer normaal wordt en dat hij ineens naar het toilet moet.
+
+Nu je de kennis hebt opgefrist, kun je uitleggen welke rol het autonoom zenuwstelsel speelt bij de symptomen die de student ervaart? Probeer te benoemen welk deel actief is tijdens de stress en wat er verandert bij ontspanning.","2025-10-15T16:11:49.814891+00:00"
+"user","tijdens de stress is het sympatische deel actief en bij ontspanning het parasympatische","2025-10-15T16:14:14.052149+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Dat is helemaal juist. Kun je wat dieper uitleggen wat het sympathisch zenuwstelsel precies veroorzaakt in het lichaam van de student als hij stress ervaart? Denk aan zijn hart, ademhaling, zweten en misselijkheid. Wat gebeurt er met deze organen en waarom juist op deze manier?","2025-10-15T16:14:22.102598+00:00"
+"user","zijn hartslag versnelt door het sympatische deel","2025-10-15T16:15:13.241302+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Goed, je benoemt de snellere hartslag. Het sympathisch zenuwstelsel stimuleert inderdaad het hart om harder en sneller te werken.
+
+Maar hoe zit het bijvoorbeeld met het zweten, de versnelde ademhaling, de droge mond en de misselijkheid? Kun je bedenken hoe het sympathisch systeem hier invloed op heeft? Wat is het doel van deze reacties?","2025-10-15T16:15:24.106117+00:00"
+"user","vertering is niet belangrijk op dat moment dus speekselaanmaak minder nodig daardoor een droge mond","2025-10-15T16:16:22.871161+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Heel goed geredeneerd! Minder speekselaanmaak leidt inderdaad tot een droge mond, omdat de spijsvertering tijdelijk wordt geremd: niet belangrijk tijdens stress.
+
+Kun je nu ook proberen uit te leggen waarom zijn handpalmen gaan zweten, zijn ademhaling versnelt, en hij zich misselijk voelt? Wat zou het sympathisch zenuwstelsel hier willen bereiken?","2025-10-15T16:16:31.705344+00:00"
+"user","eten gaat niet door dus wordt misselijk en ademhaling versnelt zodat er meer zuurstof beschikbaar is en zweten weet ik niet","2025-10-15T16:17:32.278477+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Mooie uitleg! Je hebt het goed verwoord wat betreft de misselijkheid en de snelle ademhaling: het lichaam remt het spijsverteringskanaal, wat een misselijk gevoel kan veroorzaken, en versnelt de ademhaling voor extra zuurstof naar spieren.
+
+Wat betreft zweten: heb je een idee waarom zweten nuttig zou kunnen zijn als het sympathisch systeem actief is? Waarom zou het lichaam hier voordeel van hebben in een stresssituatie?","2025-10-15T16:17:42.76285+00:00"
+"user","nee","2025-10-15T16:18:39.563635+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Goede vraag! Zweten ontstaat omdat het sympathisch zenuwstelsel ook de zweetklieren stimuleert — via de afgifte van acetylcholine, wat uitzonderlijk is bij deze tak van het zenuwstelsel.
+
+Dit helpt het lichaam om af te koelen — stel je voor dat je in een “vecht-of-vlucht”-situatie zou moeten rennen of vechten; dan wil je niet oververhit raken. Zweten zorgt dus voor warmte-afvoer tijdens lichamelijke inspanning of stress.
+
+Wil je nu proberen uit te leggen wat er gebeurt als de student gaat zitten en ontspant? Wat doet het parasympathisch systeem dan met zijn hart, ademhaling, vertering en blaas? Geef een korte uitleg met je eigen woorden.","2025-10-15T16:18:51.179415+00:00"
+"user","hartslag en ademhaling vertraagt vertering wordt belangrijker en blaas ook","2025-10-15T16:19:43.818643+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Mooi samengevat! Precies: het parasympathisch systeem zorgt ervoor dat de hartslag en ademhaling vertragen, de spijsvertering weer op gang komt, en ook de blaas zich weer vult waardoor je soms het gevoel krijgt dat je naar het toilet moet na ontspanning.
+
+Je hebt de hoofdlijekennis en het vignet goed toegepast! Hier komt nu de eindvraag voor deze casus:
+
+VIGNETTE 1 (herhaling):  
+Een 19-jarige jongen merkt dat zijn hart sneller gaat kloppen, zijn handpalmen gaan zweten en zijn ademhaling versnelt wanneer hij naar zijn eerste universitaire tentamens gaat. Hij voelt zich ook wat misselijk en heeft een droge mond. Nadat hij in de examenzaal is gaan zitten en een paar keer diep heeft ademgehaald, merkt hij dat zijn hartslag vertraagt, zijn ademhaling weer normaal wordt en dat hij ineens naar het toilet moet.
+
+ASSESSMENT QUESTION:  
+Hoe begrijp je nu de symptomen in deze casus? Schrijf zo volledig mogelijk op — je ideeën, redeneringen en de koppeling met wat je hebt geleerd. Hoe gedetailleerder je uitleg, hoe meer je hiervan opsteekt en hoe beter je toekomstige soortgelijke vignetten kunt verklaren!","2025-10-15T16:20:00.868258+00:00"
+"user","sympatisch is actief tijdens fight-or-flight en stimuleert hartslaf en ademhaling en niet het verteringstelsel, bij het parasympatische deel is dit precies andersom","2025-10-15T16:21:09.786954+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Nu gaan we oefenen met het toepassen van je kennis in een nieuwe situatie.
+
+VIGNETTE 2:  
+Een 76-jarige man staat in de rij bij de apotheek op een warme middag. Na een paar minuten voelt hij zich licht in het hoofd, misselijk en zweterig. Hij krijgt “tunnelvisie” en verliest even het bewustzijn. Omstanders leggen hem op de grond. Na enkele minuten komt hij weer bij, maar voelt zich zwak. Zijn hartslag is langzaam en zijn bloeddruk is laag. Even later is hij weer volledig bij.
+
+Kun je uitleggen welke rol het autonoom zenuwstelsel speelt in deze situatie? Leg uit welke fase door welk deel van het zenuwstelsel wordt bepaald, en hoe het herstel verloopt.","2025-10-15T16:21:22.47555+00:00"
+"user","eerst sympatsich, daarna parasympatisch","2025-10-15T16:22:01.627437+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Interessante aanname! Heb je overwogen dat juist het parasympathisch systeem te sterk geactiveerd kan zijn vlak voor het flauwvallen?  
+Denk eens na over wat er gebeurt bij “vasovagale syncope”: wat is het effect op hartslag en bloeddruk, en waardoor raakt hij buiten bewustzijn? Probeer te beschrijven wat er gebeurt met het sympathisch én parasympathisch systeem op het moment dat hij flauwvalt en bij het herstel.","2025-10-15T16:22:11.427403+00:00"
+"user",".","2025-10-15T16:22:22.487669+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Zullen we het samen stap voor stap doornemen?  
+
+Wat gebeurt er met de hartslag en bloeddruk als het parasympatisch systeem ineens heel sterk geactiveerd wordt? En hoe leidt dit tot flauwvallen, denk je?","2025-10-15T16:22:29.138919+00:00"
+"user","worden heel laag","2025-10-15T16:22:47.024135+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Juist! Een sterke activatie van het parasympathisch systeem zorgt ervoor dat de hartslag daalt (bradycardie) en de bloeddruk zakt (door verwijding van de bloedvaten). Daardoor krijgt de hersenen tijdelijk te weinig bloed, wat leidt tot flauwvallen.
+
+Kun je nu uitleggen wat er gebeurt als de man gaat liggen en weer bij komt? Hoe past het autonoom zenuwstelsel zich dan aan?","2025-10-15T16:22:56.328108+00:00"
+"user","idk","2025-10-15T16:23:11.045441+00:00"
+"user","ik weet het niet","2025-10-15T16:25:11.404664+00:00"
+"user",".","2025-10-15T16:25:33.681569+00:00"
+"user","wat wil je van me","2025-10-15T16:25:45.637083+00:00"
+"user","wat wil je van me","2025-10-15T16:25:54.771701+00:00"
+"user","hallooooooooooo","2025-10-15T16:26:00.611435+00:00"

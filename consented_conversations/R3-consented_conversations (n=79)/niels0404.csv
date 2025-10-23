@@ -1,0 +1,40 @@
+"role","content","created_at"
+"user","ik ben klaar om te beginnen","2025-10-15T16:03:41.157175+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Hier is de eerste casus:
+
+###VIGNETTE 1###
+Een 19-jarige jongen vertelt dat hij vlak voor zijn eerste tentamen op de universiteit begon te merken dat zijn hart hevig klopte, zijn handpalmen bezweet raakten en zijn ademhaling versnelde. Ook voelde hij zich wat misselijk en had hij een droge mond. Toen hij eenmaal in de tentamenzaal zat en een paar keer diep ademhaalde, merkte hij dat zijn hart weer rustiger werd, zijn ademhaling normaliseerde en hij het gevoel kreeg dat hij naar het toilet moest.
+
+Kun je uitleggen welke symptomen de student ervaart? Denk daarbij na over welk deel van het autonome zenuwstelsel verantwoordelijk is voor die klachten.","2025-10-15T16:03:55.594607+00:00"
+"user","de student ervaart symptomen gerelateerd aan de activatie van het sympathische zenuwstelsel","2025-10-15T16:05:35.41194+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we even pauzeren en starten met Fase 1 – Kennisactivatie. In deze fase herhalen we kort de belangrijkste concepten en mechanismen die met dit geval te maken hebben. Heb je nu al vragen of dingen die je wilt verduidelijken voordat we beginnen? 
+
+Als niet, kun je alvast antwoord geven op deze vraag:  
+Weet je wat de twee hoofdonderdelen van het autonome zenuwstelsel zijn, en wat elk onderdeel doet?","2025-10-15T16:05:44.973462+00:00"
+"user","het parasympatische zenuwstelsel en het orthosympatische zenuwstelsel, waarin het parasympatische zenuwstelsel zorgt voor 'rest digest' en het orthosympatische zenuwstelsel voor 'fight or flight'","2025-10-15T16:08:14.641072+00:00"
+"assistant","Precies, deze tweedeling is heel belangrijk! 
+
+Kun je uitleggen hoe een signaal van het centrale zenuwstelsel uiteindelijk bij een orgaan terechtkomt in deze systemen? Denk bijvoorbeeld aan de weg die zo’n signaal aflegt, en welke stoffen (neurotransmitters) betrokken zijn bij de signaaloverdracht naar het doelorgaan.","2025-10-15T16:08:27.831065+00:00"
+"user","zeker, het boodschap wordt overgedragen van de zenuwcellen in het centrale zenuwstelsel naar de motorneuronen van het perifeer zenuwstelsel, hierbij wordt onder andere acetylcholine gebruikt","2025-10-15T16:09:59.897915+00:00"
+"assistant","Mooi begin! Je noemt acetylcholine; dat klopt inderdaad bij een deel van de overdracht. Kun je verder toelichten of er verschillen zijn tussen het sympathische en parasympathische systeem qua neurotransmitters? Denk aan de tweede synaps: welke stof wordt daar gebruikt bij elk systeem?","2025-10-15T16:10:08.186754+00:00"
+"user","jazeker, acetylcholine wordt gebruikt door beide delen van het autonome zenuwstelsel, maar het sympatische zenuwstelsel gebruikt ook nog noradrenaline","2025-10-15T16:12:37.957413+00:00"
+"assistant","Goed, dat klopt! Dus bij het parasympathische systeem wordt acetylcholine gebruikt aan zowel de eerste als tweede synaps, en bij het sympathische systeem noradrenaline op de tweede synaps richting het doelorgaan.
+
+Laatste vraag van deze fase: wat gebeurt er in het lichaam als het sympathische of parasympathische systeem actief wordt? Kun je voorbeelden geven van wat er dan met hartslag, ademhaling, spijsvertering of bloedvaten gebeurt?","2025-10-15T16:12:47.136475+00:00"
+"user","als het sympathische systeem actief is zal het hartslag omhoog gaan, de ademhaling omhoog gaan, het spijsvertering afnemen en de bloedvaten zullen verkleinen. Bij het parasympatische systeem zal het hartslag omlaag gaan, de ademhaling omlaag gaan, het spijsvertering toenemen en de bloedvaten zullen verruimen","2025-10-15T16:14:41.47371+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Prima overzicht! Nu gaan we naar Fase 2 – Narratief Constructie.
+
+Hier nogmaals de casus:
+
+###VIGNETTE 1###
+Een 19-jarige jongen vertelt dat hij vlak voor zijn eerste tentamen op de universiteit begon te merken dat zijn hart hevig klopte, zijn handpalmen bezweet raakten en zijn ademhaling versnelde. Ook voelde hij zich wat misselijk en had hij een droge mond. Toen hij eenmaal in de tentamenzaal zat en een paar keer diep ademhaalde, merkte hij dat zijn hart weer rustiger werd, zijn ademhaling normaliseerde en hij het gevoel kreeg dat hij naar het toilet moest.
+
+Kun je nu met de kennis die je net hebt herhaald uitleggen waardoor deze symptomen ontstaan? Denk aan het autonome zenuwstelsel dat hierbij betrokken is, en probeer zo veel mogelijk stappen van het proces te beschrijven.","2025-10-15T16:14:54.683931+00:00"
+"user","jazeker, de jongen had stres, hierom gaf zijn bijnier één of meerdere van de volgende hormonen af: cortisol, adrenaline, noradrenaline","2025-10-15T16:18:23.769972+00:00"
+"assistant","Dat is een interessante start! Je noemt de bijnier en stresshormonen zoals adrenaline en noradrenaline. Dat klopt inderdaad, maar kun je nu wat specifieker uitleggen hoe het sympathische zenuwstelsel direct werkt op organen zoals het hart of de longen, los van de hormoonafgifte? Bijvoorbeeld: Hoe verloopt het signaal vanuit het centrale zenuwstelsel naar het hart en welke neurotransmitter is hier betrokken? En wat gebeurt er met het hart onder invloed van dat signaal?","2025-10-15T16:18:32.618568+00:00"

@@ -1,0 +1,135 @@
+"role","content","created_at"
+"user","begin","2025-10-15T13:54:40.262041+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Hier is de casus:
+
+Een 19-jarige jongen geeft aan dat hij onderweg naar zijn eerste universiteitsexamen zijn hart voelde bonzen, zijn handpalmen begonnen te zweten en hij merkte dat zijn ademhaling versneld was. Ook voelde hij zich wat misselijk en had hij een droge mond. Nadat hij bij de examenzaal aankwam en ging zitten, nam hij een paar diepe ademhalingen. Binnen tien minuten vertraagde zijn hartslag, werd zijn ademhaling weer normaal en kreeg hij aandrang om naar het toilet te gaan.
+
+Kun je uitleggen welke symptomen deze student ervaart? Denk aan het deel van het autonome zenuwstelsel dat verantwoordelijk is voor deze symptomen.","2025-10-15T13:54:51.622193+00:00"
+"user","door de stress geeft het parasympatisch zenuwstelsel cortisol af waardoor zijn hart sneller gaat bonzen en hij gaat zweten want hij komt in the flight or fly modus, hierdoor kreeg hij ook een droge mond en werd hij misselijk, door vervolgens diep te ademen kalmeerde hij een beetje waardoor de afgifte van cortisol verminderd en het parasympatische zenuwstelsel een seintje geeft dat hij moet plassen","2025-10-15T13:57:46.199577+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we een korte pauze nemen en starten met Fase 1 – Kennisactivatie. In deze fase bespreken we kort de belangrijkste concepten en mechanismen die bij dit geval horen. Zijn er op dit moment al vragen of dingen waar je meer duidelijkheid over wilt voordat we verder gaan?
+
+Als je geen directe vragen hebt, kun je dan aangeven wat jij weet over de twee hoofdonderdelen van het autonome zenuwstelsel en hun functies?","2025-10-15T13:57:57.045191+00:00"
+"user","sympatisch = fight or flight : aanzetten tot actie, meer metabolisme snellere handelingen, parasympatisch = rust, aanzetten tot vertering","2025-10-15T13:59:07.124246+00:00"
+"assistant","Mooi verwoord! Je noemt het sympathisch zenuwstelsel (voor actie, verhoogde hartslag, snelle ademhaling) en het parasympathisch zenuwstelsel (voor rust, herstel en spijsvertering). Wil je proberen uit te leggen hoe een signaal van de hersenen tot een verandering in bijvoorbeeld het hart of de darmen leidt binnen dit systeem? 
+
+Of anders: Weet je welke boodschapperstoffen (neurotransmitters) deze zenuwbanen gebruiken om signalen naar organen te sturen?","2025-10-15T13:59:15.970767+00:00"
+"user","acetylcholine voor parasympatische wegen, en adrenaline, noradrenaline en cortisol voor sympatisch + sympatische neuronen","2025-10-15T14:00:14.990462+00:00"
+"assistant","Goed, je noemt acetylcholine voor het parasympatische systeem en noradrenaline/adrenaline/cortisol voor het sympathische systeem. Even een kleine aanvulling: cortisol is een hormoon dat via de bloedbaan werkt (en hoort meer bij langdurige stress via de bijnier), terwijl noradrenaline direct door sympathische zenuwen wordt afgegeven bij een snel effect. 
+
+Wil je eens uitleggen wat er gebeurt met de hartslag, ademhaling en spijsvertering wanneer het sympathisch of juist het parasympathisch systeem actief wordt?  
+
+En als je wilt, kun je kort beschrijven wat er op weefselniveau gebeurt met bijvoorbeeld de bloedvaten of de spijsvertering in elk van deze twee standen?","2025-10-15T14:00:27.091449+00:00"
+"user","feedback graag","2025-10-15T14:00:51.679708+00:00"
+"assistant","Prima! Hier volgt suggestieve feedback om je te helpen je kennis te structureren:
+
+Je hebt al genoemd dat het sympathisch zenuwstelsel zorgt voor een verhoogde hartslag en sneller ademen, en dat het parasympathisch zenuwstelsel zorgt voor rust en spijsvertering. 
+
+Heb je al nagedacht over wat er met de bloedvaten gebeurt als het sympathisch systeem actief wordt? Worden ze overal wijder, of juist nauwer? En waarom zou dat voor het lichaam nuttig zijn in een stresssituatie?
+
+En bij de spijsvertering: denk je dat die juist versnelt of vertraagt tijdens stress? Kun je uitleggen waarom?
+
+Wil je deze stappen afmaken? Zo kun je je begrip nog verder verdiepen.","2025-10-15T14:01:02.901255+00:00"
+"user","ja","2025-10-15T14:51:32.970686+00:00"
+"assistant","Mooi! Wil je dan proberen te beschrijven:
+
+1. Wat gebeurt er met de bloedvaten in de huid en in de spieren als het sympathisch zenuwstelsel actief wordt? 
+2. En wat gebeurt er met de spijsvertering in die situatie? 
+
+Probeer je antwoorden kort toe te lichten.","2025-10-15T14:51:41.558048+00:00"
+"user","ja","2025-10-15T14:51:56.988768+00:00"
+"assistant","Kun je dan voor mij toelichten:
+
+Wat gebeurt er met de bloedvaten in de huid en de spieren bij activatie van het sympathisch zenuwstelsel?  
+En wat gebeurt er met de spijsvertering tijdens zo’n stressmoment? 
+
+Leg kort uit in je eigen woorden waarom dat logisch is voor het lichaam.","2025-10-15T14:52:03.121222+00:00"
+"user","de bloedvaten worden groter zodat er meer bloed door je lichaam gaat en er zo meer zuurstof en voedingstoffen naar je cellen vervoerd worden zodat je metabolisme toe neemt en je meer energie hebt voor actie, de spijsvertering is op zo'n moment niet prioriteit dus die vertraagd","2025-10-16T15:14:58.880894+00:00"
+"assistant","Prima gedacht! Je legt mooi uit dat het lichaam energie vrijmaakt voor actie, en dat de spijsvertering tijdelijk minder belangrijk is. Even checken: worden álle bloedvaten in het lichaam wijder tijdens sympathische activatie, of is er verschil tussen bijvoorbeeld de huid, darmen en spieren?  
+
+Kun je dit verschil in vaten kort uitleggen? Wat gebeurt er met de bloedvaten van de huid of de darmen, en wat juist met die van de spieren?","2025-10-16T15:15:10.016929+00:00"
+"user","alle bloedvaten die voor een fight or flight reactie zorgen verbreden dus die in de huid en spieren worden dikker, en die in je darmen niet want daar is niet extra bloed nodig","2025-10-16T15:16:33.248076+00:00"
+"assistant","Dat is al een goede stap! Je hebt gelijk dat er verschil is. Maar heb je er al bij stilgestaan dat de bloedvaten in de huid meestal juist nauwer worden (waardoor je soms bleek kunt zien), terwijl de bloedvaten in de spieren wijder worden? 
+
+Wat zou hiervan het voordeel zijn in een stresssituatie? Waarom zou het lichaam minder bloed naar de huid en darmen sturen, en juist meer naar de spieren? Kun je dat in je eigen woorden uitleggen?","2025-10-16T15:16:42.64836+00:00"
+"user","waarom worden je bloedvaten in de huid nauwer ?","2025-10-16T15:17:39.924139+00:00"
+"assistant","Goede vraag! Probeer eerst eens zelf te bedenken waarom het lichaam in een stress- of gevaarlijke situatie mogelijk minder bloed naar de huid zou willen sturen. Denk na over wat er in zo’n situatie belangrijker is: bescherming van vitale organen en bewegen, of warmte afgifte via de huid? Wat zou een voordeel zijn van het vernauwen van de vaten in je huid als je bijvoorbeeld moet vluchten voor gevaar?","2025-10-16T15:17:48.922697+00:00"
+"user","okay dus prioriteit ligt bij de spieren en niet bij afgifte van warmte of de spijsvertering waardoor darm en huid dunner worden","2025-10-16T15:18:54.784519+00:00"
+"assistant","Precies! Goed geredeneerd. Door de bloedvaten in de huid en darmen te vernauwen, gaat er meer bloed – en dus meer zuurstof en energie – naar vitale organen zoals de spieren en het hart. Dit helpt je lichaam om snel te reageren (“fight or flight”), terwijl functies als spijsvertering en warmte-afgifte tijdelijk minder belangrijk zijn. 
+
+Denk je dat je hiermee de verschillen tussen sympathisch en parasympathisch goed helder hebt? Of zijn er nog punten waar je meer uitleg over wilt?
+
+Als het voor jou duidelijk is, laten we dan doorgaan naar de volgende fase!","2025-10-16T15:19:04.755735+00:00"
+"user","ja","2025-10-16T15:21:28.657567+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Hier is nogmaals de casus:
+
+Een 19-jarige jongen geeft aan dat hij onderweg naar zijn eerste universiteitsexamen zijn hart voelde bonzen, zijn handpalmen begonnen te zweten en hij merkte dat zijn ademhaling versneld was. Ook voelde hij zich wat misselijk en had hij een droge mond. Nadat hij bij de examenzaal aankwam en ging zitten, nam hij een paar diepe ademhalingen. Binnen tien minuten vertraagde zijn hartslag, werd zijn ademhaling weer normaal en kreeg hij aandrang om naar het toilet te gaan.
+
+Kun je nu, met de kennis die je hebt opgedaan, uitleggen welke processen in het autonome zenuwstelsel deze symptomen bij de student veroorzaken? Geef zoveel mogelijk details.","2025-10-16T15:21:40.359886+00:00"
+"user","het hart begon te bonzen omdat het sympatisch zenuwstelsel de bloedvaten verbreed waardoor er meer bloed door het lichaam stuurt en het hart dus harder moet werken, zijn handpalmen beginnen te zweten omdat de lichaamstemperatuur verhoogd, zijn ademhaling versneld doordat er meer zuurstof nodig is door meer bloed wat door het lichaam stroomt, door het diepe ademen wordt hij wat rustiger waardoor het sympatisch stelsel lichtelijk afneemt en het parasympatisch stelsel een seintje geeft dat hij moet plassen","2025-10-16T15:26:11.927332+00:00"
+"assistant","Mooi uitgelegd! Je hebt al veel stappen te pakken. Mag ik je uitdagen op een paar kleine details?
+
+- Denk je dat het hart sneller klopt omdat het sympathisch zenuwstelsel de bloedvaten overal verbreed, of speelt er ook iets anders? Waar gaan bloedvaten juist wél of niet open?
+- Zweten: gebeurt dat om de lichaamstemperatuur te verhogen, of juist te regelen? Wat zou de achterliggende gedachte zijn?
+- En kun je nog iets meer zeggen over waarom de droge mond en misselijkheid ontstaan als het sympathisch zenuwstelsel actief is?
+
+Wil je deze punten proberen toe te lichten? Zo scherp je je klinische redeneervaardigheden extra aan!","2025-10-16T15:26:23.04864+00:00"
+"user","- doordat het hart sneller gaat kloppen worden de bloedvaten breder, - doordat er meer metabolisme in je lichaam is is de temperatuur in de kern hoger waardoor je gaat zweten om die warmte weer kwijt te raken, - de droge mond weet ik niet","2025-10-16T15:28:28.005677+00:00"
+"assistant","Goede pogingen! Je zet al stappen in de redenering.
+
+- Het sympathisch zenuwstelsel laat het hart sneller en krachtiger kloppen via stimulatie van de β1-receptoren in het hart. In de spieren gaan de bloedvaten open (vasodilatatie via β2-receptoren), maar in huid en darmen worden ze juist nauwer (via α1-receptoren). Zo wordt bloed gericht naar waar het nodig is: de spieren.
+- Zweten helpt inderdaad om overtollige warmte kwijt te raken bij verhoogd metabolisme door activering van sympathische zenuwen.
+- Over de droge mond: wat doet het sympathisch zenuwstelsel met de speekselproductie, denk je? Als je kijkt naar de ""rest & digest""-functie van het parasympathisch systeem, wat gebeurt er met speeksel als dat systeem juist minder actief is?
+
+Kun je hier je gedachten op loslaten? Wat denk je?","2025-10-16T15:28:41.147849+00:00"
+"user","ow omdat er geen prioriteit is voor de vertering stuur het parasympatisch stelsel minder aan op de productie van speeksel productie. waarom wordt je misselijk?","2025-10-16T15:29:58.339153+00:00"
+"assistant","Precies! Door verminderde parasympathische activiteit en verhoogde sympathische activiteit is er minder stimulatie van de speekselklieren — dus krijg je een droge mond.
+
+Over misselijkheid: wat denk je dat er gebeurt met de darmen als het sympathisch zenuwstelsel actief wordt? Denk aan de doorbloeding en de aansturing van de darmbeweging. Waarom zou dat leiden tot een misselijk gevoel? Probeer dat eens te verwoorden.","2025-10-16T15:30:06.226658+00:00"
+"user","ik weet niet waarom je misselijk wordt van dat je darmen minder bewegen","2025-10-16T15:30:54.296676+00:00"
+"assistant","Dat is een heel begrijpelijke vraag! Denk eens na: als het sympathisch zenuwstelsel actief is, remt het de bewegingen van de darmen (dus minder peristaltiek en minder doorbloeding). Kun je bedenken wat er in je buik gebeurt als voedsel en spijsverteringssappen daar blijven 'stilstaan' of zich ophopen? Wat zou je lichaam daarmee willen zeggen in een plotselinge stressreactie?
+
+Probeer voor jezelf te beredeneren of dit kan verklaren waarom je je misselijk voelt tijdens acute stress. Wat denk je?","2025-10-16T15:31:04.478901+00:00"
+"user","omdat het lichaam het voedsel graag weg wil spoelen geeft hij een misselijk seintje","2025-10-16T15:31:55.615124+00:00"
+"assistant","Mooi beredeneerd! Inderdaad: als de spijsverteringsactiviteiten worden stilgelegd (verminderde peristaltiek, minder doorbloeding), kan het lichaam dit als een 'onprettige' situatie ervaren. Het misselijkheidsgevoel is een manier waarop je lichaam aangeeft dat de normale spijsvertering niet goed verloopt of dat er iets niet klopt. Dit gevoel zorgt er evolutionair gezien soms zelfs voor dat je geneigd bent om geen voedsel te eten of eventueel juist te braken in stresssituaties.
+
+Ben je tevreden met de koppeling tussen zenuwstelsel, symptomen en fysiologie? Kun je nu het hele verhaal van de student nog eens samenvatten met de kennis die je nu hebt? 
+
+Hier volgt de toetsvraag:
+
+Hoe begrijp je nu de symptomen bij dit geval? Noteer alles wat je kunt bedenken — je ideeën, redeneerwijze en de verbanden met wat je geleerd hebt. Hoe vollediger, hoe beter je het onthoudt én toepast!","2025-10-16T15:32:09.973787+00:00"
+"user","meer hartkloppingen door activatie hart van b-receptoren, misselijk en droge mond door verminderde spijsvertering, zweethanden door verhoogde behoefte aan warmte afvoer door verhoogde temperatuur meer metabolisme, sneller ademen door meer behoefte aan zuurstof","2025-10-16T15:34:22.95672+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Hier volgt de tweede casus:
+
+Een 76-jarige man staat in de rij bij de apotheek op een warme middag. Na enkele minuten voelt hij zich licht in zijn hoofd, misselijk en zweterig. Hij krijgt last van “tunnelvisie” voordat hij wegraakt en in elkaar zakt. Omstanders leggen hem op de grond. Na enkele minuten bij bewustzijn, voelt hij zich zwak maar helder, met een trage hartslag en lage bloeddruk. Na korte tijd herstelt hij volledig.
+
+Kun je uitleggen welke processen in het autonome zenuwstelsel verantwoordelijk zijn voor zijn klachten en herstel? Geef zoveel mogelijk details.","2025-10-16T15:34:38.339341+00:00"
+"user","door de trage hartslag en lage bloeddruk heeft het lichaam beter de kans om te herstellen omdat er dan minder voedingstoffen en zuurstof worden verbruikt","2025-10-16T15:42:03.260793+00:00"
+"assistant","Interessante gedachte! Maar als je kijkt naar de trage hartslag en lage bloeddruk: kun je bedenken welk deel van het autonome zenuwstelsel hier vooral actief wordt op het moment dat hij bijna flauwvalt? 
+
+En wat gebeurt er precies met het lichaam als de bloeddruk zakt — krijgt het brein dan wel of geen voldoende bloedtoevoer? Wat is het biologische nut van het op de grond leggen van de patiënt in deze situatie? 
+
+Probeer te beschrijven:
+- Welk deel van het zenuwstelsel wordt “te sterk” geactiveerd?
+- Waarom raakt hij het bewustzijn kwijt, en waarom helpt liggen bij het herstel?","2025-10-16T15:42:15.932663+00:00"
+"user","het sympatisch deel wordt geactiveerd als hij bijna flauwvalt om meer zuurstof naar de hersenen te sturen, hierdoor zweet hij, door de patient op de grond te leggen stroomt er meer bloed naar de hersenen","2025-10-16T15:44:52.474759+00:00"
+"assistant","Dat is een logische redenatie, maar kijk nog eens kritisch: direct vóór het flauwvallen heeft de man juist een trage hartslag én lage bloeddruk. Denk je dat dat past bij activatie van het sympathisch systeem, of juist het parasympathisch systeem? Wat weet je over vasovagale reacties (flauwvallen door te veel parasympathische activiteit)?
+
+Kun je in je eigen woorden uitleggen wat er gebeurt met hartslag en bloeddruk als het parasympathisch systeem ineens heel actief wordt? Waarom zorgt dit voor het wegvallen van het bewustzijn? Wil je dit proberen toe te lichten?","2025-10-16T15:45:03.453864+00:00"
+"user","ik weet vrij weinig over vasovagale reacties, als het parasympatisch stelsel te actief wordt krijgend de hersenen door te weinig bloedtoevoer te weinig zuurstof waardoor hij bewusteloos wordt","2025-10-16T15:46:21.884957+00:00"
+"assistant","Heel goed! Je pakt nu de kern. Wanneer het parasympathisch (vooral via de nervus vagus) plotseling veel te actief wordt, daalt de hartslag sterk en verwijden de bloedvaten — vooral in benen en buik. Hierdoor zakt de bloeddruk en krijgt het brein tijdelijk te weinig bloed (en dus zuurstof), waardoor iemand kort flauwvalt.
+
+Wil je nog proberen toe te lichten waarom de klachten verbeteren zodra de man op de grond ligt? Wat verandert er in de bloedstroom naar de hersenen, en hoe helpt dit om weer bij te komen?","2025-10-16T15:46:31.725515+00:00"
+"user","als de man op de grond is, is er minder last van zwaartekracht die de bloedstroom tegenwerkt waardoor er met dezelfde bloeddruk toch meer bloed naar de hersenen stroomt en hij weer bij bewustzijn komt","2025-10-16T15:48:02.975208+00:00"
+"assistant","Precies! Heel goed uitgelegd. Liggend hoeft het bloed niet tegen de zwaartekracht in naar het hoofd, waardoor de hersenen weer genoeg zuurstof krijgen en de man snel bijkomt.
+
+Wil je hiermee afsluiten, of zijn er nog punten over het autonome zenuwstelsel of deze casus waar je vragen over hebt?","2025-10-16T15:48:09.668075+00:00"
+"user","nee","2025-10-16T15:48:19.824201+00:00"
+"assistant","Bedankt voor je inzet en mooie redeneringen! Je hebt nu zowel de basis als het klinisch denken over het autonome zenuwstelsel goed doorgelopen. Succes met je verdere studie!","2025-10-16T15:48:25.433503+00:00"

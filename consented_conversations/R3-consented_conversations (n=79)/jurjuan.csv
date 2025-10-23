@@ -1,0 +1,111 @@
+"role","content","created_at"
+"user","hallo","2025-10-15T13:32:45.154957+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Welkom! We starten vandaag met het oefenen en verdiepen van je kennis over het autonome zenuwstelsel. 
+
+Hier is de eerste situatie (###VIGNETTE 1###):
+
+Een 19-jarige jongen meldt dat hij, terwijl hij naar zijn eerste universitaire examens ging, zijn hart voelde bonzen, zijn handpalmen begonnen te zweten, en zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Nadat hij in de examenzaal ging zitten en een paar keer diep ademhaalde, werd zijn hartslag langzamer, kwam zijn ademhaling tot rust, en kreeg hij aandrang om naar het toilet te gaan.
+
+Kun jij uitleggen welke symptomen de student ervaarde? Denk eens na over welk deel van het autonome zenuwstelsel verantwoordelijk is voor deze symptomen.","2025-10-15T13:32:58.142751+00:00"
+"user","Het parasympathisch zenuwstelsel","2025-10-15T13:34:33.062525+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed dat je een poging doet! Laten we even een korte pauze nemen en beginnen met Fase 1 – Kennisactivatie. In deze fase herhalen we kort de belangrijkste concepten en mechanismen over het autonome zenuwstelsel.
+
+Heb je op dit moment specifieke vragen of punten die je graag wilt verduidelijken voordat we verdergaan?
+
+Zo niet, kun je me dan vertellen:
+Weet je wat de twee hoofdonderdelen van het autonome zenuwstelsel zijn én wat elk onderdeel doet?","2025-10-15T13:34:48.355702+00:00"
+"user","je hebt het autonome zenuwstelsel die vooral automatische dingen aan stuurt waar je niet bewust voor hoeft na te denkne. en somatisch zenuwstelsel. die je kan aansturen door bewuste reacties","2025-10-15T13:35:37.405816+00:00"
+"assistant","Goed uitgelegd! Je haalt het verschil aan tussen het autonome en het somatische zenuwstelsel. Het autonome zenuwstelsel regelt inderdaad de automatische lichaamsfuncties zoals hartslag, bloeddruk en spijsvertering, terwijl het somatische zenuwstelsel meer gaat over bewuste spierbewegingen.
+
+Laten we nog even verder inzoomen op het autonome zenuwstelsel zelf:
+Het autonome zenuwstelsel bestaat uit twee hoofdonderdelen die elkaars werking aanvullen. Kun je benoemen hoe deze twee onderdelen heten en wat hun belangrijkste functies zijn? Probeer het eens in je eigen woorden uit te leggen.","2025-10-15T13:36:13.161333+00:00"
+"user","je hebt het orthosympatisch zenuwstelsel en het parasympathisch zenuwstelsel. belangrijkste functiez zijn respectievelijk fight of flight respons, en die andere rest and digest.","2025-10-15T13:37:21.315752+00:00"
+"assistant","Heel goed! Je noemt het orthosympatisch (sympathisch) zenuwstelsel dat zorgt voor de “fight or flight” respons, en het parasympathisch zenuwstelsel voor de “rest and digest”.
+
+Laten we een stapje verder gaan: 
+Hoe verstuurt het autonome zenuwstelsel signalen van de hersenen naar de organen? En weet je welke chemische stoffen hier als boodschapper worden gebruikt? Probeer deze stappen eens te beschrijven.","2025-10-15T13:37:29.905694+00:00"
+"user","achetylcholine presynaptisch. en dan heb je acetylcholine recepotrs, nicotine receptors, musculine receptoren adrenoaire receptoren. zo iets","2025-10-15T13:38:28.396845+00:00"
+"assistant","Mooi, je noemt al belangrijke details! Je geeft aan dat acetylcholine wordt gebruikt in de presynaptische overdracht, en dat er meerdere types receptoren en neurotransmitters zijn.
+
+Probeer nog wat specifieker te zijn: 
+- Bij welk deel van het autonome zenuwstelsel speelt acetylcholine een rol in de postsynaptische overdracht?
+- En waar worden adrenerge (adreno-) receptoren actief?  
+- Kun je een voorbeeld geven van een orgaan en de bijbehorende neurotransmitter/receptor-combinatie tijdens activering van het sympathisch zenuwstelsel?
+
+Wat weet je daarvan?","2025-10-15T13:38:42.981916+00:00"
+"user","bij de sympatisch acetylcholine, adrenerge worden gevonden volgensmij mij het sympatisch ook bij de darmen. darmen adrenerge","2025-10-15T13:39:45.34631+00:00"
+"assistant","Mooie poging! Je zit in de goede richting, maar het kan nog iets concreter.  
+Laten we samen een stap zetten:
+
+In het sympathisch zenuwstelsel verloopt het signaal als volgt:
+- De eerste zenuwcel (de preganglionaire neuron) gebruikt acetylcholine op een nicotinerge receptor (in het ganglion).
+- Daarna gebruikt de tweede zenuwcel (de postganglionaire neuron) meestal noradrenaline op adrenerge receptoren (zoals alfa- en beta-receptoren) op het doelorgaan.
+
+Bij het parasympathisch zenuwstelsel gebruikt zowel de eerste als tweede zenuwcel acetylcholine, waarbij aan het eind een muscarinerge receptor wordt geactiveerd op het orgaan.
+
+Wat zou dat betekenen voor bijvoorbeeld het effect op het hart bij activatie van het sympathisch versus parasympathisch systeem? Kun je dat uitleggen?","2025-10-15T13:40:03.067783+00:00"
+"user","bij activatie van het hart door het sympatisch dan door acetylcholine op nicotine receptoren. maar bij het parasympatisch dan noradrenaline op adrenerge receptoren.","2025-10-15T13:41:41.969943+00:00"
+"assistant","Je hebt een deel van de volgorde goed, maar de neurotransmitters en receptoren op het doelorgaan zijn omgedraaid. Laten we het nog eens rustig op een rij zetten:
+
+- Sympathisch zenuwstelsel: 
+  - **Eerste synaps (in het ganglion)**: acetylcholine op nicotinerge receptoren.
+  - **Tweede synaps (op het orgaan, zoals het hart)**: noradrenaline op adrenerge receptoren (zoals β₁ in het hart).
+- Parasympathisch zenuwstelsel:
+  - **Eerste synaps**: acetylcholine op nicotinerge receptoren.
+  - **Tweede synaps (op het orgaan)**: acetylcholine op muscarinerge receptoren.
+
+Wil je nu, met deze kennis, nog eens uitleggen wat er gebeurt bij activatie van het sympathisch én het parasympathisch systeem in het hart? Wat zijn het effect en de belangrijkste neurotransmitter/receptor in beide gevallen?","2025-10-15T13:41:56.050601+00:00"
+"user","oke, dus bij het sympatisch gaan vanuit het preganglion acetylcholine neurotransmitters op het nicotine receptoren van het postganglionair. waarbij na het postganglionaire noradrenaline op adrenerge receptoren gaan. parasympatisch anders. achteyl>nicotinereceptor>acetyl op muscarine","2025-10-15T13:43:52.453231+00:00"
+"assistant","Precies! Dat heb je nu goed samengevat:
+
+- Sympathisch: acetylcholine → nicotinerge receptor (ganglion) → noradrenaline → adrenerge receptor (orgaan, bijvoorbeeld het hart).
+- Parasympathisch: acetylcholine → nicotinerge receptor (ganglion) → acetylcholine → muscarinerge receptor (orgaan).
+
+Goed, nu als laatste kennisvraag:
+Wat gebeurt er met het lichaam als het sympathisch systeem actief wordt, bijvoorbeeld vlak voor een spannend examen? Kun je een paar voorbeelden geven van organen en hun reacties?","2025-10-15T13:44:02.359548+00:00"
+"user","hartslag gaat omhoog, zweten, vasodilatatie, gaat sneller ademen","2025-10-15T17:27:51.908241+00:00"
+"assistant","Goed, je noemt effecten als stijging van de hartslag, zweten en sneller ademen. Over vasodilatatie: gebeurt dit overal in het lichaam als het sympathisch systeem actief is, of zijn er verschillen per orgaan of weefsel? Kun je uitleggen hoe dat werkt?
+
+En wil je daarnaast benoemen welk effect het sympathisch systeem op de spijsvertering heeft, en waarom?","2025-10-15T17:28:01.020215+00:00"
+"user","sympatisch deel wordt meer actief dus van uit de hersenen ruggenmerg naar de effector organen zoals het hart","2025-10-15T17:28:59.026626+00:00"
+"assistant","Dat klopt: het sympathisch deel wordt actiever en stuurt via het ruggenmerg signalen naar onder andere het hart.
+
+Maar nog even scherp op de details:
+- Gebeurt vasodilatatie overal, of op specifieke plekken?
+- En wat is het effect op de spijsvertering als het sympathisch systeem actief is? 
+ 
+Kun je daar kort iets over uitleggen? Probeer het eens te specificeren.","2025-10-15T17:29:07.849738+00:00"
+"user","het spijsvertering stelsel wordt onderdrukt en vasodilatatie gebeurt niet volgensmij overal nee","2025-10-15T17:30:15.043711+00:00"
+"assistant","Juist! Je hebt het goed:  
+- Bij sympathische activatie wordt de spijsvertering onderdrukt (de activiteit neemt af, bloed wordt weggehaald van het spijsverteringskanaal).
+- Vasodilatatie gebeurt vooral in de spieren zodat ze meer bloed krijgen. In andere gebieden, zoals de huid en spijsverteringsorganen, is er meestal juist vasoconstrictie.
+
+Je weet nu de belangrijkste concepten over het autonome zenuwstelsel. Laten we door naar de volgende fase!
+
+=== PHASE 2: Narrative Construction ===
+
+Hier is opnieuw ###VIGNETTE 1###:
+
+Een 19-jarige jongen meldt dat hij, terwijl hij naar zijn eerste universitaire examens ging, zijn hart voelde bonzen, zijn handpalmen begonnen te zweten, en zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Nadat hij in de examenzaal ging zitten en een paar keer diep ademhaalde, werd zijn hartslag langzamer, kwam zijn ademhaling tot rust, en kreeg hij aandrang om naar het toilet te gaan.
+
+Nu gaan we de kennis toepassen op deze casus:
+Kun je, met de kennis die je net hebt herhaald, uitleggen welke rol het autonome zenuwstelsel speelt bij de symptomen die de student ervaart? Beschrijf zo volledig mogelijk wat er gebeurt tijdens en na het stressmoment, en welke systemen (met hun neurotransmitters/receptoren) betrokken zijn.","2025-10-15T17:30:34.49245+00:00"
+"user","kan je me iets vertellen over ionotrope receptoren en metabotrope receptoren","2025-10-15T17:37:27.669034+00:00"
+"assistant","Goede vraag! Laten we kort inzoomen, maar alleen op wat relevant is voor je begrip van het autonome zenuwstelsel.
+
+Ionotrope receptoren zijn receptoren die direct een ionkanaal openen als er een neurotransmitter aan bindt. Hierdoor verandert snel de elektrische lading van de cel; het effect is dus direct en snel. Een belangrijk voorbeeld: de nicotinerge acetylcholinereceptor in het autonome zenuwstelsel is een ionotrope receptor.
+
+Metabotrope receptoren werken indirect: wanneer daar een neurotransmitter aan bindt, wordt via allerlei ‘tweede boodschapper-systemen’ in de cel de activiteit aangepast. Dit duurt iets langer en is vaak veelzijdiger qua effect. De muscarinerge acetylcholinereceptor en alle adrenerge receptoren zijn voorbeelden van metabotrope receptoren.
+
+Nu een vraag terug:  
+Waarom is het belangrijk om het verschil tussen ionotrope en metabotrope receptoren te weten als je kijkt naar de snelle en langzame effecten van het autonome zenuwstelsel op organen?","2025-10-15T17:37:42.2707+00:00"
+"user","langzame effecten zullen waarschijnlijk metabotrope receptoren hebben","2025-10-15T17:38:01.114465+00:00"
+"assistant","Precies! Metabotrope receptoren zorgen meestal voor langzamere, meer gereguleerde of langdurige effecten omdat ze via tweede boodschappers werken en soms allerlei processen in de cel beïnvloeden. 
+
+Ionotrope receptoren, zoals de nicotinerge receptor in het ganglion van het autonome zenuwstelsel, zorgen juist voor snelle signalering doordat ze direct het ionkanaal openen.
+
+Wil je nu proberen uit te leggen hoe de verschillende fasen van het autonome signaal (van hersenen tot doelorgaan) profiteren van deze twee type receptoren? Waar in de route speelt snelheid een grote rol, en waar juist een meer uitgebreide regulatie?","2025-10-15T17:38:12.602122+00:00"

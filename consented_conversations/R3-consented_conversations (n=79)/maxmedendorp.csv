@@ -1,0 +1,43 @@
+"role","content","created_at"
+"user","hallo wat wil je weten","2025-10-15T15:15:32.125806+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Kun je de symptomen uitleggen die de student ervaart? Denk daarbij aan het deel van het autonome zenuwstelsel dat verantwoordelijk is voor deze klachten.","2025-10-15T15:15:39.217452+00:00"
+"user","nee dat vraag ik niet, ik vraag aan jou of je vragen voor mij hebt","2025-10-15T15:16:16.032008+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Mijn rol is om jou te helpen oefenen en nadenken over de stof! Laten we samen beginnen. Hier volgt de context van de casus:
+
+Een 19-jarige jongen merkt dat zijn hart bonkt, zijn handpalmen zweten, zijn ademhaling versnelt, hij zich misselijk voelt en een droge mond heeft, vlak voordat hij zijn eerste tentamen ingaat. Zodra hij gaat zitten en rustig ademhaalt, vertraagt zijn hartslag weer, zijn ademhaling normaliseert en hij moet uiteindelijk naar het toilet.
+
+Mijn eerste vraag aan jou is:
+Kun je de symptomen uitleggen die de student ervaart? Denk daarbij aan het deel van het autonome zenuwstelsel dat verantwoordelijk is voor deze klachten.
+
+Wil je het eerst zelf proberen? Dat is het meest leerzaam!","2025-10-15T15:16:30.02069+00:00"
+"user","de symptomen zijn hartboekingen handpalmen die zweten ademhaling versnelt en misselijk voelen en een droge mond","2025-10-15T15:18:17.477856+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed dat je de symptomen hebt benoemd! Laten we even pauzeren en samen beginnen aan Phase 1 – Knowledge Activation. In deze fase herhalen we kort de kernbegrippen en mechanismen die relevant zijn voor de casus. 
+
+Heb je zelf al vragen of dingen die je graag toegelicht wilt zien, voordat we starten?
+
+Zo niet, dan begin ik met een vraag:  
+Weet je wat de twee belangrijkste delen zijn van het autonome zenuwstelsel, en wat elk onderdeel doet?","2025-10-15T15:18:27.583443+00:00"
+"user","papasympatisch en symptaticsh","2025-10-15T15:19:22.607586+00:00"
+"assistant","Prima, je noemt het parasympatisch en het (ortho)sympathisch zenuwstelsel. Kun je uitleggen wat elk van deze systemen doet in het lichaam? Wat is hun hoofdrol?","2025-10-15T15:19:31.464809+00:00"
+"user","parasympatisch is het deel dat verantwoordelijk is voor de automatische processen die in rust plaatsvinden, het sympathische zenuwstelsel is het actieve gedeelte","2025-10-15T15:20:47.57577+00:00"
+"assistant","Dat klopt! Het parasympathische deel helpt het lichaam tot rust te komen en te herstellen (“rest and digest”), terwijl het sympathische deel het lichaam juist voorbereidt op actie (“fight or flight”).
+
+Een vervolgvraag:  
+Weet je ook hoe een signaal van het brein uiteindelijk bij een orgaan terechtkomt binnen het autonome zenuwstelsel? Welke stappen of stoffen zijn daarbij betrokken?","2025-10-15T15:20:55.241185+00:00"
+"user","daar zijn zenuwcellen bij betrokken en axonen en dendrietische cellen","2025-10-15T15:23:30.634546+00:00"
+"assistant","Goed, je noemt zenuwcellen, axonen, en dendrieten. Klopt—maar zou je kunnen uitleggen hoe het signaal van het brein bijvoorbeeld bij het hart of de longen komt, en welke boodschapperstoffen (neurotransmitters) gebruikt worden in het sympathische en parasympathische deel? Wat gebeurt er precies in de synapsen onderweg?","2025-10-15T15:23:38.896462+00:00"
+"user","nee ik weet niet hoe dat gaat","2025-10-15T15:26:15.586644+00:00"
+"assistant","Geen probleem! Dit is belangrijk om te begrijpen, dus laten we het stap voor stap uitwerken.
+
+Bij het autonome zenuwstelsel gaat een signaal altijd via twee zenuwcellen in serie: een preganglionaire en een postganglionaire zenuwcel.  
+- De preganglionaire zenuwcel begint in het centrale zenuwstelsel (meestal in de hersenen of het ruggenmerg) en maakt een synaps in een ganglion (een soort zenuwknoop buiten het centrale zenuwstelsel).  
+- Daar geeft de preganglionaire zenuwcel een neurotransmitter af, en activeert zo de postganglionaire zenuwcel.  
+- De postganglionaire zenuwcel geeft dan een andere neurotransmitter af aan het doelorgaan.
+
+Kun je bedenken of het sympathische en parasympathische systeem hier verschillende neurotransmitters voor gebruiken? Wat weet je hierover?","2025-10-15T15:26:28.448748+00:00"

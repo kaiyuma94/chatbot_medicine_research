@@ -1,0 +1,52 @@
+"role","content","created_at"
+"user","Waaruit bestaat het autonoom zenuwstelsel?","2025-10-15T13:28:44.110437+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goede vraag! Het autonoom zenuwstelsel bestaat uit twee hoofdonderdelen: het sympathische en het parasympathische zenuwstelsel. Kun je beschrijven wat elk van deze systemen doet, en in welke situaties ze actief worden?","2025-10-15T13:28:51.924753+00:00"
+"user","het sympatihsche deel wordt gestimuleerd in actie en het parasympathische deel wordt gestimuleerd in rust","2025-10-15T13:31:19.445129+00:00"
+"assistant","Precies, dat klopt! Het sympathische deel wordt actief als je lichaam in actie moet komen (denk aan stress of gevaar), terwijl het parasympathische deel over het algemeen actief is als je uitrust of herstelt. 
+
+Kun je uitleggen hoe een signaal van het brein naar een orgaan reist binnen het autonoom zenuwstelsel? Welke stappen of chemische stoffen zijn hierbij betrokken?","2025-10-15T13:31:27.165685+00:00"
+"user","dat gebeurd door neurotransmitters","2025-10-15T13:31:49.752843+00:00"
+"assistant","Inderdaad, neurotransmitters spelen hierin een grote rol. Kun je wat specifieker zijn: welke neurotransmitters zijn belangrijk bij het sympathische en parasympathische zenuwstelsel, en waar (bij welke organen of receptoren) werken ze precies?","2025-10-15T13:31:56.584404+00:00"
+"user","ze werken bij de plek waar de stimulatie plaatsvindt","2025-10-15T13:32:44.407443+00:00"
+"assistant","Dat klopt: neurotransmitters werken op de plek waar het signaal overgedragen wordt. Om het nog specifieker te maken: weet je welke neurotransmitter wordt gebruikt bij het sympathische zenuwstelsel en welke bij het parasympathische? En aan welk soort receptoren binden deze stoffen zich meestal?","2025-10-15T13:32:51.954877+00:00"
+"user","bij symphatisch adrenaline en bij parasympatisch noradrenaline","2025-10-15T13:33:37.96644+00:00"
+"assistant","Je hebt sympathisch en parasympathisch goed gekoppeld aan verschillende neurotransmitters, maar de juiste stoffen zijn net andersom. Kijk eens of je deze zin kunt afmaken:
+
+Bij het sympathische zenuwstelsel wordt vooral ___ gebruikt als neurotransmitter bij de eindorgaantjes, en bij het parasympathische zenuwstelsel is dit vooral ___. Kun je deze zin proberen aan te vullen, of weet je misschien op welke specifieke receptoren deze stoffen werken?","2025-10-15T13:33:47.87779+00:00"
+"user","noradrenaline, adrenaline","2025-10-15T13:34:02.126539+00:00"
+"assistant","Je zit er dichtbij, maar er is nog een belangrijk onderscheid. Denk nog eens aan de hoofdneurotransmitter van het parasympathische systeem—dat is niét adrenaline. Kun je je herinneren welke stof het parasympathisch systeem vooral gebruikt bij de eindorgaantjes? En bij welke type receptoren hoort deze stof? 
+
+Probeer nog eens:  
+- Sympathisch: vooral ___, werkt op ___-receptoren.  
+- Parasympathisch: vooral ___, werkt op ___-receptoren. 
+
+Kun je dit invullen?","2025-10-15T13:34:11.64399+00:00"
+"user","epinefrine","2025-10-15T13:35:17.221636+00:00"
+"assistant","Epinefrine (adrenaline) hoort inderdaad bij het sympathische systeem, maar wordt vooral door het bijniermerg afgegeven aan het bloed. Bij de zenuwuiteinden van het sympathische zenuwstelsel wordt meestal noradrenaline (norepinefrine) gebruikt als neurotransmitter. 
+
+En het parasympathische systeem? Weet je welke neurotransmitter daar bij het eindorgaan vrijkomt, en op welk type receptoren die werkt?","2025-10-15T13:35:25.261444+00:00"
+"user","acetylcholine","2025-10-15T13:37:06.636642+00:00"
+"assistant","Heel goed! Acetylcholine is inderdaad de belangrijkste neurotransmitter bij het parasympathische zenuwstelsel, en deze werkt vooral op muscarinereceptoren bij de eindorgaantjes.
+
+Laatste check voordat we doorgaan naar de volgende fase:  
+Wat gebeurt er met het lichaam als het sympathische of het parasympathische systeem actief wordt? Kun je daar een paar concrete voorbeelden van geven?","2025-10-15T13:37:14.604948+00:00"
+"user","sympathische systeem: verhoogde hartslag, wijde pupillen, spijsvertering vertraagd en bij parasymphatische deel: hartslag normaal, spijsvertering op gang","2025-10-15T13:38:25.659723+00:00"
+"assistant","Heel goed uitgelegd! Daarmee heb je de kern van beide systemen mooi te pakken.
+
+Voordat we doorgaan: Heb je op dit moment nog vragen of is er iets dat je wilt verduidelijken over het autonoom zenuwstelsel of de besproken neurotransmitters? Zo niet, dan gaan we naar de volgende fase.","2025-10-15T13:38:32.945546+00:00"
+"user","volgende fase","2025-10-15T13:38:42.041422+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Hier is nogmaals de casus:
+
+###VIGNETTE 1###
+Een 19-jarige jongen meldt dat hij, terwijl hij op weg was naar zijn eerste universitaire tentamens, zijn hart begon te voelen bonzen, zijn handpalmen werden zweterig en hij merkte dat zijn ademhaling versnelde. Ook voelde hij zich wat misselijk en had hij een droge mond. Na aankomst in de examenzaal en even rustig ademhalen, merkte hij dat zijn hartslag vertraagde, zijn ademhaling normaliseerde en hij aandrang kreeg om naar het toilet te gaan.
+
+Nu met de kennis die je net hebt opgeschreven:
+Kun je uitleggen welke symptomen de student ervoer, en welk deel van het autonoom zenuwstelsel verantwoordelijk is voor deze symptomen? Probeer het in je eigen woorden te benoemen en leg uit wat er in het lichaam gebeurt.","2025-10-15T13:38:55.360648+00:00"
+"user","hij ervoer spanning en het symphatische deel is hier verantwoordelijk voor","2025-10-15T13:39:55.136527+00:00"
+"assistant","Mooi begin! Je noemt spanning en het sympathische deel van het zenuwstelsel.  
+
+Kun je uitleggen wat het sympathische systeem precies doet bij deze stressreactie? Hoe leiden de processen van het sympathische zenuwstelsel tot bijvoorbeeld een bonzend hart, zweterige handpalmen en een droge mond? Wat gebeurt er in het lichaam op zo’n moment?","2025-10-15T13:40:02.031023+00:00"

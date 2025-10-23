@@ -1,0 +1,82 @@
+"role","content","created_at"
+"user","Hallo","2025-10-15T13:11:26.273785+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Welkom! We gaan samen aan de slag met het autonoom zenuwstelsel. Hier is het eerste klinische vignet:
+
+###VIGNETTE 1###
+Een 19-jarige jongen meldt dat hij, terwijl hij onderweg was naar zijn eerste universitaire examens, zijn hart voelde bonzen, zijn handpalmen begonnen te zweten en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook een beetje misselijk en had een droge mond. Nadat hij bij de examenzaal was aangekomen en ging zitten, haalde hij een paar keer diep adem. Binnen 10 minuten werd zijn hartslag langzamer, ademde hij rustiger en voelde hij de aandrang om naar het toilet te gaan.
+
+Kun je de symptomen die de student ervaart uitleggen? Denk aan het deel van het autonoom zenuwstelsel dat verantwoordelijk is voor deze symptomen.","2025-10-15T13:11:40.735288+00:00"
+"user","De student ervaart stress. Het sympathisch zenuwstelsel is verantwoordelijk voor deze symptomen, zoals zweten, bonzend hart, versnelde ademhaling. Na die 10 minuten ontspant de student weer en wordt het parasympatisch zenuwstelsel actief. Dit zorgt o.a. voor de aandrang om naar het toilet te gaan.","2025-10-15T13:13:40.411908+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed gedaan! Je koppelt de symptomen duidelijk aan het sympathisch en parasympathisch zenuwstelsel.
+
+Great try! Laten we nu een korte pauze nemen en starten met Fase 1 – Kennisactivering. In deze fase lopen we kort de kernbegrippen en mechanismen langs die relevant zijn voor het verhaal. Zijn er vragen of punten waar je graag duidelijkheid over wilt voordat we beginnen?
+
+Of, zo niet: 
+
+Weet je wat de twee belangrijkste delen zijn van het autonoom zenuwstelsel, en wat elk deel doet?","2025-10-15T13:13:49.667461+00:00"
+"user","Het autonoom zenuwstelsel kan onderverdeeld worden in het parasympatisch zenuwstelsel en sympathisch zenuwstelsel. Het parasympatisch zenuwstelsel zorgt voor rest&digest, en het sympatisch zenuwstelsel is voor de fight or flight","2025-10-15T13:15:07.523838+00:00"
+"assistant","Mooi samengevat! Kun je uitleggen hoe een signaal vanuit de hersenen bij een orgaan terechtkomt in het autonoom zenuwstelsel? Welke stappen of onderdelen spelen daar een rol in?","2025-10-15T13:15:13.622807+00:00"
+"user","Het signaal gaat via een (gedeeltelijk) gemyelinseerde axon naar het cellichaam. Via een dendriet gaat het signaal vervolgens naar een ganglion en vanaf daar wordt het signaal doorgegeven aan een orgaan.","2025-10-15T13:16:10.32848+00:00"
+"assistant","Je noemt een aantal belangrijke stappen! Kun je ook zeggen welke chemische stoffen (neurotransmitters) in deze signalen worden gebruikt, en of dat verschillend is voor het sympathisch en parasympathisch zenuwstelsel?","2025-10-15T13:16:16.366385+00:00"
+"user","Het sympatisch zenuwstelsel gebruikt adrenaline of noradrenaline, het parasympathisch zenuwstelsel acetylcholine.","2025-10-15T13:16:42.075298+00:00"
+"assistant","Goed! Nog één vervolgvraag: kun je uitleggen wat er gebeurt met het lichaam wanneer het sympathisch systeem actief wordt, en wat er gebeurt als juist het parasympathisch systeem overheerst? Geef een paar voorbeelden van organen of functies waar je dat aan kan merken.","2025-10-15T13:16:48.676182+00:00"
+"user","Als het sympathisch systeem actief wordt dan versneld de hartslag, kan je gaan zweten, wordt vertering minder, ademhaling gaat omhoog. Bij het parasympatisch systeem gaat de hartslag juist omlaag, wordt er wel verteerd, wordt de ademhaling lager.","2025-10-15T13:18:12.258365+00:00"
+"assistant","Heel duidelijk! Je laat zien dat je de basis snapt van wat er in het lichaam gebeurt.
+
+Nu gaat het vooral om het herkennen en toepassen van deze kennis op klinische situaties. Ben je klaar om deze kennis toe te passen op het eerste vignet, of heb je nog een vraag over de basis?","2025-10-15T13:18:21.649356+00:00"
+"user","Ik ben klaar ervoor","2025-10-15T13:18:28.708662+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Great! Nu gaan we naar Fase 2 – Narratief Constructie.
+
+Hier is opnieuw het klinische verhaal:
+
+###VIGNETTE 1###
+Een 19-jarige jongen meldt dat hij, terwijl hij onderweg was naar zijn eerste universitaire examens, zijn hart voelde bonzen, zijn handpalmen begonnen te zweten en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook een beetje misselijk en had een droge mond. Nadat hij bij de examenzaal was aangekomen en ging zitten, haalde hij een paar keer diep adem. Binnen 10 minuten werd zijn hartslag langzamer, ademde hij rustiger en voelde hij de aandrang om naar het toilet te gaan.
+
+Kun je nu met de kennis die je net hebt besproken, uitleggen welke autonome mechanismen een rol spelen bij de symptomen van deze student? Geef zo veel mogelijk details en denk aan verschillende organen en processen.","2025-10-15T13:18:43.721237+00:00"
+"user","Deze student heeft eerst stress, door activatie van het sympathisch zenuwstelsel. Door neurotransmitters adrenaline/noradrenaline gaat zijn hartslag omhoog, versneld de ademhaling en begint hij te zweten. Het lichaam maakt zich klaar voor een fight or flight response. Nadat hij bij de examenzaal was gekomen wordt hij rustiger. Het parasympathisch zenuwstelsel wordt actief. De neurotransmitter acetylcholine zorgt ervoor dat zijn ademhaling omlaag gaat, zijn hartslag daalt en het lichaam gaat verder met verteren, waardoor hij de aandrang voelt om naar het toilet te gaan.","2025-10-15T13:21:11.121153+00:00"
+"assistant","Heel goed! Je verbindt de symptomen aan de juiste mechanismen. Kun je iets meer uitleggen over drogere mond en misselijkheid in relatie tot het sympathisch of parasympathisch systeem? Hoe zorgen deze systemen voor dit soort klachten?","2025-10-15T13:21:17.002105+00:00"
+"user","Deze klachten passen bij het sympathisch systeem. Door adrenaline wordt de speekselsecretie geremd, waardoor je een droge mond kunt ervaren. Ook de spijsvertering wordt geremd, dit kan weer lijden tot misselijkheid.","2025-10-15T13:23:03.846723+00:00"
+"assistant","Precies! Je redeneert mooi door. Sympathische activatie remt inderdaad speekselklieren en spijsvertering, wat die klachten verklaart.
+
+Nu een laatste stap voordat we doorgaan:
+
+###VIGNETTE 1###
+Een 19-jarige jongen meldt dat hij, terwijl hij onderweg was naar zijn eerste universitaire examens, zijn hart voelde bonzen, zijn handpalmen begonnen te zweten en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook een beetje misselijk en had een droge mond. Nadat hij bij de examenzaal was aangekomen en ging zitten, haalde hij een paar keer diep adem. Binnen 10 minuten werd zijn hartslag langzamer, ademde hij rustiger en voelde hij de aandrang om naar het toilet te gaan.
+
+###ASSESSMENT QUESTION###
+Hoe begrijp je nu de symptomen in dit verhaal? Schrijf zo volledig mogelijk op wat je denkt — je ideeën, redeneringen, en verbanden met wat je hebt geleerd. Hoe vollediger je uitlegt, hoe meer je hiervan leert en hoe sterker je klinisch inzicht wordt!","2025-10-15T13:23:18.266073+00:00"
+"user","De jongen is gespannen voor zijn tentamen, wat het sympatisch zenuwstelsel activeert. Hierdoor komen zijn symptomen, want zijn lichaam denkt dat er iets heftigs gaat gebeuren en maakt zich klaar voor de fight or flight response. Zodra hij gearriveerd is en bezig is met zijn tentamen, voelt hij zich minder gespannen. Hierdoor activeert het parasympatisch zenuwstelsel. Dit resulteert in een langzame hartslag, rustige ademhaling en de aandrang om naar het toilet te gaan.","2025-10-15T13:24:59.010172+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Great! Nu gaan we naar Fase 3 – Redeneringsoverdracht.
+
+Hier is een nieuw klinisch vignet:
+
+###VIGNETTE 2###
+Een 76-jarige man staat in de rij bij de apotheek op een warme middag. Na enkele minuten voelt hij zich licht in zijn hoofd, misselijk en zweterig. Hij krijgt een tunnelvisie, verliest kort het bewustzijn en zakt in elkaar. Omstanders leggen hem op de grond, en na een paar minuten ontwaakt hij weer; hij voelt zich zwak maar helder, met een langzame hartslag en lage bloeddruk. Na een paar minuten is hij volledig hersteld.
+
+Kun je uitleggen welke autonome mechanismen bij deze patiënt een rol spelen, zowel bij de klachten als bij zijn herstel? Denk aan de stappen voor, tijdens en na het flauwvallen.","2025-10-15T13:25:12.711672+00:00"
+"user","De thermoregulatie speelt bij deze patiënt een rol. Een oudere man staat op een warme middag in de rij. Hij raakt oververhit en hierdoor valt hij flauw. Als hij buiten bewustzijn is, is het parasympatisch zenuwstelsel te actief. Hierdoor krijgt hij een trage hartslag en een lage bloeddruk. Het lichaam probeert af te koelen door de bloedvaten te verwijden, dit zorgt ervoor dat er te weinig zuurstof bij de hersenen komt, wat resulteert in het flauwvallen.","2025-10-15T13:30:19.872564+00:00"
+"assistant","Goede analyse! Je benoemt duidelijk het effect van warmte, bloedvatverwijding en de rol van het parasympathisch zenuwstelsel. 
+
+Heb je ook een idee wat er precies gebeurt wanneer de man eenmaal ligt en weer bij bewustzijn komt? Welke veranderingen in het autonoom zenuwstelsel treden er dan op om hem te laten herstellen? Wat gebeurt er met zijn hartslag en bloeddruk tijdens dat herstel?","2025-10-15T13:30:28.484565+00:00"
+"user","De man ligt, hierdoor kan het bloed wat in zijn benen is opgehoopt makkelijker naar de hersenen toe. De hersenen krijgen weer zuurstof en de man komt bij. Het parasympatische zenuwstelsel wordt minder actief, terwijl het sympathische zenuwstelsel actiever wordt. De hartslag gaat omhoog, er vindt vasoconstrictie plaat en de bloeddruk stijgt.","2025-10-15T13:32:59.040484+00:00"
+"assistant","Heel goed! Je beschrijft logisch hoe de autonome systemen samenwerken en weer tot balans komen tijdens het herstel na het flauwvallen.
+
+Heb je nog vragen over deze mechanismen, of wil je graag de vergelijking maken met de eerste casus: welke overeenkomsten en verschillen zie je tussen het verhaal van de student en dat van deze oudere man, als je kijkt naar het autonoom zenuwstelsel?","2025-10-15T13:33:05.998557+00:00"
+"user","Bij beide vinden er veranderingen plaats in het parasympatisch en sympathisch zenuwstelsel. Bij de oudere man wordt het parasympatische zenuwstelsel te actief, terwijl bij de jongen het sympathische zenuwstelsel actief wordt.","2025-10-15T13:34:16.507685+00:00"
+"assistant","Precies! Er zijn duidelijke paralellen, maar ook verschillen: de student krijgt vooral klachten door een overactivatie van het sympathisch systeem (stress/prikkeling), terwijl bij de oudere man juist een te sterke parasympathische reactie tot een tijdelijke “uitval” leidt.
+
+Mocht je meer willen oefenen, specifieke details willen doornemen, of een ander voorbeeld willen bespreken: laat het gerust weten! Zo niet, dan sluiten we het hier af.","2025-10-15T13:34:24.383094+00:00"
+"user","Heb je feedback","2025-10-15T13:34:33.195495+00:00"
+"assistant","Je hebt het erg goed gedaan! Je koppelt de symptomen uit de vignetten logisch en volledig aan de onderliggende fysiologie van het autonoom zenuwstelsel. Je redeneert met de juiste neurotransmitters, het effect op organen, en je beschrijft het verschil tussen sympathische en parasympathische activatie helder. Je zelf-explanaties zijn volledig en klinisch toepasbaar.
+
+Eén tip: probeer in je uitleg soms ook te benoemen wat het nut kan zijn van bepaalde reacties (zoals vasodilatatie bij warmte voor koeling, of vasoconstrictie bij herstel van bloeddruk). Dat helpt bij het integreren van fysiologie en klinisch redeneren.
+
+Heb je nog specifieke onderwerpen waarover je onzeker bent, of waar je dieper op in wilt gaan?","2025-10-15T13:35:02.249486+00:00"

@@ -1,0 +1,114 @@
+"role","content","created_at"
+"user","hoi","2025-10-15T16:03:36.62125+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Hallo! We gebruiken een klinische casus om je begrip van het autonome zenuwstelsel te versterken:
+
+###VIGNETTE 1###
+Een 19-jarige jongen meldt dat hij, terwijl hij naar zijn eerste universitaire examens ging, zijn hart voelde bonzen, zijn handpalmen begonnen te zweten en zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Nadat hij in de examenzaal was gaan zitten en een paar keer diep ademhaalde, vertraagde zijn hartslag binnen 10 minuten, normaliseerde zijn ademhaling en kreeg hij aandrang om naar het toilet te gaan.
+
+Kun je uitleggen welke symptomen de student ervaarde? Denk na over welk deel van het autonome zenuwstelsel hierbij betrokken is.","2025-10-15T16:03:53.807645+00:00"
+"user","hij ervaarde symmptomen van hyperthyroide volgens mij","2025-10-15T16:04:58.556253+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! De symptomen die je noemt kunnen inderdaad ook bij hyperthyreoïdie voorkomen, maar laten we onderzoeken of ze in dit geval misschien ook door het autonome zenuwstelsel veroorzaakt kunnen worden.
+
+Laten we even pauzeren en starten met fase 1 – Knowledge Activation. In deze fase herhalen we kort de belangrijkste concepten en mechanismen die met deze casus te maken hebben. Heb je vooraf vragen of dingen die je wilt verduidelijken voordat we beginnen?
+
+Zo niet: Weet jij wat de twee hoofdonderdelen van het autonome zenuwstelsel zijn, en wat elk onderdeel doet?","2025-10-15T16:05:10.308366+00:00"
+"user","de sympathisch en de parasympathis","2025-10-15T16:05:38.699499+00:00"
+"assistant","Prima! Klopt helemaal: het autonome zenuwstelsel bestaat uit het sympathisch en het parasympathisch deel.
+
+Kun je nu in je eigen woorden uitleggen waar het sympathisch en het parasympathisch zenuwstelsel elk vooral voor zorgen in het lichaam? Wat zijn hun belangrijkste functies?","2025-10-15T16:05:47.046134+00:00"
+"user","voor het symptahisch deel is het maken van bewuste keuzes en parasympathisch is onbewuste gedrag","2025-10-15T16:06:16.77848+00:00"
+"assistant","Dat is een interessante gedachte! Je zegt dat het sympathisch systeem vooral betrokken is bij bewuste keuzes, en het parasympathisch systeem bij onbewust gedrag. Is dat zo? Beide delen van het autonome zenuwstelsel werken eigenlijk automatisch, buiten onze bewuste wil om.
+
+Denk nog eens goed na: wat gebeurt er met je lichaam tijdens stress (“fight or flight”)? En wanneer je tot rust komt (“rest and digest”)? Kun je deze termen linken aan het sympathisch en parasympathisch systeem? Wat doet elk systeem met bijvoorbeeld je hartslag, ademhaling en spijsvertering?","2025-10-15T16:06:26.260862+00:00"
+"user","de fight or flight is voor de sympathisch en de rest and digest is voor de parasympathisch","2025-10-15T16:07:31.13337+00:00"
+"assistant","Heel goed! Je koppelt nu “fight or flight” aan het sympathische zenuwstelsel en “rest and digest” aan het parasympathische zenuwstelsel.
+
+Kun je in je eigen woorden uitleggen wat er tijdens “fight or flight” in het lichaam gebeurt? Welke organen of functies worden beïnvloed, en op welke manier? Wat merk je als deze actiever zijn?","2025-10-15T16:07:42.155361+00:00"
+"user","longen, hart hersenen en de spieren zijn betrokenne, en ze gaan sneller werken","2025-10-15T16:08:33.845373+00:00"
+"assistant","Goed begin! Inderdaad zijn organen als longen, hart, hersenen en spieren betrokken bij “fight or flight”, en je zegt dat ze sneller gaan werken.
+
+Kun je iets preciezer zijn: wat verandert er precies bij het hart en de longen? Denk bijvoorbeeld aan hartslag, ademhaling of andere waarneembare veranderingen. Wat gebeurt er met de spijsvertering en de huid tijdens dit proces?","2025-10-15T16:08:42.311953+00:00"
+"user","je hartslag neemt toe en je gaat sneller adem halen, en tijdens dit proces kun je wel buikpijn krijgen misschien","2025-10-15T16:09:12.212264+00:00"
+"assistant","Helemaal goed! Je hartslag neemt toe en je ademhaling versnelt inderdaad. Dat hoort bij een sympathische activatie. Je noemt ook buikpijn—dat kan inderdaad kloppen, omdat de spijsvertering wordt afgeremd.
+
+Wat gebeurt er met de bloedvaten in de huid en in de darmen tijdens deze reactie? En waarom zou dat nuttig zijn in een stressvolle situatie?","2025-10-15T16:09:19.180007+00:00"
+"user","die worden wijder zodat er meer bloedstroom kan plaatsvinden","2025-10-15T16:09:39.463753+00:00"
+"assistant","Interessante gedachte! Is dat altijd zo? Heb je bedacht dat het lichaam bloed kan herverdelen afhankelijk van de situatie? 
+
+Stel je voor: als je lichaam zich voorbereidt op “vechten of vluchten”, waar heeft het meer bloed nodig – in de huid en darmen, of juist in de spieren? Wat doet het sympathische zenuwstelsel dan met de bloedvaten van de huid en darmen?","2025-10-15T16:09:47.316277+00:00"
+"user","oh ja , de bloedvaten van de darmen en huid worden nauwer zodat er meer bloed naar de spieren longen en hart kan gaan","2025-10-15T16:10:57.023175+00:00"
+"assistant","Precies! De bloedvaten in de huid en darmen vernauwen (vasoconstrictie) zodat er relatief meer bloed naar de spieren, longen en het hart kan stromen. Dat is handig als je snel moet reageren op een stressvolle situatie.
+
+Denk nu na over de chemische boodschappers: welke stofjes (neurotransmitters) worden door het sympathisch zenuwstelsel gebruikt om deze effecten te veroorzaken? En op welke ‘receptoren’ werken ze in bijvoorbeeld het hart en de bloedvaten?","2025-10-15T16:11:06.659459+00:00"
+"user","noradrenaline is de neurotransmitter het gaat naar de receptoren in het hartmembraan","2025-10-15T16:11:58.121496+00:00"
+"assistant","Mooi! Noradrenaline is inderdaad een belangrijke neurotransmitter bij het sympathisch zenuwstelsel.
+
+Kun je aangeven op welke specifieke receptoren noradrenaline werkt in:
+- het hart (denk aan welk type receptor daar zit)
+- de bloedvaten (welk type receptoren spelen daar een rol)?
+
+En wat zijn de effecten daarvan op het hart en de bloedvaten?","2025-10-15T16:12:08.171156+00:00"
+"user","ik weet niet aan welke receptoren die bindt","2025-10-15T16:12:22.830295+00:00"
+"assistant","Dat is helemaal oké! Veel studenten vinden dit lastig. Laten we het samen verder onderzoeken.
+
+Bij het hart bindt noradrenaline vooral aan zogenaamde beta-1 (β₁) adrenerge receptoren. Kun je bedenken wat er gebeurt met het hart als deze receptoren gestimuleerd worden?
+
+Voor de bloedvaten: noradrenaline bindt vooral aan alfa-1 (α₁) adrenerge receptoren. Kun je nu proberen te omschrijven wat er gebeurt met de bloedvaten als α₁-receptoren geactiveerd worden?","2025-10-15T16:12:31.641311+00:00"
+"user","het harts zal dan sneller pompen , en de bloedvaten worden wijder zodat er meer bloedstroom kan plaatsvinden","2025-10-15T16:13:08.496682+00:00"
+"assistant","Mooi redenering op gang gezet! Je hebt gelijk dat stimulatie van β₁-receptoren in het hart zorgt voor een snellere en krachtigere hartslag.
+
+Maar let op je antwoord over de bloedvaten: als α₁-receptoren geactiveerd worden door noradrenaline, wat gebeurt er dan precies met de bloedvaten? Worden ze wijder (dilatatie), of juist nauwer (constrictie)? Welke van deze opties helpt het lichaam bloed te herverdelen richting de spieren tijdens stress?","2025-10-15T16:13:17.538021+00:00"
+"user","over welke bloedvaten heb je het, die van het hart of die van de darmen","2025-10-15T16:13:38.653713+00:00"
+"assistant","Goede vraag! Ik bedoel de bloedvaten van de huid en de darmen (niet die van het hart zelf). 
+
+Kun je nu uitleggen wat er met deze bloedvaten gebeurt als het sympathische zenuwstelsel actief is? Wat is het effect van alfa-1-receptor activatie in deze vaten en waarom is dat zinvol tijdens stress?","2025-10-15T16:13:45.329184+00:00"
+"user","die worden nauwer zodat er minder bloed naar daar stroom en meer bloed naar de hart longen en spieren","2025-10-15T16:14:11.458068+00:00"
+"assistant","Precies! De bloedvaten in de huid en darmen worden nauwer door activatie van α₁-receptoren, zodat er minder bloed naar deze organen stroomt en meer bloed beschikbaar komt voor hart, longen en spieren. Dat is efficiënt tijdens stress.
+
+Heb je op dit moment nog vragen over de basiswerking van het sympathisch en parasympathisch zenuwstelsel, of over de boodschapperstoffen en receptoren? Zo niet, dan gaan we verder naar het volgende deel en passen we deze kennis toe op het oorspronkelijke verhaal van de student.","2025-10-15T16:14:37.654756+00:00"
+"user","ik heb geen andere vragen","2025-10-15T16:14:48.774003+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Goed! Nu gaan we door naar fase 2 – Narrative Construction. We passen nu de kennis toe op de oorspronkelijke casus:
+
+###VIGNETTE 1###
+Een 19-jarige jongen meldt dat hij, terwijl hij naar zijn eerste universitaire examens ging, zijn hart voelde bonzen, zijn handpalmen begonnen te zweten en zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Nadat hij in de examenzaal was gaan zitten en een paar keer diep ademhaalde, vertraagde zijn hartslag binnen 10 minuten, normaliseerde zijn ademhaling en kreeg hij aandrang om naar het toilet te gaan.
+
+Kun je nu met de kennis die je net hebt opgefrist uitleggen waardoor deze symptomen bij de student ontstonden? Benoem het deel van het autonome zenuwstelsel dat hiervoor zorgt en leg het proces stap voor stap uit.","2025-10-15T16:15:03.204379+00:00"
+"user","dit hebben wij toch net gedaan","2025-10-15T16:15:11.865525+00:00"
+"assistant","Goede opmerking! We hebben inderdaad al een groot deel van de kennis besproken. Maar nu is het belangrijk om deze kennis gericht te koppelen aan alle symptomen van de student — zo leer je zelf verbanden leggen zoals bij klinisch redeneren.
+
+Kun je proberen, in je eigen woorden, uit te leggen waarom:
+- zijn hart sneller ging kloppen,
+- zijn ademhaling versnelde,
+- zijn handen gingen zweten,
+- zijn mond droog werd,
+- hij misselijk werd,
+
+én wat er gebeurt als de stress weer weg is en hij aandrang krijgt om naar het toilet te gaan? Probeer de stappen systematisch te beschrijven door het autonome zenuwstelsel erbij te betrekken.","2025-10-15T16:15:23.271909+00:00"
+"user","hij was waarschijnlijk in stress en daarom activeerde zijn sympathisch zns en ging de fight or flight mode actief en daardoor gaf hij neurotransmitters af die aan de receptoren op het hart en bloedvaten en zo gaat de hart harder kloppen en worden de bloedvaten nauwer","2025-10-15T16:18:05.69716+00:00"
+"assistant","Goed begin! Je zegt dat door de stress het sympathisch zenuwstelsel actief werd en neurotransmitters ervoor zorgden dat het hart sneller ging kloppen en de bloedvaten nauwer werden.
+
+Kun je aanvullen hoe deze sympathische activatie de andere verschijnselen veroorzaakt, zoals zweten, versnelde ademhaling, droge mond en misselijkheid? En wat gebeurt er juist als de student weer ontspant—welke rol speelt het parasympathisch systeem dan? Kun je het hele proces afronden?","2025-10-15T16:18:14.638071+00:00"
+"user","zijn spijsverteringstelsel wordt afgeremd en misschien is dat de reden dat hij misselijk wordt, en doordat de bloedvaten die naar de longen hart spieren gaan wijder worden vindt er vasodilatatie plaats en daarom zal hij zweten","2025-10-15T16:19:47.894111+00:00"
+"assistant","Mooi! Je legt goed uit dat de spijsvertering afgeremd wordt (dit veroorzaakt mogelijk misselijkheid) en je probeert het zweten en veranderingen in de bloedvaten te koppelen aan de sympathische respons.
+
+Laten we samen kritisch kijken:  
+- Zweten is inderdaad typisch voor sympathische activatie, maar wordt niet veroorzaakt door vasodilatatie.  
+- Vasodilatatie (wijder worden van vaten) vindt vooral plaats in de vaten naar de spieren (zodat die meer bloed krijgen), terwijl vaten in huid en darmen nauwer worden. Zweten wordt gestimuleerd via speciale sympathische zenuwen naar zweetklieren in de huid.
+
+Denk nu na over de droge mond. Welk deel van het autonome zenuwstelsel speelt hierin een rol? En waarom moet hij naar het toilet als hij weer ontspant? Kun je deze twee verschijnselen verklaren?","2025-10-15T16:20:00.224829+00:00"
+"user","ik weet niet wil je het uitleggen","2025-10-15T16:20:15.143595+00:00"
+"assistant","Graag! Bij spanning wordt de activiteit van het parasympathisch zenuwstelsel (dat zorgt voor aanmaak van speeksel en een actieve spijsvertering) onderdrukt. Daardoor wordt de mond droger, omdat er minder speeksel geproduceerd wordt.
+
+Als de student weer tot rust komt, wordt juist het parasympathisch systeem actief:  
+- De hartslag daalt  
+- De ademhaling wordt rustiger  
+- De spijsvertering en andere “rust-activiteiten” hervatten  
+Een typisch gevolg van deze parasympathische (vagus) activiteit is dat de blaaswand samentrekt. Daarom krijgen veel mensen na ontspanning ineens aandrang om te plassen.
+
+Snap je nu hoe deze verschijnselen te koppelen zijn aan de activiteit van beide delen van het autonome zenuwstelsel? Zo ja, ben je klaar voor de “assessment question?”","2025-10-15T16:20:27.6272+00:00"

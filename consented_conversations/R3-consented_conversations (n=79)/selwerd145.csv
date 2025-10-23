@@ -1,0 +1,117 @@
+"role","content","created_at"
+"user","ik ben er klaar vor","2025-10-15T15:18:07.398984+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Hier is de eerste casus: 
+
+###VIGNETTE 1###
+Een 19-jarige jongen meldt dat hij tijdens zijn eerste universitaire examens zijn hart voelde bonzen, hij zweethanden kreeg, en zijn ademhaling versnelde. Ook voelde hij zich wat misselijk en had hij een droge mond. Nadat hij in de examenzaal was gaan zitten en een paar keer diep ademhaalde, vertraagde zijn hartslag, werd zijn ademhaling rustiger en voelde hij aandrang om naar het toilet te gaan.
+
+Kun je uitleggen waardoor deze symptomen bij de student ontstaan? Denk hierbij aan het deel van het autonome zenuwstelsel dat verantwoordelijk is voor deze klachten.","2025-10-15T15:18:17.846144+00:00"
+"user","Voor het examen was die nerveus, dit activeerde het sympathische zenuwstelsel die speekselklieren, vertering remmen en het ademhaling bevorderde. Toen die eenmaal rustiger werd na het zitten activeerde zijn parasympatische zenuwstelsel waardoor de druk op zijn blaas verhoogd werd en de rest van zijn lichaam rustiger werd","2025-10-15T15:20:41.644572+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Mooi uitgelegd! Laten we even een korte pauze nemen en beginnen met Fase 1 – Kennisactivering. In deze fase bespreken we de kernbegrippen en -mechanismen over het autonome zenuwstelsel die bij deze casus horen. 
+
+Heb je op dit moment vragen of onderdelen die je graag verduidelijkt zou willen zien voordat we samen verder gaan? 
+
+Als je zelf geen vraag hebt: Kun jij benoemen wat de twee hoofdonderdelen zijn van het autonome zenuwstelsel, en wat elk deel vooral doet?","2025-10-15T15:20:50.916363+00:00"
+"user","sympatische en parasympatisch, sympatisch - fight or flight, parasympatisch rest and digest","2025-10-15T15:21:16.889124+00:00"
+"assistant","Prima, dat klopt! Sympathisch zorgt dus voor 'actie' (fight or flight) en parasympathisch voor rust (rest and digest). 
+
+Zullen we het iets verder uitwerken? Kun je kort uitleggen hoe een signaal vanuit je hersenen bij een orgaan terechtkomt binnen dit systeem—en welke stoffen of neurotransmitters daarbij betrokken zijn?","2025-10-15T15:21:24.50737+00:00"
+"user","via elektrische signalen en neurotransmitters zoals adrenaline en non adrenaline","2025-10-15T15:21:58.164181+00:00"
+"assistant","Goed, je geeft aan dat elektrische signalen en neurotransmitters zoals adrenaline en noradrenaline een rol spelen. Kun je het iets specifieker maken? Bijvoorbeeld: welke neurotransmitter gebruikt het sympathische zenuwstelsel vooral om signalen door te geven naar organen? En geldt dat ook voor het parasympatische zenuwstelsel, of wordt daar een andere stof gebruikt?","2025-10-15T15:22:06.07147+00:00"
+"user","het sympathische gebruikt adrenaline en het parasympatische noradrenaline","2025-10-15T15:22:34.120024+00:00"
+"assistant","Is dat zo? Je noemt adrenaline voor het sympathische en noradrenaline voor het parasympatische zenuwstelsel. Heb je overwogen of het parasympatische systeem misschien juist een andere, minder verwante stof gebruikt?
+
+Denk eens aan welke neurotransmitter typisch vrijkomt bij rust en spijsvertering—en waar kennen we die nog meer van?","2025-10-15T15:22:41.859517+00:00"
+"user","weet het niet meer","2025-10-15T15:23:03.039634+00:00"
+"assistant","Dat geeft niets! Dit is een veelvoorkomende verwarring. In het parasympatische zenuwstelsel wordt acetylcholine als neurotransmitter gebruikt, vooral bij de signalen naar de organen. 
+
+Wil je dat ik nog even kort de rol van noradrenaline, adrenaline en acetylcholine bij beide systemen op een rij zet, of voel je je klaar om door te gaan naar de volgende fase?","2025-10-15T15:23:11.658868+00:00"
+"user","ja","2025-10-15T15:23:14.930564+00:00"
+"assistant","Prima! Kort samengevat:
+
+- Het sympathische zenuwstelsel gebruikt vooral noradrenaline (en in sommige gevallen ook adrenaline) als neurotransmitter om signalen naar de organen door te geven. Deze stoffen binden aan adrenerge receptoren.
+- Het parasympatische zenuwstelsel gebruikt acetylcholine als neurotransmitter, die bindt aan muscarine receptoren in de organen.
+
+Nu je dit overzicht hebt, heb je nog vragen over hoe die stoffen werken of denk je dat je klaar bent voor de volgende fase?","2025-10-15T15:23:26.992088+00:00"
+"user","ja","2025-10-15T15:23:35.87081+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Mooi! Dan gaan we door naar Fase 2 – Narratief Bouwen.
+
+Hier is de casus nogmaals:
+
+###VIGNETTE 1###
+Een 19-jarige jongen meldt dat hij tijdens zijn eerste universitaire examens zijn hart voelde bonzen, hij zweethanden kreeg, en zijn ademhaling versnelde. Ook voelde hij zich wat misselijk en had hij een droge mond. Nadat hij in de examenzaal was gaan zitten en een paar keer diep ademhaalde, vertraagde zijn hartslag, werd zijn ademhaling rustiger en voelde hij aandrang om naar het toilet te gaan.
+
+Kun je nu met de kennis die we net herhaald hebben zo goed mogelijk uitleggen waardoor deze symptomen ontstaan? Denk daarbij aan welk deel van het autonome zenuwstelsel, de gebruikte signaalstoffen en de specifieke organen en reacties die je herkent.","2025-10-15T15:23:49.721734+00:00"
+"user","De jongen voelde zich gestresst waardoor het sympathische zenuwstelsel noradrenaline vrijlaat, dit bevordert de functies van het hart, zweetklieren en longen en remt de werking van de darmen en speekselklieren. Toen die eenmaal rustig werd tijdens het tentamen activeerde het parasympatische zenuwstelsel die acetylcholine vrijlaat en gaat binden met het weefsel waardoor de hartslag afneemt, de bronchiën weer kleiner worden en zijn vertering weer aan gingen waardoor die naar het toilet moest.","2025-10-15T15:26:26.22028+00:00"
+"assistant","Goed uitgelegd! Je koppelt de symptomen netjes aan de verschillende onderdelen van het autonome zenuwstelsel en benoemt de juiste signaalstoffen. Kun je nog iets specifieker zijn over wat er precies gebeurt met de bloedvaten in de huid, het hart en het maag-darmkanaal tijdens stress? Welke receptoren zijn hierbij betrokken, en waarom is dat belangrijk voor het voorbereiden op een examen?","2025-10-15T15:26:34.145462+00:00"
+"user","tijdens stress zetten ze uit waardoor je vascodilatie krijgt, adrenerge receptoren zijn hierbij betrokken die dan verbonden worden aan noradrenaline","2025-10-15T15:27:18.483562+00:00"
+"assistant","Heb je hier wel eens aan gedacht: bij stress, wordt het bloed juist vaker naar de spieren geleid en juist minder naar de huid en het maag-darmkanaal gestuurd. Dit gebeurt door vasoconstrictie (vernauwing van bloedvaten) in de huid en darmen via α1-adrenerge receptoren, zodat het bloed beschikbaar komt voor vitale organen en spieren.
+
+Wil je proberen uit te leggen waarom het lichaam deze keuze maakt tijdens stressvolle situaties zoals een examen? Wat is het voordeel hiervan voor het lichaam?","2025-10-15T15:27:28.856828+00:00"
+"user","in stressvolle situaties is jouw lichaam via evolutie ontworpen om meer bloed naar spieren te laten stromen zodat deze dan beter kunnen werken, dit helpt dan bij het wegrennen van roofdieren of het bevechten ervan","2025-10-15T15:28:54.311567+00:00"
+"assistant","Mooi geredeneerd! Dat is inderdaad het evolutionaire voordeel.
+
+Laten we nog één ding uit de casus pakken: waarom krijgt de student een droge mond tijdens stress? Kun je dat koppelen aan wat je weet over het parasympatische zenuwstelsel?","2025-10-15T15:29:01.356689+00:00"
+"user","je vertering wordt geremd dus de speekselproductie ook, het parasympatische zenuwstelsel zorgt voor dit signaal","2025-10-15T15:29:36.094353+00:00"
+"assistant","Bijna! Je zit op het goede spoor: tijdens stress neemt de activiteit van het parasympatische zenuwstelsel juist af. Hierdoor neemt de productie van speeksel af omdat het parasympatische systeem normaal gesproken zorgt voor stimulering van speekselklieren.
+
+Wil jij met deze inzichten nu de hele casus, stap voor stap, tot in detail verklaren?
+
+###VIGNETTE 1###
+Een 19-jarige jongen meldt dat hij tijdens zijn eerste universitaire examens zijn hart voelde bonzen, hij zweethanden kreeg, en zijn ademhaling versnelde. Ook voelde hij zich wat misselijk en had hij een droge mond. Nadat hij in de examenzaal was gaan zitten en een paar keer diep ademhaalde, vertraagde zijn hartslag, werd zijn ademhaling rustiger en voelde hij aandrang om naar het toilet te gaan.
+
+###ASSESSMENT QUESTION###
+Hoe begrijp jij nu de symptomen in dit geval? Schrijf alles op wat er bij je opkomt — jouw ideeën, redenatie en verbindingen met wat je hebt geleerd. Hoe vollediger je uitleg, hoe meer het je zal helpen bij toekomstige klinische redenering en tentamens!","2025-10-15T15:29:52.515666+00:00"
+"user","De jongen is gestresst, dit activeert het sympathische zenuwstelsel die neurotransmitters loslaten in het bloed, deze gaan zich aan bepaald weefsel binden en de werking ervan bevorderen of remmen. Hij is gestresst, dus er stroomt meer bloed naar de longen, hart en zweetklieren dankzij een fight or flight mechanisme via noradrenaline die zich dan binden aan afregenen receptoren. Daarna komt die op rust en activeert het parasympatische zenuwstelsel, die laat acetylcholine vrij en gaat zich ook aan receptoren binden, de spijsvertering wordt hierdoor op gang gezet die zorgt voor een drang naar het toilet en de spieren die geactiveerd waren bij stress worden geremd.","2025-10-15T15:32:49.890991+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Goed gedaan! Nu gaan we naar Fase 3 - Reasoning Transfer.
+
+Hier volgt een nieuwe casus:
+
+###VIGNETTE 2###
+Een 76-jarige man staat in de rij bij de apotheek op een warme middag. Na enkele minuten wordt hij licht in het hoofd, misselijk en zweterig. Hij krijgt “tunnelvisie” voordat hij kort het bewustzijn verliest en in elkaar zakt. Omstanders leggen hem op de grond; na een paar minuten bijkomen voelt hij zich zwak maar helder, met een trage hartslag en lage bloeddruk. Na nog een paar minuten is hij volledig hersteld.
+
+Kun je met je kennis van het autonome zenuwstelsel uitleggen waarom deze man zich zo voelde en waarom hij flauwviel? Wat gebeurt er met zijn autonome zenuwstelsel vóór, tijdens en na het flauwvallen?","2025-10-15T15:33:04.472338+00:00"
+"assistant","Learning Context and Roles  
+Deze dialoog vindt plaats in een medische onderwijscontext, waarschijnlijk een begeleide zelfstudie- of tutorensessie gericht op pathofysiologie van het autonome zenuwstelsel. De gebruiker is een student die klinische redenering oefent aan de hand van casussen, en de assistant fungeert als begeleider met een sturende, socratische aanpak. Dit feedbackrapport dient de gebruiker te ondersteunen in zijn/haar medische redeneer- en communicatieve vaardigheden.
+
+A. What Went Well  
+- Toont basaal begrip van de twee delen van het autonome zenuwstelsel; kan ze benoemen en hun hoofdrol in algemene termen beschrijven.
+- Weet neurotransmitters als relevante signaalstoffen te noemen op het juiste moment.
+- Herkent de functionele consequenties van activatie van sympathisch versus parasympathisch systeem in orgaansystemen (hart, longen, spijsvertering).
+- Doet pogingen om evolutionaire rationale (fight or flight-respons) te verbinden aan fysiologische waarnemingen.
+- Kan gestructureerd antwoorden op uitnodiging tot uitleg, en schrijft klinische redenatie met relevante verbanden tussen stress, zenuwstelselactivatie en symptomen.
+
+B. Areas for Improvement  
+- Niet altijd accuraat in benoemen van signaalstoffen per deel van het autonome zenuwstelsel (verwisselt bijv. adrenaline/noradrenaline/acetylcholine).
+- Neigt tot oppervlakkige of onvolledige beantwoording bij detailvragen (zoals over bloedvatreacties, betrokken receptoren).
+- Soms te algemeen (bijvoorbeeld “neurotransmitters komen vrij en binden op weefsel” zonder verdere specificatie van locaties of effecten).
+- Neemt niet altijd initiatief tot het stellen van eigen vragen na een uitleg of bij onduidelijkheid (""weet het niet meer""), wat leermomentum kan beperken.
+- Maakt kleine, maar inhoudelijk relevante fouten in het koppelen van sturing (sympathisch/parasympathisch) en klinische verschijnselen (bv. speekselproductie).
+
+C. Actionable Suggestions  
+1. Versterk kennis van signaalstoffen en hun aansturing  
+   • Waarom het ertoe doet: Correcte koppeling van neurotransmitters aan hun systeem is essentieel voor plausibele klinische uitleg en “red flag” herkenning.  
+   • Hoe te implementeren: Maak een schematisch overzicht waarin per zenuwstelsel (sympathisch/parasympathisch) de primaire neurotransmitters, plaats van afgifte (pre- en postganglionair) en bijbehorende receptoren worden ingevuld.
+
+2. Werk antwoorden uit met specifieke voorbeelden  
+   • Waarom het ertoe doet: Nadere uitwerking voorkomt misvattingen en laat klinische diepgang zien.  
+   • Hoe te implementeren: Vat per symptoom kort samen welk orgaan betrokken is, welke zenuwstelselactivatie en welk type receptor (bijvoorbeeld: “Vasoconstrictie in de huid via α1-receptoren vermindert doorbloeding tijdens stress”).
+
+3. Maak gebruik van zelfreflectie en vraagstelling  
+   • Waarom het ertoe doet: Zelf vragen stellen bevordert actief en diep leren, en helpt hiaten tijdig te identificeren.  
+   • Hoe te implementeren: Noteer aan het einde van elk antwoord (of stuk uitleg) minstens één vervolgvraag over iets dat je niet volledig begrijpt of wilt weten (“Hoe werkt dit bij ouderen?”).
+
+4. Corrigeer misvattingen tijdig en expliciet  
+   • Waarom het ertoe doet: Bewustwording van kleine inhoudelijke fouten voorkomt het inslijten van foutieve redeneringen.  
+   • Hoe te implementeren: Herlees je antwoord na afloop en markeer zinnen waar je onzeker bent; kijk deze gericht na en herstel met gerichte literatuur of terugkoppeling.
+
+Forward-looking Guidance  
+In het volgende gesprek kun je focussen op het structureel uitwerken van je antwoorden met aandacht voor details en juiste koppeling tussen neurotransmitter, receptor en orgaanrespons. Bouw ook actief ruimte in om zelf verdiepende of controlerende vragen te stellen aan je begeleider.","2025-10-15T15:33:54.071+00:00"

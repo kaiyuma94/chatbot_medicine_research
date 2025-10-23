@@ -1,0 +1,47 @@
+"role","content","created_at"
+"user","ik ben klaar om te straten","2025-10-15T16:38:55.755847+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Hier is de casus:
+
+Een 19-jarige jongen vertelt dat hij, terwijl hij op weg was naar zijn eerste universitaire tentamen, zijn hart voelde bonzen, zijn handpalmen begonnen te zweten en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook een beetje misselijk en had een droge mond. Na aankomst in de examenzaal en toen hij ging zitten, haalde hij een paar keer diep adem. Binnen 10 minuten werd zijn hartslag trager, normaliseerde zijn ademhaling en voelde hij de aandrang om naar het toilet te gaan.
+
+Kun je de symptomen die deze student ervaart uitleggen? Denk hierbij aan het deel van het autonoom zenuwstelsel dat hiervoor verantwoordelijk is.","2025-10-15T16:39:07.620157+00:00"
+"user","voor het tentamen was het sympathische deel van zij autonome zenuwstelsel actief hierdoor verhoogde zijn hartfrequentie en temperatuur (wat zorgde voor zweten) de ademhaling versnelde doordat het hart meer zuurstof nodig had en de misselijkheid kwam door het stoppen van de vertering. vlak voor het tentamen kwam hij tot rust en activeerde het parasympatische deel van zijn zenuwstelsel hierdoor verlaagde zijn harslag en ademhaling aangezien het minderheid hoefde te werken en de aandrang kwam door het activeren van zijn spijsvertering","2025-10-15T16:44:28.661243+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we even pauzeren en doorgaan naar Phase 1 – Knowledge Activation. In deze fase praten we kort over de belangrijkste concepten en mechanismen die te maken hebben met deze casus. Heb je zelf nog vragen of punten die je wil verduidelijken voordat we starten?
+
+Zo niet, kun je mij vertellen wat de twee hoofdonderdelen van het autonoom zenuwstelsel zijn, en wat elk onderdeel typisch doet?","2025-10-15T16:44:37.383426+00:00"
+"user","parasympatisch = rest and digest. sympatisch = fight or flight","2025-10-15T16:45:44.288668+00:00"
+"assistant","Heel goed! Je noemt de kern van beide systemen. 
+
+Kun je uitleggen hoe een signaal van de hersenen naar een orgaan reist binnen het autonoom zenuwstelsel? Bijvoorbeeld: welke route legt zo’n signaal af en welke stoffen (neurotransmitters) worden hiervoor gebruikt?","2025-10-15T16:45:50.647825+00:00"
+"user","het signaal begint vaak in de hersenstam en gaat via het ruggenmerg naar het desbetreffende orgaan","2025-10-15T16:46:52.026152+00:00"
+"assistant","Dat klopt—het signaal start in de hersenen en reist via het ruggenmerg naar het doelorgaan. Maar kun je nog aanvullen welke chemische stoffen deze zenuwen gebruiken om berichten door te geven aan de organen? En weet je of dit verschil maakt tussen sympatisch en parasympatisch?","2025-10-15T16:47:00.196766+00:00"
+"user","het kan via neurotransmitters dan gaat het mechanisme heel snel maar het kan ook via hormonen en dan duurt het langer","2025-10-15T16:47:51.717165+00:00"
+"assistant","Inderdaad, het autonoom zenuwstelsel maakt gebruik van snelle signaalgeleiding via neurotransmitters en, soms, langzamere hormonale routes (zoals adrenaline vanuit de bijnier). 
+
+We richten ons in deze casus vooral op de zenuwbanen en neurotransmitters. Kun je aangeven welke neurotransmitters betrokken zijn bij het sympatische en het parasympatische zenuwstelsel, en op welk moment van de signaaloverdracht zij hun werk doen? Weet je welke hoofdneurotransmitters hier horen?","2025-10-15T16:48:00.923489+00:00"
+"user","bij het parasympatische zenuwstelsel komt bij zowel pre- als post-ganglionair acetylcholine voor als neurotransmitter en bij sympathisch komt pre- acetylcholine voor en post- adrenaline of noradrenaline","2025-10-15T16:51:00.518812+00:00"
+"assistant","Goed uitgelegd! Nu nog één stapje verder: Kun je uitleggen wat er in het lichaam gebeurt wanneer het sympathisch of parasympathisch systeem actief is? Dus: welke organen reageren, en hoe? Geef gerust wat voorbeelden van effecten van beide systemen.
+
+Stel gerust je eigen vraag tussendoor als je ergens twijfelt.","2025-10-15T16:51:08.732727+00:00"
+"user","sympathisch: activeert het hart om sneller te gaan kloppen, vertraagt de spijsvertering, verwijdt te pupillen. parasympatisch: activeert de spijsvertering, verlaagd de hartfrequentie en vernauwd de pupillen","2025-10-15T16:53:22.762652+00:00"
+"assistant","Mooi samengevat! Je benoemt precies de belangrijkste effecten.
+
+Heb je op dit moment zelf nog vragen over de basiswerking van het sympathisch of parasympathisch systeem? Of voel je je klaar om de koppeling te maken met de casus?
+
+Laat het gerust weten, dan kunnen we anders doorgaan naar het volgende deel!","2025-10-15T16:53:29.960274+00:00"
+"user","ja gaan we door","2025-10-15T16:54:05.130079+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Hier is nogmaals de casus:
+
+Een 19-jarige jongen vertelt dat hij, terwijl hij op weg was naar zijn eerste universitaire tentamen, zijn hart voelde bonzen, zijn handpalmen begonnen te zweten en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook een beetje misselijk en had een droge mond. Na aankomst in de examenzaal en toen hij ging zitten, haalde hij een paar keer diep adem. Binnen 10 minuten werd zijn hartslag trager, normaliseerde zijn ademhaling en voelde hij de aandrang om naar het toilet te gaan.
+
+Kun je met de kennis die je net hebt opgehaald uitleggen wat er gebeurt in zijn lichaam? Denk hierbij aan het betrokken deel van het autonoom zenuwstelsel en probeer stap voor stap uit te leggen hoe dit zijn symptomen veroorzaakt.","2025-10-15T16:54:18.318854+00:00"
+"user","Voor het tentamen was het sympathische deel van het autonome zenuwstelsel actief bij de jongen door stress, dit zorgt voor het aanmaken van het hormoon adrenaline die in het lichaam zorgt voor een hoge hartfrequentie en ademfrequentie. na aankomst verminderde zijn stress door de ademhalingen hierdoor verminderde adrenaline en ging het lichaam terug naar het parasympatische zenuwstelsel, dit zorgt voor activatie van de spijsvertering en verlagen van de hartfrequentie","2025-10-15T16:58:39.633905+00:00"
+"assistant","Goed uitgelegd! Je brengt de overgang van het sympathische naar het parasympathische systeem in verband met de symptomen.
+
+Zou je nog wat meer kunnen toelichten waarom er bijvoorbeeld een droge mond ontstaat en waarom iemand na ontspanning soms direct aandrang voelt om naar het toilet te gaan? Wat zeggen deze symptomen over de werking van het sympathisch en parasympathisch systeem in het dagelijks leven?","2025-10-15T16:58:47.159702+00:00"

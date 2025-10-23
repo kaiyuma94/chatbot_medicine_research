@@ -1,0 +1,92 @@
+"role","content","created_at"
+"user","hallo vriend","2025-10-15T13:34:26.558704+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Leuk je te zien! We gaan zo beginnen met een klinische vignette rond het autonome zenuwstelsel. Hier komt de eerste casus:
+
+###VIGNETTE 1###
+Een 19-jarige jongen vertelt dat hij, terwijl hij op weg was naar zijn eerste universitaire examens, zijn hart voelde bonzen, zijn handpalmen vochtig werden en zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Toen hij eenmaal in de examenzaal zat en een paar keer diep ademhaalde, kalmeerde zijn hartslag binnen tien minuten, normaliseerde zijn ademhaling en kreeg hij het gevoel dat hij moest plassen.
+
+Kun je uitleggen waardoor de student deze symptomen ervaarde? Denk daarbij aan welk deel van het autonome zenuwstelsel hiervoor verantwoordelijk is.","2025-10-15T13:34:38.984965+00:00"
+"user","zijn sympathische stelsel nam over en hierdoor kreeg hij adrenaline en krijg hij de desbetreffende symptonen","2025-10-15T13:36:41.014395+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed gedaan! Je benoemt het sympathische stelsel en adrenaline als verklaring voor de symptomen. 
+
+Great try! Laten we even pauzeren en starten met Fase 1 – Kennisactivatie. In deze fase lopen we kort de kernbegrippen en mechanismen door die bij deze casus horen. Heb je nu al vragen of punten die je graag zou willen ophelderen voordat we beginnen?
+
+Zo niet, kun je vertellen wat de twee belangrijkste onderdelen van het autonome zenuwstelsel zijn en wat elk deel doet?","2025-10-15T13:36:51.11308+00:00"
+"user","sympathische stelsel en parasympatisch? is dat wat je bedoelt","2025-10-15T13:37:19.219871+00:00"
+"assistant","Ja, precies! Het sympathische en het parasympatische zenuwstelsel zijn de twee belangrijkste onderdelen. 
+
+Kun je in je eigen woorden uitleggen wat elk van deze stelsels doet in het lichaam? Wat gebeurt er als het sympathische stelsel actief is, en wat juist als het parasympatische stelsel actief is?","2025-10-15T13:37:25.827789+00:00"
+"user","het sympathische zenuwstelsel zorgt er voor dat je in een fight or flight terecht komt. en dat je in actiekonen. het parasympatisch zenuwstelsel zorgt dat je lichaam in rust komt","2025-10-15T13:38:42.704421+00:00"
+"assistant","Goed uitgelegd! Dus het sympathische zenuwstelsel zet je klaar voor actie (“fight or flight”) en het parasympathische systeem helpt je lichaam juist om te herstellen en tot rust te komen (“rest and digest”).
+
+Zou je ook kunnen uitleggen hoe een signaal vanaf de hersenen een orgaan bereikt binnen het autonome zenuwstelsel? Met andere woorden: hoe wordt de boodschap van het sympathische of parasympatische stelsel doorgegeven aan je hart, longen of spijsvertering?","2025-10-15T13:38:51.525937+00:00"
+"user","via neurotransmitters.","2025-10-15T13:39:06.42406+00:00"
+"assistant","Klopt! De boodschap wordt inderdaad doorgegeven via neurotransmitters.
+
+Kun je iets specifieker zijn: weet je welke neurotransmitters vooral door het sympathische zenuwstelsel en het parasympatische zenuwstelsel gebruikt worden? Welke boodschapperstof hoort bij welk deel?","2025-10-15T13:39:12.572583+00:00"
+"user","sympathisch adrenealine en noradrenaline en bij parasympatisch acetylcholine","2025-10-15T13:39:28.913108+00:00"
+"assistant","Helemaal goed! Het sympathische zenuwstelsel gebruikt vooral (nor)adrenaline en het parasympatische vooral acetylcholine.
+
+Nog één korte vraag: wat gebeurt er met het lichaam als het sympathische stelsel actief is? Kun je wat voorbeelden noemen van veranderingen in organen of lichaamsfuncties?","2025-10-15T13:39:35.541911+00:00"
+"user","je hart gaat sneller kloppen. je bloeddruk gaat omhoog je krijgt een droge mond zodat je in actie kan komen","2025-10-15T13:40:06.806451+00:00"
+"assistant","Mooi omschreven! Dus het hart gaat sneller kloppen, de bloeddruk stijgt, en de speekselproductie vermindert, wat past bij ‘in actie komen’.
+
+Ben je klaar om deze kennis toe te passen op het eerste vignet? Dan gaan we door naar de volgende fase! Of heb je nog een laatste vraag?","2025-10-15T13:40:12.959306+00:00"
+"user","volgende fase","2025-10-15T13:40:31.374319+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Prima! Hier is nogmaals de casus:
+
+###VIGNETTE 1###
+Een 19-jarige jongen vertelt dat hij, terwijl hij op weg was naar zijn eerste universitaire examens, zijn hart voelde bonzen, zijn handpalmen vochtig werden en zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Toen hij eenmaal in de examenzaal zat en een paar keer diep ademhaalde, kalmeerde zijn hartslag binnen tien minuten, normaliseerde zijn ademhaling en kreeg hij het gevoel dat hij moest plassen.
+
+Kun je nu met de kennis die je zojuist hebt opgefrist uitleggen waardoor de student deze symptomen kreeg? Denk bij je antwoord aan welk deel van het autonome zenuwstelsel hierbij actief werd. Wil je stap voor stap uitleggen wat er gebeurt in zijn lichaam?","2025-10-15T13:40:43.739971+00:00"
+"user","de student ervaarde stress. Hierdoor ging zijn sympathische zenuwstelsel overnemen door middel van de neurotransmitters noradrenaline en adrenaline. Hierdoor kreeg hij de desbetreffende symptonen","2025-10-15T13:41:59.132214+00:00"
+"assistant","Dat klopt, je vat het goed samen! Zou je iets specifieker kunnen zijn over welke symptomen precies door het sympathische stelsel veroorzaakt worden, en hoe? Bijvoorbeeld: welke effecten hebben noradrenaline en adrenaline op het hart, de ademhaling, de huid en de spijsvertering? Kun je die per orgaansysteem kort toelichten?","2025-10-15T13:42:06.221827+00:00"
+"user","noradrenaline en adrenaline geven een seintje naar het autonome zenuwstelsel. Hierdoor  het hart gaat sneller kloppen. Je gaat sneller ademen en je begint te zweten en spijsvertering werkt minder snel","2025-10-15T13:43:03.953771+00:00"
+"assistant","Goed gestructureerd! Je benoemt de belangrijkste lichamelijke reacties. 
+
+Wat gebeurt er vervolgens wanneer de student in de examenzaal gaat zitten, diep ademhaalt en merkt dat zijn hartslag weer daalt en hij het gevoel krijgt te moeten plassen? Welk deel van het autonome zenuwstelsel neemt het dan over, en wat is het effect daarvan op zijn organen?","2025-10-15T13:43:12.85423+00:00"
+"user","Het parasympatische zenuwstelsel neemt over. door middel van acetylcholine. hierdoor gaat het lichaam in de rest en digest. en moet ze plassen omdat het lichaam minder in actie is","2025-10-15T13:44:05.533358+00:00"
+"assistant","Heel goed! Je beschrijft duidelijk het herstel en het effect van parasympatische activatie.
+
+Laatste check voordat we doorgaan: kun je kort uitleggen waarom juist de parasympatische activiteit zorgt voor het gevoel dat je moet plassen als je ontspant? Denk aan het effect op de blaas.
+
+Klaar om je alles nog eens volledig uit te leggen voor de eindvraag?","2025-10-15T13:44:12.419937+00:00"
+"user","al ontspan je moet je plassen","2025-10-15T13:44:21.226389+00:00"
+"assistant","Precies! Bij ontspanning (parasympatische activatie) krijgt de blaas de opdracht samen te trekken, waardoor je het gevoel krijgt te moeten plassen.
+
+Hier komt de laatste opdracht voor deze casus!
+
+###VIGNETTE 1###
+Een 19-jarige jongen vertelt dat hij, terwijl hij op weg was naar zijn eerste universitaire examens, zijn hart voelde bonzen, zijn handpalmen vochtig werden en zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Toen hij eenmaal in de examenzaal zat en een paar keer diep ademhaalde, kalmeerde zijn hartslag binnen tien minuten, normaliseerde zijn ademhaling en kreeg hij het gevoel dat hij moest plassen.
+
+###ASSESSMENT QUESTION###
+Hoe begrijp je nu de symptomen in deze casus? Schrijf elk detail op dat je kunt bedenken — je ideeën, redenering, en de koppelingen met wat je geleerd hebt. Hoe completer je uitleg, hoe meer het je begrip verdiept, je voorbereidt op tentamens, en je vermogen versterkt om soortgelijke klinische gevallen te diagnosticeren in de toekomst!","2025-10-15T13:44:36.432293+00:00"
+"user","Ik heb deze vraag nu al zivaak gehad en goed beantwoord","2025-10-15T13:45:37.21601+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Goed gedaan tot nu toe! We gaan nu kijken of je deze kennis kunt toepassen op een nieuwe situatie. Lees onderstaande casus:
+
+###VIGNETTE 2###
+Een 76-jarige man staat op een warme middag in de rij bij de apotheek. Na een paar minuten begint hij zich licht in het hoofd te voelen, misselijk en zweterig. Hij ervaart een “tunnelvisie” voordat hij kort het bewustzijn verliest en in elkaar zakt. Omstanders helpen hem op de grond. Na een paar minuten bijkomen voelt hij zich zwak maar alert, met een trage hartslag en lage bloeddruk. Na nog een paar minuten is hij volledig hersteld.
+
+Kun je uitleggen welke processen in het autonome zenuwstelsel de symptomen van deze patiënt veroorzaken, én hoe het herstel verloopt? Leg uit wat er gebeurt voordat hij flauwvalt, tijdens het flauwvallen en bij het herstel.","2025-10-15T13:45:51.290682+00:00"
+"user","bij de man schijnt een zon op zijn hoofd. zijn sympathische zenuwstelsel neemt over omdat hij moeite moet doen om te overleven.  dan verliest hij zijn bewust zijn en geven de neurotransmitter acetylcholine de activatie voor het parasympatisch stelsel dit zorgt er voor dat het lichaam in rest en digest komt en dus dat de hartslag omlaag gaat en een pagebloeddruk aanwezig is","2025-10-15T13:49:30.746037+00:00"
+"assistant","Goed dat je een begin maakt aan het uitleggen van de situatie! Je geeft aan dat de sympathicus actief wordt, maar er gebeurt iets bijzonders. Zou je willen nadenken of er juist sprake is van (overmatige) sympathische of parasympatische activiteit op het moment dat hij flauwvalt? Wat verklaart de trage hartslag en lage bloeddruk tijdens het bewustzijnsverlies?
+
+Wat gebeurt er met het zenuwstelsel bij een vasovagale reactie, zoals flauwvallen in deze casus? Kun je die stap met je eigen woorden invullen?","2025-10-15T13:49:39.695748+00:00"
+"user","er overmatig  sympathische activiteit waardoor hij flauwvalt.","2025-10-15T13:50:11.123385+00:00"
+"assistant","Interessante gedachte! Maar kijk nog eens goed naar de symptomen op het moment dat hij bijna of net flauwvalt: de hartslag is traag en de bloeddruk laag. 
+
+Welke tak van het autonome zenuwstelsel zou juist zorgen voor deze “vertraging” en “verlaging”? Zou het kunnen dat hier juist sprake is van een overmatige parasympathische respons? Waarom zou het lichaam dat doen in deze situatie? Kun je dat proberen toe te lichten?","2025-10-15T13:50:20.260995+00:00"
+"user","ohhhhh ik snap het al. het parasympatisch stelsel had overmatige activiteit waardoor zijn hartslag erg laag is","2025-10-15T13:50:50.575445+00:00"
+"assistant","Precies, dat is het! Heel goed opgemerkt. Bij een vasovagale syncope, zoals bij deze oudere man, is er een plotselinge (en overmatige) activatie van het parasympatische zenuwstelsel. Hierdoor daalt de hartslag sterk (bradycardie) en worden de bloedvaten wijder, wat de bloeddruk doet dalen — en dat leidt tot het verlies van bewustzijn.
+
+Kun je nu uitleggen wat er gebeurt als hij eenmaal ligt en weer bij komt? Hoe herstelt het autonome zenuwstelsel de balans?","2025-10-15T13:51:02.241575+00:00"
+"user","door feedback","2025-10-15T13:51:12.018742+00:00"
+"assistant","Precies, het lichaam maakt gebruik van feedback! Kun je dit iets verder uitleggen? Welke signalen krijgt het lichaam binnen, en hoe reageren het parasympatische en sympathische zenuwstelsel vervolgens op deze signalen om het herstel te bevorderen?","2025-10-15T13:51:20.442542+00:00"

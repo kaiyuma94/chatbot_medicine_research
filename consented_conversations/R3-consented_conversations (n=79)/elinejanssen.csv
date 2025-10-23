@@ -1,0 +1,50 @@
+"role","content","created_at"
+"user","hoi","2025-10-15T15:15:52.370077+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Can you uitleggen welke symptomen de student heeft ervaren? Denk aan het deel van het autonoom zenuwstelsel dat verantwoordelijk is voor deze symptomen.","2025-10-15T15:15:58.378352+00:00"
+"user","kun je mij een vraag stellen?","2025-10-15T15:16:49.108694+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Natuurlijk! Kan je uitleggen welke twee hoofdonderdelen het autonome zenuwstelsel heeft, en wat elk onderdeel precies doet?","2025-10-15T15:16:54.395787+00:00"
+"user","parasympatisch en sympathisch","2025-10-15T15:17:14.614898+00:00"
+"user","?","2025-10-15T15:18:42.218019+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Klopt! Het autonome zenuwstelsel bestaat uit het parasympathische en het sympathische deel.
+
+Wil je uitleggen wat elk van deze delen doet in het lichaam? Wat gebeurt er bijvoorbeeld als het sympathische of juist het parasympathische deel actief wordt?","2025-10-15T15:18:48.919425+00:00"
+"user","sympatisch is voor actief en para voor inactie","2025-10-15T15:21:16.544901+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Dat is een mooie korte samenvatting! Het sympathisch systeem maakt het lichaam klaar voor actie (“vechten of vluchten”) en het parasympathisch systeem zorgt juist voor rust en herstel (“rust en verteer”).
+
+Wil je proberen uit te leggen hoe een signaal van het brein bij een orgaan terechtkomt binnen het autonome zenuwstelsel? Bijvoorbeeld: welke route volgt een signaal vanuit de hersenen naar het hart of de longen?","2025-10-15T15:21:25.547394+00:00"
+"user","via hypothalamus en hypofyse","2025-10-15T15:21:47.911056+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Interessante gedachte! De hypothalamus speelt inderdaad een centrale rol bij het aansturen van het autonome zenuwstelsel, maar de hypofyse is vooral betrokken bij hormonale signalen. 
+
+Laten we ons nu richten op de zenuwbaan zelf: als de hypothalamus aangeeft dat actie nodig is, welke zenuwbanen of neurotransmitters worden dan gebruikt om een signaal naar bijvoorbeeld het hart of de darmen te sturen? Weet je welke stoffen het sympathisch en parasympathisch systeem gebruiken om met organen te communiceren?","2025-10-15T15:21:57.50748+00:00"
+"user","acetylcholine?","2025-10-15T15:22:14.0048+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed! Acetylcholine wordt inderdaad gebruikt—vooral door het parasympathisch systeem. Maar ook het sympathisch systeem begint met acetylcholine in het eerste deel van de zenuwbaan. Daarna gebruikt het sympathisch systeem meestal een andere stof om het orgaan zelf aan te sturen.
+
+Weet je welke neurotransmitter het sympathisch systeem gebruikt aan het einde van de zenuwbaan, bijvoorbeeld bij het stimuleren van het hart of de bloedvaten?","2025-10-15T15:22:23.318528+00:00"
+"user","noradrenenaline en adrenaline","2025-10-15T15:23:09.132063+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Precies! Noradrenaline (en in sommige situaties adrenaline) wordt door het sympathisch zenuwstelsel gebruikt om organen zoals het hart en de bloedvaten aan te sturen.
+
+Voordat we naar de toepassing gaan: heb je nu nog vragen over deze basisconcepten, of wil je dat ik iets herhaal? Zo niet, dan gaan we door naar de volgende fase.","2025-10-15T15:23:16.892628+00:00"
+"user","nee","2025-10-15T15:23:26.869842+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Mooi, dan gaan we nu door naar Fase 2 – Narrative Construction.
+
+Hier is de casus nogmaals:
+
+Een 19-jarige jongen meldt dat hij tijdens zijn eerste tentamens op de universiteit zijn hart voelde bonzen, zijn handpalmen vochtig werden en zijn ademhaling versneld was. Hij voelde zich ook wat misselijk en had een droge mond. Toen hij eenmaal in de tentamenzaal zat en een paar keer diep ademhaalde, vertraagde zijn hartslag binnen 10 minuten, normaliseerde zijn ademhaling en kreeg hij aandrang om naar het toilet te gaan.
+
+Kun je nu met de kennis die je zojuist hebt opgehaald, uitleggen waardoor deze symptomen zijn ontstaan? Denk aan welk deel van het autonoom zenuwstelsel verantwoordelijk was voor deze verschijnselen.","2025-10-15T15:23:39.415773+00:00"

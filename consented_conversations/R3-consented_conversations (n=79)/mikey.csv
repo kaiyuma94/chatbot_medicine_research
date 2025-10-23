@@ -1,0 +1,163 @@
+"role","content","created_at"
+"user","Laten we beginnen","2025-10-15T16:01:17.895082+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Hier is de eerste casus:
+
+###VIGNETTE 1###
+Een 19-jarige jongen vertelt dat hij tijdens zijn eerste universitaire examens begon te merken dat zijn hart hevig klopte, zijn handpalmen bezweet raakten en zijn ademhaling versnelde. Ook voelde hij zich wat misselijk en had hij een droge mond. Nadat hij was aangekomen en had plaatsgenomen in de examenzaal, haalde hij een paar keer diep adem. Binnen 10 minuten vertraagde zijn hartslag, normaliseerde zijn ademhaling, en kreeg hij aandrang om naar het toilet te gaan.
+
+Kun jij uitleggen waardoor de symptomen bij deze student werden veroorzaakt? Denk aan het deel van het autonoom zenuwstelsel dat hier verantwoordelijk voor is.","2025-10-15T16:01:34.928417+00:00"
+"user","Eerst had de jongen veel adrenaline en stress voor de toets, hierdoor ging zijn hartslag omhoog, stofwisseling sneller waardoor hij het warmer kreeg en ging zweten en ademhaling versnelde ook omdat zijn hartslag dus omhoog ging. Wanneer de adrenaline weg was en de jongen tot rust kwam, was zijn autonome zenuwstelsel actiever waardoor ADH productie afnam en hij moest plassen","2025-10-15T16:05:35.303441+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed gedaan! Je noemt al belangrijke aspecten, zoals “adrenaline”, stress en het autonome zenuwstelsel. Laten we een korte pauze nemen en starten met Kennisactivering (Phase 1).
+
+Heb je op dit moment vragen of onduidelijkheden over het autonome zenuwstelsel die je graag eerst wil bespreken? 
+
+Zo niet, kun je mij dan uitleggen:
+- Welke twee hoofdonderdelen het autonome zenuwstelsel heeft, en wat elk onderdeel ongeveer doet?","2025-10-15T16:05:44.649157+00:00"
+"user","Je hebt het ortosympatisch en parasympatische zenuwstelsel hierbij is ortosympatisch als je hartslag hoger is actief en parasympatisch als je in rust bent en lagere hartslag hebt actief","2025-10-15T16:07:18.680927+00:00"
+"assistant","Mooi uitgelegd! Je noemt het orthosympatische (sympathische) en het parasympatische zenuwstelsel, en koppelt ze al aan hartslag en rust.
+
+Hoe reizen de signalen van het autonome zenuwstelsel eigenlijk van de hersenen naar een orgaan, bijvoorbeeld het hart? Welke stappen en signaalstoffen horen daarbij?","2025-10-15T16:07:26.549347+00:00"
+"user","Er zijn dendrieten in de hersenen die een actiepotentiaal doorgeven aan axonen via acetylcholine die bindt aan nicotinereceptoren van axon dit gaat zo door totdat het het orgaan heeft bereikt","2025-10-15T16:09:50.390852+00:00"
+"assistant","Goed geprobeerd! Je benoemt de route van zenuwsignalen van de hersenen naar het orgaan, en noemt acetylcholine en nicotinereceptoren. Maar klopt het dat dit bij alle takken van het autonoom zenuwstelsel op dezelfde manier verloopt? Of zijn er verschillen tussen het sympathische en parasympatische deel — bijvoorbeeld in de signaalstoffen die uiteindelijk op het eindorgaan werken?
+
+Kun je voor beide systemen benoemen:
+1. Welke neurotransmitter(s) gebruikt worden bij het laatste deel (dus bij het orgaan zelf)?
+2. Tegen welk type receptor op het orgaan deze neurotransmitter werkt?","2025-10-15T16:10:00.53766+00:00"
+"user","Bij het laatste deel zijn acetylcholine en nicotinereceptoren","2025-10-15T16:10:52.038583+00:00"
+"assistant","Interessant antwoord! Acetylcholine is inderdaad een belangrijke neurotransmitter. Maar zijn het op het eindorgaan altijd nicotinereceptoren, of zijn er soms ook andere receptoren betrokken? Wat denk je dat het verschil is tussen de receptoren in parasympatische en sympathische systemen bij het doelorgaan? Heb je daar ideeën over?","2025-10-15T16:10:59.553344+00:00"
+"user","Je hebt nicotinereceptoren en bèta receptoren ofzo? Ik weet het niet meer precies","2025-10-15T16:11:49.734857+00:00"
+"assistant","Goed, dit is een logische gedachte! Je noemt nu nicotinereceptoren én bèta-receptoren. Laten we samen verder uitzoeken.
+
+Stel:  
+- In het parasympatisch zenuwstelsel — welke neurotransmitter wordt afgegeven bij het orgaan, en tegen welk type receptor?
+- In het sympathisch zenuwstelsel — welke neurotransmitter wordt daarbij juist vaak afgegeven, en op welk type receptor werkt die?
+
+Probeer deze twee situaties eens naast elkaar te zetten. Wat weet je daarvan? Of heb je een idee waar je het verschil zou kunnen zoeken?","2025-10-15T16:12:01.948988+00:00"
+"user","Ik denk dat adrenaline wordt toegediend bij het orgaan","2025-10-15T16:12:43.723114+00:00"
+"assistant","Dat is een slimme richting! Adrenaline en een verwante stof, noradrenaline, spelen inderdaad een rol bij het sympathisch zenuwstelsel, vooral bij het eindorgaan. Wil je eens proberen uit te leggen op welke receptoren deze stoffen aangrijpen op het orgaan? En weet je hoe dat verschilt van het parasympatisch zenuwstelsel? 
+
+Laat maar weten wat je kunt bedenken—of waar je nog over twijfelt.","2025-10-15T16:12:55.333195+00:00"
+"user","Ik weet niet welke receptoren","2025-10-15T16:14:39.632025+00:00"
+"assistant","Dat is geen probleem! Dat is voor veel studenten lastig te onthouden. Je hebt nu goed aangegeven dat noradrenaline (en soms adrenaline) een rol spelen bij het sympathisch zenuwstelsel bij het eindorgaan. 
+
+Stel je voor: in het sympathische systeem binden noradrenaline en adrenaline aan zogeheten adrenerge receptoren, bijvoorbeeld de alfa- en bèta-receptoren. Denk je dat deze receptoren allemaal hetzelfde effect hebben op verschillende organen, of zou dat kunnen verschillen? Wat verwacht je, en waarom?","2025-10-15T16:14:52.430177+00:00"
+"user","Verschillende effecten, maar ik weet niet meer waarom","2025-10-15T16:15:25.329516+00:00"
+"assistant","Heel logisch gedacht! Inderdaad, de verschillende adrenerge receptoren (zoals alfa- en bèta-receptoren) veroorzaken verschillende effecten, afhankelijk van waar ze zich bevinden en welke stof eraan bindt.
+
+Even samenvattend:  
+- In het sympathisch zenuwstelsel wordt meestal noradrenaline afgegeven aan het orgaan zelf. Dat werkt op α (alfa) en β (bèta) adrenerge receptoren.
+- In het parasympathisch systeem wordt acetylcholine afgegeven aan zogeheten muscarine-receptoren op het doelorgaan.
+
+Heb je nu een idee wat er in het lichaam gebeurt als het sympathisch zenuwstelsel actief wordt? Kun je uitleggen welke veranderingen je verwacht bij bijvoorbeeld het hart, de longen, de huid, spijsvertering? Je hoeft niet alles te weten; probeer het eens met je eigen kennis!","2025-10-15T16:15:41.475499+00:00"
+"user","Hartslag omhoog longen sneller ademen huid gaat zweten spijsvertering wordt gepauzeerd","2025-10-15T16:17:40.302691+00:00"
+"assistant","Heel goed! Je noemt precies de juiste effecten: versnelde hartslag, snellere ademhaling, transpiratie, en een rem op de spijsvertering. Dat past helemaal bij een “fight or flight”-reactie.
+
+We hebben nu samen de belangrijkste kennis over het sympathisch en parasympathisch zenuwstelsel herhaald:
+- Sympathisch: actief bij stress, geeft noradrenaline af aan adrenerge (alfa/bèta) receptoren.
+- Parasympathisch: actief in rust, geeft acetylcholine af aan muscarine-receptoren.
+
+Zullen we doorgaan naar het toepassen van deze kennis op de oorspronkelijke casus? Ben je er klaar voor om naar de volgende fase te gaan, of heb je nog een vraag over deze basis?","2025-10-15T16:17:52.511758+00:00"
+"user","Wat is het verschil tussen alfa en bèta receptoren","2025-10-15T16:18:30.854701+00:00"
+"assistant","Goede vraag! Er zijn inderdaad verschillen tussen alfa- en bèta-receptoren, vooral in waar ze zich bevinden en welke effecten ze in gang zetten.
+
+Wil je een idee vormen waar je ze ongeveer tegenkomt?  
+- Kun je bedenken in welke organen of weefsels vooral alfa-receptoren een rol spelen, en waar juist bèta-receptoren belangrijk zijn?
+- En heb je een vermoeden welk effect bijvoorbeeld een bèta-receptor op het hart zou kunnen hebben versus een alfa-receptor op een bloedvat? 
+
+Probeer eens een inschatting te maken op basis van logica of je eerdere kennis!","2025-10-15T16:18:41.061073+00:00"
+"user","In weefsels en organen die vooral bij sympathische zenuwstelsel actief zijn","2025-10-15T16:19:34.207839+00:00"
+"assistant","Dat klopt! Ze komen vooral voor in organen en weefsels die reageren op sympathische activiteit. Kun je nog iets specifieker worden? Bijvoorbeeld: waar verwacht je alfa-receptoren meestal te vinden en wat doen ze dan? En hoe zit dat met bèta-receptoren? 
+
+Denk bijvoorbeeld aan het verschil tussen bloedvaten, het hart en de luchtwegen. Wat denk je dat adrenerge receptoren daar doen?","2025-10-15T16:19:44.171348+00:00"
+"user","Ik weet dus niet het verschil tussen alfa en bèta receptoren dus ik heb geen idee ook wat ze doen","2025-10-15T16:20:24.472465+00:00"
+"assistant","Geen probleem, dit is een belangrijk leerpunt! Laten we het samen kort structureren:
+
+- **Alfa-1-receptoren** zitten vooral op de spiercellen van bloedvaten in de huid en organen. Als deze receptoren geactiveerd worden (door noradrenaline), trekken de bloedvaten samen (vasoconstrictie), zodat bloed naar de spieren kan gaan.
+
+- **Bèta-1-receptoren** zitten vooral op het hart. Als deze gestimuleerd worden, gaat het hart sneller en krachtiger kloppen.
+
+- **Bèta-2-receptoren** zitten o.a. op de spieren van de luchtwegen (bronchiën). Door activatie ontspannen deze spieren juist, waardoor de luchtwegen wijder worden (bronchodilatatie), zodat je gemakkelijker kunt ademen.
+
+Weet je nu, als je naar deze informatie kijkt, welk type receptor de “snellere hartslag” veroorzaakt en welke zorgt voor verwijding van de luchtwegen? Kun je de juiste koppeling maken?","2025-10-15T16:20:40.90931+00:00"
+"user","Snellere hartslag beta 1 receptor verwijding luchtwegen bèta 2","2025-10-15T16:21:53.576383+00:00"
+"assistant","Heel goed! Dat klopt precies:
+
+- Snellere hartslag: β₁-receptor
+- Verwijding van de luchtwegen: β₂-receptor
+
+Nu je dit onderscheid kent tussen de belangrijkste receptoren in het sympathisch zenuwstelsel, zijn er nog vragen over de basis? Of zullen we nu deze kennis toepassen op de casus van de student?
+
+Laat het gerust weten!","2025-10-15T16:22:00.988275+00:00"
+"user","Toepassen","2025-10-15T16:22:12.0233+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Hier is nogmaals de casus:
+
+###VIGNETTE 1###
+Een 19-jarige jongen vertelt dat hij tijdens zijn eerste universitaire examens begon te merken dat zijn hart hevig klopte, zijn handpalmen bezweet raakten en zijn ademhaling versnelde. Ook voelde hij zich wat misselijk en had hij een droge mond. Nadat hij was aangekomen en had plaatsgenomen in de examenzaal, haalde hij een paar keer diep adem. Binnen 10 minuten vertraagde zijn hartslag, normaliseerde zijn ademhaling, en kreeg hij aandrang om naar het toilet te gaan.
+
+Kun je nu, met de kennis van net, uitleggen waardoor de symptomen van deze student ontstaan? Denk weer aan het sympathisch en parasympathisch zenuwstelsel. Leg stap voor stap uit!","2025-10-15T16:22:24.271238+00:00"
+"user","Eerst was sympathisch erg actief omdat de jongen gestresst was en er werd veel adrenaline afgegeven. Hierdoor ging hartslag omhoog, sneller ademen en zweten en stoppen van spijsvertering. Toen de toets begonnen was nam deze spanning af en begon het parasympatische meer over te nemen en kwam de jongen meer in rust en kwam de spijsvertering weer op gang en dus kreeg de jongen drang om naar de wc te gaan","2025-10-15T16:24:41.310634+00:00"
+"assistant","Dat is al een sterke uitleg! Netjes de overgang beschreven tussen het sympathisch en parasympathisch systeem. Kun je nog iets meer in detail benoemen welke receptoren en neurotransmitters in deze situatie verantwoordelijk zijn voor:
+- Het versnellen van de hartslag en het verwijden van de luchtwegen tijdens de stressfase?
+- De verandering die optreedt wanneer het parasympathisch systeem weer actief wordt nadat de stress afneemt?
+
+Probeer erbij te benoemen welke stof waar wordt afgegeven en aan welk type receptor dat bindt.","2025-10-15T16:24:52.328666+00:00"
+"user","Er werd in het begin veel beta 1 afgegeven bij het hart en beta 2 bij de longen deze binden aan adrenerge receptoren","2025-10-15T16:26:29.613066+00:00"
+"assistant","Dat gaat de goede kant op! Kleine correctie: het sympathische zenuwstelsel geeft niet direct “beta 1 of beta 2” af, maar noradrenaline (en soms adrenaline) wordt afgegeven en die binden aan β₁- en β₂-adrenerge receptoren op het hart en de longen. 
+
+Kun je nu uitleggen wat er gebeurt als het parasympatische systeem weer actief wordt als de student tot rust komt? Welke neurotransmitter speelt daar een rol, en aan welk type receptor bindt die op de organen zoals het hart en de blaas?","2025-10-15T16:26:39.716209+00:00"
+"user","Acetylcholine en muscarine receptoren","2025-10-15T16:27:39.420268+00:00"
+"assistant","Helemaal juist! Acetylcholine wordt afgegeven door het parasympathisch systeem en bindt aan muscarine-receptoren, bijvoorbeeld op het hart (waardoor de hartslag daalt) en op de blaas (waardoor je aandrang kunt krijgen om te plassen). 
+
+Je kunt nu mooi het hele verhaal van de student uitleggen!
+
+###VIGNETTE 1###
+Een 19-jarige jongen vertelt dat hij tijdens zijn eerste universitaire examens begon te merken dat zijn hart hevig klopte, zijn handpalmen bezweet raakten en zijn ademhaling versnelde. Ook voelde hij zich wat misselijk en had hij een droge mond. Nadat hij was aangekomen en had plaatsgenomen in de examenzaal, haalde hij een paar keer diep adem. Binnen 10 minuten vertraagde zijn hartslag, normaliseerde zijn ademhaling, en kreeg hij aandrang om naar het toilet te gaan.
+
+###ASSESSMENT QUESTION###
+Hoe begrijp je nu de symptomen in deze casus? Schrijf alles gedetailleerd uit wat je kunt bedenken — jouw ideeën, redenaties en de koppeling met je opgedane kennis. Hoe vollediger je uitleg, hoe beter je dit onthoudt, je voorbereid op tentamens en je diagnostische vaardigheden in soortgelijke klinische situaties ontwikkelt!","2025-10-15T16:28:01.791202+00:00"
+"user","Ik heb dit net al gedaan dus ik ga het niet nog een keer doen","2025-10-15T16:29:10.498191+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Prima, dan maken we nu de overstap naar een vergelijkbare, maar andere situatie:
+
+###VIGNETTE 2###
+Een 76-jarige man staat op een warme middag in de rij bij de apotheek. Na een paar minuten voelt hij zich licht in het hoofd, misselijk en zweterig. Hij krijgt een gevoel van “tunnelzicht” voordat hij kort het bewustzijn verliest en in elkaar zakt. Omstanders helpen hem op de grond, en na een paar minuten bijkomen voelt hij zich zwak maar weer alert, met een trage hartslag en lage bloeddruk. In het begin had hij een trage hartslag en lage bloeddruk. Na een paar minuten is hij volledig hersteld.
+
+Kun je uitleggen waardoor deze symptomen bij deze man ontstaan vanuit het autonome zenuwstelsel, en hoe het herstel optreedt? Denk aan de rol van het sympathisch en parasympathisch systeem, en gebruik waar mogelijk de kennis over receptoren en signaalstoffen.","2025-10-15T16:29:25.702279+00:00"
+"assistant","Learning Context and Roles  
+Dit gesprek vond plaats in een medisch onderwijskader, waarschijnlijk een één-op-één tutorgesprek of oefenscenario gericht op het begrijpen en uitleggen van fysiologie—specifiek het autonome zenuwstelsel, neurotransmitters en receptoren. Het doel van deze feedback is om de ontwikkeling van kennis, klinisch redeneren en uitlegvaardigheden te ondersteunen en te versterken.
+
+A. What Went Well
+- Toonde bereidheid om vragen te beantwoorden en relevante kennis te activeren, ook als het antwoord niet zeker werd geformuleerd.
+- Gaf bij vorderende vragen vaak logische, goed gefundeerde schattingen en erkende openlijk wanneer kennis ontbrak, wat leermotivatie en zelfreflectie toont.
+- Maakte gedurende het gesprek een duidelijke inhoudelijke groei in het onderscheiden tussen neurotransmitters en receptortypen en hun functionele rollen.
+- Toonde professionele en open houding door aan te geven wat wel of niet geweten werd (bijvoorbeeld: ""ik weet niet welke receptoren""), wat constructief is voor leerprocessen.
+- Maakte in latere antwoorden correcte koppelingen tussen specifieke receptortypes (β₁ op het hart, β₂ op de longen) en hun fysiologische effecten.
+
+B. Areas for Improvement
+- In sommige antwoorden werden details onnauwkeurig of onvolledig benoemd (bijvoorbeeld het verwarren van de vrijgegeven stof met het type receptor).
+- Het uitwerken van uitleg werd soms vermeden (""Ik heb dit net al gedaan dus ik ga het niet nog een keer doen""), waardoor transfer en herhaling beperkt bleef.
+- Soms werd vaag of oppervlakkig geantwoord (“bèta-receptoren ofzo?” en “in weefsels en organen die vooral bij sympathische zenuwstelsel actief zijn”), waardoor inzicht niet optimaal getoond werd.
+- Er werd niet altijd responsief omgegaan met uitnodigingen tot verdere reflectie of verdieping als de tutor daar expliciet om vroeg (vooral bij de assessment-vraag).
+
+C. Actionable Suggestions  
+1. *Waarom het ertoe doet*: Precieze terminologie en volgorde vergroten klinisch inzicht en toetsresultaten.  
+   *Hoe te implementeren*: Neem de tijd om expliciet te benoemen: ""Het sympathische systeem geeft noradrenaline af, dat bindt aan β₁-receptoren op het hart,"" in plaats van alleen het receptor-type te noemen.
+   
+2. *Waarom het ertoe doet*: Volledige antwoorden op oefenvragen verdiepen begrip en maken transfer van kennis mogelijk.  
+   *Hoe te implementeren*: Wanneer gevraagd wordt om een redenering volledig uit te schrijven, geef dan een korte maar volledige uitleg als herhaling, ook als het eerder besproken is.
+
+3. *Waarom het ertoe doet*: Zelfkennis en lacunes expliciet benoemen helpt gericht bijleren.  
+   *Hoe te implementeren*: Noteer tijdens het beantwoorden van vragen wat je niet zeker weet (“Ik weet niet zeker of het alfa- of bètareceptoren zijn bij bloedvaten”) en vraag zo nodig om aanvullende uitleg.
+
+4. *Waarom het ertoe doet*: Responsief ingaan op tutorvragen stimuleert hogere-orde-denken en versterkt het leerproces.  
+   *Hoe te implementeren*: Probeer altijd een logisch antwoord of een beredeneerde schatting te geven, zelfs als je niet zeker bent, en koppel terug aan de informatie uit eerdere delen van het gesprek.
+
+Forward-looking guidance  
+In het volgende gesprek kun je je richten op het telkens volledig uitschrijven en beargumenteren van je redeneringen, en actief gebruikmaken van precieze terminologie. Door nog actiever in te gaan op verdiepende vervolgvragen zal je begrip en klinisch redeneren verder verbeteren.","2025-10-15T16:31:16.338+00:00"

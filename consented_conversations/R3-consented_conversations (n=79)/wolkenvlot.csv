@@ -1,0 +1,141 @@
+"role","content","created_at"
+"user","Laten we beginnen","2025-10-15T16:01:20.398398+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Hier is de casus:
+
+###VIGNETTE 1###
+Een 19-jarige jongen vertelt dat hij tijdens zijn eerste universitaire examens voelde dat zijn hart begon te bonzen, zijn handpalmen zweterig werden en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook een beetje misselijk en had een droge mond. Nadat hij aankwam in het examenzaal en ging zitten, haalde hij een paar keer diep adem. Binnen tien minuten vertraagde zijn hartslag, normaliseerde zijn ademhaling en kreeg hij de aandrang om naar het toilet te gaan.
+
+Mijn eerste vraag aan jou:  
+Kun je uitleggen waardoor de student deze symptomen ervaart? Denk aan het deel van het autonome zenuwstelsel dat hiervoor verantwoordelijk is.","2025-10-15T16:01:32.029713+00:00"
+"user","Het sympatisch zenuwstelsel gaat actie onder met de run and flight methode waardoor je deze symptomen ervaart. Door de stress over het examen gaat dit aan en ervaar je dit","2025-10-15T16:03:54.981388+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we even pauzeren en beginnen met Fase 1 – Kennisactivatie. In deze fase overlopen we kort de hoofdconcepten en mechanismen die bij deze casus horen. Heb je op dit moment al specifieke vragen, of punten die je graag zou willen verduidelijken voordat we starten?
+
+Zo niet, dan zal ik een eerste vraag stellen:  
+Weet je wat de twee hoofdonderdelen zijn van het autonome zenuwstelsel, en wat elk daarvan doet?","2025-10-15T16:04:04.058404+00:00"
+"user","Sympatisch en parasympatisch.","2025-10-15T16:04:53.760724+00:00"
+"assistant","Precies!  
+Kun je kort beschrijven wat elk van deze systemen doet in het lichaam? Bijvoorbeeld: wanneer wordt het sympathisch systeem vooral actief, en wanneer juist het parasympathisch systeem?","2025-10-15T16:05:08.950202+00:00"
+"user","Sympatisch is voor een reactie op iets vecht of vlucht, het zet iets aan en parasympatisch is voor rust en herstel","2025-10-15T16:06:08.945569+00:00"
+"assistant","Dat klopt helemaal!  
+Kun je uitleggen hoe een signaal van het brein uiteindelijk een orgaan bereikt binnen dit systeem? Bijvoorbeeld: Hoe gaat dat bij het sympathisch zenuwstelsel? Wat gebeurt er vanaf het moment dat je je gestrest voelt, tot aan het orgaan dat reageert?","2025-10-15T16:06:15.49707+00:00"
+"user","Er worden dan stofjes afgegeven die leiden tot verschillende dingen. Hormonen worden afgegeven en er worden neurotransmitters door het lichaam gestuurd voor actiepotentialen die bijvoorbeeld de spieren aansturen voor bepaalde acties","2025-10-15T16:07:18.555837+00:00"
+"assistant","Mooi, je hebt het over neurotransmitters en hormonen die signalen doorgeven!  
+Kun je specifieker benoemen welke ""stofjes"" (neurotransmitters) vooral betrokken zijn bij het sympathisch en parasympathisch zenuwstelsel? En weet je misschien ook welke receptoren hierbij een rol spelen, bijvoorbeeld in het hart en de longen?","2025-10-15T16:07:27.261116+00:00"
+"user","Calcium en natrium voor het actiepotentiaal en ik weet niet precies welke neurotransmitters of receptoren dat zijn. In de axonen wordt dit gedaan","2025-10-15T16:08:21.123355+00:00"
+"assistant","Dat is een logische gedachte – calcium en natrium zijn inderdaad betrokken bij het ontstaan van actiepotentialen in zenuwcellen zelf. Maar de communicatie tussen zenuw en orgaan gebeurt via neurotransmitters.
+
+Bij het sympathisch systeem wordt vooral noradrenaline (norepinefrine) gebruikt om het uiteindelijke doelorgaan aan te sturen. De receptoren waarop noradrenaline werkt, heten adrenerge receptoren: bijvoorbeeld β₁-receptoren in het hart (verhogen hartslag), β₂-receptoren in de longen (verwijden luchtwegen), en α₁-receptoren in de bloedvaten (vernauwing bloedvaten).
+
+Bij het parasympathisch systeem is acetylcholine de belangrijkste neurotransmitter. Deze werkt op muscarine receptoren in het hart (vertragen de hartslag) en organen van het spijsverteringskanaal.
+
+Wil je op dit punt nog iets verduidelijkt hebben, of wil je door naar de volgende fase? Heb je nog andere vragen over sympathisch versus parasympathisch?","2025-10-15T16:08:37.275171+00:00"
+"user","Door naar volgende fas","2025-10-15T16:09:01.831441+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Hier is opnieuw de casus:
+
+###VIGNETTE 1###
+Een 19-jarige jongen vertelt dat hij tijdens zijn eerste universitaire examens voelde dat zijn hart begon te bonzen, zijn handpalmen zweterig werden en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook een beetje misselijk en had een droge mond. Nadat hij aankwam in het examenzaal en ging zitten, haalde hij een paar keer diep adem. Binnen tien minuten vertraagde zijn hartslag, normaliseerde zijn ademhaling en kreeg hij de aandrang om naar het toilet te gaan.
+
+Nu we de basiskennis hebben besproken:  
+Kun je met die kennis uitleggen welke autonome mechanismen deze symptomen bij de student veroorzaken? Probeer zo precies mogelijk te benoemen welke systemen, neurotransmitters en receptoren betrokken zijn, én wat die voor gevolgen hebben voor zijn organen.","2025-10-15T16:09:14.940462+00:00"
+"user","Het sympatische deel gaat aan en zorgt voor het afgeven van nordrenaline. Dit bindt aan de beta receptoren van bijvoorbeeld het hard en de longen waardoor het sneller gaat kloppen. Er wordt dan meer warmte geproduceerd door meer actiepotentialen door de neurotransmitter waardoor die warmte kwijt moet door het zweten. Zo worden deze symptomen veroorzaakt","2025-10-15T16:11:25.240317+00:00"
+"assistant","Goed, je benoemt het sympathisch deel, noradrenaline en de effecten op hart en longen via beta-receptoren. Je noemt ook zweten als gevolg van meer activiteit.
+
+Kun je nog iets meer uitleggen over:
+- Waarom de student juist een droge mond krijgt, en 
+- Waarom hij na het ontspannen ineens de aandrang krijgt om naar het toilet te gaan?  
+Denk hierbij ook aan de rol van het parasympathisch systeem. Wat verandert er als je van spanning naar ontspanning gaat?","2025-10-15T16:11:35.53188+00:00"
+"user","Een droge mond krijgt de student omdat hij veel vocht verliest door de snellere hartkloppingen en het zweten. Na het ontspannen zorgt het parasympAtische zenuwstelsel ervoor dat de rust en herstel aangaat. Er wordt aangestuurd met de neurotransmitter acetylcholine dat de vertering aangaat en meer rust weer.","2025-10-15T16:13:54.216834+00:00"
+"assistant","Je hebt het goed dat het parasympathisch systeem na ontspanning weer geactiveerd wordt, met acetylcholine als neurotransmitter. Dat zorgt inderdaad voor rust en herstel, zoals het stimuleren van de spijsvertering.
+
+Wat betreft de droge mond: kan het zijn dat er ook een directe invloed is van het sympathisch systeem op de speekselklieren, los van vochtverlies door zweten?  
+En kun je uitleggen waarom mensen soms aandrang tot plassen krijgen juist als de spanning afneemt, in plaats van tijdens de stress?
+
+Probeer deze twee aspecten eens verder uit te leggen.","2025-10-15T16:14:04.094368+00:00"
+"user","Het sympatisch systeem zet vooral andere systemen aan dus dan gaan de speekselklieren minder werken waardoor er een droge mond komt. Ook het plassen is niet meer een hoofdzaak van het lichaam dus als sympatische deel niet meer het doet en parasympatisch neemt over dan gaan de andere systemen weer werken","2025-10-15T16:16:28.539049+00:00"
+"assistant","Heel goed uitgelegd!  
+Door activatie van het sympathisch systeem wordt de speekselproductie daadwerkelijk geremd, en dat verklaart de droge mond. Zodra het parasympathisch systeem weer actief wordt, krijgen organen hun ""rust- en herstel""-signalen terug. Dit betekent onder andere dat de blaaswand weer kan samentrekken, waardoor je aandrang voelt om te plassen.
+
+We herhalen nog een keer de casus voor de laatste vraag van deze fase:
+
+###VIGNETTE 1###
+Een 19-jarige jongen vertelt dat hij tijdens zijn eerste universitaire examens voelde dat zijn hart begon te bonzen, zijn handpalmen zweterig werden en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook een beetje misselijk en had een droge mond. Nadat hij aankwam in het examenzaal en ging zitten, haalde hij een paar keer diep adem. Binnen tien minuten vertraagde zijn hartslag, normaliseerde zijn ademhaling en kreeg hij de aandrang om naar het toilet te gaan.
+
+###ASSESSMENT QUESTION###
+Hoe begrijp je nu de symptomen in deze casus? Schrijf zo volledig mogelijk op wat je denkt — jouw ideeën, jouw redenering, en hoe je het koppelt aan wat je geleerd hebt. Hoe vollediger, hoe meer het je zal helpen bij je begrip én je voorbereiding op klinisch redeneren!","2025-10-15T16:16:49.800357+00:00"
+"user","Het sympatische zenuwstelsel gaat aan door de stress een geeft de neurotransmitter noradrenaline af. Deze bindt aan de beta receptoren waardoor het hart sneller gaat kloppen. Meer actiepotentialen en andere systemen verminderen met werken, zoals de speekselklieren of de blaas. Hierdoor wordt er ook gezweet omdat er meer vocht kwijt moet en is er een droge mond. Na het zitten gaan en het rustig ademhalen gaat het parasympatische deel aan en dit zorgt voor rust en herstel door de neurotransmitter acetylcholine. Deze zorgt voor weer het opgang van de systemen en ook de vertering gaat aan.","2025-10-15T16:20:26.855519+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Nu gaan we naar een nieuwe situatie:
+
+###VIGNETTE 2###
+Een 76-jarige man staat in de rij bij de apotheek op een warme middag. Na enkele minuten begint hij zich licht in het hoofd, misselijk en zweterig te voelen. Hij ervaart een “tunnelvisie” voordat hij kort het bewustzijn verliest en in elkaar zakt. Omstanders helpen hem op de grond en na een paar minuten liggen komt hij weer bij, voelt zich zwak maar alert, met een trage hartslag en lage bloeddruk. Na nog een paar minuten is hij volledig hersteld.
+
+Leg uit welke rol het autonome zenuwstelsel speelt bij de symptomen van deze man, én bij zijn herstel. Probeer gebruik te maken van je kennis over sympathisch en parasympathisch.","2025-10-15T16:20:39.601548+00:00"
+"user","Door de warme dag kan zijn lichaam het niet meer aan waardoor het sympatische deel aangaat en de neurotransmitter noradrenaline afgeeft. Deze bindt aan de beta receptoren waardoor het hart sneller gaat kloppen en er meer warmte wordt geproduceerd waardoor er wordt gezweet. Er kan minder zuurstof worden gebonden waardoor de man zich ligt in het hoofd voelt. Na bewustzijn verliezen neemt het parasympatische deel het over en wordt de hartslag vertraagd en de andere systemen gaan weer aan","2025-10-15T16:24:32.572428+00:00"
+"assistant","Mooie poging! Je hebt al goed nagedacht over de verandering van sympathisch naar parasympathisch. Laten we even meer inzoomen op de volgorde en wat er precies misgaat:
+
+Als de man lang in de hitte staat, probeert zijn lichaam de temperatuur te reguleren.  
+Maar op een gegeven moment voelt hij zich licht in het hoofd, wordt zweterig en ziet ‘tunnelvisie’. Waarom gebeurt dat volgens jou? Is het sympathisch systeem hier overdreven actief, of gebeurt er juist iets onverwachts met het parasympathisch systeem? 
+
+Kun je uitleggen wat vasovagale syncope is, en welke rol het parasympathisch zenuwstelsel (via de nervus vagus) precies speelt bij het flauwvallen in deze situatie?","2025-10-15T16:24:44.88932+00:00"
+"user","Ik heb geen idee wat vasovagale syncope is en ook niet wat de nervus vagus is","2025-10-15T16:25:29.592905+00:00"
+"assistant","Geen probleem! Dat zijn goede vragen en precies waar deze casus om draait.
+
+Laten we een stapje terug doen:  
+Bij vasovagale syncope (flauwvallen) krijgt het parasympathisch zenuwstelsel ineens een flinke ""boost"", vooral via één grote zenuw: de nervus vagus. Dit gebeurt soms bij warmte, lang staan, pijn of stress. Het gevolg is dat je hart langzamer gaat kloppen (bradycardie) én je bloedvaten zich verwijden. Daardoor daalt je bloeddruk snel en komt er minder bloed in je hersenen, waardoor je kunt flauwvallen.
+
+Kun je nu met deze uitleg het verloop bij deze man opnieuw uitleggen? Probeer vooral te benoemen:
+- Wat gebeurt er net vóórdat hij flauwvalt?
+- Welke rol speelt het plotseling actief worden van het parasympathisch systeem hier?
+- En wat gebeurt er nadat hij is gaan liggen?","2025-10-15T16:25:43.868556+00:00"
+"user","Door de warmte kan zijn lichaam niet meer de temperatuur reguleren. Het parasympatische deel krijgt een boost en laat de hartslag sterk dalen door acetylcholine. Hierdoor verwijden ook de bloedvaten en gaat er minder zuurstof naar de hersenen door daling van de bloeddruk. Hierdoor voelt hij zich licht in zijn hoofd en valt hij uiteindelijk flauw. Uiteindelijk na het liggen is er weer rust en gaat het parasympatische deel weer minder opspelen waardoor de bloedvaten weer meer vernauwen en halet hart sneller gaat kloppen","2025-10-15T16:29:00.496618+00:00"
+"assistant","Mooi uitgelegd! Je beschrijft nu goed hoe het parasympathisch systeem (via de nervus vagus en acetylcholine) zorgt voor een daling van de hartslag en verwijding van de bloedvaten, wat leidt tot tijdelijk te weinig bloed naar het brein en flauwvallen. Na het liggen neemt de doorbloeding van het hoofd toe en komt het autonome evenwicht weer terug.
+
+Hiermee heb je de kern van het verhaal en zie je het verschil met de eerste casus: in plaats van stress en sympathicus, wordt het parasympathisch systeem plots te sterk geactiveerd.
+
+Wil je hier nog iets over vragen of wil je zelf proberen samen te vatten hoe deze twee vignetten laten zien dat het autonome systeem altijd weer naar balans probeert te zoeken?","2025-10-15T16:29:14.454471+00:00"
+"user","Nee hoor","2025-10-15T16:29:18.877538+00:00"
+"assistant","Prima, goed gedaan! Hiermee sluiten we de sessie af. Als je wilt oefenen met andere casussen of onderwerpen, kun je altijd opnieuw beginnen. Succes met studeren!","2025-10-15T16:29:24.476539+00:00"
+"assistant","Learning context and roles  
+• The setting is a structured tutoring session, likely in (bio)medical or health sciences education, focused on clinical reasoning about the autonomic nervous system using patient vignettes.  
+• The purpose of this feedback is to help the learner (user) consolidate knowledge on neurophysiology, improve reasoning, and prepare for similar future cases.
+
+A. What Went Well  
+- You consistently recognized and applied the basic distinction between het sympathisch and parasympathisch zenuwstelsel, showing foundational understanding.  
+- Your answers were concise and generally addressed the prompts directly, demonstrating engagement and efficiency.  
+- You transparently communicated your uncertainties (“Ik heb geen idee...”), enabling the tutor to address gaps explicitly.  
+- You could integrate new information quickly after feedback (e.g., correcting mechanisms underlying droge mond and flauwvallen).  
+- You showed some progression from basic recall to simple application and explanation, especially in linking neurotransmitters and receptors to effects.
+
+B. Areas for Improvement  
+- Some explanations were overly brief or lacked specificity, especially regarding neurochemical details (e.g., precise neurotransmitters, receptor subtypes, organ effects).  
+- There were occasional inaccuracies, such as confusion between general ion flow (calcium/natrium) and named neurotransmitters/receptors.  
+- Your reasoning about symptom mechanisms was not always clearly or fully elaborated (e.g., heat regulation, vasovagale syncope pathophysiology).  
+- There was limited use of clinical reasoning language and little explicit reflection on differences/similarities between cases.  
+- Some missed opportunities to connect physiological mechanisms to observable clinical signs in a more integrative way.
+
+C. Actionable Suggestions  
+1. *Clarify and specify physiological details.*  
+ Why it matters: Precise understanding of neurotransmitters, receptors, and organ responses is essential for clinical reasoning and exam success.  
+ How to implement: When describing symptom mechanisms, name the neurotransmitter (e.g., noradrenaline), the key receptor (e.g., β1 in the heart), and the resulting effect (e.g., verhoogde hartslag); use clear, complete sentences.
+
+2. *Differentiate ionic events from neurotransmitter action.*  
+ Why it matters: Distinguishing between general neuron physiology and specific synaptic signaling prevents conceptual errors.  
+ How to implement: Before answering, pause to check if the question is about action-potential propagation (ions: Na+, Ca2+) or about signaling across synapses (neurotransmitters: noradrenaline, acetylcholine) and describe only the relevant process.
+
+3. *Strengthen clinical reasoning and comparative reflection.*  
+ Why it matters: Analysing and connecting different clinical scenarios builds deeper understanding and prepares you for complex real-life cases.  
+ How to implement: After each case, briefly summarize the core mechanism and then compare/contrast with previous cases, noting both similarities and differences in system activation (e.g., stress vs. vasovagale triggers).
+
+4. *Explicitly relate underlying mechanisms to symptoms.*  
+ Why it matters: Linking physiological events to observable patient symptoms demonstrates higher-order thinking and is crucial for clinical practice.  
+ How to implement: For each symptom in a vignette, add a clause that connects the physiological change (e.g., vasodilatatie) directly to the observed sign (e.g., lage bloeddruk, duizeligheid).
+
+Forward-looking guidance  
+In your next session, focus on articulating the sequence of physiological events in more detail and practice drawing direct connections between neurotransmitter/receptor action and patient symptoms. Try to summarize and compare key differences between cases to develop more flexible clinical reasoning.","2025-10-15T16:30:07.783+00:00"

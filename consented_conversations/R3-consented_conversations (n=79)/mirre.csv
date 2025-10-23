@@ -1,0 +1,99 @@
+"role","content","created_at"
+"user","lets go","2025-10-15T13:11:30.278571+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Hier is het eerste vignet:
+
+###VIGNETTE 1###
+Een 19-jarige jongen meldt dat hij, toen hij naar zijn eerste universitaire examens ging, begon te voelen dat zijn hart snel klopte, zijn handpalmen werden zweterig en zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Nadat hij was aangekomen in de examenzaal en ging zitten, haalde hij een paar keer diep adem. Binnen 10 minuten werd zijn hartslag weer langzamer, zijn ademhaling normaal, en kreeg hij aandrang om naar het toilet te gaan.
+
+Kun je uitleggen welke symptomen de student ervaart? Denk na over het deel van het autonome zenuwstelsel dat verantwoordelijk is voor deze klachten.","2025-10-15T13:11:42.524133+00:00"
+"user","Hij ervaarde stress en zenuwen waarop het lichaam reageerde door de afgifte van hormonen","2025-10-15T13:12:24.146636+00:00"
+"assistant","Great try! Laten we even kort pauzeren en starten met Fase 1 – Kennisactivering. In deze fase gaan we de belangrijkste concepten en mechanismen achter deze casus kort doornemen. Heb je op dit moment vragen of punten die je graag eerst zou willen verduidelijken voordat we verdergaan?
+
+Als je geen vragen hebt, wil ik je uitnodigen om deze te beantwoorden:  
+Weet je wat de twee hoofddelen van het autonome zenuwstelsel zijn, en wat elk deel doet?","2025-10-15T13:12:32.834413+00:00"
+"user","het sympatisch en parasympatisch zenuwstelse,
+de ene is actief in actieve stand, en de andere in rust","2025-10-15T13:13:12.672503+00:00"
+"assistant","Goed! Je noemt het sympathisch en parasympathisch zenuwstelsel, waarbij het sympathisch systeem het lichaam voorbereidt op actie en het parasympathisch systeem zorgt voor rust en herstel. 
+
+Kun je uitleggen hoe een signaal vanuit de hersenen uiteindelijk een orgaan bereikt in dit systeem? Wat gebeurt er tussen het brein en het uiteindelijke doelorgaan?","2025-10-15T13:13:22.057459+00:00"
+"user","een signaal vanuit de hersenen gaat door het ruggenmerg naar de organen, en deze stimuleren daarop dmv een neurohormonale reactie de afgifte van een hormoon","2025-10-15T13:14:07.683577+00:00"
+"assistant","Dat is een mooi begin! Nu een paar verdiepende vragen:  
+Je zegt dat het signaal via het ruggenmerg naar de organen loopt. Kun je uitleggen of het signaal direct van de hersenen naar het orgaan gaat, of zitten daar nog tussenstappen in?  
+En welke stofjes/gebeurtenissen zijn betrokken bij de communicatie tussen de zenuw en het orgaan? Heb je voorbeelden van welke neurotransmitters hierbij een rol spelen?","2025-10-15T13:14:16.135586+00:00"
+"user","neurotransmitters zoals acetylcholine of adrenaline, er zitten ook tussenstappe =n tussen maar ik ben deze wel even vergeten","2025-10-15T13:14:52.795724+00:00"
+"assistant","Goed dat je al benoemt dat zowel neurotransmitters als tussenstappen betrokken zijn. Je noemt acetylcholine en adrenaline — dat klopt! Wil je proberen de stappen te benoemen? Denk bijvoorbeeld aan hoeveel zenuwcellen er meestal zijn tussen het ruggenmerg en het doelorgaan, en welke neurotransmitter waar wordt gebruikt. Kun je dit zelf proberen in te vullen, of wil je dat ik je stap voor stap help?","2025-10-15T13:15:03.233298+00:00"
+"user","nou hoeveel cellen het zijn, geen idee, maar het gaat via een axon en een dendriet","2025-10-15T13:15:22.112557+00:00"
+"assistant","Je noemt dat het via een axon en een dendriet gaat, en dat klopt: signalen worden doorgegeven via zenuwcellen die zo met elkaar verbonden zijn. Zal ik je een hint geven?
+
+Denk aan het volgende: In het autonome zenuwstelsel zijn er meestal twee zenuwcellen op rij tussen het ruggenmerg en het doelorgaan.  
+Kun je nu bedenken wat er gebeurt bij het ‘overdrachtsstation’ tussen deze twee cellen? Weet je hoe deze verbinding heet, en welke neurotransmitter typisch wordt gebruikt op die plek?","2025-10-15T13:15:31.483697+00:00"
+"user","de post en de presynaptische bedoel je?","2025-10-15T13:15:48.387513+00:00"
+"assistant","Precies, dat bedoel ik! Tussen de twee zenuwcellen heb je een synaps, en je hebt daar een presynaptische en een postsynaptische zenuwcel.
+
+Kun je nu bedenken welke neurotransmitter meestal gebruikt wordt in deze synaps tussen de eerste en tweede zenuwcel in het autonome zenuwstelsel? (Dus tussen de preganglionaire en postganglionaire zenuwcel.)","2025-10-15T13:15:55.897451+00:00"
+"user","acetylcholine","2025-10-15T13:16:02.701269+00:00"
+"assistant","Goed! Acetylcholine wordt inderdaad meestal gebruikt als neurotransmitter tussen de preganglionaire en postganglionaire zenuwcel in zowel het sympathisch als het parasympathisch zenuwstelsel. 
+
+Nu nog één laatste stap voordat we overgaan naar fase 2:  
+Kun je kort uitleggen wat er gebeurt als het sympathisch of juist het parasympathisch zenuwstelsel actief wordt? Wat gebeurt er dan met het hart, de spijsvertering en de ademhaling?","2025-10-15T13:16:11.593173+00:00"
+"user","als het sympatisch zenuwstelsel actief wordt, worden organen geactiveerd en gaat bijvoorbeeld het hart sneller kloppen en de metabolisme sneller, ook gaat de ademhaling sneller","2025-10-15T13:16:51.519414+00:00"
+"assistant","Mooi omschreven! Dat komt goed overeen met de belangrijkste effecten van het sympathisch zenuwstelsel: hartslag omhoog, ademhaling versneld, energie vrijmaken. 
+
+Wil je ook het parasympathisch zenuwstelsel kort beschrijven? Wat gebeurt er als dat actief wordt met hart, ademhaling en spijsvertering?","2025-10-15T13:16:58.738876+00:00"
+"user","dat gaat allemaal omlaag","2025-10-15T13:17:08.847257+00:00"
+"assistant","Helder! Dus bij activatie van het parasympathisch zenuwstelsel: hartslag en ademhaling vertragen en de spijsvertering wordt juist gestimuleerd.
+
+Als dit voor jou allemaal duidelijk is, zullen we dan doorgaan naar de volgende fase, waarin we deze kennis toepassen op het vignette?
+
+Of heb je nog vragen over de basisprincipes van het autonome zenuwstelsel?","2025-10-15T13:17:18.031238+00:00"
+"user","ja","2025-10-15T13:17:34.450934+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Hier komt het vignet opnieuw:
+
+###VIGNETTE 1###
+Een 19-jarige jongen meldt dat hij, toen hij naar zijn eerste universitaire examens ging, begon te voelen dat zijn hart snel klopte, zijn handpalmen werden zweterig en zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Nadat hij was aangekomen in de examenzaal en ging zitten, haalde hij een paar keer diep adem. Binnen 10 minuten werd zijn hartslag weer langzamer, zijn ademhaling normaal, en kreeg hij aandrang om naar het toilet te gaan.
+
+Kun je nu, met de kennis die we net hebben besproken, uitleggen welke onderdelen van het autonome zenuwstelsel verantwoordelijk zijn voor deze klachten? Leg uit hoe de klachten ontstaan en weer verdwijnen.","2025-10-15T13:17:47.383642+00:00"
+"user","het parasympatisch en het sympatisch zenuwstelsel, waarbij door stimualtie van het sympatisch zenuwstelsel de hartslag omboog gaat en de ademhaling versnelde, en ook het zweten wordt hierdoor veroorzaakt
+na een aantal minuten had het parasympatisch zenuwstelsel de overhand die ervoor zorgde dat de hartslag en de ademhaling weer normaal werden","2025-10-15T13:19:13.727376+00:00"
+"assistant","Goed verwoord! Je combineert nu beide delen van het autonome zenuwstelsel en beschrijft wat er in het lichaam gebeurt tijdens stress en herstel.
+
+Zou je ook kunnen uitleggen waardoor die droge mond, misselijkheid en aandrang om naar het toilet te gaan ontstaan? Welke rol speelt hier het sympathisch of parasympathisch zenuwstelsel?","2025-10-15T13:19:21.183246+00:00"
+"user","geen idee","2025-10-15T13:19:31.093409+00:00"
+"assistant","Prima, laten we samen nadenken. Tijdens stress wordt het sympathisch zenuwstelsel actief. Denk je dat dit invloed heeft op de spijsvertering en speekselproductie? Wat gebeurt er bijvoorbeeld met speekselklieren als het sympathisch systeem actief is, en wat gebeurt er juist als het parasympathisch systeem dominant wordt na het ontspannen?","2025-10-15T13:19:44.39102+00:00"
+"user","ik denk dat als het synpatisch zenuwstelsel actief wordt dat je dan inderdaad een droge mond krijgt door verminderde speekselproductie","2025-10-15T13:20:30.057482+00:00"
+"assistant","Exact, dat klopt! Door de activatie van het sympathisch zenuwstelsel vermindert de speekselproductie, waardoor een droge mond ontstaat.
+
+Kun je ook beredeneren waarom iemand zich misselijk kan voelen en waarom er na ontspanning aandrang ontstaat om naar het toilet te gaan? Wat gebeurt er met de darmen tijdens stress en tijdens herstel?","2025-10-15T13:20:43.652039+00:00"
+"user","dat vind ik lastig uit te leggen","2025-10-15T13:21:06.129854+00:00"
+"assistant","Dat is begrijpelijk! Laten we het opsplitsen:
+
+Tijdens stress (sympathische activatie): wat denk je, wordt de spijsvertering gestimuleerd of juist geremd? En wat zou het effect daarvan kunnen zijn op misselijkheid?
+
+En als je daarna ontspant (parasympathische activatie), wat gebeurt er dan met de darmen en de blaas? Kun je dat proberen te benoemen?","2025-10-15T13:21:14.513579+00:00"
+"user","tijdens stress wordt de spijsvertering geremd, en daardoor wordt je denk ik misselijk","2025-10-15T13:21:44.847805+00:00"
+"assistant","Precies! Tijdens stress remt het sympathisch zenuwstelsel de spijsvertering, waardoor je je misselijk kunt voelen.
+
+En als het parasympathisch systeem daarna weer actief wordt tijdens ontspanning, wat gebeurt er dan met de darmen en de blaas? Waarom kan de drang ontstaan om naar het toilet te gaan?","2025-10-15T13:21:53.654054+00:00"
+"user","die trekken samen waardoor er aandrang kan komen","2025-10-15T13:22:13.765491+00:00"
+"assistant","Helemaal goed! Het parasympathisch zenuwstelsel stimuleert de activiteit van de darmen en veroorzaakt contractie van de blaas, wat kan leiden tot aandrang om naar het toilet te gaan.
+
+Nu je deze koppeling goed begrijpt, zullen we afronden met een uitgebreide oefenvraag:
+
+###VIGNETTE 1###  
+Een 19-jarige jongen meldt dat hij, toen hij naar zijn eerste universitaire examens ging, begon te voelen dat zijn hart snel klopte, zijn handpalmen werden zweterig en zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Nadat hij was aangekomen in de examenzaal en ging zitten, haalde hij een paar keer diep adem. Binnen 10 minuten werd zijn hartslag weer langzamer, zijn ademhaling normaal, en kreeg hij aandrang om naar het toilet te gaan.
+
+###ASSESSMENT QUESTION###  
+Hoe begrijp je nu de symptomen in deze casus? Schrijf alle details op die je kunt bedenken — jouw ideeën, redeneringen, en koppelingen met wat je hebt geleerd. Hoe vollediger je uitleg, hoe meer het je helpt voor je inzicht, examenvoorbereiding en het stellen van diagnoses in vergelijkbare toekomstige patiëntcasussen!","2025-10-15T13:22:30.833824+00:00"
+"user","de klachten die ontstaan zijn naar aanleiding van de activatie van het sympatisch zenuwstelsel als een reactie op stress, het hart gaat sneller kloppen, de speekselproductie wordt lager, en de spijsvertering wordt geremd waardoor misselijkheid kan ontstaan, na een paar minuten neemt het parasympatisch zenuwstelsel het over en gaat de spijsvertering verder, waardoor de blaas samenkrampt e n er dus aandrang kan ontstaan om te gaan plassen, ook neemt de speekselproductie weer toe en eordt de hartslag weer normaal zo ook de ademfrquentie","2025-10-15T13:24:28.948279+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Nu gaan we deze kennis toepassen op een nieuwe situatie:
+
+###VIGNETTE 2###
+Een 76-jarige man staat in de rij bij de apotheek op een warme middag. Na enkele minuten begint hij zich licht in het hoofd te voelen, misselijk en zweterig. Hij ervaart een gevoel van 'tunnelvisie' voordat hij kort het bewustzijn verliest en omvalt. Omstanders helpen hem op de grond, en na een paar minuten liggend, komt hij bij, voelt zich zwak maar alert, en zijn hartslag is langzaam evenals zijn bloeddruk. Na een paar minuten is hij volledig hersteld.
+
+Kun je uitleggen welke rol het autonome zenuwstelsel hier speelt bij het ontstaan van de klachten én het herstel? Welke stappen zie je terug in deze situatie?","2025-10-15T13:24:41.767681+00:00"

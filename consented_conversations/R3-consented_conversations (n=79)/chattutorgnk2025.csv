@@ -1,0 +1,84 @@
+"role","content","created_at"
+"user","kunnen we beginnen","2025-10-15T16:07:04.631135+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Hier is de eerste casus:
+
+Een 19-jarige jongen meldt dat hij, terwijl hij op weg was naar zijn eerste universitaire examens, zijn hart voelde bonzen, zijn handpalmen zweterig werden en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook een beetje misselijk en had een droge mond. Nadat hij in de examenzaal aankwam en ging zitten, haalde hij een paar keer diep adem. Binnen 10 minuten vertraagde zijn hartslag, normaliseerde zijn ademhaling en voelde hij de drang om naar het toilet te gaan.
+
+Kun je uitleggen welke symptomen de student ervaarde? Denk hierbij aan welk deel van het autonome zenuwstelsel verantwoordelijk is voor deze symptomen.","2025-10-15T16:07:18.03391+00:00"
+"user","het sympathische zenuwt","2025-10-15T16:08:23.310258+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we even pauzeren en starten met Fase 1 – Kennisactivatie. In deze fase bespreken we kort de belangrijkste concepten en mechanismen die horen bij deze casus. Heb je nog vragen of dingen die je graag duidelijk wilt hebben voordat we starten?
+
+Als je wilt beginnen: Weet je wat de twee belangrijkste delen zijn van het autonome zenuwstelsel, en wat elk van die delen doet?","2025-10-15T16:08:31.161327+00:00"
+"user","het parasympatiche zenuwstelsel (rust) en het sympathische zenuwstelsel (actief)","2025-10-15T16:09:10.586081+00:00"
+"assistant","Mooi! Je noemt inderdaad de twee belangrijkste delen: het parasympatische zenuwstelsel en het sympathische zenuwstelsel. Kun je in je eigen woorden uitleggen wat het sympathische en het parasympatische zenuwstelsel precies doen in het lichaam? Wat zijn de belangrijkste functies tijdens rust en tijdens een stressvolle situatie?","2025-10-15T16:09:18.928411+00:00"
+"user","het sympatisch zenuwstelsel zorgt ervoor dat het hart sneller gaat kloppen, pupillen vergrote, de bloeddruk omhoog gaat en het parasympatische zenuwstelsel zorgt ervoor dat de hartslag omlaag gaat, bloeddruk daalt","2025-10-15T16:12:37.768719+00:00"
+"assistant","Dat klopt! Je weet al goed welke effecten beide systemen hebben. Kun je ook uitleggen hoe deze zenuwstelsels signalen overbrengen op organen? Met andere woorden: via welke stoffen (neurotransmitters) communiceren deze zenuwen met het hart, de longen of andere organen?","2025-10-15T16:12:49.767379+00:00"
+"user","via adrenaline","2025-10-15T16:13:08.420805+00:00"
+"assistant","Goed begin! Adrenaline speelt inderdaad een rol, vooral bij sterke activatie van het sympathische zenuwstelsel via het bloed (door de bijnier). Heb je ook een idee welke neurotransmitter door de zenuwuiteinden zelf wordt afgegeven bij de sympathische zenuwen, en hoe dat bij het parasympathische systeem werkt? Wat gebeurt er bijvoorbeeld direct in het hart of bij een zweetklier?","2025-10-15T16:13:16.776312+00:00"
+"user","acetylcholine","2025-10-15T16:13:26.098863+00:00"
+"assistant","Heel goed! Acetylcholine is inderdaad de belangrijkste neurotransmitter van het parasympathische zenuwstelsel, bijvoorbeeld bij het vertragen van de hartslag. Maar wat is nu de belangrijkste neurotransmitter die het sympathische zenuwstelsel rechtstreeks aan het hart, de bloedvaten en andere organen afgeeft? Is dat ook acetylcholine, of is dat een andere stof?","2025-10-15T16:13:34.062046+00:00"
+"user","nee dat is ectycholine","2025-10-15T16:14:30.253167+00:00"
+"assistant","Bijna! Je bedoelt waarschijnlijk “noradrenaline” (ook wel norepinefrine genoemd). Noradrenaline is de belangrijkste neurotransmitter van de meeste sympathische zenuwuiteinden die direct op organen werken, zoals het hart en de bloedvaten. 
+
+Wil je dat ik nog even kort samenvat welke neurotransmitters elk systeem gebruikt, of is dat duidelijk voor je en wil je doorgaan naar het volgende onderdeel?","2025-10-15T16:14:39.037471+00:00"
+"user","ja","2025-10-15T16:15:05.171512+00:00"
+"assistant","Prima! Kort samengevat:
+
+- Het **sympathische zenuwstelsel** gebruikt vooral **noradrenaline** (norepinefrine) als neurotransmitter bij de meeste organen, zoals het hart en de bloedvaten. Soms wordt ook adrenaline afgegeven in het bloed door de bijnieren.
+- Het **parasympathische zenuwstelsel** gebruikt **acetylcholine** als neurotransmitter, bijvoorbeeld om de hartslag te vertragen of de spijsvertering te activeren.
+
+Heb je verder nog vragen over deze basis, of zullen we door naar wat er met je lichaam gebeurt als het sympathische of parasympathische systeem actief wordt? Wat verandert er fysiek als het ene systeem overheerst over het andere?","2025-10-15T16:15:16.138102+00:00"
+"user","wanneer het sympathische zenuwstelsel overheerst Je bent alert, sterk en klaar om te handelen — maar langdurige activatie leidt tot stressklachten (spierspanning, hoge bloeddruk, slaapproblemen).","2025-10-15T16:16:22.647825+00:00"
+"assistant","Mooi uitgelegd! Je benoemt al goed dat het sympathische zenuwstelsel het lichaam voorbereidt op actie (“fight or flight”). Je noemt ook effecten op het hele lichaam.  
+Wil je ook kort uitleggen wat het parasympathische zenuwstelsel dan doet? Welke lichamelijke processen ondersteunt dit systeem vooral?","2025-10-15T16:16:29.392571+00:00"
+"user","wanneer het parasympatische zenuwstelsel overheerst Je lichaam herstelt, spijsvertering werkt optimaal, je immuunsysteem versterkt en energie wordt opgeslagen.","2025-10-15T16:17:07.979487+00:00"
+"assistant","Heel duidelijk! Je beschrijft goed de kerneffecten van het parasympathische zenuwstelsel: herstel, spijsvertering, en energiebesparing.  
+
+Als laatste kennisvraag in deze fase: Kun je uitleggen hoe het lichaam automatisch overschakelt van het ene naar het andere systeem, bijvoorbeeld bij stress of na ontspanning? Welk deel van de hersenen speelt hierin een centrale rol?","2025-10-15T16:17:16.012608+00:00"
+"user","hypothalamus","2025-10-15T16:17:38.703739+00:00"
+"assistant","Precies! De hypothalamus speelt een centrale rol in het regelen van de balans tussen sympathisch en parasympathisch zenuwstelsel, afhankelijk van wat het lichaam nodig heeft.
+
+Ben je klaar om deze kennis toe te passen op de casus uit het begin, of wil je nog een aspect van de basis herhalen of verduidelijken?","2025-10-15T16:17:45.488704+00:00"
+"user","ik ben klaar om de kennis toe te passen","2025-10-15T16:18:37.845604+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Uitstekend! We gaan nu door naar Fase 2 – Narrative Construction.
+
+Hier is nogmaals de casus:
+Een 19-jarige jongen meldt dat hij, terwijl hij op weg was naar zijn eerste universitaire examens, zijn hart voelde bonzen, zijn handpalmen zweterig werden en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook een beetje misselijk en had een droge mond. Nadat hij in de examenzaal aankwam en ging zitten, haalde hij een paar keer diep adem. Binnen 10 minuten vertraagde zijn hartslag, normaliseerde zijn ademhaling en voelde hij de drang om naar het toilet te gaan.
+
+Kun je nu, met je nieuwe kennis, uitleggen welke processen in het autonome zenuwstelsel verantwoordelijk zijn voor de symptomen van deze student? Probeer je antwoord zo volledig mogelijk te maken!","2025-10-15T16:18:51.441468+00:00"
+"user","e student vertoonde een klassieke, snelle sympathische stressrespons (NA/A) met effecten op hart, longen, huid, speeksel en GI. Diepe ademhaling en de wegname van de acute stressor lieten binnen minuten de parasympathische (vagale) rem overheersen, met normalisatie van hart/ademhaling en terugkeer van visceraal gedrag (mictiedrang, spijsvertering).","2025-10-15T16:20:36.037935+00:00"
+"assistant","Goed uitgelegd! Je brengt het sympathische en parasympathische systeem mooi in verband met de symptomen. Laten we het nog iets verder ontrafelen:
+
+Wat gebeurt er precies in het lichaam als de student zenuwachtig naar het examen loopt? Kun je uitleggen waarom zijn hart sneller klopt, hij zweethanden krijgt, sneller ademt en een droge mond heeft? 
+
+En: wat gebeurt er met zijn lichaam als hij weer tot rust komt, nadat hij gaat zitten? Welke rol speelt het parasympathische systeem hier?","2025-10-15T16:20:45.842001+00:00"
+"user","e student vertoonde een klassieke, snelle sympathische stressrespons (NA/A) met effecten op hart, longen, huid, speeksel en GI. Diepe ademhaling en de wegname van de acute stressor lieten binnen minuten de parasympathische (vagale) rem overheersen, met normalisatie van hart/ademhaling en terugkeer van visceraal gedrag (mictiedrang, spijsvertering).","2025-10-15T16:21:33.971255+00:00"
+"assistant","Heel helder! Je verwoordt de overgang tussen sympathische activatie en parasympathische rem goed. Kun je concreet uitleggen hoe noradrenaline en acetylcholine elk aanzetten tot deze lichamelijke reacties? Bijvoorbeeld: welke effecten heeft noradrenaline op het hart en de bloedvaten, en welke effecten heeft acetylcholine als de student weer ontspant?","2025-10-15T16:21:42.594211+00:00"
+"user","nee]","2025-10-15T16:21:58.912923+00:00"
+"assistant","Geen probleem! Laten we het samen stap voor stap doornemen.
+
+Tijdens stress (zoals voor een examen) komt noradrenaline vrij door het sympathische zenuwstelsel. Noradrenaline bindt aan receptoren op het hart (vooral β₁-receptoren), waardoor de hartslag sneller en krachtiger wordt. Ook worden de bloedvaten naar de spieren wijder en die naar de huid nauwer, wat bijdraagt aan zweten en het omleiden van het bloed.
+
+Als de stress wegvalt en het parasympathische systeem (met name via de nervus vagus) weer de overhand krijgt, wordt acetylcholine afgegeven. Acetylcholine bindt aan muscarine receptoren, waardoor het hart langzamer gaat kloppen en de spijsvertering weer op gang komt. Ook ontspant het de blaaswand, waardoor je het gevoel kunt krijgen om te moeten plassen.
+
+Heb je deze koppeling tussen neurotransmitter, receptor, en orgaan nu helder? Wil je dit kort samenvatten in eigen woorden voordat we doorgaan naar de laatste vraag van deze casus?","2025-10-15T16:22:16.3386+00:00"
+"user","ik heb het helder","2025-10-15T16:22:39.205729+00:00"
+"assistant","Prima! Hier volgt de afsluitende vraag over deze casus:
+
+Hoe begrijp je nu de symptomen in deze situatie? Schrijf zo volledig mogelijk op wat je denkt — je ideeën, redenering en verbindingen met wat je hebt geleerd. Hoe vollediger je uitleg, hoe meer het je begrip verdiept, je voorbereidt op tentamens, en je vaardigheid versterkt om soortgelijke klinische casussen te beoordelen in de toekomst!","2025-10-15T16:22:47.944842+00:00"
+"user","Doordat de jongen stress had door zijn examen komt er noradrenaline vrij door het sympathische zenuwstelsel. Noradrenaline bindt aan receptoren op het hart. Daardoor gaat het hart sneller kloppen, ook worden de bloedvaten naar de spieren wijder en die naar de huid, wat ervoor zorgt dat hij begint te zweten. Nadat de stres wegvalt neemt het parasympatosch zenuwstelsel weer de overhand en wordt acetylcholine afgegeven, war ervoor zorgt dat de hartslag vertraagt de bloedvaten en de huid minder wijd worden en de spijsvertering weer in gang wordt gezet.","2025-10-15T16:25:57.479453+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Mooi uitgelegd! Nu we in Fase 3 zijn aangekomen, gaan we de kennis toepassen op een nieuwe situatie.
+
+Lees onderstaand vignet:
+
+Een 76-jarige man staat op een warme middag in de rij bij de apotheek. Na enkele minuten voelt hij zich licht in het hoofd, misselijk en zweterig. Hij krijgt een tunnelvisus en verliest kort het bewustzijn. Omstanders helpen hem op de grond, na enkele minuten bij te komen voelt hij zich nog zwak, met een trage hartslag en lage bloeddruk. Na een paar minuten herstelt hij volledig.
+
+Kun je uitleggen welke processen in het autonome zenuwstelsel verantwoordelijk zijn voor de symptomen van deze patiënt en het herstel? Geef een zo volledig mogelijke verklaring.","2025-10-15T16:26:09.979814+00:00"

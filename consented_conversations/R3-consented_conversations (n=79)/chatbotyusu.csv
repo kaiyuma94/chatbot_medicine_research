@@ -1,0 +1,110 @@
+"role","content","created_at"
+"user","dikke chaos","2025-10-15T16:03:15.358022+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Geen probleem dat het even chaotisch voelt! We gaan stap voor stap door het onderwerp, zodat het overzichtelijker wordt. We beginnen met een korte klinische casus om de stof te koppelen aan een echt voorbeeld:
+
+###VIGNETTE 1###
+Een 19-jarige jongen meldt dat hij, terwijl hij naar zijn eerste universitaire examens ging, begon te voelen dat zijn hart bonkte, zijn handpalmen werden zweterig en zijn ademhaling versnelde. Hij voelde zich ook een beetje misselijk en had een droge mond. Nadat hij bij de examenzaal aankwam en ging zitten, haalde hij een paar keer diep adem. Binnen tien minuten vertraagde zijn hartslag, werd zijn ademhaling normaal en voelde hij de drang om naar het toilet te gaan.
+
+Kun je uitleggen welke symptomen deze student ervaart? Denk eens na over welke tak van het autonome zenuwstelsel verantwoordelijk zou kunnen zijn voor deze klachten.","2025-10-15T16:03:30.89191+00:00"
+"user","ha","2025-10-15T16:04:42.677527+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed dat je reageert! We nemen even een korte pauze en starten Phase 1 – Knowledge Activation. In deze fase halen we belangrijke concepten en mechanismes op die horen bij het autonome zenuwstelsel en passen we ze straks toe op de casus.
+
+Heb je op dit moment vragen of zaken over het autonome zenuwstelsel die je graag wilt verduidelijkt hebben voordat we beginnen? 
+
+Als start: Kun je vertellen wat de twee hoofdonderdelen zijn van het autonome zenuwstelsel en wat elk onderdeel doet?","2025-10-15T16:04:57.988614+00:00"
+"user","hypofyse en hypothalamus","2025-10-15T16:06:10.852993+00:00"
+"assistant","Goed geprobeerd! De hypothalamus speelt inderdaad een centrale rol in het aansturen van het autonome zenuwstelsel, en de hypofyse is vooral betrokken bij hormonale regulatie.
+
+Maar als we specifiek naar het autonome zenuwstelsel zelf kijken: Kun je benoemen welke twee takken (delen) van het autonome zenuwstelsel er zijn, en wat de functie is van elk van deze takken?","2025-10-15T16:06:19.974549+00:00"
+"user","sympathisch en parasympatisch, de ene is in fight or flight modus aanwezig en de ander in rust","2025-10-15T16:07:35.924053+00:00"
+"assistant","Precies! Het sympathische zenuwstelsel is vooral actief in “fight or flight”-situaties (actie, stress, gevaar), terwijl het parasympathische zenuwstelsel zorgt voor “rest and digest” (rust, herstel en opbouw).
+
+Wil je proberen uit te leggen hoe een signaal van de hersenen uiteindelijk leidt tot een verandering in bijvoorbeeld de hartslag als een van deze systemen actief wordt? Wat gebeurt er op fysiologisch niveau met signaaloverdracht en neurotransmitters?","2025-10-15T16:07:48.546091+00:00"
+"user","Als de hersenen (via de hypothalamus en hersenstam) merken dat de hartslag moet veranderen, sturen ze een zenuwimpuls via het autonome zenuwstelsel:
+Sympathisch systeem: zenuwen geven noradrenaline af → bindt aan receptoren in het hart → hartslag versnelt.
+Parasympathisch systeem: zenuwen (vooral de nervus vagus) geven acetylcholine af → remt de hartspier → hartslag vertraagt.","2025-10-15T16:09:00.558974+00:00"
+"assistant","Erg goed verwoord! Je beschrijft duidelijk het verschil tussen noradrenaline (sympathisch) en acetylcholine (parasympathisch) en hun effect op het hart.
+
+Wil je ook kort beschrijven wat er in het lichaam gebeurt als het sympathisch versus het parasympatisch systeem actief is, behalve alleen de hartslag? Denk bijvoorbeeld aan ademhaling, spijsvertering of bloedvaten.","2025-10-15T16:09:08.30651+00:00"
+"user","Sympathisch actief (vecht-of-vlucht):
+Hartslag en ademhaling versnellen
+Pupillen verwijden
+Spijsvertering remt
+Bloedvaten naar spieren verwijden, naar spijsverteringsorganen vernauwen
+Zweetproductie neemt toe
+Parasympathisch actief (rust-en-vertering):
+Hartslag en ademhaling vertragen
+Pupillen vernauwen
+Spijsvertering wordt gestimuleerd
+Bloedvaten naar spijsvertering verwijden, naar spieren vernauwen
+Zweetproductie neemt af","2025-10-15T16:09:32.598606+00:00"
+"assistant","Heel duidelijk uitgelegd! Je raakt alle belangrijke systemen en functies. 
+
+Laatste vraag voordat we naar de klinische toepassing gaan: Kun je aangeven welke neurotransmitters (signaalstoffen) door het sympathisch en parasympathisch systeem worden gebruikt in de doelorganen? Heb je helder welke receptoren daar een rol spelen?","2025-10-15T16:09:39.48358+00:00"
+"user","Sympathisch = noradrenaline → adrenerge receptoren (α, β)
+Parasympathisch = acetylcholine → muscarinerge receptoren (M)","2025-10-15T16:10:02.769775+00:00"
+"assistant","Heel goed! Daarmee heb je de basiskennis stevig op een rijtje:
+
+- Sympathisch: noradrenaline op adrenerge receptoren (zoals alfa- en beta-receptoren).
+- Parasympathisch: acetylcholine op muscarinerge receptoren.
+
+Volgens mij heb je de kernbegrippen nu goed paraat. Ben je er klaar voor om deze kennis toe te passen op het voorbeeld van de student?
+
+Zo ja, dan gaan we door naar de volgende fase.
+
+=== PHASE 2: Narrative Construction ===
+
+###VIGNETTE 1###
+Een 19-jarige jongen meldt dat hij, terwijl hij naar zijn eerste universitaire examens ging, begon te voelen dat zijn hart bonkte, zijn handpalmen werden zweterig en zijn ademhaling versnelde. Hij voelde zich ook een beetje misselijk en had een droge mond. Nadat hij bij de examenzaal aankwam en ging zitten, haalde hij een paar keer diep adem. Binnen tien minuten vertraagde zijn hartslag, werd zijn ademhaling normaal en voelde hij de drang om naar het toilet te gaan.
+
+Kun je nu met de kennis die je net hebt opgehaald uitleggen waardoor deze symptomen bij de student ontstaan? Welk deel van het autonome zenuwstelsel is vooral verantwoordelijk voor deze verschijnselen? Geef zoveel mogelijk uitleg, en probeer te verwoorden wat er in het lichaam gebeurt.","2025-10-15T16:10:23.191997+00:00"
+"user","De anticipatie van het examen activeerde het sympathische zenuwstelsel (en de bijniermerg), waardoor catecholamines en sympathische zenuwimpulsen allerlei organen beïnvloedden (snellere hartslag, zweterige handen, snellere ademhaling, droge mond, misselijkheid). Toen hij ging zitten en een paar diepe ademhalingen nam, nam parasympathische invloed (vagus) toe en daalde de sympathische toon — hartslag en ademhaling normaliseerden en de rest- en verteringsreacties (drang naar toilet) kwamen terug.","2025-10-15T16:11:35.215132+00:00"
+"assistant","Heel mooi uitgelegd! Je verbindt de activering van het sympathisch zenuwstelsel met de waargenomen symptomen en koppelt de overgang naar parasympathische invloed goed aan het herstel.
+
+Om je uitleg nog verder te verdiepen: Kun je het verschil beschrijven tussen de effecten van de verschillende adrenerge receptoren op het hart, de longen en de bloedvaten tijdens de stressreactie van deze student? Welke receptoren zijn waar vooral actief en wat veroorzaakt dat lokaal?","2025-10-15T16:11:48.39206+00:00"
+"user","Tijdens de stressreactie:
+β₁ in het hart verhoogt kracht en snelheid,
+β₂ in de longen en skeletspier-vaten verwijdt voor zuurstof en doorbloeding,
+α₁ in de viscerale en huidvaten vernauwt om bloed te herverdelen en druk te behouden","2025-10-15T16:13:07.101723+00:00"
+"assistant","Heel goed! Je laat duidelijk zien hoe verschillende adrenerge receptoren op verschillende plekken effect hebben en zo het lichaam optimaal voorbereiden op een “fight or flight”-situatie.
+
+Je bent klaar voor de afsluitende zelftoets van deze casus:
+
+###VIGNETTE 1###
+Een 19-jarige jongen meldt dat hij, terwijl hij naar zijn eerste universitaire examens ging, begon te voelen dat zijn hart bonkte, zijn handpalmen werden zweterig en zijn ademhaling versnelde. Hij voelde zich ook een beetje misselijk en had een droge mond. Nadat hij bij de examenzaal aankwam en ging zitten, haalde hij een paar keer diep adem. Binnen tien minuten vertraagde zijn hartslag, werd zijn ademhaling normaal en voelde hij de drang om naar het toilet te gaan.
+
+###ASSESSMENT QUESTION###
+Hoe begrijp je nu de symptomen bij deze student? Schrijf ieder detail op dat je kunt bedenken — je ideeën, redenering, en verbindingen met wat je hebt geleerd. Hoe vollediger je uitleg, hoe beter je je begrip verdiept, je voorbereidt op tentamens en je vermogen versterkt om later vergelijkbare klinische situaties te diagnosticeren!","2025-10-15T16:13:23.603535+00:00"
+"user","De student kreeg een acute sympathische stressreactie (anticipatie / angst) — snelle vrijgave van noradrenaline uit sympathische neuronen en adrenaline uit de bijnier — waardoor hartslag, ademhaling en zweten toenamen en speekselproductie afnam. Door gaan zitten en een paar diepe ademhalingen activeerde de parasympathicus (vagus) en verminderde de sympathische toon, waardoor hartslag en ademhaling normaliseerden en het maag-darmstelsel weer ging functioneren (drang naar toilet)","2025-10-15T16:14:32.356083+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Nu gaan we kijken of je deze kennis kunt toepassen op een nieuwe situatie:
+
+###VIGNETTE 2###
+Een 76-jarige man staat op een warme middag in de rij bij de apotheek. Na een tijdje voelt hij zich licht in het hoofd, misselijk en zweterig. Hij krijgt tunnelzicht voordat hij flauwvalt en in elkaar zakt. Omstanders helpen hem op de grond en na een paar minuten bijgekomen te zijn, voelt hij zich slap maar helder; zijn hartslag is langzaam, zijn bloeddruk laag. Na enkele minuten is hij weer volledig hersteld.
+
+Kun je uitleggen welke processen in het autonome zenuwstelsel verantwoordelijk zijn voor de symptomen en het herstel bij deze patiënt? Wat gebeurt er in zijn lichaam, zowel vlak vóór, tijdens als ná het flauwvallen?","2025-10-15T16:14:44.779378+00:00"
+"user","Vóór het flauwvallen:
+Warmte + lang stilstaan → bloed zakt naar benen → minder veneuze terugstroom → lagere hartvulling → baroreceptoren merken dit → eerst sympathische activatie (sneller hart, vasoconstrictie).
+Maar bij deze man treedt een vasovagale reflex op: plots sterke parasympathische (vagale) activatie en sympathische remming.
+Tijdens het flauwvallen:
+Hartslag daalt (bradycardie) door vagale invloed (ACh op M₂-receptoren).
+Bloedvaten verwijden (vasodilatatie) door verlies van sympathische tonus (minder noradrenaline op α₁-receptoren).
+Bloeddruk zakt, hersenen krijgen tijdelijk minder zuurstof → bewustzijnsverlies.
+Na het flauwvallen (liggende houding):
+Bloed stroomt makkelijker terug naar het hart → baroreceptoren herstellen druk → sympathicus wordt weer actief, parasympathicus neemt af → hartslag en bloeddruk normaliseren.
+Patiënt voelt zich slap maar herstelt snel.","2025-10-15T16:15:34.592463+00:00"
+"assistant","Uitstekend! Je beschrijft het verloop en de autonome mechanismen heel nauwkeurig, inclusief de rol van baroreceptoren, het omslaan van sympathische naar parasympathische dominantie, receptoren, en het herstel.
+
+Wil je nog kort uitleggen waarom bij deze vasovagale reactie juist de bloeddruk en hartslag dalen, terwijl je in een stresssituatie bij een jongere student juist verhoging ziet? Wat is het verschil in autonome regulatie tussen deze twee situaties?","2025-10-15T16:15:43.507498+00:00"
+"user","Bij de student activeert stress de sympathicus → ↑ hartslag en bloeddruk (vecht-of-vlucht).
+Bij de oude man zorgt een vasovagale reflex juist voor plotselinge parasympathische (vagale) activatie en remming van de sympathicus → ↓ hartslag (vagus) en ↓ vaattonus (minder noradrenaline) → bloeddruk daalt.","2025-10-15T16:16:15.20957+00:00"
+"assistant","Precies! Je geeft helder aan dat het verschil zit in de balans tussen sympathische en parasympathische activiteit en de uiteindelijke effecten daarvan op hart en bloedvaten.
+
+Je koppelt de kennis adequaat aan de twee klinische situaties. Goed gedaan! Wil je zelf nog iets toelichten, of heb je behoefte aan verduidelijking over een specifiek deel van het autonome zenuwstelsel of deze casussen? Zo niet, dan heb je de volledige cyclus goed doorlopen!","2025-10-15T16:16:23.981532+00:00"
+"user","top, nee hoeft niet","2025-10-15T16:16:30.567786+00:00"
+"assistant","Prima, goed gewerkt! Je hebt het volledige traject goed doorlopen en je kennis toegepast op verschillende situaties. Succes met je verdere studie!","2025-10-15T16:16:35.469919+00:00"

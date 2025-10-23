@@ -1,0 +1,116 @@
+"role","content","created_at"
+"user","hallo","2025-10-15T16:38:47.305687+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Welkom! We gaan samen aan de slag met het autonom zenuwstelsel aan de hand van een casus.
+
+###VIGNETTE 1###
+Een 19-jarige jongen meldt dat hij vlak voor zijn eerste universitaire tentamen merkt dat zijn hart sneller klopt, zijn handpalmen beginnen te zweten, en zijn ademhaling versnelt. Hij voelt zich ook wat misselijk en heeft een droge mond. Na aankomst in de tentamenzaal en een paar keer diep ademhalen, merkt hij dat zijn hartslag vertraagt, zijn ademhaling weer normaal wordt en hij aandrang om te plassen voelt.
+
+Kun je uitleggen waardoor de student deze symptomen ervaart? Denk hierbij aan welk deel van het autonoom zenuwstelsel hiervoor verantwoordelijk is.","2025-10-15T16:38:59.349449+00:00"
+"user","waarschijnlijk ervaart hij stress, dit zal iets te maken hebben met uitscheiding van cortisol of (nor)adrenaline","2025-10-15T16:40:02.280144+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goede poging! Laten we even een korte pauze nemen en starten met Fase 1 – Knowledge Activation. In deze fase frissen we samen de kernconcepten en de belangrijkste mechanismen rondom het autonoom zenuwstelsel op, zodat je straks de casus beter kunt uitleggen.
+
+Heb je zelf vragen of punten die je graag wilt verduidelijken voor we starten, bijvoorbeeld over het autonoom zenuwstelsel of de rol van hormonen zoals cortisol en adrenaline? 
+
+Als je geen specifieke vragen hebt, kun je dan in je eigen woorden uitleggen wat de twee hoofdonderdelen zijn van het autonoom zenuwstelsel, en wat elk deel doet?","2025-10-15T16:40:13.767362+00:00"
+"user","is het de hersenstam en het ruggenmerg?","2025-10-15T16:40:47.599757+00:00"
+"assistant","Dat is een logische gedachte, want de hersenstam en het ruggenmerg zijn inderdaad belangrijke gebieden waar signalen van het autonoom zenuwstelsel doorheen gaan. Maar mijn vraag ging eigenlijk over een ander onderscheid.
+
+Het autonoom zenuwstelsel bestaat uit twee hoofdtakken die elk andere effecten op het lichaam hebben. Weet je hoe deze twee takken heten en waar ze grofweg voor zorgen in het lichaam?","2025-10-15T16:40:56.201278+00:00"
+"user","sympatisch en parasympatisch? sympatisch is voor activiteit en parasympatisch voor rust en herstel","2025-10-15T16:41:23.812587+00:00"
+"assistant","Precies, dat klopt! Het sympathisch zenuwstelsel wordt actief bij actie (“fight or flight”), terwijl het parasympathisch zenuwstelsel zorgt voor rust en herstel (“rest and digest”).
+
+Zullen we nog een stapje verder gaan? Kun je uitleggen hoe een signaal van de hersenen uiteindelijk een orgaan bereikt via het autonome zenuwstelsel? Wat gebeurt er onderweg, bijvoorbeeld qua neurotransmitters of zenuwbanen?","2025-10-15T16:41:31.874783+00:00"
+"user","het signaal van de hersenen zorgt voor een actiepotentiaal in neuronen, deze worden overgegeven naar andere neuronen met neurotransmitters, volgensmij zijn dit noradrenaline en muscarine","2025-10-15T16:42:49.825915+00:00"
+"assistant","Mooie poging! Je noemt inderdaad zenuwimpulsen (actiepotentialen) en neurotransmitters. Je noemt noradrenaline en muscarine; wil je proberen te specificeren bij welk deel van het autonome zenuwstelsel deze worden gebruikt, en op welk type receptoren?
+
+Misschien helpt het als je bedenkt:  
+- Welke neurotransmitter wordt vooral gebruikt aan het einde van een sympathische zenuwroute?  
+- En welke bij de parasympathische route?
+
+Kun je dit verschil uitleggen?","2025-10-15T16:43:00.751755+00:00"
+"user","muscarine werkt volgensmij op nicotinereceptoren op glad spierweefsel, ik weet niet zeker in welke zenuwroute","2025-10-15T16:44:23.608416+00:00"
+"assistant","Je bent goed bezig! Even een kleine correctie: muscarine is geen neurotransmitter, maar wel de naamgever van de muscarinereceptor, een subtype van acetylcholinereceptoren. Acetylcholine is hier wél de neurotransmitter.
+
+Misschien helpt deze stap:  
+- In het parasympathische systeem eindigt de zenuwroute vaak met het vrijkomen van acetylcholine, dat op muscarinereceptoren werkt in organen.
+- In het sympathische systeem wordt meestal noradrenaline vrijgegeven, en dit werkt op adrenerge (bijvoorbeeld alfa- en beta-) receptoren.
+
+Zou je nu met deze uitleg kunnen aangeven:
+1. Welke neurotransmitter meestal wordt afgegeven aan het eind van de sympathische route, en op welk type receptor die werkt?
+2. En hetzelfde voor de parasympathische route?
+
+Kun je dit in je eigen woorden proberen toe te passen?","2025-10-15T16:44:36.212909+00:00"
+"user","aan het eind van de sympatische route wordt noradrenaline afgegeven, dit werkt op adrenerge receptoren. Aan het eind van de parasympatische route wordt acetylcholine afgegeven, dit werkt op muscarine receptoren","2025-10-15T16:45:50.142516+00:00"
+"assistant","Heel goed uitgelegd! Je hebt nu helder welke neurotransmitters (en hun receptoren) een rol spelen bij de uiteindelijke beïnvloeding van organen door het autonome zenuwstelsel.
+
+Nog één check:  
+Wat verandert er in het lichaam als het sympathisch systeem actief is (denk aan hart, luchtwegen, bloedvaten, spijsvertering) en wat gebeurt er juist onder invloed van het parasympathisch systeem?
+
+Noem in je eigen woorden enkele voorbeelden, gericht op de organen.","2025-10-15T16:45:59.822669+00:00"
+"user","bij het sympatisch systeem gaat bijvoorbeeld de hartslag en dus de bloeddruk omhoog. bij het parasympatische systeem gaat de bloeddruk juist weer omlaag. bij het parasympatische systeem wordt de spijsvertering actiever.","2025-10-15T16:47:24.298306+00:00"
+"assistant","Mooi! Je noemt al belangrijke veranderingen. Inderdaad:  
+- Het sympathisch systeem verhoogt de hartslag en bloeddruk, en zorgt dat de spijsvertering even “pauzeert”.
+- Het parasympathisch systeem verlaagt de hartslag en bloeddruk, en stimuleert juist de spijsvertering.
+
+Als je nu geen andere vragen meer hebt over de basis, laten we de stap naar de casus zetten.
+
+Ben je klaar om deze kennis toe te passen, of heb je nog een vraag over de werking van het autonome zenuwstelsel?","2025-10-15T16:47:33.449775+00:00"
+"user","speelt cortisol dan ook een rol in het autonome zenuwstelsel?","2025-10-15T16:47:59.29621+00:00"
+"assistant","Goede vraag! Cortisol is inderdaad betrokken bij stressreacties, maar speelt een andere rol dan het autonome zenuwstelsel. Cortisol is een stresshormoon dat door de bijnieren wordt afgegeven als reactie op langdurige stress, via de HPA-as (hypothalamus-hypofyse-bijnier-as).
+
+Het autonome zenuwstelsel reageert sneller—direct via zenuwen en neurotransmitters—en regelt de snelle aanpassingen zoals hartslag, bloeddruk of zweten. Cortisol werkt langzamer en zorgt bijvoorbeeld voor het vrijmaken van energie op de langere termijn.
+
+Is het verschil tussen de ‘snelle’ (autonoom zenuwstelsel) en ‘langzame’ (hormonale/cortisol) routes zo duidelijk voor je? Of wil je daar nog iets verder op ingaan voor we verder gaan?","2025-10-15T16:48:11.418629+00:00"
+"user","ja, dat is duidelijk","2025-10-15T16:48:17.456907+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Great! Nu gaan we naar Fase 2 – Narrative Construction.
+
+Hier is nogmaals de casus:
+Een 19-jarige jongen meldt dat hij vlak voor zijn eerste universitaire tentamen merkt dat zijn hart sneller klopt, zijn handpalmen beginnen te zweten, en zijn ademhaling versnelt. Hij voelt zich ook wat misselijk en heeft een droge mond. Na aankomst in de tentamenzaal en een paar keer diep ademhalen, merkt hij dat zijn hartslag vertraagt, zijn ademhaling weer normaal wordt en hij aandrang om te plassen voelt.
+
+Kun je nu met de kennis die we hebben besproken uitleggen waardoor de student deze symptomen ervaart? Denk aan het autonome zenuwstelsel dat hierbij betrokken is en benoem de verschillende fases.","2025-10-15T16:48:30.590184+00:00"
+"user","de student ervaart vlak voor zijn tentamen stress, waardoor zijn sympatische zenuwstelsel actiever wordt. er wordt noradrenaline afgegeven als neurotransmitter, waardoor zijn hartslag omhoog gaat, zijn ademhaling versneld, hij gaat zweten en hij misselijk wordt en een droge mond krijgt. na aankomst en een paar keer diep ademhalen neemt zijn parasympatische zenuwstelsel over. zijn hartslag gaat weer omlaag, zijn ademhaling wordt normaal. zijn verteringsstelsel wordt actiever, waardoor hij de aandrang om te plassen voelt.","2025-10-15T16:51:23.573851+00:00"
+"assistant","Heel goed uitgelegd! Je hebt de belangrijkste stappen en omschakeling tussen sympathisch en parasympathisch systeem correct beschreven.
+
+Wil je nu nog wat verder toelichten welke receptoren betrokken zijn bij de effecten van het sympathisch zenuwstelsel—zoals de verhoogde hartslag, het openen van de luchtwegen en het vernauwen van de bloedvaten?  
+Kun je, per orgaan (hart, longen, bloedvaten, spijsvertering), kort benoemen welke adrenerge receptor hier werkt en wat het effect is?","2025-10-15T16:51:34.032722+00:00"
+"user","op het hart zijn dit de alfa-receptoren, de rest weet ik niet","2025-10-15T16:51:59.384509+00:00"
+"assistant","Dat is een begrijpelijke verwarring! Op het hart spelen vooral de **beta-1 adrenerge receptoren** een grote rol bij het verhogen van de hartslag en kracht van elke hartslag.
+
+Zou je kunnen proberen te bedenken of er andere adrenerge receptoren zijn betrokken bij de longen en bloedvaten? Bijvoorbeeld:  
+- Bij de longen, welk effect is er gewenst tijdens een stressreactie (sympathisch actief), en welk type receptor zorgt daarvoor?
+- Bij de bloedvaten richting de huid en het maag-darmkanaal, welk effect is er, en weet je nog welk type receptor daar een rol speelt?
+
+Probeer deze twee nog eens in te vullen!","2025-10-15T16:52:11.038456+00:00"
+"user","dit weet ik niet","2025-10-15T16:52:21.14019+00:00"
+"assistant","Dat is helemaal niet erg! Dit onderscheid is ook lastig als je het voor het eerst leert.
+
+- In de **longen** zorgen **beta-2 adrenerge receptoren** voor het verwijden van de luchtwegen (zodat ademen makkelijker wordt).
+- In de **bloedvaten** (vooral naar huid en darmen) zorgen **alfa-1 adrenerge receptoren** voor het vernauwen van de vaten (zodat bloed naar de spieren kan worden gestuurd).
+
+Tip: als je deze typen lastig vindt, kun je ze altijd even opzoeken in een studiedocument om beter te onthouden.
+
+Nu een korte controle:  
+Kun je met deze kennis nu uitleggen:  
+**Waarom heeft de student een snelle hartslag, versnelde ademhaling en bleke huid vlak voor zijn tentamen?**  
+Leg kort per orgaan uit.","2025-10-15T16:52:34.41314+00:00"
+"user","de student heeft een snelle hartslag omdat het sympatische zenuwstelsel noradrenaline afgeeft, wat bindt aan beta-1 adrenerge receptoren op het hart. dit verhoogd de hartslag. in de bloedvaten bindt noradrenaline aan alfa-1 adrenerge receptoren waardoor de bloedvaten vernauwen. vernauwde bloedvaten zorgen ervoor dat de huid bleker oogt. in de longen zorgen beta-2 adrenerge receptoren voor het verwijden van de luchtwegen, maar dat is hier niet het geval, want zijn ademhaling gaat juist lastiger","2025-10-15T16:55:45.808414+00:00"
+"assistant","Goed onderbouwd! Je legt duidelijk uit hoe noradrenaline via de verschillende receptoren de hartslag en de bloedvaatjes beïnvloedt. Eén kleine aanvulling: het effect op de longen via beta-2 receptoren is juist dat de luchtwegen wijd(er) worden, waardoor ademhalen makkelijker gaat en hij sneller kan ademhalen. Dus het versnellen van de ademhaling past wél bij de werking van het sympathisch zenuwstelsel. 
+
+Nu nog één keer samenvatten:
+**Welke veranderingen treden op zodra de student zich ontspant en het parasympathisch systeem overheerst?**  
+Noem hierbij de veranderingen aan hart, spijsvertering en blaas.","2025-10-15T16:55:57.862139+00:00"
+"user","in het hart bindt noradrenaline, vanuit het sympatische zenuwstelsel aan beta-1 adrenerge receptoren, waardoor de hartslag versnelt. in de bloedvaten bindt noradrenaline aan alfa-1 adrenerge receptoren waardoor de bloedvaten vernauwen en de huid daardoor bleek oogt. in de longen zijn beta-2 adrenerge receptoren, maar binding hieraan zorgt voor de verwijding van de luchtwegen, maar dat is hier niet het geval, want ademhalen is hier juist moeilijker","2025-10-15T16:59:13.675391+00:00"
+"assistant","Mooie herhaling en goede uitleg! Je hebt het sympathische effect helder neergezet. Nog één kleine verduidelijking: een stressreactie zorgt er meestal juist voor dat ademen makkelijker, maar ook sneller gaat (denk aan hijgen), niet moeilijker. Het verwijden van de luchtwegen via beta-2 receptoren helpt daarbij.
+
+Nu richten we ons op de omschakeling naar het parasympatische systeem. Kun je per orgaan uitleggen wat er verandert als de student weer tot rust komt?
+- Wat gebeurt er met de hartslag?
+- Wat gebeurt er in het maagdarmkanaal/spijsvertering?
+- Wat gebeurt er bij de blaas?
+
+Probeer deze drie veranderingen kort in je eigen woorden te beschrijven!","2025-10-15T16:59:25.23288+00:00"

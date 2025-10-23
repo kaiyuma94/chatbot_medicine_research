@@ -1,0 +1,59 @@
+"role","content","created_at"
+"user","jooo","2025-10-15T16:03:33.578903+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Welkom! We gaan vandaag oefenen met het begrijpen van het autonome zenuwstelsel aan de hand van een voorbeeld.
+
+Hier is de casus:  
+###VIGNETTE 1###
+Een 19-jarige jongen vertelt dat hij vlak voor zijn eerste tentamens op de universiteit zijn hart voelde bonken. Zijn handpalmen werden zweterig, zijn ademhaling versnelde, hij werd wat misselijk en kreeg een droge mond. Toen hij eenmaal in de examenzaal zat en een paar keer diep ademde, merkte hij dat zijn hartslag afnam, zijn ademhaling normaliseerde, en hij de aandrang kreeg om naar het toilet te gaan.
+
+Vraag:  
+Kun je uitleggen waardoor deze student deze symptomen ervaart? Probeer na te denken over welk deel van het autonome zenuwstelsel verantwoordelijk is voor deze klachten.","2025-10-15T16:03:48.183949+00:00"
+"user","het sympatische deel, de jongen ervaart stress hierdoor gaat adrenaline werken en gaat binden aan de receptoren (B1 etc) en zorgt voor NOS pathway etc en dit leidt tot activering van sympaticus","2025-10-15T16:05:18.535769+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we even pauzeren en beginnen aan Fase 1 – Kennis Activeren. In deze fase herhalen we kort de sleutelconcepten en mechanismen die horen bij deze casus. Zijn er nu al vragen of punten die je graag wilt verduidelijken voordat we starten?
+
+Als je geen specifieke vragen hebt, laten we dan beginnen:  
+Weet je wat de twee hoofdonderdelen zijn van het autonome zenuwstelsel, en waar elk voor zorgt?","2025-10-15T16:05:30.690962+00:00"
+"user","ga maar van start","2025-10-15T16:05:38.466854+00:00"
+"assistant","Prima! Laten we beginnen met een paar kernvragen om je kennis te activeren:
+
+1. Kun je in je eigen woorden benoemen welke twee delen het autonome zenuwstelsel heeft, en wat elk deel doet?  
+2. Hoe loopt een signaal eigenlijk van de hersenen naar een orgaan binnen het autonome systeem?  
+3. Welke boodschapperstoffen gebruiken de zenuwen van het sympathische en parasympathische systeem om organen aan te sturen?  
+4. Wat gebeurt er met het lichaam als het sympathische systeem actief is? En wat juist als het parasympathische systeem de overhand heeft?
+
+Wil je een van deze vragen beantwoorden of is er een vraag waar je graag bij wilt stilstaan?","2025-10-15T16:05:50.307985+00:00"
+"user","het autonome deel bestaat uit het parasympatische( rest en digest) en sympatische zenuwstelsel (fight or flight). Er ontstaat eerst een stimulus, dit veroorzaakt een signaalcascade van de neurotransmitter acetylcholine, de zenuwuiteinden monden uit bij de bijnierschors bijvoorbeeld en zorgen voor secretie van noradrenaline en adrenaline. Sympaticus is hierbij geactiveerd, bij sympaticus is het rest en digest en is er geen stimulus voor activatie van sympaticus","2025-10-15T16:09:53.427662+00:00"
+"assistant","Goed, je noemt de twee delen en hun functies: het sympathische zenuwstelsel (fight or flight) en het parasympathische zenuwstelsel (rest and digest). Je beschrijft ook hoe een stimulus tot een signaalcascade leidt, met neurotransmitters als acetylcholine en (nor)adrenaline. 
+
+Laten we hierop doorgaan:
+
+1. Je zegt dat zenuwuiteinden uitmonden bij de bijnierschors. Weet je of dit altijd zo is bij het sympathische systeem, of zijn er ook directe zenuwverbindingen naar organen?  
+2. Kun je uitleggen welke neurotransmitter vrijkomt bij de eindorgaantjes van het sympathisch systeem, en welke bij het parasympathisch systeem?  
+3. Heb je een idee hoe deze neurotransmitters een specifiek effect kunnen hebben op verschillende organen?
+
+Als dit duidelijk is, zijn we bijna klaar met de kennisactivering. Wil je nog iets verduidelijkt hebben, of wil je proberen de bovenstaande vragen te beantwoorden?","2025-10-15T16:10:09.110357+00:00"
+"user","er zijn verbindingen maar die monden dus uit in zenuwuiteinden en zorgen voor signaaloverdracht, sympaticus is adrenaline en parasympaticus is acetylcholine. De neurotransmitters zorgen voor een signaalcascade in hhet desbetreffende orgaan, dus bij venen en arteren is het bijvoorbeeld vasodilatie en vasconstrictie","2025-10-15T16:13:23.813604+00:00"
+"assistant","Heel goed! Je hebt door dat er bij beide systemen verbindingen zijn die op verschillende manieren signalen doorgeven. Je noemt ook dat het sympathische systeem vooral adrenaline/noradrenaline gebruikt, en het parasympathische systeem voornamelijk acetylcholine. Je noemt tot slot dat deze neurotransmitters via hun receptoren in het orgaan tot een specifiek effect leiden, zoals vasodilatatie of vasoconstrictie.
+
+Laatste vraagje in deze fase om het af te ronden:
+
+Kun je een voorbeeld geven van hoe het sympathische en parasympathische systeem het hart aansturen via verschillende receptoren?
+
+Of wil je nu graag door naar het toepassen van de kennis op de casus?","2025-10-15T16:13:34.545346+00:00"
+"user","via b1 receptoren, en het werkt via antagonisme","2025-10-15T16:14:02.330456+00:00"
+"assistant","Mooi! Dus het sympathische systeem werkt op het hart via β1-receptoren en verhoogt dan hartslag en contractiekracht. Dit gebeurt inderdaad vaak in balans (“antagonisme”) met het parasympathische systeem, dat het hart juist vertraagt via muscarine receptoren.
+
+Ik denk dat je de basiskennis onder de knie hebt. Laten we deze kennis nu toepassen op de casus.
+
+=== PHASE 2: Narrative Construction ===
+
+Hier nogmaals de casus:  
+###VIGNETTE 1###
+Een 19-jarige jongen vertelt dat hij vlak voor zijn eerste tentamens op de universiteit zijn hart voelde bonken. Zijn handpalmen werden zweterig, zijn ademhaling versnelde, hij werd wat misselijk en kreeg een droge mond. Toen hij eenmaal in de examenzaal zat en een paar keer diep ademde, merkte hij dat zijn hartslag afnam, zijn ademhaling normaliseerde, en hij de aandrang kreeg om naar het toilet te gaan.
+
+Nu de vraag:  
+Kun je met de kennis die je net herhaald hebt, uitleggen hoe de symptomen van deze student ontstaan? Welke delen van het autonome zenuwstelsel spelen een rol in deze klachten?","2025-10-15T16:14:19.229021+00:00"

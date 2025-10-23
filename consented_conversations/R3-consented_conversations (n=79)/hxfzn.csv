@@ -1,0 +1,114 @@
+"role","content","created_at"
+"user","laten we beginnen","2025-10-15T16:03:22.518361+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Kun je de symptomen die de student ervaart uitleggen? Denk aan het deel van het autonome zenuwstelsel dat verantwoordelijk is voor deze symptomen.","2025-10-15T16:03:28.706227+00:00"
+"user","geef me eerst de casys","2025-10-15T16:04:10.538177+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Hier is ###VIGNETTE 1###:
+
+Een 19-jarige jongen vertelt dat hij tijdens zijn eerste universitaire examens merkte dat zijn hart begon te bonzen, zijn handpalmen begonnen te zweten en zijn ademhaling versneld was. Hij voelde zich ook wat misselijk en had een droge mond. Nadat hij was aangekomen in de examenzaal en ging zitten, haalde hij een paar keer diep adem. Binnen 10 minuten werd zijn hartslag rustiger, ademde hij normaal en kreeg hij het gevoel dat hij naar het toilet moest.
+
+Kun je de symptomen die de student ervaart uitleggen? Denk aan het deel van het autonome zenuwstelsel dat verantwoordelijk is voor deze symptomen.","2025-10-15T16:04:25.816728+00:00"
+"user","verhoogde (nor)adrenaline of cortisol zorgt voor stimulatie van het sympathische zenuwstelsel","2025-10-15T16:06:27.602462+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed opgemerkt! Laten we even pauzeren en starten met Fase 1 – Kennisactivering. In deze fase herhalen we kort de belangrijkste concepten en mechanismen die bij deze casus horen. 
+
+Heb je hierover nog vragen, of punten die je graag wil verduidelijken voordat we verder gaan?
+
+Als je geen directe vraag hebt: Kun je alvast voor jezelf benoemen wat de twee hoofdonderdelen zijn van het autonome zenuwstelsel, en welke functies elk deel heeft?","2025-10-15T16:06:40.582581+00:00"
+"user","parasympathisch en sympatiasch","2025-10-15T16:07:28.23167+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Precies! Het autonome zenuwstelsel bestaat uit het parasympathische en sympathische deel. Kun je uitleggen wat elk van deze delen doet? Wat gebeurt er bijvoorbeeld in het lichaam wanneer het sympathische zenuwstelsel actief is, en wat juist bij het parasympathische?","2025-10-15T16:07:38.177478+00:00"
+"user","sympathisch: fight or flight oftewel verhoogde ademhaling, hartslag, zweten etc. parasympathisch: rest & digest, verlaagde ademhaling, hartslag, etc","2025-10-15T16:08:45.24282+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Helemaal goed! Dat klopt: het sympathische stelsel zorgt voor “fight or flight” en verhoogt o.a. ademhaling, hartslag, en zweten. Het parasympathisch stelsel werkt rustgevend en bevordert rust en spijsvertering.
+
+Laten we nog één stap dieper gaan: Weet je hoe signalen vanuit de hersenen hun doelorganen bereiken in het autonome zenuwstelsel? Welke boodschapperstoffen (neurotransmitters) spelen hierin een rol?","2025-10-15T16:08:55.185879+00:00"
+"user","sympathisch: pregasnglionaal neuron: ach op nictotine receptor, postganglionaal norepinephrine op adrenerge receptor. parasympathisch: pre ganglionaal neuron: ach op nicotine receptor. post ganglionaal neuron: ach op nicotine receptor","2025-10-15T16:10:49.448561+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Dat is grotendeels correct! Bij het sympathisch zenuwstelsel: het preganglionaire neuron gebruikt acetylcholine (ACh) op de nicotine receptor, en het postganglionaire neuron gebruikt vooral norepinefrine op de adrenerge receptor (soms ook ACh, bv. bij zweetklieren).  
+Bij het parasympathisch zenuwstelsel: het preganglionaire neuron gebruikt weer acetylcholine op de nicotine receptor, het postganglionaire neuron gebruikt acetylcholine op de muscarine receptor.
+
+Wil je nog verduidelijking op deze neurotransmitters of hun receptoren? Of ben je klaar voor de volgende fase?","2025-10-15T16:11:03.988384+00:00"
+"user","ik snap het","2025-10-15T16:11:09.990978+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Mooi, dan gaan we naar Fase 2 – Narrative Construction.
+
+Hier volgt nog eens ###VIGNETTE 1###:
+
+Een 19-jarige jongen vertelt dat hij tijdens zijn eerste universitaire examens merkte dat zijn hart begon te bonzen, zijn handpalmen begonnen te zweten en zijn ademhaling versneld was. Hij voelde zich ook wat misselijk en had een droge mond. Nadat hij was aangekomen in de examenzaal en ging zitten, haalde hij een paar keer diep adem. Binnen 10 minuten werd zijn hartslag rustiger, ademde hij normaal en kreeg hij het gevoel dat hij naar het toilet moest.
+
+Nu de vraag: Kun je met de kennis van zojuist uitleggen welke systemen van het autonome zenuwstelsel verantwoordelijk zijn voor deze symptomen? Geef in je eigen woorden aan wat er gebeurt.","2025-10-15T16:11:23.322632+00:00"
+"user","eerst: sympathisch zorgt voor verhoogde ademhaling, hartslag en zweten. toen, eenmaal rustig, parasympathisch die zorgt voor rustiger ademhalen en rustigere hartslag + spijsvertering die op gang komt","2025-10-15T16:12:47.870268+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Heel goed! Dus je benoemt dat aanvankelijk het sympathisch zenuwstelsel actief is (verhoogde hartslag, zweten, versneld ademen), en daarna het parasympathisch zenuwstelsel de overhand krijgt (hartslag daalt, ademhaling normaliseert, spijsvertering komt weer op gang).
+
+Kun je nu nog iets specifieker uitleggen hoe dit in het lichaam wordt geregeld? Denk aan:  
+- Welke signaalstoffen komen er vrij bij deze activatie?  
+- Welke receptoren worden op de verschillende organen geactiveerd in elke fase?
+
+Leg het opnieuw uit, nu met die details erbij.","2025-10-15T16:12:57.968894+00:00"
+"user","eerst: norepinefrine op adrenerge receptor. toen: ach op muscarine receptor","2025-10-15T16:13:38.70529+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Heel kernachtig! Dus tijdens stress wordt norepinefrine vrijgegeven door het sympathisch zenuwstelsel, en dat bindt aan adrenerge receptoren (zoals β1 in het hart, β2 in de longen, α1 in vaten van huid/darmen).  
+
+Als de stress voorbij is, geeft het parasympathisch zenuwstelsel acetylcholine af op muscarine receptoren, onder andere in het hart en het maag-darmstelsel.
+
+Wil je nog iets toevoegen over wat norepinefrine met het hart doet, of wat acetylcholine met de darmen en blaas doet? Of is dit voor nu duidelijk?","2025-10-15T16:13:49.552497+00:00"
+"user","is duidelijk","2025-10-15T16:14:18.59168+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Prima! Dan volgen we nu nog het laatste onderdeel van deze fase:
+
+Hier nogmaals ###VIGNETTE 1###:
+
+Een 19-jarige jongen vertelt dat hij tijdens zijn eerste universitaire examens merkte dat zijn hart begon te bonzen, zijn handpalmen begonnen te zweten en zijn ademhaling versneld was. Hij voelde zich ook wat misselijk en had een droge mond. Nadat hij was aangekomen in de examenzaal en ging zitten, haalde hij een paar keer diep adem. Binnen 10 minuten werd zijn hartslag rustiger, ademde hij normaal en kreeg hij het gevoel dat hij naar het toilet moest.
+
+###ASSESSMENT QUESTION###
+Hoe begrijp je nu de symptomen in deze casus? Schrijf elk detail op dat je kunt bedenken—je ideeën, redenering en verbanden met wat je geleerd hebt. Hoe vollediger je uitleg, hoe beter je begrip, voorbereiding op tentamens en vaardigheid om vergelijkbare klinische situaties te analyseren!","2025-10-15T16:14:33.176432+00:00"
+"user",".","2025-10-15T16:14:37.053091+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Great! Now we’re entering Phase 3 - Reasoning Transfer.
+
+Hier volgt ###VIGNETTE 2###:
+
+Een 76-jarige man staat in de rij bij de apotheek op een warme middag. Na een paar minuten voelt hij zich licht in het hoofd, misselijk en zweterig. Hij ervaart “tunnelvisie” voordat hij bewustzijn verliest en in elkaar zakt. Omstanders helpen hem op de grond; na enkele minuten bijkomen voelt hij zich zwak maar helder, met een lage hartslag en lage bloeddruk. Even later herstelt hij volledig.
+
+Kun je nu uitleggen welke rol het autonome zenuwstelsel hier speelt bij de symptomen én het herstel? Geef jouw redenatie.","2025-10-15T16:14:49.445552+00:00"
+"user","zweterig: sympathisch, rust en herstel erna: parasympatisch","2025-10-15T16:16:27.267535+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Dat klopt deels, maar kun je proberen wat dieper uit te leggen wat hier precies gebeurt, vooral rondom het moment van flauwvallen? 
+
+Denk aan deze vragen:
+- Wat gebeurt er met het sympathische en parasympathische zenuwstelsel direct vóór het bewustzijnsverlies?
+- Waarom daalt zijn bloeddruk en hartslag juist op dat moment?
+- Wat zorgt ervoor dat hij zich, eenmaal liggend, weer beter voelt?
+
+Kun je de stappen in je eigen woorden reconstrueren?","2025-10-15T16:16:42.768593+00:00"
+"user","dalende hartslag en bloeddruk, parasympathis. hierna neemtsympathisch de overhand om hem te doen herstellen","2025-10-15T16:17:15.965715+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Heel goed, je benoemt een belangrijk deel van het mechanisme: de parasympathicus (vooral via de nervus vagus) zorgt voor een plotselinge daling van de hartslag en bloeddruk. Daardoor daalt de hersendoorstoming en raakt iemand kort buiten bewustzijn. Zodra hij ligt, kan het lichaam herstellen — waarna het sympathisch zenuwstelsel weer geactiveerd wordt en de hartslag en bloeddruk stijgen.
+
+Kun je toelichten waardoor die sterke activatie van de parasympathicus plaatsvindt? Is er een prikkel of situatie die dat uitlokt, en waarom reageert het lichaam daar zo sterk op, denk je?","2025-10-15T16:17:27.780242+00:00"
+"user","sensoren en feedback mechanismen","2025-10-15T16:17:37.81977+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Juist! Het lichaam heeft sensoren (baroreceptoren) in bijvoorbeeld de grote halsslagaders en aortaboog, die de bloeddruk waarnemen. Door bijvoorbeeld lang staan, hitte, of stress kan er een overmatige vagale (parasympathische) reactie ontstaan—een soort overdreven feedbackmechanisme dat bedoeld is om het lichaam te beschermen, maar soms doorslaat. 
+
+Hierdoor krijg je plotselinge vaatverwijding en bradycardie. Dit is bij vasovagale syncope een bekend verschijnsel.
+
+Heb je nog vragen over de rol van de autonome zenuwstelsel in deze klinische vignetten, of voel je je zeker over het onderscheiden van deze processen?","2025-10-15T16:17:51.59485+00:00"
+"user","nee","2025-10-15T16:17:58.696597+00:00"
+"assistant","Dankjewel voor je inzet vandaag! Je hebt het autonome zenuwstelsel en de klinische gevolgen bij stress en syncope goed toegelicht en toegepast. Als je verder wilt oefenen of vragen hebt over andere onderwerpen, mag je altijd opnieuw starten. Succes met je verdere studie!","2025-10-15T16:18:08.621528+00:00"

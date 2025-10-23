@@ -1,0 +1,155 @@
+"role","content","created_at"
+"user","hoi","2025-10-15T16:03:27.525022+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+We gaan aan de slag! Hier volgt een casus:
+
+Een 19-jarige jongen vertelt dat hij terwijl hij naar zijn eerste universitaire examens ging, zijn hart sneller voelde kloppen, zijn handpalmen begonnen te zweten en hij merkte dat hij sneller ademde. Hij voelde zich ook een beetje misselijk en had een droge mond. Nadat hij in de examenzaal was gaan zitten en een paar keer diep ademhaalde, werd zijn hartslag trager, zijn ademhaling normaal en voelde hij de drang om naar het toilet te gaan.
+
+Kun je uitleggen welke symptomen de student ervaart? Denk aan het deel van het autonome zenuwstelsel dat verantwoordelijk is voor deze verschijnselen.","2025-10-15T16:03:39.245075+00:00"
+"user","hypotonie","2025-10-15T16:04:44.806514+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed dat je meedenkt! Je noemt 'hypotonie', wat betekent dat de spierspanning laag is. Bij deze casus lijkt het vooral te gaan om lichamelijke reacties zoals zweten, snelle hartslag en een droge mond. Wil je toelichten waarom je aan hypotonie denkt bij deze klacht, of bedoelde je een ander begrip?
+
+Laten we nu even een korte pauze nemen en starten met Fase 1 – Kennisactivatie. In deze fase herhalen we kort de kernconcepten en mechanismen die bij de casus horen. Zijn er punten die je nu al wilt verduidelijken of vragen over hebt, voordat we verder gaan?
+
+Anders, kun je mij vertellen wat de twee hoofdonderdelen van het autonome zenuwstelsel zijn en wat hun hoofdtaak is?","2025-10-15T16:04:56.693494+00:00"
+"user","hyperventileren","2025-10-15T16:05:47.252412+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Mooi dat je ‘hyperventileren’ noemt! Snelle ademhaling kan inderdaad een gevolg zijn van activering van een bepaald deel van het autonome zenuwstelsel. 
+
+Zullen we eerst samen kort herhalen hoe het autonome zenuwstelsel in elkaar zit? Dat is belangrijk om straks de symptoomverklaring goed te begrijpen. 
+
+Kun je in je eigen woorden uitleggen:
+- Wat de twee belangrijkste delen van het autonome zenuwstelsel zijn?
+- Waarvoor zorgt elk deel in het lichaam?
+
+Als je het niet zeker weet, mag je ook aangeven wat je er al van weet.","2025-10-15T16:05:57.712933+00:00"
+"user","sympaticus voor actie en parasympaticus voor rust","2025-10-15T16:06:33.877808+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed uitgelegd! De sympathicus wordt vooral actief als het lichaam in actie moet komen (“fight or flight”), terwijl de parasympathicus zorgt voor rust en herstel (“rest and digest”).  
+
+Zullen we het iets concreter maken:
+- Weet je welke signaalstoffen (neurotransmitters) deze zenuwbanen gebruiken om signalen door te geven aan de organen?
+- En wat gebeurt er in het lichaam als de sympathicus actief is? Kun je wat voorbeelden geven?
+
+Als je dit lastig vindt, kun je denken aan de effecten op het hart, de longen, de huid en het spijsverteringskanaal.","2025-10-15T16:06:44.885723+00:00"
+"user","adrenaline","2025-10-15T16:07:21.895125+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Heel goed, adrenaline speelt inderdaad een belangrijke rol! Maar let op: adrenaline is vooral het hormoon dat door de bijnier wordt uitgescheiden in het bloed. De zenuwbanen zelf geven vaak een andere stof af aan de organen.
+
+Weet je misschien welke stof de zenuwen van de sympathicus direct aan de organen afgeven? En kun je aangeven wat adrenaline en deze andere stof doen bij het hart of de luchtwegen?
+
+Als dit lastig is, bedenk dan: welke lichamelijke reacties helpen het lichaam om snel te reageren op stress?","2025-10-15T16:07:31.320847+00:00"
+"user","noradrenaline","2025-10-15T16:08:54.916479+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Precies, noradrenaline (ook wel norepinefrine) is de belangrijkste neurotransmitter die door de zenuwuiteinden van de sympathicus wordt afgegeven aan de organen. 
+
+Laten we het nog iets verder concretiseren:
+- Weet je welke soorten receptoren noradrenaline beïnvloedt in het hart, de longen en de bloedvaten?
+- En wat het effect is op bijvoorbeeld je hartslag en je ademhaling?
+
+Kun je er een of twee noemen, of heb je hier nog vragen over?","2025-10-15T16:09:05.551176+00:00"
+"user","noradrenaline","2025-10-15T16:09:12.322179+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Klopt, noradrenaline wordt afgegeven, maar het gaat ook om op welke receptoren dat gebeurt en wat het effect daarvan is. 
+
+Kun je proberen te benoemen:
+- Wat is het effect van noradrenaline op het hart via de β₁-receptor?
+- En wat gebeurt er in de bloedvaten, bijvoorbeeld via de α₁-receptor?
+
+Als je dit lastig vindt, kun je ook zeggen wat je denkbeeldig bij deze student zou verwachten qua reactie van het hart en de bloedvaten.","2025-10-15T16:09:21.342553+00:00"
+"user","nor","2025-10-15T16:09:28.67309+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Je zit goed dat noradrenaline een hoofdrol speelt, en nu is het handig om te specificeren via welke receptoren en wat dat betekent voor hart en bloedvaten.
+
+Zullen we samen de stap zetten:
+- Noradrenaline bindt aan de β₁-receptor in het hart: wat gebeurt er dan met de hartslag?
+- Noradrenaline bindt aan de α₁-receptor in de bloedvaten: wat gebeurt er met de bloeddruk en de doorbloeding?
+
+Kun je dat uitleggen, of heb je nog vragen hierover?","2025-10-15T16:09:38.047012+00:00"
+"assistant","Learning Context and Roles  
+• This appears to be a medical or biomedical tutoring session focused on the autonomic nervous system, with the assistant acting as the tutor and the user (student/learner) working through conceptual questions and clinical associations. The purpose of this feedback is to help the user deepen their understanding and improve their performance in similar interactive learning settings.
+
+A. What Went Well  
+- You made relevant associations between physiological symptoms and underlying mechanisms (e.g., hyperventileren, adrenaline, noradrenaline).  
+- You provided short, concise answers that showed recall of key concepts such as the general roles of het sympaticus and parasympaticus.  
+- You responded to prompts and follow-up questions, demonstrating engagement and willingness to participate.
+
+B. Areas for Improvement  
+- Your answers were often single words or very brief, lacking explanation or elaboration (e.g., “nor”, “noradrenaline”), which hindered demonstration of deeper understanding.  
+- At times, your answers did not fully address the specific questions asked, such as detailing receptor types or describing physiological effects.  
+- There was minimal self-reflection or expression of uncertainty, which makes it harder to identify and address gaps in your knowledge.
+
+C. Actionable Suggestions  
+1. Elaborate on your answers.  
+ • Why it matters: Full sentences and explanations demonstrate understanding and support deeper learning.  
+ • How to implement: When answering, briefly describe both what you know and how it applies to the given clinical scenario (e.g., “Noradrenaline increases heart rate by activating β₁-receptors in the heart.”).  
+
+2. Address the question scope.  
+ • Why it matters: Responding directly to all parts of a question shows comprehension and helps solidify connections between concepts.  
+ • How to implement: Take a moment to reread the question and ensure you answer each sub-point, such as specifying both the receptor type and resulting effect.  
+
+3. Express when you are unsure or have questions.  
+ • Why it matters: Articulating uncertainties allows the tutor to give targeted support and also fosters a more productive learning dialogue.  
+ • How to implement: If you feel unsure, state this explicitly (e.g., “I’m not sure about the function of α₁-receptors, can you clarify?”).
+
+Forward-looking Guidance  
+In the next session, focus on giving more detailed and complete answers and ask for clarification when needed. This will help to build confidence, reinforce your understanding, and allow for more meaningful feedback from your tutor.","2025-10-15T16:09:53.649+00:00"
+"user","noradrenaline","2025-10-15T16:09:53.826195+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Je blijft herhalen dat noradrenaline belangrijk is — en dat klopt! De volgende stap is begrijpen wat noradrenaline via deze receptoren doet:
+
+- Wat gebeurt er met de hartslag als noradrenaline aan de β₁-receptoren bindt?
+- En wat gebeurt er met de bloedvaten als noradrenaline aan de α₁-receptoren bindt?
+
+Kun je dat in je eigen woorden uitleggen? Als je het niet zeker weet, kun je ook zeggen wat je verwacht op basis van een stressreactie.","2025-10-15T16:10:03.972465+00:00"
+"user","hoi","2025-10-15T16:10:04.143284+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+We zijn nog steeds bij Fase 1: het kort activeren van relevante basiskennis over het autonome zenuwstelsel. Als je wilt doorgaan: 
+
+Kun je in je eigen woorden uitleggen wat er in het hart en de bloedvaten gebeurt als noradrenaline via de sympathicus vrijkomt? Denk daarbij aan de β₁-receptoren in het hart en de α₁-receptoren in de bloedvaten.
+
+Wil je het proberen? Dat helpt om straks de klachten van de student goed te verklaren!","2025-10-15T16:10:15.507615+00:00"
+"user","NORADRENALINE","2025-10-15T16:10:58.745294+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Ik zie dat je het antwoord blijft herhalen. Laten we het samen proberen te concretiseren:
+
+Stel: noradrenaline komt vrij en bindt aan β₁-receptoren in het hart. Wat gebeurt er met de hartslag?  
+En als noradrenaline aan α₁-receptoren in de bloedvaten bindt, wat gebeurt er dan met de bloeddruk?
+
+Kun je deze effecten in één zin beschrijven? Of wil je dat ik dit stukje kort uitleg voordat we doorgaan?","2025-10-15T16:11:08.762801+00:00"
+"user","Ik kan niks mee sturen","2025-10-15T16:11:24.296433+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Geen probleem, het is soms lastig om deze stappen te zetten zonder houvast. Zal ik het kort uitleggen?
+
+Als noradrenaline vrijkomt bij stress:
+- In het hart bindt het aan β₁-receptoren. Hierdoor gaat het hart sneller en krachtiger kloppen.
+- In de bloedvaten bindt het aan α₁-receptoren. Hierdoor trekken de bloedvaten samen (vasoconstrictie), wat de bloeddruk verhoogt en het bloed meer richting de spieren stuurt.
+
+Nu je deze kennis hebt:
+- Heb je nog vragen over deze basisfuncties van het sympathisch zenuwstelsel?
+- Of wil je weten wat het parasympathisch zenuwstelsel doet als je ontspant?
+
+Laat het gerust weten! Als er geen vragen meer zijn, kunnen we naar de volgende fase.","2025-10-15T16:11:37.797853+00:00"
+"user","noradrenaline","2025-10-15T16:17:00.038378+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed, noradrenaline is inderdaad de centrale neurotransmitter bij de sympathische activatie.  
+Wil je nu samenvatten:
+- Wat gebeurt er dan met je hart (via β₁-receptoren)?
+- Wat gebeurt er met de bloedvaten (via α₁-receptoren)?
+- En wat doet dit met je lichaam tijdens stress?
+
+Kun je dat in een paar zinnen uitleggen? Als je het lastig vindt, geef dat gerust aan, dan help ik je verder.","2025-10-15T16:17:10.254179+00:00"

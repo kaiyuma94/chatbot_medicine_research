@@ -1,0 +1,42 @@
+"role","content","created_at"
+"user","Ik ben klaar om te beginnen","2025-10-15T13:35:35.707083+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Een 19-jarige jongen meldt dat hij tijdens zijn eerste universitaire examens hartkloppingen kreeg, zijn handpalmen begonnen te zweten en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Nadat hij bij de examenzaal aankwam en ging zitten, haalde hij een paar keer diep adem. Binnen 10 minuten vertraagde zijn hartslag, zijn ademhaling werd normaal en hij kreeg aandrang om naar het toilet te gaan.
+
+Kun je uitleggen waardoor deze student deze symptomen ervaarde? Denk aan het deel van het autonome zenuwstelsel dat hiervoor verantwoordelijk is.","2025-10-15T13:35:47.264349+00:00"
+"user","De student ervaarde stress doordat zijn sympatische zenuwstelsel werd geactiveerd. Hierdoor versnelt zijn hartslag, krijg je meer transperatie en versnelt de ademhaling (fight or flight) . Door diep adem te halen wordt het parasympatische zenuwstelsel geactiveerd, waardoor je juist rustiger bent (rest and digest)","2025-10-15T13:38:28.070529+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we even pauzeren en starten met Fase 1 – Kennisactivering. In deze fase lopen we kort de belangrijkste concepten door die bij deze casus horen.
+
+Heb je specifieke vragen of punten waar je nu meteen meer uitleg over wilt, voordat we de basis samen doornemen? 
+
+Als je nog geen vragen hebt: Kun je mij vertellen wat de twee belangrijkste delen van het autonome zenuwstelsel zijn, en wat elk deel in het algemeen doet?","2025-10-15T13:38:37.256902+00:00"
+"user","Het autonome zenuwstelsel is opgedeeld in twee delen: Sympatische zenuwstelsel- zorgt voor een versnelde hartslag en een gejaagd gevoel, dit wordt vooral gebruikt tijdens inspanning en stress en het parasympatische zenuwstelsel - zorgt voor een vertraagde hartslag en ademhaling en hierbij gaat er juist meer bloed naar de organen ipv de spieren","2025-10-15T13:41:38.626808+00:00"
+"assistant","Mooi uitgelegd. Je noemt al een paar belangrijke functies van beide systemen. Zullen we nog iets dieper ingaan op hoe signalen vanuit het centrale zenuwstelsel naar de organen worden gestuurd?
+
+Weet je welke ‘boodschappersstoffen’ (neurotransmitters) door de sympathische en parasympathische zenuwen worden gebruikt om met de organen te communiceren? En kun je aangeven waar deze stoffen op aangrijpen in het lichaam?","2025-10-15T13:41:47.401858+00:00"
+"user","De neurotransmitter is acetylcholine deze grijpen aan op de nicotine receptoren","2025-10-15T13:43:52.896824+00:00"
+"assistant","Je noemt acetylcholine en de nicotinerge receptoren. Dat klopt voor een deel van het verhaal! Zou je nog eens kunnen nadenken of beide delen van het autonome zenuwstelsel (sympathisch en parasympathisch) dezelfde neurotransmitters en receptortypen gebruiken bij het aansturen van het eindorgaan, zoals het hart of de luchtwegen? Wat gebeurt er bijvoorbeeld bij het sympathische zenuwstelsel—wordt daar ook alleen acetylcholine gebruikt, of speelt nog een andere stof een rol bij het uiteindelijke orgaan?","2025-10-15T13:44:02.461312+00:00"
+"user","Volgens mij speelt adrenaline ook een rol bij het sympatische zenuwstelsel","2025-10-15T13:45:05.775885+00:00"
+"assistant","Dat klopt, adrenaline (en noradrenaline) zijn inderdaad belangrijk in het sympathische zenuwstelsel! 
+
+Kun je uitleggen hoe dit werkt? Denk bijvoorbeeld aan: 
+- Welk deel van het neuronale traject gebruikt acetylcholine en waar komt noradrenaline (of adrenaline) om de hoek kijken? 
+- Op wat voor soort receptoren werken deze stoffen in het eindorgaan? 
+
+Probeer dit eens in je eigen woorden te beschrijven.","2025-10-15T13:45:14.295253+00:00"
+"user","Acetylcholine en noradrenaline worden vrijgelaten in de synaps tussen neuron","2025-10-15T13:46:48.438122+00:00"
+"assistant","Je zit al in de goede richting. Inderdaad: beide stoffen worden gebruikt op verschillende plekken in het traject van zenuw tot eindorgaan. Laten we het een beetje structureren:
+
+- Zowel het sympatische als het parasympatische zenuwstelsel hebben een preganglionair neuron en een postganglionair neuron.
+- Het preganglionaire neuron gebruikt acetylcholine, dat aangrijpt op nicotinerge receptoren van het postganglionaire neuron.
+
+Nu het vervolg:  
+- Bij het parasympatische systeem gebruikt het postganglionaire neuron acetylcholine, dat werkt via muscarinerge receptoren op het eindorgaan.
+- Bij het sympathische systeem gebruikt het postganglionaire neuron vaak noradrenaline, dat werkt via adrenerge receptoren (zoals alfa- en beta-receptoren) op het eindorgaan.
+
+Kun je nu zelf uitleggen wat er gebeurt in het hart bij activering van het sympathische versus het parasympatische zenuwstelsel? Geef hierbij aan welke neurotransmitter en welk type receptor betrokken is.","2025-10-15T13:47:05.51329+00:00"
+"user","Bij activering van het sympathische zenuwstel versnelt de hartslag door de neurotransmitter noradrenaline en daarbij zijn adregene receptoren betrokken.Bij activering van het parasympathische zenuwstel vertraagt de hartslag door de neurotransmitter noradrenaline en daarbij zijn muscarinerge receptoren betrokken.","2025-10-15T13:50:11.495606+00:00"
+"assistant","Dit gaat al de goede kant op, maar er staat een kleine fout in je laatste zin. Bij het parasympatische systeem, welke neurotransmitter wordt daar gebruikt, en klopt het dat noradrenaline hierbij betrokken is? Zou je dat stukje nog eens precies kunnen formuleren?","2025-10-15T13:50:18.506368+00:00"

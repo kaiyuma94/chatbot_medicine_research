@@ -1,0 +1,48 @@
+"role","content","created_at"
+"user","ik ben klaar om te beginnen","2025-10-15T13:16:39.563445+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Een 19-jarige jongen meldt dat hij, terwijl hij naar zijn eerste tentamen gaat, zijn hart voelde bonzen, zijn handpalmen begonnen te zweten en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Na aankomst in de examenzaal en nadat hij was gaan zitten, haalde hij een paar keer diep adem. Binnen 10 minuten werd zijn hartslag rustiger, zijn ademhaling normaal en kreeg hij aandrang om naar het toilet te gaan.
+
+Kun je uitleggen waardoor deze student deze symptomen kreeg? Denk daarbij aan welk deel van het autonome zenuwstelsel hierbij betrokken is.","2025-10-15T13:16:51.126447+00:00"
+"user","Waarschijnlijk was hij erg zenuwachtig voor zijn eerste tentamen, hierdoor werd zijn sympatische zenuwstelsel meer actief. Dit zorgde dat zijn hartslag verhoogd werd en zijn ademhaling versnelde. Toen hij tot rust kwam, werd de parasympaticus weer meer actief en werd de spijsvertering weer gestimuleerd. Hierdoor kreeg hij aandrang om naar het toilet te gaan.","2025-10-15T13:21:11.509245+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we even pauzeren en beginnen met Fase 1 – Kennisactivatie. In deze fase herhalen we kort de kernbegrippen en mechanismen die relevant zijn voor de casus. Heb je al vragen of punten die je graag verduidelijkt wilt zien voordat we starten?
+
+Zo niet, kun je me dan vertellen:
+Weet je wat de twee hoofdonderdelen zijn van het autonome zenuwstelsel, en wat elk onderdeel globaal doet?","2025-10-15T13:21:20.309344+00:00"
+"user","De hoofdonderdelen zijn het somatische en het autonome zenuwstelsel. Het somatische zenuwstelsel zorgt voor bewuste processen en het autonome zenuwstelsel zorgt voor onbewuste processen in het lichaam.","2025-10-15T13:23:12.865085+00:00"
+"assistant","Mooi, dat klopt voor het onderscheid tussen somatisch en autonoom! Laten we nu inzoomen op het autonome zenuwstelsel zelf.
+
+Weet je nog welke twee hoofdonderdelen daar weer in zitten? Kun je kort uitleggen wat elk van die twee onderdelen doet?","2025-10-15T13:23:18.720131+00:00"
+"user","De twee hoofdonderdelen van het autonome zenuwstelsel zijn het parasympatische en sympatische zenuwstelsel. Het parasympatische zenuwstelsel is voornamelijk actief in rust en het sympatische zenuwstelsel is voornamelijk actief in actie.","2025-10-15T13:24:35.268139+00:00"
+"assistant","Goed uitgelegd! 
+
+Zou je kunnen beschrijven hoe een signaal vanuit de hersenen uiteindelijk een orgaan (zoals het hart, de longen of het maag-darmkanaal) bereikt binnen dit systeem? Waarmee communiceren de zenuwcellen met de organen?","2025-10-15T13:24:40.99772+00:00"
+"user","Een signaal bereikt een orgaan met motorische neuronen. Zenuwcellen communiceren met de organen via synapsen","2025-10-15T13:25:34.273077+00:00"
+"assistant","Precies, motorische (in dit geval autonome) neuronen geven signalen door via synapsen naar de organen. 
+
+Weet je ook welke stofjes (neurotransmitters) deze zenuwcellen gebruiken om berichten over te brengen naar de organen? Is dat hetzelfde voor het sympatische en parasympatische zenuwstelsel, of zit daar verschil in?","2025-10-15T13:25:41.095807+00:00"
+"user","Hier zit verschil in. Voor het parasympatische zenuwstelsel in dit acetylcholine en voor het sympatische zenuwstelsel in dit noradrenaline","2025-10-15T13:26:34.510647+00:00"
+"assistant","Heel goed! Acetylcholine is inderdaad de belangrijkste neurotransmitter bij het parasympatische systeem, en noradrenaline (norepinefrine) speelt een centrale rol bij het sympatische systeem.
+
+Laten we nu vervolgvragen stellen:
+Wat gebeurt er met het lichaam wanneer het sympatische systeem actief wordt? Kun je drie concrete voorbeelden noemen van wat er dan in organen of weefsels gebeurt?","2025-10-15T13:26:42.502324+00:00"
+"user","Als het sympatische systeem actief wordt, dan versneld de hartslag, scheiden je zweetklieren meer zweet huid in de huid en vertraagd de spijsvertering","2025-10-15T13:27:49.717237+00:00"
+"assistant","Dat zijn drie duidelijke voorbeelden! Dus: snelle hartslag, meer zweten, en vertraagde spijsvertering door sympatische activatie.
+
+Ben je er ook van op de hoogte wat er gebeurt wanneer het parasympatische systeem juist actief wordt? Welke effecten zie je dan in het lichaam? Noem eens één of twee voorbeelden.","2025-10-15T13:27:55.916223+00:00"
+"user","Als het parasympatische systeem actief wordt, dan wordt bijvoorbeeld de spijsvertering actiever en daalt je hartslag","2025-10-15T13:28:24.837393+00:00"
+"assistant","Prima! Je hebt de kernconcepten netjes op een rijtje.
+
+Heb je nog vragen over deze basisprincipes van het autonome zenuwstelsel, of is het voor nu duidelijk genoeg? Als je wilt, kun je nu je eigen vraag stellen of aangeven waar je nog onzeker over bent. 
+
+Anders gaan we door naar de volgende fase, waarin we alles toepassen op de originele casus. Geef gerust aan wat je wilt!","2025-10-15T13:28:33.79123+00:00"
+"user","We kunnen door naar de volgende fase","2025-10-15T13:28:55.856175+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Hier is nogmaals de casus:
+Een 19-jarige jongen meldt dat hij, terwijl hij naar zijn eerste tentamen gaat, zijn hart voelde bonzen, zijn handpalmen begonnen te zweten en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Na aankomst in de examenzaal en nadat hij was gaan zitten, haalde hij een paar keer diep adem. Binnen 10 minuten werd zijn hartslag rustiger, zijn ademhaling normaal en kreeg hij aandrang om naar het toilet te gaan.
+
+Nu zijn we in Fase 2 – Narratief Construeren. Kun je met de kennis die je net hebt herhaald uitleggen wat er gebeurt in deze student? Probeer stap voor stap uit te leggen welke delen van het autonome zenuwstelsel actief zijn bij zijn klachten, en hoe die veranderd zijn nadat hij tot rust kwam.","2025-10-15T13:29:09.342109+00:00"

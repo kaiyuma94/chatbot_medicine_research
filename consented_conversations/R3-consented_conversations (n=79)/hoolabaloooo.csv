@@ -1,0 +1,43 @@
+"role","content","created_at"
+"user","Ik ben er klaar voor","2025-10-15T15:16:08.27653+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Hier is de eerste casus:
+
+Een 19-jarige jongen meldt dat hij, terwijl hij naar zijn eerste universitaire tentamen ging, begon te voelen dat zijn hart bonkte, zijn handpalmen werden zweterig, en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Nadat hij in de examenzaal was gaan zitten en een paar keer diep had ademgehaald, vertraagde zijn hartslag, normaliseerde zijn ademhaling, en voelde hij aandrang om naar het toilet te gaan.
+
+Kun je uitleggen welke symptomen de student ervaart? Denk na over welk deel van het autonome zenuwstelsel hiervoor verantwoordelijk is.","2025-10-15T15:16:18.765931+00:00"
+"user","Hij heeft last van stres achtig symptomen. Verhoogde en harde hartslag, zweet handen en versnelde ademhaling. Daarnaast ook misselijkheid en een droge mond. Na zichzelf te kalmeren nam de stres af","2025-10-15T15:18:16.230975+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we even pauzeren en fase 1 – Kennisactivering starten. In deze fase bespreken we kort de belangrijkste concepten en mechanismen die bij deze casus horen. Zijn er dingen of begrippen die je graag eerst zou willen verduidelijken voordat we verder gaan?
+
+Zo niet, kun je dan vertellen wat de twee hoofdonderdelen zijn van het autonome zenuwstelsel en wat elk onderdeel doet?","2025-10-15T15:18:25.394456+00:00"
+"user","Hij ervaart stres achtige symptomen. Verhoogde ademhaling, verhoogde en verharde hartslag. Zweethanden, misselijkheid en een droge mond. Na zichzelf te kalmeren werden de klachten minder.","2025-10-15T15:20:20.621144+00:00"
+"assistant","Prima dat je het zo helder kunt benoemen, maar laten we even een stapje terug doen naar de basiskennis.
+
+We hadden het net over de twee hoofdonderdelen van het autonome zenuwstelsel. Weet je hoe deze twee genoemd worden en welke functies elk onderdeel vooral heeft?","2025-10-15T15:20:27.402451+00:00"
+"user","Je hebt het sympathische en het parasymparische deel. Het ene is voor het fight of flight reactie en de ander bevorderd rust en herstel","2025-10-15T15:22:01.559333+00:00"
+"assistant","Dat klopt! Het sympathische deel zorgt dus vooral voor actie (“fight or flight”), terwijl het parasympathische deel juist zorgt voor rust en herstel (“rest and digest”).
+
+Kun je uitleggen hoe een signaal van het brein bij deze systemen terechtkomt en uiteindelijk een orgaan beïnvloedt? Wat gebeurt er in grote lijnen vanaf het moment dat het brein een stressprikkel waarneemt tot aan het effect op bijvoorbeeld het hart of de ademhaling?","2025-10-15T15:22:13.972871+00:00"
+"user","Dat begint in de hypothalamus die dan zo’n prikkel ontvangt. Dan worden die via de zenuwen in oa de ruggenwervel naar het systeem waar ze heen moeten geleid.","2025-10-15T15:24:34.189229+00:00"
+"assistant","Heel goed, het begint inderdaad vaak in de hypothalamus die de signalen verwerkt en coördineert. Vanuit daar lopen de signalen via het ruggenmerg naar het eindorgaan.  
+
+Weet je misschien welke stofjes (neurotransmitters) gebruikt worden om de boodschap over te brengen naar de organen, bijvoorbeeld in het sympathische of parasympathische systeem? En op welke “receptoren” komen die stoffen terecht?","2025-10-15T15:24:42.759574+00:00"
+"user","Dat gaat voornamelijk om noradrenaline en acetylcholine. Dat laatste wordt vooral gebruikt door het parasympatisxhe deel. Die binden aan hun gelijknamige receptoren","2025-10-15T15:26:59.044998+00:00"
+"assistant","Heel goed, je noemt noradrenaline (vooral sympathisch) en acetylcholine (vooral parasympathisch). Acetylcholine bindt aan muscarine receptoren; noradrenaline aan adrenerge receptoren.
+
+Wat gebeurt er met het lichaam als het sympathische of het parasympathische deel actief wordt? Kun je per deel kort uitleggen welke lichamelijke effecten je ziet?","2025-10-15T15:27:06.95381+00:00"
+"user","Bij het parasympatisxhe wordt dus het fight or flight geactiveerd, je krijgt dus vasoconsteictie en wordt in een staat van alertheid gebracht. Bij het sympathische deel wordt alles juist weer rustiger gemaakt, zoals bijvoorbeeld het maagdarm systeem","2025-10-15T15:28:59.68878+00:00"
+"assistant","Let op, je hebt de functies omgedraaid: het sympathische systeem zorgt juist voor “fight or flight” (actie), en het parasympathische systeem voor rust en herstel (“rest and digest”).
+
+Laten we het nog even kort scheiden:
+- Wat gebeurt er met het hart, de ademhaling, spieren, spijsvertering en huid als het sympathische systeem actief wordt?  
+- En wat gebeurt er met diezelfde functies als het parasympathische systeem actief is?
+
+Kun je het per systeem kort uitleggen?","2025-10-15T15:29:08.753559+00:00"
+"user","Excuus. Bij het activeren van het sympathische deel krijg je een verhoogde hartslag en ademhaling en de spieren worden op spanning gezet. Bij het parasympatisxhe activatie krijg je juist verlaagde ademhaling en hartslag. Met daarnaast spierverslappend","2025-10-15T15:31:17.909839+00:00"
+"assistant","Mooi! Je hebt nu de richting goed te pakken.  
+
+Misschien kun je ook kort benoemen wat er met de spijsvertering en de huid gebeurt bij activatie van sympathisch versus parasympatisch? Wat valt je daarbij op?","2025-10-15T15:31:24.541552+00:00"

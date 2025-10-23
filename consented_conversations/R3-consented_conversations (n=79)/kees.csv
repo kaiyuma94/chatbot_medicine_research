@@ -1,0 +1,69 @@
+"role","content","created_at"
+"user","hoi","2025-10-15T13:17:04.167076+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Hoi! We starten met de eerste fase. Hier is de casus:
+
+Een 19-jarige jongen vertelt dat hij, terwijl hij naar zijn eerste universitaire tentamens ging, zijn hart voelde bonzen, zijn handpalmen zweterig werden en zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Nadat hij was aangekomen in de examenzaal en even had gezeten, haalde hij een paar keer diep adem. Binnen 10 minuten werd zijn hartslag trager, zijn ademhaling normaal en kreeg hij de aandrang om naar het toilet te gaan.
+
+Kun je uitleggen welke symptomen de student ervaart? Denk na over welke tak van het autonome zenuwstelsel hiervoor verantwoordelijk is.","2025-10-15T13:17:17.015961+00:00"
+"user","De student kreeg eerst meer adrenaline door de spanning en stress voor zijn tentamen. Dit duidt op het sympathische zenuwstelsel. Vervolgens kalmeerde hij weer en begon zijn parasympatische zenuwstelsel zijn werk te doen","2025-10-15T13:19:01.264565+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we even pauzeren en officieel beginnen met Fase 1 – Kennisactivering. In deze fase overlopen we kort de belangrijkste concepten en mechanismen die bij deze casus horen.
+
+Heb je op dit moment nog vragen of punten die je graag vooraf zou willen verduidelijken?
+
+Zo niet, kun je kort uitleggen wat de twee hoofdonderdelen van het autonome zenuwstelsel zijn, en wat elk onderdeel doet?","2025-10-15T13:19:09.677731+00:00"
+"user","Het sympathische zenuwstelsel is voor de flight or fight en het parasympathisch zenuwstelsel is voor rest and digest","2025-10-15T13:19:58.816812+00:00"
+"assistant","Mooi samengevat! 
+
+Kun je nu uitleggen hoe een signaal van het brein naar een orgaan reist binnen deze systemen? Denk bijvoorbeeld aan welke route zo’n zenuwsignaal volgt, en wat er gebeurt tussen zenuwcel en orgaan.","2025-10-15T13:20:05.981256+00:00"
+"user","Hij gaat via de preganglionaire axonen richting de postganglionaire axonen om zo richting orgaan door te gaan","2025-10-15T13:22:23.036278+00:00"
+"assistant","Goed! Je noemt de preganglionaire en postganglionaire axonen.
+
+Weet je ook welke signaalstoffen (neurotransmitters) deze zenuwen gebruiken om berichten door te geven aan de organen, en of dit verschillend is tussen het sympathisch en parasympathisch systeem?","2025-10-15T13:22:30.685195+00:00"
+"user","Dit is zeker verschillend. Bij sympathisch is dit Noradrenaline en bij parasympathisch is dit Acetylcholine","2025-10-15T13:22:55.847002+00:00"
+"assistant","Precies! Nu nog één vervolgvraag: 
+
+Wat gebeurt er met het lichaam als het sympathisch zenuwstelsel actief wordt, en wat als het parasympathisch zenuwstelsel de overhand krijgt? Kun je voorbeelden geven van veranderingen die in organen optreden?","2025-10-15T13:23:01.927773+00:00"
+"user","Bij het sympathische zenuwstelsel gaat het hart sneller kloppen en je ogen wijder open staan. Bij het parasympatisch zenuwstelsel gaat alles juist in rustmodes","2025-10-15T13:23:30.238916+00:00"
+"assistant","Heel goed, je hebt de grote lijnen te pakken! Misschien kun je iets concreter zijn bij het parasympathisch zenuwstelsel: welk orgaan verandert dan, of welke functie wordt juist actief als je lichaam in rust komt?
+
+Als je daar een paar voorbeelden van geeft, denk je dan dat je klaar bent voor de volgende fase, waarin je deze kennis op het eerste vignet gaat toepassen?","2025-10-15T13:23:37.488575+00:00"
+"user","Je hart komt tot rust en je maag-darmkanaal ook","2025-10-15T13:23:47.20372+00:00"
+"assistant","Dat is een goed begin. Wat denk je dat er gebeurt met bijvoorbeeld de blaas of de speekselklieren als het parasympathisch zenuwstelsel actief wordt?
+
+Als je daar nog een voorbeeld van weet, kunnen we doorgaan!","2025-10-15T13:23:53.545656+00:00"
+"user","Je blaas zou ook minder op spanning komen te staan en je zult meer speeksel aanmaken","2025-10-15T13:24:15.376828+00:00"
+"assistant","Mooi zo, je hebt nu een goed overzicht van de belangrijkste reacties van beide systemen!
+
+Zullen we deze kennis nu toepassen op de oorspronkelijke casus?
+
+=== PHASE 2: Narrative Construction ===
+
+Hier is nogmaals de casus:
+
+Een 19-jarige jongen vertelt dat hij, terwijl hij naar zijn eerste universitaire tentamens ging, zijn hart voelde bonzen, zijn handpalmen zweterig werden en zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Nadat hij was aangekomen in de examenzaal en even had gezeten, haalde hij een paar keer diep adem. Binnen 10 minuten werd zijn hartslag trager, zijn ademhaling normaal en kreeg hij de aandrang om naar het toilet te gaan.
+
+Kun je nu uitleggen waardoor deze student deze symptomen ervaart, met behulp van wat je net geleerd hebt? Denk aan het autonome zenuwstelsel dat hierbij betrokken is.","2025-10-15T13:24:28.819475+00:00"
+"user","De versnelde hartslag, het zweterig worden, de versnelde ademhaling, misselijkheid en de droge mond worden veroorzaakt door het sympathische zenuwstelsel. Toen zijn hartslag lager werd, ademhaling normaal en zijn blaas begon te ontspannen duidt op de werking van het parasympatische zenuwstelsel.","2025-10-15T13:25:40.568648+00:00"
+"assistant","Heel goed! Je koppelt de symptomen netjes aan beide systemen. 
+
+Zou je nu kunnen uitleggen wat er precies in het lichaam gebeurt als de student stress heeft voor zijn tentamen? Welke signaalstoffen en doelorganen zijn hierbij betrokken, en wat is daar het effect van? Probeer eens een stap verder te gaan in je uitleg.","2025-10-15T13:25:48.436288+00:00"
+"user","De signaalstoffen (nor)adrenaline zijn hierbij betrokken. Deze laat je hartslag sneller kloppen en zet je blaas bijvoorbeeld op spanning","2025-10-15T13:26:44.582989+00:00"
+"assistant","Mooi begin! Je noemt noradrenaline — inderdaad belangrijk in het sympathische systeem. 
+
+Weet je ook via welke receptoren op de organen noradrenaline precies werkzaam is? Kun je proberen uit te leggen wat er gebeurt bij bijvoorbeeld het hart, de luchtwegen, en de bloedvaten als het sympathische systeem actief is?","2025-10-15T13:26:52.172055+00:00"
+"user","De alfa-1 receptoren en de beta-1- en beta2- receptoren","2025-10-15T13:27:34.425485+00:00"
+"assistant","Klopt! Kun je toelichten welk effect activatie van deze receptoren heeft op het hart, de bloedvaten en de longen? Wat gebeurt er precies met deze organen?","2025-10-15T13:27:39.346008+00:00"
+"user","Vascocontrictie via alfa-1 receptoren 
+Bronchodilatie, vasodilatatie van de arteriële, verhoogde hartcontractiliteit en -frequentie via beta-2 receptoren. 
+Verhoogde hartcontractiliteit en -frequentie via beta-1 receptoren","2025-10-15T13:28:32.963658+00:00"
+"assistant","Goed uitgelegd! Je benoemt het grootste deel juist. Een nuance: bronchodilatatie (verwijding van de luchtwegen) en vasodilatatie van bepaalde vaten (zoals in skeletspieren) verlopen via β2-receptoren, terwijl vasoconstrictie in de huid en darmen via α1-receptoren gaat. β1-receptoren stimuleren hartcontractiliteit en hartfrequentie.
+
+Nu een stap verder: wat gebeurt er als de stress voorbij is en de student tot rust komt? Welke neurotransmitter en welk orgaanstelsel zijn nu actief, en wat is daar het gevolg van voor zijn lichaam?","2025-10-15T13:28:44.482962+00:00"
+"user","Neurotransmitter bij het parasympathisch zenuwstelsel is Ach. Deze hebben geen invloed op de bloedvaten, geen effect op de contractiliteit van het hart en de verlaagde hartfrequentie","2025-10-15T13:30:08.473615+00:00"
+"assistant","Goed! Je geeft aan dat acetylcholine (ACh) zorgt voor een verlaagde hartfrequentie via het parasympathisch systeem, en goed gezien dat het nauwelijks invloed heeft op de contractiliteit van het hart of op de meeste bloedvaten. 
+
+Kun je ook uitleggen wat het effect is op andere organen, zoals de speekselklieren, het maag-darmkanaal en de blaas? Welk effect heeft activatie van het parasympathisch systeem daar?","2025-10-15T13:30:17.725429+00:00"

@@ -1,0 +1,250 @@
+"role","content","created_at"
+"user","laten we beginnen","2025-10-15T15:48:21.592392+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Hier is het eerste klinische vignet:
+
+Een 19-jarige jongen meldt dat hij tijdens zijn eerste universitaire examens zijn hart voelde bonzen, zijn handpalmen zweterig werden en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Nadat hij bij de examenzaal aankwam en ging zitten, haalde hij een paar keer diep adem. Binnen 10 minuten vertraagde zijn hartslag, normaliseerde zijn ademhaling en kreeg hij aandrang om naar het toilet te gaan.
+
+Kun je uitleggen welke klachten de student ervaart? Denk na over het deel van het autonome zenuwstelsel dat verantwoordelijk is voor deze symptomen.","2025-10-15T15:48:32.376632+00:00"
+"user","zwetende handen, bonzend hart, versnelling ademhaling --> adrenaline","2025-10-15T15:51:08.760089+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed opgemerkt! Je koppelt deze klachten aan adrenaline, wat inderdaad te maken heeft met het autonome zenuwstelsel.
+
+Laten we even kort pauzeren en beginnen aan Fase 1 – Kennisactivatie. In deze fase gaan we kort de belangrijkste concepten en mechanismen bespreken die bij deze casus horen.
+
+Heb je vooraf vragen of punten die je graag zou willen ophelderen voordat we starten met deze kennisopfrissing? 
+
+Zo niet, kan je dan benoemen wat de twee hoofdonderdelen van het autonome zenuwstelsel zijn en wat elk onderdeel voornamelijk doet?","2025-10-15T15:51:25.609632+00:00"
+"user","parasympathisch en sympathisch","2025-10-15T15:52:22.853115+00:00"
+"assistant","Precies, het autonome zenuwstelsel bestaat uit het parasympatische en het sympathische deel.
+
+Kun je uitleggen wat het sympathische en wat het parasympatische zenuwstelsel doet? Wanneer zijn ze elk vooral actief?","2025-10-15T15:52:28.877205+00:00"
+"user","de ene is rest en digest en de ander is fight or flight","2025-10-15T15:52:42.761508+00:00"
+"assistant","Heel goed! De “rest and digest” hoort bij het parasympathische systeem, en de “fight or flight” bij het sympathische.
+
+We gaan nog iets dieper: weet je hoe signalen van de hersenen naar organen worden doorgegeven binnen deze systemen? Bijvoorbeeld: Welke stoffen of neurotransmitters gebruiken deze zenuwen om signalen aan de organen door te geven?","2025-10-15T15:52:50.028751+00:00"
+"user","nee","2025-10-15T15:53:00.38498+00:00"
+"assistant","Dat is geen probleem! 
+
+Bij het sympathische zenuwstelsel wordt vooral noradrenaline (of norepinefrine) gebruikt om signalen van zenuwen naar organen door te geven. Dit gebeurt via adrenerge receptoren op de organen. Denk aan verhoogde hartslag via β1-receptoren in het hart en verwijding van de luchtwegen via β2-receptoren in de longen.
+
+Het parasympathische systeem gebruikt acetylcholine als belangrijkste boodschapper. Dat werkt vooral op muscarine receptoren en vertraagt bijvoorbeeld het hart of stimuleert de spijsvertering.
+
+Is het zo duidelijk? Zo ja, kun je aangeven wat er globaal gebeurt in het lichaam als het sympathische of parasympathische zenuwstelsel actief wordt? Wat merk je aan de organen en functies?","2025-10-15T15:53:15.139673+00:00"
+"user","bij rest and digest worden je organen actief en de rest van je lichaam is dan in rust, terwijl bij fight and flight je organen niet actief zijn en de rest van je lichaam wel actief is, veel adrenaline dan","2025-10-15T15:54:33.668776+00:00"
+"assistant","Mooi, je zit al in de juiste richting met je uitleg! Je zegt: bij ""rest and digest"" worden je organen actief—dat klopt omdat het parasympatisch systeem vooral de spijsvertering, rust en herstel stimuleert. Bij ""fight or flight"" is het sympathisch stelsel actief—hier wordt bijvoorbeeld de hartslag versneld, de ademhaling vergemakkelijkt, bloed naar de spieren gestuurd, en de spijsvertering juist geremd.
+
+Denk nog even aan wat er precies met de hartslag, bloedvaten, ademhaling en spijsvertering gebeurt in elk systeem. Kun je die functies voor beide systemen kort benoemen? 
+
+Als je dit duidelijk hebt, kunnen we verder naar fase 2!","2025-10-15T15:54:45.783218+00:00"
+"user","bij fight or flight gaat je hartslag omhoog, bloedvaten verwijden en ademhamling versnelt, spijsvertering is veel minder. Bij rest and digest is je hartslag laag, ademhaling langzaam, spijsvertering is hard bezig","2025-10-15T15:56:26.104436+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Goed gedaan, je hebt de hoofdpunten van beide systemen helder in beeld. 
+
+We pakken de casus er nog een keer bij:
+
+Een 19-jarige jongen meldt dat hij tijdens zijn eerste universitaire examens zijn hart voelde bonzen, zijn handpalmen zweterig werden en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Nadat hij bij de examenzaal aankwam en ging zitten, haalde hij een paar keer diep adem. Binnen 10 minuten vertraagde zijn hartslag, normaliseerde zijn ademhaling en kreeg hij aandrang om naar het toilet te gaan.
+
+Met de kennis die je zojuist hebt herhaald: kun je nu stap voor stap uitleggen welke delen van het autonome zenuwstelsel deze verschijnselen veroorzaken en hoe dat werkt? Leg de symptomen zo volledig mogelijk uit aan de hand van je kennis.","2025-10-15T15:56:39.768714+00:00"
+"user","hart bonzen en handpalmen die zweterig zijn en ademhaling die versnelt, komt door stres, dus fight or flight --> sympathische 
+ademhaling die vertraagd, het plassen is deel van het parasympathische deel, dus rest and digest","2025-10-15T15:58:11.627532+00:00"
+"assistant","Dat klopt, je linkt de klachten goed aan de twee systemen. Je benoemt dat stress zorgt voor “fight or flight”, en de ontspanning daarna voor “rest and digest”. 
+
+Kun je iets specifieker uitleggen hoe het sympathisch zenuwstelsel deze klachten veroorzaakt? Denk bijvoorbeeld aan de neurotransmitters, de receptoren en de organen die betrokken zijn. Ook: Waarom verdwijnt de misselijkheid en komt de aandrang om te plassen op als hij rustiger wordt? Kun je proberen die stappen verder te benoemen?","2025-10-15T15:58:20.279852+00:00"
+"user","Het parasympathische systeem gebruikt acetylcholine als belangrijkste boodschapper. Dat werkt vooral op muscarine receptoren en vertraagt bijvoorbeeld het hart of stimuleert de spijsvertering. dus in dit geval komt er acetylcholine vrij","2025-10-15T15:59:18.974102+00:00"
+"assistant","Heel goed dat je noemt dat bij ontspanning het parasympathisch systeem acetylcholine vrijmaakt en muscarine receptoren stimuleert, bijvoorbeeld voor het hart en de spijsvertering. 
+
+Kun je ook uitleggen wat het sympathisch zenuwstelsel doet tijdens de stresssituatie? Welke neurotransmitter hoort daarbij, op welke receptoren werkt die, en wat gebeurt er vervolgens met het hart, de longen en de zweetklieren? Kun je deze keten kort toelichten?","2025-10-15T15:59:28.486981+00:00"
+"user","Bij het sympathische zenuwstelsel wordt vooral noradrenaline (of norepinefrine) gebruikt om signalen van zenuwen naar organen door te geven. Dit gebeurt via adrenerge receptoren op de organen. Denk aan verhoogde hartslag via β1-receptoren in het hart en verwijding van de luchtwegen via β2-receptoren in de longen.","2025-10-15T16:00:09.115436+00:00"
+"assistant","Dat heb je goed uitgelegd. Noradrenaline werkt inderdaad via adrenerge receptoren: β1 op het hart zorgt voor een snellere hartslag, en β2 op de longen voor verwijding van de luchtwegen. 
+
+Kun je ook uitleggen hoe het sympathisch zenuwstelsel zorgt voor zweten, een droge mond en minder spijsvertering? Welke receptoren of mechanismen spelen hierbij een rol? En: Waarom zijn deze reacties logisch in het kader van “fight or flight”?","2025-10-15T16:00:17.629042+00:00"
+"user","bij het sympathische zenuwstelsel is de spijsvertering vermindert dus krijg je een droge mond, maar hoe het precies komt geen idee","2025-10-15T16:02:01.471658+00:00"
+"assistant","Goede redeneerstap! Je hebt gelijk: het sympathische systeem remt de spijsvertering, waardoor bijvoorbeeld de speekselproductie afneemt en je een droge mond krijgt.
+
+Voor het zweten: bij het sympathische zenuwstelsel stimuleren speciale sympathische zenuwvezels de zweetklieren. Opvallend is dat deze zenuwen acetylcholine gebruiken (niet noradrenaline) op muscarine receptoren om zweten te activeren. Dat is een uitzondering binnen het sympathisch systeem, de meeste andere organen reageren juist op noradrenaline.
+
+Waarom zou het in evolutionair opzicht logisch zijn om minder te verteren en meer te zweten tijdens een stressmoment, denk je?","2025-10-15T16:02:12.489903+00:00"
+"assistant","**Learning Context and Roles**  
+Dit betreft een medische onderwijssituatie, waarschijnlijk een tutor- of begeleidingssessie over het autonome zenuwstelsel aan de hand van een casus. De gebruiker is waarschijnlijk student geneeskunde of biomedische wetenschappen, terwijl de assistent de rol van begeleider of docent inneemt. Het doel van deze feedback is om de educatieve bijdrage van de student te beoordelen en te versterken.
+
+**A. What Went Well**
+- Toonde basiskennis van kernbegrippen (“rest and digest”, “fight or flight”, neurotransmitters).
+- Reageerde vlot en met kernwoorden op inhoudelijke vragen.
+- Gaf aan wat niet bekend was (“maar hoe het precies komt geen idee”), wat aangeeft dat feedback wordt gevraagd bij onzekerheid.
+- Correcte koppeling van autonome processen aan situaties in de casus.
+
+**B. Areas for Improvement**
+- Antwoorden zijn soms te beknopt en missen uitleg/onderbouwing.
+- Gebruikte regelmatig korte steekwoorden in plaats van volledige, uitgewerkte zinnen of redeneringen.
+- Bracht slechts beperkt eigen reflectie of verdieping aan, vooral bij vragen over het ‘waarom’ van fysiologische reacties.
+- Misvatting: “bij fight or flight je organen niet actief zijn"" kan verwarring veroorzaken; de precieze omschrijving van ‘organen actief/inactief’ werd niet uitgewerkt.
+- Vond het lastig om uitzonderingen en details (zoals zweten door acetylcholine binnen het sympathisch zenuwstelsel) te benoemen.
+
+**C. Actionable Suggestions**
+
+1. Geef volledigere en logischer opgebouwde antwoorden  
+   • Waarom het belangrijk is: Volledig geformuleerde antwoorden laten zien dat je het proces begrijpt, helpen leemtes in kennis ontdekken en vergroten de helderheid voor jezelf en anderen.  
+   • Hoe te doen: Vat je uitleg samen in een korte, volledige redenering (“Het sympathische zenuwstelsel activeert bij stress noradrenaline die via β1-receptoren zorgt voor een hogere hartslag, omdat het lichaam zo voorbereid is op actie.”).
+
+2. Benoem uitzonderingen en reflecteer op achterliggende redenen  
+   • Waarom het belangrijk is: Medische kennis vraagt niet alleen feitenkennis, maar ook begrip van mechanismen en uitzonderingen, wat de klinische redeneer- en uitlegvaardigheid verbetert.  
+   • Hoe te doen: Schrijf of zeg bij elke vraag even op waarom een bepaald proces evolutionair of fysiologisch logisch is (“Het lichaam vermindert speekselproductie zodat energie naar spieren kan, en zweten voorkomt oververhitting tijdens actie; de uitzondering van acetylcholine bij zweetklieren komt doordat…”)—zoek actief naar deze uitzonderingen als je ze niet direct weet.
+
+3. Herformuleer onduidelijke uitspraken en streef actief naar precisie  
+   • Waarom het belangrijk is: Duidelijke formuleringen voorkomen misverstanden en zorgen voor correcte medische communicatie.  
+   • Hoe te doen: Controleer bij elk antwoord of je kunt uitleggen wat je bedoelt met bijvoorbeeld ‘organen niet actief’ (bv. “spijsvertering wordt geremd, spieren juist gestimuleerd”).
+
+4. Toon meer zelfreflectie op eigen kennislacunes  
+   • Waarom het belangrijk is: Bewust zijn van wat je (niet) weet, helpt gerichte vragen te stellen, waardoor je effectiever leert.  
+   • Hoe te doen: Benoem duidelijk waar je onzeker over bent of wat je verwacht nog te leren vóórdat je een vervolgvraag stelt (“Ik weet niet precies welke stofjes de zweetklieren aansturen tijdens stress, kunt u dit uitleggen?”).
+
+**Forward-looking guidance**  
+In de volgende sessie kun je focussen op het onderbouwen van je antwoorden met meer uitleg en het actief benoemen van redenen achter fysiologische reacties. Probeer ook waar mogelijk kort het evolutionaire nut of klinische belang van je uitleg te beschrijven.","2025-10-15T16:27:19.392+00:00"
+"assistant","**Learning Context and Roles**  
+Dit was een begeleide tutorgesprek (waarschijnlijk in de medische of biomedische bachelor/master) rond het autonome zenuwstelsel, met een gesimuleerde casusbespreking. De gebruiker is student; de assistant speelt tutor/coach. Doel: actieve kennisverdieping en casusanalyse.
+
+**A. What Went Well**
+- Herkende en benoemde de hoofdonderdelen van het autonome zenuwstelsel correct.
+- Legde verbanden tussen symptomen in de casus en de betrokken systemen (sympathisch vs. parasympathisch).
+- Toonde openheid door aan te geven wanneer extra uitleg nodig was (“hoe het precies komt geen idee”).
+- Wist de juiste richting te geven aan reacties bij vragen over neurotransmitters en receptoren.
+
+**B. Areas for Improvement**
+- Antwoorden zijn vaak (te) kort en bevatten nauwelijks onderbouwingen of toelichting.
+- Er was verwarring of onnauwkeurigheid bij het beschrijven van “activiteiten” van organen (“de rest van je lichaam is dan in rust”), wat details mist en misleidend kan zijn.
+- In reflectieve vragen bleef verdieping achter; de evolutionaire of functionele logica werd zelden uitgewerkt zonder aanmoediging.
+- Stelde weinig gerichte tegenvragen of verduidelijkende reflecties.
+- Zinnen waren soms fragmentarisch, waardoor het antwoord minder professioneel/volledig overkomt.
+
+**C. Actionable Suggestions**
+
+1. Werk antwoorden uit in volledige zinnen en verduidelijk onderliggende processen  
+   • Waarom het belangrijk is: Complete redeneringen tonen beter begrip en voorkomen miscommunicatie in de medische praktijk.  
+   • Hoe te implementeren: Benoem expliciet de schakels (bv. “Het sympathische systeem activeert noradrenaline, dat via β1-receptoren de hartslag verhoogt, zodat het lichaam klaar is voor een ‘fight or flight’-situatie.”).
+
+2. Reflecteer op het ‘waarom’ en benoem het functionele/evolutionaire voordeel  
+   • Waarom het belangrijk is: Overzicht waarom processen optreden verdiept je inzicht en vergemakkelijkt klinisch redeneren.  
+   • Hoe te implementeren: Geef na uitleg per symptoom één evolutionair of praktisch voordeel (“Zweten helpt om af te koelen zodat het lichaam langer kan presteren tijdens stress.”).
+
+3. Vraag actief om verduidelijking indien je iets niet weet of niet zeker bent  
+   • Waarom het belangrijk is: Dit voorkomt het leren van verkeerde aannames en versnelt je leercurve.  
+   • Hoe te implementeren: Zeg expliciet: “Ik weet niet welk neurotransmitter hier werkt. Kunt u dat toelichten?” of maak een notitie voor zelfstudie.
+
+4. Verbeter precisie bij gebruik van termen en processen  
+   • Waarom het belangrijk is: Precieze terminologie voorkomt misinterpretaties in klinische communicatie.  
+   • Hoe te implementeren: Licht uitspraken toe zoals “organen actiever/inactiever”, bv. “Het sympathische systeem remt de spijsvertering, maar activeert de bloedsomloop naar spieren.”
+
+**Forward-looking guidance**  
+Richt je in een volgend gesprek op het geven van meer uitgewerkte, onderbouwde uitleg. Oefen met het spontaan benoemen van het ‘waarom achter de fysiologie’ en probeer structuur te brengen in je redeneringen bij complexe vraagstukken.","2025-10-15T16:27:43.354+00:00"
+"assistant","**Learning Context and Roles**  
+De interactie betreft een begeleid educatief gesprek in een medische of biomedische opleiding, gefocust op het klinisch redeneren rond het autonome zenuwstelsel aan de hand van een patiëntencasus. De gebruiker neemt de rol van lerende/student aan; de assistant fungeert als tutor of coach. Het doel van deze feedback is om de kwaliteit van de inhoudelijke bijdragen van de student te analyseren en gericht te verbeteren.
+
+**A. What Went Well**
+- Gaf correct en snel de hoofdonderdelen van het autonome zenuwstelsel (“parasympathisch en sympathisch”).
+- Kon symptomen uit de casus doelgericht koppelen aan de betrokken delen van het zenuwstelsel.
+- Herkende en noemde relevante neurotransmitters en receptoren bij sympathisch en parasympathisch systeem.
+- Toonde leergierigheid en gaf de eigen kennislacunes eerlijk aan (“maar hoe het precies komt geen idee”; “nee”).
+
+**B. Areas for Improvement**
+- Antwoorden waren vaak te kort en fragmentarisch, zonder volledige onderbouwing.
+- Belangrijke fysiologische redeneringen werden maar deels uitgewerkt; vaak ontbrak het ‘waarom’ achter processen.
+- Er werd weinig teruggevraagd of actief gereflecteerd op eigen onzekerheden buiten enkele uitzonderingen.
+- Bepaalde termen werden onnauwkeurig gebruikt (“organen niet actief zijn”; kan tot begripsverwarring leiden).
+- Uitzonderingen op standaardregels (zoals acetylcholine bij zweetklieren) werden bij navraag niet (her)kend.
+
+**C. Actionable Suggestions**
+
+1. Licht je antwoorden vollediger toe met verklarende tussenstappen  
+   • Waarom het belangrijk is: Hiermee toon je niet alleen kennis, maar ook inzicht in causale relaties; dit bevordert het klinisch redeneren.  
+   • Hoe te implementeren: Maak je uitleg telkens af, bijvoorbeeld: “Omdat stress via het sympathisch systeem noradrenaline vrijmaakt, stijgt de hartslag door β1-activatie, waardoor het lichaam snel kan reageren op gevaar.”
+
+2. Werk aan terminologische precisie om misbegrip te voorkomen  
+   • Waarom het belangrijk is: In de medische praktijk kunnen onnauwkeurigheden in taal tot onveilige situaties leiden.  
+   • Hoe te implementeren: Gebruik altijd specifieke termen voor functies (“de spijsvertering wordt onderdrukt en de hartslag neemt toe”), en vermijd vage uitspraken als “organen zijn niet actief”.
+
+3. Reflecteer expliciet op de evolutionaire/fysiologische logica van symptomen  
+   • Waarom het belangrijk is: Dit verhoogt je begrip van het lichaam als geheel, wat essentieel is voor klinische besluitvorming.  
+   • Hoe te implementeren: Geef na elk symptoom een korte motivatie (“Zweten helpt het lichaam af te koelen tijdens gevaar; minder spijsvertering betekent meer energie voor spieren”).
+
+4. Stel proactief verduidelijkende vragen waar je onzekerheden ervaart  
+   • Waarom het belangrijk is: Actief kennis ophalen of onzekerheid delen versnelt het leerproces en zorgt voor dieper begrip.  
+   • Hoe te implementeren: Formuleer concrete vragen als je iets niet weet (“Welke neurotransmitter veroorzaakt zweten precies?”).
+
+**Forward-looking guidance**  
+Gebruik in het volgende gesprek meer volledige zinnen en onderbouw je antwoorden met redenaties en logica. Focus daarbij op het helder verklaren van symptomen en het actief benoemen van uitzonderingen en achterliggende mechanismen.","2025-10-15T16:28:03.289+00:00"
+"assistant","**Learning Context and Roles**  
+Deze interactie vond plaats in een tutor- of begeleidingssetting, gericht op medische basisvakken (waarschijnlijk fysiologie) waarbij de student (gebruiker) het autonome zenuwstelsel moest uitleggen aan de hand van een casus. Het doel van deze feedback is de bijdragen van de student te analyseren op duidelijkheid, diepgang, klinische redenering en actieve participatie.
+
+**A. What Went Well**
+- Antwoorden op feitelijke vragen over het autonome zenuwstelsel waren doorgaans correct.
+- Herkende kernbegrippen als “parasympathisch”, “sympathisch”, “rest and digest” en “fight or flight”.
+- Kon symptomen uit de casus direct koppelen aan de relevante systemen.
+- Benoemde neurotransmitters en receptoren bij navraag adequaat.
+
+**B. Areas for Improvement**
+- Veel antwoorden waren erg kort, vaak in steekwoorden zonder verdere uitleg.
+- Beperkte uitwerking van achterliggende mechanismen en het ‘waarom’ van processen.
+- Weinig aandacht voor uitzonderingen (zoals acetylcholine bij zweten binnen het sympathisch systeem).
+- Soms onnauwkeurige formuleringen (“organen niet actief zijn”) die voor verwarring kunnen zorgen.
+- Bij onzekerheden niet altijd proactief doorgevraagd of eigen kennislacunes verder geadresseerd.
+
+**C. Actionable Suggestions**
+
+1. Werk antwoorden vollediger uit in duidelijke zinnen  
+   • Waarom het belangrijk is: Volledige zinnen laten zien dat je de fysiologie begrijpt, en verbeteren professionele communicatie.  
+   • Hoe te implementeren: Licht steeds je antwoord toe (“Het sympathisch zenuwstelsel activeert noradrenaline, wat via β1-receptoren zorgt voor een hogere hartslag omdat het lichaam dan voorbereid is op stresssituaties”).
+
+2. Reflecteer altijd op het evolutionaire of functionele nut van reacties  
+   • Waarom het belangrijk is: Dit verdiept je begrip en ondersteunt klinisch redeneren.  
+   • Hoe te implementeren: Voeg na elke verklaring vijf woorden toe over het nut (“Zweten koelt het lichaam af tijdens stress”).
+
+3. Vraag actief om uitleg als je iets niet volledig snapt  
+   • Waarom het belangrijk is: Zo benut je feedbackmomenten en voorkom je onbegrip dat zich opstapelt.  
+   • Hoe te implementeren: Zeg bij twijfel expliciet: “Ik weet niet zeker welke neurotransmitter hier werkt, zegt u het maar.”
+
+4. Vermijd vage of onnauwkeurige taal; wees precies  
+   • Waarom het belangrijk is: Medische terminologie moet helder zijn voor patiëntveiligheid en begrip.  
+   • Hoe te implementeren: Vervang algemene uitspraken door concrete (“Het sympathisch systeem remt de spijsvertering, maar verhoogt de hartslag en stuurt bloed naar de spieren”).
+
+**Forward-looking guidance**  
+In het vervolg kun je je richten op het geven van meer uitgebreide, onderbouwde antwoorden en het benoemen van het functionele nut of de uitzondering bij elk symptoom. Probeer onzekerheden actief te benoemen en te bespreken voor verdere verdieping.","2025-10-15T16:28:24.139+00:00"
+"assistant","**Learning Context and Roles**  
+Dit was een begeleide onderwijssetting (hoogstwaarschijnlijk een medische tutorgesprek of zelfstudie onder begeleiding), waarin de student (gebruiker) het autonome zenuwstelsel moet toepassen op een klinische casus. Deze feedback richt zich op de bijdrage van de student om begrip, uitlegvaardigheden en klinisch redeneren te versterken.
+
+**A. What Went Well**
+- Correct basisbegrippen en hoofdonderdelen van het autonome zenuwstelsel benoemd.
+- Vlot en adequaat symptomen aan het sympathisch of parasympathisch systeem gekoppeld.
+- Toonde openheid over kennislacunes (“maar hoe het precies komt geen idee”) en stelde zich leergierig op.
+- Noemde actief relevante neurotransmitters en receptoren bij navraag.
+
+**B. Areas for Improvement**
+- Antwoorden waren vaak beknopt en grotendeels steekwoorden zonder verdere onderbouwing.
+- Termgebruik was soms te vaag of niet helemaal accuraat (“organen niet actief zijn”).
+- Uitleg van fysiologische mechanismen bleef oppervlakkig; het ‘waarom’ en functionele nut kwamen nauwelijks aan bod zonder extra aansturing.
+- Bracht weinig eigen reflectie aan en stelde weinig verdiepende tegenvragen na het aangeven van onzekerheid.
+- Herkende/of onderkende uitzonderingen (zoals acetylcholine bij zweten) onvoldoende.
+
+**C. Actionable Suggestions**
+
+1. Formuleer volledige zinnen en werk processtappen expliciet uit  
+   • Waarom het belangrijk is: Dit maakt je uitleg begrijpelijker voor anderen en dwingt tot toetsing van je eigen begrip.  
+   • Hoe te implementeren: Leg uit hoe elk symptoom ontstaat door een keten volledig te beschrijven (“Bij stress zorgen sympathische zenuwen via noradrenaline op β1-receptoren voor een snellere hartslag, omdat het lichaam zich voorbereidt op actie.”).
+
+2. Gebruik precieze terminologie en licht deze toe  
+   • Waarom het belangrijk is: Zo verklein je de kans op misconcepties, vooral in de medische communicatie.  
+   • Hoe te implementeren: Schrijf of zeg expliciet wat “organen actiever/inactiever” inhoudt (spijsvertering/mobilisatie van energie/dotatie van bloed aan spieren).
+
+3. Geef regelmatig het functionele of evolutionaire nut van een reactie  
+   • Waarom het belangrijk is: Dit verdiept het inzicht in fysiologie en helpt bij klinische redeneeropgaven.  
+   • Hoe te implementeren: Voeg na elke uitleg een zin toe zoals: “Spijsvertering wordt geremd zodat energie vrijkomt voor spieren; zweten voorkomt oververhitting.”
+
+4. Stel gerichte vervolg- of verduidelijkingsvragen bij onzekerheid  
+   • Waarom het belangrijk is: Dit versnelt je leerproces en voorkomt dat kennislacunes blijven bestaan.  
+   • Hoe te implementeren: Zeg bijvoorbeeld: “Kunt u uitleggen waarom zweten onder sympathisch systeem via acetylcholine loopt?” of noteer onzekerheden als zelfstudiepunten.
+
+**Forward-looking guidance**  
+Richt je bij de volgende sessie op het uitwerken van redeneringen met volledige zinnen, waarbij je steeds de functionele logica kort benoemt. Oefen actief in het stellen van verdiepende vragen zodra je een onzekerheid of uitzondering signaleert.","2025-10-15T16:28:50.308+00:00"

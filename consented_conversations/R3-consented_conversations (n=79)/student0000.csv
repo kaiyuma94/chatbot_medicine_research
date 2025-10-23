@@ -1,0 +1,159 @@
+"role","content","created_at"
+"user","hallo laten we beginne","2025-10-15T13:11:55.01365+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Hier is de eerste casus:
+
+Een 19-jarige jongen meldt dat hij, terwijl hij naar zijn eerste universitaire examens ging, een bonzend hart begon te voelen, zijn handpalmen zweterig werden en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook een beetje misselijk en had een droge mond. Nadat hij in de examenzaal was aangekomen en ging zitten, haalde hij een paar keer diep adem. Binnen 10 minuten vertraagde zijn hartslag, normaliseerde zijn ademhaling, en voelde hij aandrang om naar het toilet te gaan.
+
+Kun je uitleggen welke symptomen deze student ervaarde? Denk aan het deel van het autonome zenuwstelsel dat verantwoordelijk is voor deze symptomen.","2025-10-15T13:12:06.844541+00:00"
+"user","fight and flight, dus het parasympatische zenuwstelsel. Want hij is waarschijnlijk zenuwachtig voor het examen en daardoor reageert zijn lichaam erop.","2025-10-15T13:12:52.836208+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we even pauzeren en starten met Fase 1 – Kennisactivering. In deze fase gaan we kort de kernbegrippen en mechanismen bespreken die bij deze casus horen. Heb je op dit moment al vragen of punten die je graag wilt verduidelijken voordat we starten? 
+
+Als je geen vragen hebt, kun je eens proberen te beantwoorden:  
+Weet je wat de twee hoofdonderdelen van het autonome zenuwstelsel zijn, en wat elk deel doet?","2025-10-15T13:13:02.168427+00:00"
+"user","het autonome zenuwstelsel bestaat uit het parasympathische deel en sympathische deel. Het parasympathische deel is fight an flight dus hartslag en ademhaling omhoog en het sympathische deel is rest and digest dus meer dat het verteringssysteem aan de gang gaat.","2025-10-15T13:14:02.569433+00:00"
+"assistant","Goed dat je de twee delen benoemt! Er is alleen een verwisseling in de functies. Heb je de termen ""fight or flight"" en ""rest and digest"" vaker gehoord, en weet je zeker bij welk deel ze horen? Kun je nog eens uitleggen welke rol het sympathische en het parasympathische zenuwstelsel spelen? Wat gebeurt er bijvoorbeeld in het lichaam als het sympathische systeem actief is, en wat juist als het parasympathische systeem voorop staat?","2025-10-15T13:14:12.258623+00:00"
+"user","Ik heb het omgedraaid: het sympathische deel is fight and flight dus als dit deel actief is dan gaat de hartslag omhoog bijvoorbeeld. En het parasympatische deel is dan rest and digest","2025-10-15T13:15:03.548403+00:00"
+"assistant","Precies, zo klopt het! Het sympathische deel is inderdaad ""fight or flight"": hartslag omhoog, ademhaling versnelt, bloedvaten naar spieren verwijden, spijsvertering pauzeert, enzovoorts. Het parasympathische deel is ""rest and digest"": vertraging van hartslag, activeren van spijsvertering, meer speeksel, enzovoorts.
+
+Zullen we nog even kort bespreken hoe signalen van het zenuwstelsel naar de organen worden gestuurd?  
+Weet je welke stoffen (neurotransmitters) het sympathisch en parasympathisch zenuwstelsel gebruiken om signalen aan de organen door te geven?","2025-10-15T13:15:15.007164+00:00"
+"user","ik weet dat bij spiercontractie acetylcholine wordt gebruikt waardoor Ca2+ vrijkomt uit het sarcoplasmatisch reticulum, maar verder weet ik het niet. Signalen worden vanuit het zenuwstelsel naar de organen gestuurd dmv dendrieten en axonen en cellichamen","2025-10-15T13:16:06.710883+00:00"
+"assistant","Interessant dat je acetylcholine noemt bij spiercontractie! In het autonome zenuwstelsel werkt het inderdaad vergelijkbaar met signaaloverdracht, maar het gaat vooral om de communicatie tussen zenuw en orgaan, en minder direct om spiercontractie zoals bij skeletspieren.
+
+Laten we het iets gerichter maken:  
+Het sympathisch en parasympathisch zenuwstelsel sturen signalen naar organen via verschillende neurotransmitters. Kun je bedenken of ze dezelfde signaalstof gebruiken, of juist andere? Wat zou het effect daarvan kunnen zijn?","2025-10-15T13:16:15.647284+00:00"
+"user","ik denk juist andere neurotransmitters omdat de twee delen van het autonome zenuwstelsel tegenovergesteld werken. Het effect daarvan is dat, als het ene neurotransmitter vrijkomt het ene deel geactiveerd wordt en misschien het andere deel juist gedeactiveerd wordt.","2025-10-15T13:16:58.508566+00:00"
+"assistant","Dit is een heel goed uitgangspunt! Inderdaad gebruiken de twee delen verschillende neurotransmitters om hun tegengestelde effecten uit te oefenen op organen.
+
+Zullen we het concretiseren:  
+Weet je of het sympathisch zenuwstelsel vooral acetylcholine of norepinefrine (noradrenaline) gebruikt op de doelorganen?  
+En weet je met welke neurotransmitter het parasympathisch zenuwstelsel werkt op zijn doelorganen? Wat gebeurt er bijvoorbeeld bij het hart als het parasympathisch systeem actief is?","2025-10-15T13:17:08.949763+00:00"
+"user","het sympathische deel gebruikt denk ik, als ik logisch nadenk, norepinefrine, omdat het over de actie gaat. Ik weet niet welk neurotransmitter het parasympathische zenuwstelsel gebruikt. Maar het hart gaat minder hart kloppen","2025-10-15T13:17:55.535571+00:00"
+"assistant","Goede redenering! Het sympathische zenuwstelsel gebruikt inderdaad vooral norepinefrine (noradrenaline) om de organen in “actie-stand” te zetten, zoals een verhoogde hartslag.
+
+Wat betreft het parasympathisch zenuwstelsel: dit deel gebruikt acetylcholine als belangrijkste neurotransmitter bij de organen, bijvoorbeeld bij het vertragen van de hartslag.
+
+Voordat we doorschakelen naar de volgende fase:
+Wil je nog iets weten over de rol van receptoren bij deze systemen, of over hoe de omschakeling tussen sympathisch en parasympathisch gebeurt? Of zullen we verdergaan naar het toepassen in de casus?","2025-10-15T13:18:05.660341+00:00"
+"user","Ja ik wil wel weten hoe de receptoren werken en hoe de omschakeling gaat","2025-10-15T13:18:19.90846+00:00"
+"assistant","Mooie vraag! Dit is belangrijk om het effect van het autonome zenuwstelsel op organen goed te begrijpen.
+
+Laten we focussen op de receptoren die belangrijk zijn voor deze systemen:
+- Bij het sympathisch zenuwstelsel zijn er verschillende adrenerge receptoren, zoals β₁-receptoren in het hart (maken de hartslag sneller en krachtiger), β₂-receptoren in de longen (zorgen dat de luchtwegen wijder worden), en α₁-receptoren in de bloedvaten (laten bloedvaten vernauwen).
+- Het parasympathisch zenuwstelsel gebruikt vooral muscarinerge (M-) receptoren, bijvoorbeeld in het hart en het spijsverteringsstelsel, waar acetylcholine aan bindt en zo de hartslag verlaagt en de vertering stimuleert.
+
+De omschakeling tussen sympathisch en parasympathisch gebeurt grotendeels automatisch:  
+Het zenuwstelsel past zich continu aan de omstandigheden aan. Bij stress of gevaar wordt het sympathisch systeem actief. Als het gevaar of de stress voorbij is, neemt het parasympathische systeem het over en zorgt voor herstel en balans. De hypothalamus en hersenstam spelen hierin een centrale rol.
+
+Heb je hierover nog een vervolg- of deelvraag, of wil je nu toepassen hoe dit in de casus werkt?","2025-10-15T13:18:37.624838+00:00"
+"user","ik wil het toepassen in de casus","2025-10-15T13:19:14.073977+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Goed! We gaan nu door naar Fase 2 – Narrative Construction.
+
+Hier is de casus opnieuw:
+Een 19-jarige jongen meldt dat hij, terwijl hij naar zijn eerste universitaire examens ging, een bonzend hart begon te voelen, zijn handpalmen zweterig werden en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook een beetje misselijk en had een droge mond. Nadat hij in de examenzaal was aangekomen en ging zitten, haalde hij een paar keer diep adem. Binnen 10 minuten vertraagde zijn hartslag, normaliseerde zijn ademhaling, en voelde hij aandrang om naar het toilet te gaan.
+
+Kun je nu uitleggen welke delen van het autonome zenuwstelsel verantwoordelijk zijn voor deze symptomen? Probeer het proces en de symptomen stap voor stap te koppelen aan wat je net hebt geleerd.","2025-10-15T13:19:27.157115+00:00"
+"user","Zijn hartslag werd bonzend, verhoogde hartslag, en zijn ademhaling werd sneller. Hij had ook een droge mond. Dit duidt erop dat het sympathische deel actief","2025-10-15T13:20:11.731599+00:00"
+"assistant","Dat klopt! Je koppelt het bonzende hart, snelle ademhaling en droge mond al aan activatie van het sympathische deel. Probeer nu nog wat meer symptomen uit te leggen met ditzelfde principe.
+
+Bijvoorbeeld: Hoe kun je verklaren dat hij last had van zweterige handpalmen en misselijkheid?  
+En als hij eenmaal gaat zitten en ontspant, welke processen uit het parasympathisch systeem zorgen voor herstel en hoe zie je dat terug in zijn klachten?","2025-10-15T13:20:20.519701+00:00"
+"user","zweterige handpalmen komt doordat norepinefrine de zweetklieren stimuleert. Daarnaast werkt het verteringsstelsel minder, of is het minder actief, waardoor hij misselijkheid misschien kan ervaren. De processen van het parasympathische systeem die er voor zorgen dat er herstel is zijn het volgende: acetylcholine zorgt ervoor dat de hartslag en ademhaling omlaag gaan en zorgen er ook voor dat de zweetklieren minder zweet uitscheiden/produceren. Daarnaast komt het verteringsstelsel weer op gang.","2025-10-15T13:22:11.950138+00:00"
+"assistant","Heel sterk uitgelegd! Je noemt nu inderdaad de rol van norepinefrine bij het stimuleren van de zweetklieren én de afname van de spijsverteringsactiviteit bij stress, wat die misselijkheid kan verklaren. Je beschrijft ook duidelijk hoe acetylcholine via het parasympathisch systeem zorgt voor herstel met een tragere hartslag, normale ademhaling en herstart van het verteringsstelsel.
+
+Eén aanvulling: weet je misschien waarom mensen zich vaak plotseling moeten urineren als ze weer ontspannen na stress? Wat gebeurt er dan via het parasympathisch zenuwstelsel?","2025-10-15T13:22:24.672365+00:00"
+"user","ik weet dat niet","2025-10-15T13:22:42.867386+00:00"
+"assistant","Goede vraag! Als het parasympathisch zenuwstelsel actief wordt na stress, stuurt het via de nervus vagus acetylcholine naar verschillende organen. Hierdoor wordt niet alleen de spijsvertering geactiveerd, maar ook de blaas (de spier in de blaaswand trekt samen). Daardoor voelt iemand de aandrang om te plassen zodra het lichaam weer ontspant.
+
+Ben je hier nu duidelijk over, of heb je hier nog meer uitleg bij nodig? Zo niet, dan kun je nu alles wat je geleerd hebt samenbrengen in een complete uitleg van deze casus.
+
+Hier komt de toetsvraag:
+
+Hoe begrijp je nu de symptomen in deze casus? Schrijf elk detail op dat je kunt bedenken — jouw ideeën, redenering en de verbanden met wat je hebt geleerd. Hoe vollediger je uitleg, hoe meer je ervan leert en hoe beter je kunt redeneren bij soortgelijke klinische situaties!","2025-10-15T13:22:56.089893+00:00"
+"user","Wat bedoel je met: hoe begrijp je nu de symptomen?","2025-10-15T13:23:16.244858+00:00"
+"assistant","Goede vraag!
+
+Met ""hoe begrijp je nu de symptomen"" bedoel ik: kun je nu zélf, stap voor stap, uitleggen waardoor de klachten van de student ontstaan zijn — en dat onderbouwen met wat je weet over het sympathische en parasympathische zenuwstelsel?
+
+Dus: leg uit hoe het komt dat hij een bonzend hart, zweterige handen, droge mond, misselijkheid en versnelde ademhaling kreeg (welk deel van het zenuwstelsel is actief, welke stoffen/receptoren zijn betrokken) én wat er in zijn lichaam gebeurt bij herstel (welk deel van het zenuwstelsel neemt het over, wat verandert er dan precies).
+
+Wil je het op deze manier proberen, zo compleet mogelijk?","2025-10-15T13:23:28.763253+00:00"
+"user","Bonzend hart, versnelde ademhaling, zweethanden, misselijkheid en een droge mond komen allemaal doordat het sympathische deel van het autonome zenuwstelsel actief is, waardoor de neurotransmitter norepinefrine wordt uitgescheiden. Zweetklieren worden gestimuleerd, het hart wordt gestimuleerd, de speekselklieren maken minder speeksel aan. Hij herstelt doordat het parasympathische deel van het autonome zenuwstelsel nu actief wordt waardoor het hart ontspant en de ademhaling ook daalt. Daarnaast komt de vertering op gang en worden de zenuwen naar de blaas ook gestimuleerd waardoor diegene naar het toilet moet gaan","2025-10-15T13:25:39.909137+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Mooi samenhangend uitgelegd!
+
+Nu gaan we naar Fase 3 – Reasoning Transfer. Kun je je opgedane kennis toepassen op een nieuwe situatie?
+
+Hier is de tweede casus:
+Een 76-jarige man staat op een warme middag in de rij bij de apotheek. Na enkele minuten voelt hij zich licht in het hoofd, misselijk en zweterig. Hij heeft een gevoel van “tunnelvisie” voordat hij even het bewustzijn verliest en neervalt. Omstanders leggen hem op de grond. Na een paar minuten bij bewustzijn te zijn gekomen, voelt hij zich zwak maar helder, met een trage hartslag en een lage bloeddruk. Na een paar minuten herstelt hij volledig.
+
+Kun je nu uitleggen welke processen vanuit het autonome zenuwstelsel hier spelen? Wat gebeurt er in het lichaam van deze man vóór het flauwvallen, tijdens, en bij herstel? Gebruik je kennis van de systemen en de neurotransmitters om dit uit te leggen.","2025-10-15T13:25:54.419922+00:00"
+"user","voor het flauwvallen is het sympathische deel actief en is er een soort reactie op de warmte die de man voelt. Hij wordt misselijk en zweterig doordat de vertering even stop wordt gezet en omdat de zweetklieren nu extra gestimuleerd worden. tijdens het flauwvallen raakt de balans tussen sympathisch en parasympathisch verstoord: sympathisch wordt nu geremd en parasympathisch wordt nu actief. Na het flauwvallen is dus het parasympathische deel actief en komt de spijsvertering weer op gang, hartslag gaat naar beneden","2025-10-15T13:27:57.295642+00:00"
+"assistant","Mooie opzet! Je beschrijft goed dat er eerst een reactie is op de warmte en dat daarna de balans verschuift. Laten we proberen het nog wat verder te ontrafelen:
+
+Je zegt dat vóór het flauwvallen het sympathische deel actief is. Maar wat triggert nu precies de overgang naar het bewustzijnsverlies? Wat gebeurt er met zijn hartslag en bloedvaten als de parasympathicus ineens heel actief wordt? En waarom leidt dat tot flauwvallen, juist in deze situatie?
+
+Kun je die stap wat verder uitwerken?","2025-10-15T13:28:08.438738+00:00"
+"user","dat weet ik niet zo goed","2025-10-15T13:28:39.842381+00:00"
+"assistant","Geen probleem, dat is een lastig stuk! Laten we samen beredeneren:
+
+Bij sommige mensen (vooral bij ouderen, stress, pijn of warmte) kan het lichaam “overreageren”, waardoor de nervus vagus (parasympathicus) plotseling te sterk wordt geactiveerd. Dit heet een vasovagale reactie.
+
+Wat gebeurt er dan?  
+1. De parasympathicus stuurt veel acetylcholine naar het hart, waardoor de hartslag sterk verlaagt (bradycardie).
+2. Tegelijk vallen de bloedvaten open doordat het sympathische zenuwstelsel wordt geremd.
+3. Hierdoor zakt de bloeddruk ineens flink.
+4. Er stroomt minder bloed naar de hersenen —> tijdelijke bewusteloosheid.
+
+Als de man dan wordt neergelegd, kan het bloed makkelijker weer naar de hersenen stromen en herstelt hij.
+
+Wil je op basis hiervan proberen jouw uitleg van deze casus nu opnieuw op te bouwen, stap voor stap?","2025-10-15T13:28:54.511466+00:00"
+"user","oke dus er is een reactie op de hitte. waarop het parasympathische deel van het lichaam reageert, door acetylcholine af te geven --> hartslag en bloeddruk dalen heel snel --> sympathische deel wordt geremd waardoor de bloedvaten open vallen --> bloeddruk zakt erg naar beneden --> te weinig bloed naar de hersenen --> flauwvallen. Daarna komt hij bij omdat er weer bloed naar de hersenen stroomt en het parasympathsiche deel minder actief is waardoor bloeddruk weer stijgt en hartslag ook weer normaal wordt.","2025-10-15T13:30:58.765169+00:00"
+"assistant","Dat is nu helemaal juist en helder samengevat! Je beschrijft nauwkeurig de overmatige parasympathische (vasovagale) reactie, het effect op hartslag en bloeddruk, en het herstel door veranderde houding en het afnemen van parasympathische activiteit. Zo kun je dus met begrip van de werking van het autonome zenuwstelsel verklaren waarom flauwvallen optreedt in deze situatie.
+
+Wil je nog terugkomen op verschillen of overeenkomsten tussen deze situatie en de eerste casus (examenstress)? Of is alles nu duidelijk voor je?","2025-10-15T13:31:08.517266+00:00"
+"user","alles is nu duidelijk","2025-10-15T13:31:14.647968+00:00"
+"assistant","Prima, goed gewerkt! Je hebt nu een sterk en gestructureerd beeld van de werking van het autonome zenuwstelsel en kunt de klinische symptomen verklaren én koppelen aan de onderliggende fysiologie.
+
+Als je later meer oefencasussen of verdieping wilt, kun je altijd opnieuw starten — heel veel succes met je studie!","2025-10-15T13:31:23.043305+00:00"
+"user","dankjewel!!!","2025-10-15T13:31:57.120477+00:00"
+"assistant","Graag gedaan en veel succes met leren!","2025-10-15T13:32:01.376083+00:00"
+"assistant","**Learning Context and Roles**  
+Deze dialoog vindt plaats in een medische of biomedische tutoring setting waarin de gebruiker (student) leert over de fysiologie van het autonome zenuwstelsel, met specifiek aandacht voor klinische symptomen bij stress en vasovagale reacties. Het doel van deze feedback is om de eigen bijdrage van de student te evalueren en te ondersteunen bij het verder ontwikkelen van klinisch redeneren en kennisintegratie.
+
+**A. What Went Well**
+- Toonde bereidheid om fouten te benoemen en kennis actief te corrigeren zodra er feedback werd gegeven.
+- Beschreef logisch de werking van het sympathisch en parasympathisch zenuwstelsel, met correcte verbanden tussen symptomen en onderliggende fysiologie na eerste bijsturing.
+- Signaleerde goed bij onduidelijke vragen (“Wat bedoel je met: hoe begrijp je nu de symptomen?”), waardoor verdere verduidelijking mogelijk was.
+- Paste nieuw verworven kennis toe op een andere casus en toonde daarmee transfer van redenering naar een onbekende situatie.
+- Bleef professioneel en serieus in toon en was actief betrokken gedurende het hele gesprek.
+
+**B. Areas for Improvement**
+- Had bij aanvang moeite met het juist koppelen van ""fight or flight"" en ""rest and digest"" aan het juiste deel van het zenuwstelsel; eerste antwoorden waren omgedraaid.
+- Gaf enkele initiale antwoorden die oppervlakkig bleven of belangrijke details en mechanismen misten (zoals receptoren, neurotransmitters, exacte oorzaken van symptomen).
+- Schakelde herhaaldelijk snel naar “ik weet dat niet” zonder pogingen tot beredeneren of formuleren van veronderstellingen, met name bij onbekende concepten.
+- De uiteindelijke samenvattingen bevatten soms nog beperkte diepgang of wetenschappelijke precisie (bijvoorbeeld: het effect op bloedvaten was soms niet volledig toegelicht).
+- Bij het toepassen in de tweede casus werden enkele fysiologische stappen in eerste instantie overgeslagen of verwisseld (initiële verwarring over triggers en balansen tussen beide systemen).
+
+**C. Actionable Suggestions**
+1. *Waarom het ertoe doet:* Correct kunnen koppelen van namen en functies bevordert klinisch redeneren en voorkomt medische misinterpretaties.  
+   *Hoe te implementeren:* Maak bij vergelijkbare vragen een tabel of mindmap van beide delen van het autonome zenuwstelsel, met hun functies, neurotransmitters en bijbehorende symptomen.
+
+2. *Waarom het ertoe doet:* Door details rondom receptoren en signaalstoffen te benoemen, bouw je diepgang en begrip op dat essentieel is voor klinische praktijk.  
+   *Hoe te implementeren:* Oefen met het expliciet benoemen van de betrokken neurotransmitters en receptoren bij elk genoemd symptoom of proces in nieuwe casussen.
+
+3. *Waarom het ertoe doet:* Door hardop te beredeneren, train je kritische denkvaardigheden en laat je zien hoe je tot een antwoord komt, ook als je het niet zeker weet.  
+   *Hoe te implementeren:* Probeer bij onbekende vragen altijd een beredeneerde gok te doen of het denkproces te verwoorden, ook als je twijfelt—gebruik zinnen als “Misschien is het zo omdat…”
+
+4. *Waarom het ertoe doet:* Volledig en precies antwoorden zijn belangrijk voor een diepgaand begrip en voor het overtuigend toelichten van klinische beslissingen.  
+   *Hoe te implementeren:* Neem bij elke uitleg expliciet mee: (a) welk deel van het zenuwstelsel actief is, (b) welke neurotransmitter of receptor betrokken is, (c) welk orgaan of doelwit reageert, en (d) wat het waarneembare symptoom is.
+
+**Forward-looking Guidance**  
+In de volgende sessie kun je gericht verder oefenen met het stap voor stap, gedetailleerd beredeneren van fysiologische veranderingen bij uiteenlopende klinische scenario’s. Richt je daarbij telkens op het expliciet benoemen van alle relevante tussenstappen—dit zal je klinisch redeneren en je zelfvertrouwen verder versterken.","2025-10-15T13:32:21.761+00:00"

@@ -1,0 +1,117 @@
+"role","content","created_at"
+"user","Hallo kameraad","2025-10-15T13:33:19.248359+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+We beginnen met een casus:
+
+Een 19-jarige jongen vertelt dat hij onderweg naar zijn eerste universitaire tentamen zijn hart begon te voelen bonzen, zijn handpalmen werden zweterig, en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Nadat hij in de tentamenzaal ging zitten en een paar keer diep ademhaalde, merkte hij dat zijn hartslag langzamer werd, zijn ademhaling normaliseerde, en hij de drang kreeg om naar het toilet te gaan.
+
+Kun je uitleggen welke symptomen de student ervaarde? Denk na over welk deel van het autonome zenuwstelsel verantwoordelijk is voor deze symptomen.","2025-10-15T13:33:29.871091+00:00"
+"user","Blaas symptomen, onregulaire contorle van hartkloppingen dus er zit een defect in de secretie van hormonen. Sterke verdenking van schildklier problemen.","2025-10-15T13:34:41.909085+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goede poging! Laten we even pauzeren en beginnen met Fase 1 – Kennisactivering. In deze fase gaan we kort de kernbegrippen en mechanismen bespreken die bij deze casus horen.
+
+Heb je vooraf vragen of punten waar je meer over wilt weten voordat we verder gaan met de uitleg van het autonome zenuwstelsel?
+
+Als je niet zeker weet waar je moet beginnen: ken je de twee hoofdonderdelen van het autonome zenuwstelsel, en weet je wat elk onderdeel doet?","2025-10-15T13:34:57.741397+00:00"
+"user","owhhhh, ja er is dus geen harmonie tussen de parasymptatische en sympatische autonoom zenuwstelsel","2025-10-15T13:35:33.484123+00:00"
+"assistant","Precies, je komt al in de goede richting. Kun je kort uitleggen wat het sympathisch en parasympathisch zenuwstelsel doen? Wat is hun functie in het lichaam?","2025-10-15T13:35:38.683749+00:00"
+"user","Ja ze activeren, inhiberen, blokkeren secreties van hormonen of bepaalde signalen aan de rest van het lichaam. dit doe je neit bewust en word gestuurd door de hypothalamus/ hypofyse","2025-10-15T13:36:17.279933+00:00"
+"assistant","Mooi, je noemt de automatische regulatie en de betrokkenheid van de hersenen. Kun je iets nauwkeuriger beschrijven wat het sympathisch zenuwstelsel doet met het lichaam, en wat het parasympathisch zenuwstelsel doet? Bijvoorbeeld: wat gebeurt er met het hart, de luchtwegen en de spijsvertering als het sympathisch of parasympathisch systeem actief is?","2025-10-15T13:36:24.698396+00:00"
+"user","Nee ga door.","2025-10-15T13:36:31.149377+00:00"
+"assistant","Geen probleem! Dan leid ik de kennisactivatie verder.
+
+Het autonome zenuwstelsel bestaat dus uit twee grote delen: het sympathisch en het parasympathisch zenuwstelsel. 
+
+- Het **sympathisch zenuwstelsel** wordt actief bij stress of gevaar (“fight or flight”). Dit zorgt ervoor dat het hart sneller en harder gaat kloppen, de luchtwegen wijder worden (makkelijker ademen), en de bloedvaten in huid en darmen vernauwen zodat er meer bloed naar de spieren gaat. De spijsvertering en speekselproductie worden geremd. 
+- Het **parasympathisch zenuwstelsel** is juist actief in rust (“rest and digest”). Dit vertraagt het hart, stimuleert de spijsvertering en speekselproductie, en zorgt voor het herstel van het lichaam.
+
+Hoe reizen signalen van de hersenen naar organen in deze systemen, en welke stoffen worden hiervoor gebruikt? Kun je dat uitleggen?","2025-10-15T13:36:44.854363+00:00"
+"user","Ze reizen humoraal en via neuronen naar klieren van het lichaam. Dus hormonen en electronen","2025-10-15T13:37:16.51957+00:00"
+"assistant","Dat klopt deels. De autonome signalen reizen vooral via zenuwen/neuronen naar de organen. Hierbij geven deze zenuwen bepaalde stoffen (neurotransmitters) af om signalen over te brengen van zenuw naar orgaan. Welke stoffen (neurotransmitters) gebruikt het sympathisch zenuwstelsel, en welke gebruikt vooral het parasympathisch zenuwstelsel bij het beïnvloeden van organen?","2025-10-15T13:37:24.217847+00:00"
+"user","adrenaline, noradrenaline, acetylcholine","2025-10-15T13:37:34.770491+00:00"
+"assistant","Mooi! Dat klopt. Het sympathisch zenuwstelsel gebruikt vooral noradrenaline (en soms adrenaline), terwijl het parasympathisch zenuwstelsel acetylcholine gebruikt.
+
+Laatste vraag voordat we doorgaan: wat gebeurt er met het lichaam als het sympathisch systeem actief wordt vergeleken met het parasympathisch systeem? Kun je enkele belangrijke effecten noemen?","2025-10-15T13:37:41.595155+00:00"
+"user","hogere hartslag, verwijding luchtweg, vasodilatie, verhoogd metabolisme","2025-10-15T13:38:03.887001+00:00"
+"assistant","Prima, je benoemt inderdaad effecten die bij sympathische activatie horen: hogere hartslag en verwijding van luchtwegen. Vasodilatatie klopt deels—maar in veel organen zoals huid en spijsverteringskanaal ontstaat juist **vasoconstrictie** om bloed naar belangrijke spieren te leiden. Bij skeletspieren kan juist wél vasodilatatie plaatsvinden. 
+
+Verhoogd metabolisme is ook juist.
+
+Ben je klaar om deze kennis toe te passen op de casus? Of heb je nog vragen over het overzicht van het autonome zenuwstelsel voordat we doorgaan naar de volgende fase?","2025-10-15T13:38:13.526205+00:00"
+"user","volgende fase","2025-10-15T13:38:20.261301+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Hier is de casus opnieuw:
+
+Een 19-jarige jongen vertelt dat hij onderweg naar zijn eerste universitaire tentamen zijn hart begon te voelen bonzen, zijn handpalmen werden zweterig, en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Nadat hij in de tentamenzaal ging zitten en een paar keer diep ademhaalde, merkte hij dat zijn hartslag langzamer werd, zijn ademhaling normaliseerde, en hij de drang kreeg om naar het toilet te gaan.
+
+Kun je nu, met de net besproken kennis, uitleggen welke klachten de student kreeg? Denk aan welk deel van het autonome zenuwstelsel op die moment actief was, en waarom. Leg zoveel mogelijk in je eigen woorden uit.","2025-10-15T13:38:31.893219+00:00"
+"user","De student kreeg tijdens inspanning klachten aan zijn sympatische zenuwstelsel, er werden dus te veel signalen gestuurd. Vervolgens tijdens rust, was er te nogmaals te veel activatie van het parasympatische zenuwstelsel","2025-10-15T13:39:33.754395+00:00"
+"assistant","Interessante uitleg! Kun je iets concreter benoemen wat het sympathische zenuwstelsel deed terwijl hij onderweg was naar het tentamen? Welke fysieke verschijnselen passen hierbij, en hoe ontstaan die? 
+
+En als het parasympathische systeem daarna toeneemt wanneer de student ontspant, welke veranderingen zie je dan juist optreden in het lichaam? Kun je beide stappen verder zelf toelichten?","2025-10-15T13:39:41.428832+00:00"
+"user","Nee ga door, je bent te veel bezig met de details die ik momenteel nog niet geleerd heb","2025-10-15T13:40:20.375759+00:00"
+"assistant","Helder! Dan geef ik een korte samenvatting:
+
+Tijdens de stressvolle situatie (onderweg naar het tentamen) wordt het **sympathisch zenuwstelsel** actief: het hart gaat sneller kloppen, de ademhaling versnelt, de mond wordt droog, zweten neemt toe, en de spijsvertering vertraagt. Dit zijn typische “fight or flight”-reacties, bedoeld om het lichaam klaar te maken voor actie.
+
+Als de stress afneemt (in de tentamenzaal, na diep ademhalen), neemt de activiteit van het **parasympathisch zenuwstelsel** toe: het hartslag en de ademhaling worden rustiger, de spijsvertering wordt weer gestimuleerd (daardoor voel je soms de aandrang om naar het toilet te gaan).
+
+Zie je nu hoe het lichaam via het autonome zenuwstelsel automatisch schakelt tussen actie en rust? Of zijn er nog onduidelijkheden?","2025-10-15T13:40:33.973085+00:00"
+"user","Dit is letterlijk wat ik zei maar prima, ga door","2025-10-15T13:40:41.842104+00:00"
+"assistant","Dankjewel, we gaan direct door naar de eindopdracht van deze fase.
+
+Hier komt de casus opnieuw:
+
+Een 19-jarige jongen vertelt dat hij onderweg naar zijn eerste universitaire tentamen zijn hart begon te voelen bonzen, zijn handpalmen werden zweterig, en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Nadat hij in de tentamenzaal ging zitten en een paar keer diep ademhaalde, merkte hij dat zijn hartslag langzamer werd, zijn ademhaling normaliseerde, en hij de drang kreeg om naar het toilet te gaan.
+
+### ASSESSMENT VRAAG ###
+Hoe begrijp je nu de symptomen in deze casus? Schrijf alles op wat in je opkomt: je ideeën, redeneringen, en verbanden met wat je hebt geleerd. Hoe vollediger je uitleg, hoe meer je je begrip verdiept, jezelf voorbereidt op tentamens en sterker wordt in het klinisch redeneren!","2025-10-15T13:40:55.962661+00:00"
+"user","Volgende casus","2025-10-15T13:41:06.560277+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Nu een nieuwe casus:
+
+Een 76-jarige man staat in de rij bij de apotheek op een erg warme middag. Na enkele minuten begint hij zich licht in het hoofd te voelen, misselijk en zweterig. Hij ervaart een soort “tunnelvisie” voordat hij even het bewustzijn verliest en neervalt. Omstanders helpen hem op de grond, en na een paar minuten bijgekomen te zijn, voelt hij zich zwak maar alert, met een trage hartslag en lage bloeddruk. Na nog een paar minuten is hij volledig hersteld.
+
+Kun je uitleggen welke symptomen deze patiënt ervaart? Denk na over het autonome zenuwstelsel dat hierbij een rol speelt—zowel tijdens het in de rij staan en het flauwvallen, als bij het herstel.","2025-10-15T13:41:18.96734+00:00"
+"user","vertel","2025-10-15T13:42:26.623177+00:00"
+"assistant","Laten we samen stap voor stap redeneren, zodat je actief aan je begrip kunt werken.
+
+Wat denk je dat er in het lichaam van de man gebeurt vóórdat hij flauwvalt? Denk aan het warme weer, het lang stilstaan en hoe het autonome zenuwstelsel op deze situatie reageert. Wat gebeurt er met zijn bloedvaten en hartslag in deze fase?","2025-10-15T13:42:35.917371+00:00"
+"assistant","Learning Context and Roles  
+• This appears to be a one-on-one interactive online tutoring session, most likely between a medical student (user) and a tutor simulating a ""clinical reasoning/physiology classroom"" setting.  
+• The purpose of this feedback is to help the student build mastery in understanding the autonomic nervous system, apply knowledge to clinical cases, and engage productively in a case-based learning conversation.
+
+A. What Went Well  
+- Demonstrated willingness to propose initial hypotheses (e.g., suggesting a connection between symptoms and thyroid issues, or dysharmony in the autonomic nervous system).
+- Showed some recall of relevant terminology (sympathisch/parasympathisch, noradrenaline, acetylcholine).
+- Expressed when unsure or needing to move on, keeping the session progressing.
+- Maintained a generally appropriate and professional tone.
+- Was able to connect learning progress with previous explanations (“Dit is letterlijk wat ik zei maar prima…”), showing some awareness of the reasoning process.
+
+B. Areas for Improvement  
+- Initial explanations contained inaccuracies and overreliance on speculative diagnoses (e.g., immediately attributing symptoms to thyroid dysfunction).
+- Answers often lacked sufficient detail or were overly general (“Ze activeren, inhiberen, blokkeren…”).
+- Limited willingness to try elaborating or exploring reasoning further when prompted (“Nee ga door”).
+- Occasionally responded dismissively or passively, missing opportunities for deeper engagement or clarification.
+- Did not attempt the final synthesis/assessment task, impeding reinforcement and demonstration of learning.
+
+C. Actionable Suggestions  
+1. Engage more actively with clinical reasoning questions  
+   • Why it matters: Practicing structured explanation deepens understanding and mirrors exam/clinical requirements.  
+   • How to implement: Try articulating your reasoning, even if incomplete—state what you know confidently, what you suspect, and where you feel unsure; this helps both you and your instructor target learning gaps.
+2. Avoid premature diagnostic leaps without sufficient evidence  
+   • Why it matters: Accurate clinical reasoning relies on explaining pathophysiology step-wise, not immediately making a final diagnosis.  
+   • How to implement: Before suggesting disease states (e.g., thyroid issues), discuss basic physiological mechanisms (sympathetic/parasympathetic responses) to anchor your reasoning in foundational science.
+3. Build specificity and completeness in responses  
+   • Why it matters: Detailed, precise answers reflect higher understanding and prepare you for exam and clinical settings.  
+   • How to implement: When asked for examples or functions (e.g., effects on heart/lungs), list concrete, organ-specific effects using standard physiological terms.
+4. Approach requests for elaboration as learning opportunities  
+   • Why it matters: Attempts to explain, even when incomplete, reveal strengths and weaknesses to address actively.  
+   • How to implement: When unsure, signal which part is confusing (“I’m unclear on X—can you clarify?”) instead of opting out, to foster better guidance and knowledge retention.
+
+Forward-looking guidance  
+In your next session, focus on responding fully to reasoning prompts and articulating the stepwise physiological pathways involved. Practice providing specific, evidence-based explanations, and use uncertainty as a springboard for targeted questions or further discussion.","2025-10-15T13:43:02.148+00:00"

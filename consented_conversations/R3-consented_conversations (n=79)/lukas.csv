@@ -1,0 +1,128 @@
+"role","content","created_at"
+"user","hallop","2025-10-15T14:50:05.867538+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+We beginnen met het eerste klinische voorbeeld:
+
+###VIGNETTE 1###
+Een 19-jarige jongen vertelt dat hij, terwijl hij op weg was naar zijn eerste universitaire tentamens, zijn hart voelde bonzen, zijn handpalmen begonnen te zweten en zijn ademhaling sneller werd. Hij voelde zich ook wat misselijk en had een droge mond. Nadat hij was aangekomen in de examenzaal en ging zitten, haalde hij een paar keer diep adem. Binnen 10 minuten ging zijn hartslag omlaag, zijn ademhaling werd weer normaal en hij kreeg aandrang om naar het toilet te gaan.
+
+Kun je uitleggen waardoor deze student deze klachten kreeg? Denk daarbij aan het deel van het autonome zenuwstelsel dat hiervoor verantwoordelijk is.","2025-10-15T14:50:18.011185+00:00"
+"user","sympathisch zenuwstelsel","2025-10-15T14:51:15.177343+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geantwoord! Laten we even pauzeren en beginnen met Fase 1 – Kennisactivatie. In deze fase bespreken we kort de kernbegrippen en mechanismen die horen bij de casus. 
+
+Heb je hierover op dit moment vragen, of zijn er punten van het autonome zenuwstelsel die je graag verder wilt verduidelijken voor we verder gaan?
+
+Als je geen specifieke vragen hebt, kun je mij dan uitleggen welke twee hoofdonderdelen het autonome zenuwstelsel kent, en wat elk onderdeel doet?","2025-10-15T14:51:25.266887+00:00"
+"user","para - sympatisch zenuwstelsel fight or flight tegen rust","2025-10-15T14:51:47.313255+00:00"
+"assistant","Mooi, je noemt inderdaad de twee hoofdonderdelen: het sympathisch en het parasympathisch zenuwstelsel. Je koppelt ze ook al aan “fight or flight” en “rust.”
+
+Kun je uitleggen wat er precies gebeurt in het lichaam als het sympathische zenuwstelsel actief wordt? Welke veranderingen zie je dan bij organen zoals het hart, de longen en de spijsvertering?","2025-10-15T14:51:55.015468+00:00"
+"user","hartfrequentie neemt toe spijsvertering gaat sneller werken en de longen gaan zich dilateren","2025-10-15T14:52:27.081016+00:00"
+"assistant","Dat klopt grotendeels! Je zegt dat de hartfrequentie stijgt en de longen zich verwijden — dat hoort inderdaad bij een sympathische activatie. Maar, gaat de spijsvertering ook sneller werken bij sympathische activatie? Of gebeurt er juist iets anders met de spijsvertering tijdens stress?
+
+Denk nog eens na: waarom zou je lichaam de activiteit van je spijsverteringssysteem veranderen tijdens een “fight or flight” situatie?","2025-10-15T14:52:44.426799+00:00"
+"user","tijdens stress neemt de vertering af","2025-10-15T14:52:55.056605+00:00"
+"assistant","Heel goed! Tijdens stress (en dus bij activatie van het sympathisch zenuwstelsel) wordt de spijsvertering juist afgeremd, zodat energie naar de spieren, hersenen en het hart kan gaan.
+
+Kun je kort uitleggen via welke signalen het sympathisch zenuwstelsel deze effecten uitoefent op de organen? Dus: hoe wordt het signaal van de hersenen naar bijvoorbeeld het hart doorgegeven? Weet je welke stofjes hier belangrijk zijn?","2025-10-15T14:53:03.904488+00:00"
+"user","noradrenaline en acetylcholine","2025-10-15T14:53:56.697775+00:00"
+"assistant","Goed! Noradrenaline is inderdaad het belangrijkste signaalstofje (neurotransmitter) dat door het sympathisch zenuwstelsel bij de meeste doelorganen wordt gebruikt. Acetylcholine is ook belangrijk, maar kun je misschien nog uitleggen bij welk onderdeel van het autonome zenuwstelsel acetylcholine juist een grote rol speelt? 
+
+Daarnaast — waar bindt noradrenaline aan op de organen om zijn effect uit te oefenen? Weet je welke receptoren hiervoor belangrijk zijn?","2025-10-15T14:54:05.537434+00:00"
+"user","muscarine receptoren?","2025-10-15T14:54:44.276933+00:00"
+"assistant","Dat klopt! Acetylcholine werkt vooral op muscarine-receptoren. Dat gebeurt vooral bij het parasympatisch zenuwstelsel, bijvoorbeeld om de hartslag te verlagen of de spijsvertering te stimuleren.
+
+Maar noradrenaline werkt op andere receptoren. Weet je nog hoe die receptoren heten waar noradrenaline op aangrijpt in het sympathisch zenuwstelsel? Denk bijvoorbeeld aan de receptoren op het hart en de bloedvaten.","2025-10-15T14:54:52.644369+00:00"
+"user","weet ik niet, welke zijn het?","2025-10-15T14:55:02.100289+00:00"
+"assistant","Goede vraag! In het sympathisch zenuwstelsel bindt noradrenaline voornamelijk aan adrenerge receptoren op de organen. Er zijn verschillende typen adrenerge receptoren. Bijvoorbeeld:
+
+- β₁-receptoren op het hart (hierdoor stijgt de hartslag en de contractiekracht)
+- β₂-receptoren op de longen (hierdoor verwijden de luchtwegen)
+- α₁-receptoren op bloedvaten (zorgen voor vernauwing van bloedvaten in huid en buik)
+
+Wil je nog iets weten over deze receptoren? Of denk je dat je met deze kernpunten de basis nu goed begrijpt? Laat het weten voordat we doorgaan naar de volgende fase!","2025-10-15T14:55:14.947385+00:00"
+"user","ja leg me uit","2025-10-15T14:55:31.545262+00:00"
+"assistant","Prima, laten we het nog kort samenvatten:
+
+Het sympathisch zenuwstelsel wordt actief bij stress (“fight or flight”). De signalen komen vanuit de hersenen (vooral de hypothalamus) en gaan via zenuwen naar je organen. Deze zenuwen geven noradrenaline af, dat zich bindt aan adrenerge receptoren:
+
+- **β₁-receptoren** zitten vooral op het hart: als noradrenaline hieraan bindt, stijgt de hartfrequentie en neemt de kracht van de hartslag toe.
+- **β₂-receptoren** vind je bij de longen: activatie hiervan zorgt ervoor dat de luchtwegen verwijden, waardoor je makkelijker ademt.
+- **α₁-receptoren** zitten op bloedvaten in bijvoorbeeld de huid en buik: activatie zorgt hier voor vernauwing (vasoconstrictie), zodat bloed vooral naar de spieren en het hart gaat.
+
+Het parasympathisch zenuwstelsel werkt juist tegenovergesteld aan het sympathische. Het belangrijkste neurotransmitter is hier acetylcholine, dat via de nervus vagus muscarine-receptoren op organen activeert. Hierdoor daalt de hartslag, gaat de spijsvertering juist aan, en ontspannen de luchtwegen.
+
+Samenvattend: sympathisch = klaar voor actie, parasympathisch = herstel en rust. Duidelijk zo?
+
+Of heb je nog een vraag hierover voordat we verder gaan?","2025-10-15T14:55:50.741152+00:00"
+"user","duidelijhk","2025-10-15T14:56:44.198222+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Mooi! Nu gaan we naar Fase 2 – Narrative Construction.
+
+Hier is het klinische voorbeeld opnieuw:
+
+###VIGNETTE 1###
+Een 19-jarige jongen vertelt dat hij, terwijl hij op weg was naar zijn eerste universitaire tentamens, zijn hart voelde bonzen, zijn handpalmen begonnen te zweten en zijn ademhaling sneller werd. Hij voelde zich ook wat misselijk en had een droge mond. Nadat hij was aangekomen in de examenzaal en ging zitten, haalde hij een paar keer diep adem. Binnen 10 minuten ging zijn hartslag omlaag, zijn ademhaling werd weer normaal en hij kreeg aandrang om naar het toilet te gaan.
+
+Kun je nu, met de kennis die je net hebt opgehaald, uitleggen waardoor deze student deze klachten kreeg? Denk opnieuw aan het autonome zenuwstelsel dat voor deze verschijnselen zorgt.","2025-10-15T14:56:57.853705+00:00"
+"user","activatie van het sympathisch zenuwstelsel. verhoging hartslag, verhoging ademhaling, zweet, warmte, vocht gebruik.","2025-10-15T14:57:27.649771+00:00"
+"assistant","Dat is een goed begin! Je benoemt heel duidelijk de activatie van het sympathisch zenuwstelsel en enkele van de effecten zoals een verhoogde hartslag, snellere ademhaling en zweten.
+
+Kun je toelichten hoe het komt dat de student bijvoorbeeld ook een droge mond krijgt en zich een beetje misselijk voelt? En wat gebeurt er precies in zijn lichaam als hij tot rust komt en de aandrang krijgt om naar het toilet te gaan? Probeer hierbij het parasympathisch zenuwstelsel ook te betrekken in je uitleg.","2025-10-15T14:57:37.680604+00:00"
+"user","droge mond komt door het verbruik van vocht door zweten, misselijk is een vagoginale reactie, wanneer hij tot rust kwam activeer het parasympatisch zenuwstelsel, blaas ontspant en hij moet plassen","2025-10-15T14:58:53.688176+00:00"
+"assistant","Je zit in de goede richting! Laten we een paar aspecten samen verder uitwerken.
+
+Je zegt dat een droge mond ontstaat door vochtverlies door zweten. Is dat het directe mechanisme, of zou er misschien ook iets veranderen aan de speekselklieren door het autonome zenuwstelsel? 
+
+En je noemt dat misselijkheid een vagale (parasympatische) reactie is. Maar de student voelde zich misselijk terwijl het sympathisch zenuwstelsel actief was — hoe kun je dat uitleggen?
+
+Ten slotte: als het parasympathisch zenuwstelsel weer actief wordt, zoals je zegt, kun je precies aangeven welke veranderingen plaatsvinden in het lichaam (denk aan hartslag, spijsvertering, blaas)?
+
+Kun je deze stappen aanvullen en uitleggen?","2025-10-15T14:59:09.335366+00:00"
+"user","ik weet het niet , kun jij het uitleggen?","2025-10-15T14:59:40.32289+00:00"
+"assistant","Natuurlijk, ik help je graag op weg! Denk eraan: probeer te volgen en af te maken als dat lukt.
+
+Wanneer het sympathisch zenuwstelsel actief is:
+- **Droge mond:** Het sympathisch zenuwstelsel remt de speekselproductie (speekselklieren werken minder), niet alleen door vochtverlies door zweten.
+- **Misselijkheid:** De spijsvertering wordt geremd, bloed wordt vooral naar spieren gestuurd, waardoor je maag-darmstelsel minder goed werkt — dat kan een misselijk gevoel geven. Dit is dus een gevolg van sympathische activiteit, niet van parasympathische.
+
+Als hij tot rust komt en het parasympathisch zenuwstelsel actief wordt:
+- **Hartslag daalt**, ademhaling wordt weer normaal.
+- **Spijsvertering** wordt gestimuleerd; je maag en darmen gaan weer aan het werk.
+- **De blaas wordt actief:** het parasympatisch systeem zorgt voor aanspanning van de blaaswand en ontspanning van de sluitspier, waardoor je aandrang krijgt om te urineren.
+
+Zie je zo het verschil in effecten tussen sympathisch en parasympathisch zenuwstelsel? Wat vind je daarvan het meest opvallend of logisch als je zo naar de situatie van deze student kijkt?","2025-10-15T14:59:57.137898+00:00"
+"assistant","**Learning Context and Roles**  
+Dit lijkt een individuele begeleidings- of tutorgesprek te zijn over klinische fysiologie, gericht op het begrijpen van het autonome zenuwstelsel aan de hand van een casus (student met stressklachten). Het doel van deze feedback is om het leerproces van de gebruiker te versterken door analyse van hun bijdragen en gerichte suggesties te bieden.
+
+**A. What Went Well**
+- De gebruiker herkent correct de hoofdcomponenten van het autonome zenuwstelsel (‘sympathisch’ en ‘parasympathisch’) en koppelt deze aan kernbegrippen als ‘fight or flight’ en ‘rust’.
+- Er is bereidheid om kennis te verdiepen; waar onzekerheid is geeft de gebruiker dit open aan (“ik weet het niet , kun jij het uitleggen?”).
+- Antwoorden zijn meestal bondig en ter zake, met een poging om kerneffecten (zoals hartslag, ademhaling, zweten) te benoemen.
+- De dialoog toont een open houding tot feedback en uitleg van de tutor.
+
+**B. Areas for Improvement**
+- In sommige antwoorden wordt te weinig gedifferentieerd of gespecificeerd (bijvoorbeeld “verhoging hartslag, verhoging ademhaling, zweet, warmte, vocht gebruik” zonder verdere toelichting of fysiologische onderbouwing).
+- Er worden enkele inhoudelijke onnauwkeurigheden gegeven, zoals denken dat de spijsvertering sneller werkt bij sympathicus, of het mechanisme van droge mond verklaren door vochtverlies in plaats van remming van speekselproductie.
+- Er mist soms een diepergaande reflectie op, of integratie van, eerdere feedback of verduidelijkende vragen van de begeleider.
+- Gebruiker benoemt wel kernbegrippen, maar mist vaak een heldere onderbouwing (“misselijk is een vagoginale reactie” is onvolledig en verwarrend in deze context).
+
+**C. Actionable Suggestions**
+1. *Waarom het ertoe doet*: Inzicht in fysiologische mechanismen draagt bij aan een dieper begrip van klinische symptomen.  
+   *Hoe te implementeren*: Probeer bij elk symptoom (bv. droge mond, misselijkheid) systematisch te verklaren via het bijbehorende fysiologische effect van het zenuwstelsel (bijv. remming speekselklieren door sympathicus), en niet enkel een globaal gevolg te noemen.
+
+2. *Waarom het ertoe doet*: Heldere reflectie op feedback versnelt het leerproces en voorkomt herhaling van onnauwkeurige aannames.  
+   *Hoe te implementeren*: Vat na uitleg van de begeleider kort samen wat je hebt begrepen (“dus het sympathisch zenuwstelsel remt de spijsvertering, wat misselijkheid kan veroorzaken”) en stel daar een verdiepende of verhelderende vraag bij.
+
+3. *Waarom het ertoe doet*: Specifieke, goed onderbouwde antwoorden versterken inzicht in het klinisch redeneren.  
+   *Hoe te implementeren*: Gebruik bij beschrijving van fysiologische veranderingen bij stress structureel de volgorde: prikkel – neurotransmitter – receptor – orgaaneffect (zoals: “sympathische prikkel → noradrenaline → β1-receptor hart → hartslag omhoog”).
+
+4. *Waarom het ertoe doet*: Zelfstandig formuleren van verklaringen bevordert actieve kennisverwerking.  
+   *Hoe te implementeren*: Probeer antwoorden altijd eerst (desnoods kort) zelf op te bouwen voordat je direct het antwoord vraagt aan de tutor, eventueel met een check (“ik denk dat… klopt dat?”).
+
+**Forward-looking guidance**  
+In het volgende gesprek, focus op het helder en gestructureerd onderbouwen van je antwoorden met fysiologische mechanismen. Probeer daarnaast actief samen te vatten en vervolgvragen te bedenken over de besproken concepten voor verdieping van je begrip.","2025-10-15T15:01:18.644+00:00"

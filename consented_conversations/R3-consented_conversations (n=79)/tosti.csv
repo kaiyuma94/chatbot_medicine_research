@@ -1,0 +1,62 @@
+"role","content","created_at"
+"user","start","2025-10-15T15:15:59.47693+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Kun je de symptomen van de student verklaren? Denk aan het deel van het autonome zenuwstelsel dat verantwoordelijk is voor deze symptomen.","2025-10-15T15:16:05.125432+00:00"
+"user","welke symptomen","2025-10-15T15:16:30.073482+00:00"
+"assistant","De symptomen in de casus zijn: een bonzend hart, zweterige handpalmen, versnelde ademhaling, misselijkheid, een droge mond, en later (na ontspanning) het gevoel te moeten plassen.
+
+Nu nogmaals de vraag: Kun je proberen uit te leggen waardoor deze symptomen ontstaan, en welk deel van het autonome zenuwstelsel hiervoor verantwoordelijk is?","2025-10-15T15:16:37.49111+00:00"
+"user","het autonome zenuwstelsel bestaat uit de sympatische en parasympatische deel en het sympatische deel zet je in een soort fight or flight modus waardoor je hart sneller klopt en je sneller ademhaatl en fysiek klaar bent om veel te bewegen en snel te handelen","2025-10-15T15:18:27.961346+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we even pauzeren en officieel starten met Fase 1 – Kennisactivering. In deze fase herhalen we kort de belangrijkste concepten en mechanismen die bij deze casus horen. Heb je nog vragen of punten die je wilt verduidelijken voordat we beginnen?
+
+Als je geen vragen hebt:  
+Wat weet je over hoe signalen van het brein naar organen reizen binnen het autonome zenuwstelsel? En weet je welke stofjes deze zenuwen gebruiken om met organen te communiceren?","2025-10-15T15:18:38.716344+00:00"
+"user","acetylcholine word gebruikt en noradrenaline, signaler reizen via zenuwen","2025-10-15T15:19:25.177949+00:00"
+"assistant","Helemaal goed! Acetylcholine en noradrenaline zijn inderdaad belangrijke neurotransmitters in het autonome zenuwstelsel, en signalen reizen via zenuwbanen. Kun je uitleggen welke van deze stofjes vooral door het sympathische systeem wordt gebruikt, en welke door het parasympathische systeem? Wat gebeurt er vervolgens in het lichaam als een van deze systemen actief wordt?","2025-10-15T15:19:35.148346+00:00"
+"user","beide gebruiken acethylcholine in de synaps maar de sympatische schakelt later over naar noradrenaline terwijl parasympatisch ACh blijft gebruiken. parasympatische is vooral actief in rust en zorgt ervoor dat je eten verteerd wordt en zo de sympatische zorgt ervoor dat je actiever bent en je lichaam meer zuurstof krijgt en zo","2025-10-15T15:20:52.369412+00:00"
+"assistant","Heel goed uitgelegd! Dus je weet nu dat het sympathische systeem vooral noradrenaline gebruikt bij de eindorgaantjes en het parasympatische systeem blijft acetylcholine gebruiken. Ook klopt het dat de ene tak vooral actief is bij rust en verteren, en de andere bij actie.
+
+Wil je nog iets weten over de receptoren waarop deze stofjes werken op de organen? Of denk je dat je voldoende weet om door te gaan naar het volgende deel?","2025-10-15T15:21:00.712362+00:00"
+"user","ik denk dat ik voldoende weet","2025-10-15T15:21:21.71354+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Mooi! Nu gaan we naar Fase 2 – Narratief Construeren. 
+
+Hier volgt nogmaals de casus:
+
+Een 19-jarige jongen meldt dat hij, terwijl hij naar zijn eerste tentamens ging, zijn hart sneller voelde kloppen, zijn handpalmen zweterig werden en zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Na aankomst in de examenzaal en even diep ademhalen, merkten hij dat zijn hartslag vertraagde, zijn ademhaling weer normaal werd, en hij aandrang kreeg om naar het toilet te gaan.
+
+Kun je nu met de kennis die je net hebt opgefrist, uitleggen welke verschuivingen in het autonome zenuwstelsel de symptomen van deze student veroorzaken? Beschrijf zoveel mogelijk stappen in het proces.","2025-10-15T15:21:35.372689+00:00"
+"user","door de stress is de sympatisch zenuwstelsel actief waardoor zijn hart sneller klopt en hij eigenlijk in fight or flight modus is wanneer die rustig ademhaalt en kalmeerd schakelt het autonome zenuwstelsel over naar de parasympatische zenuwstelsel waardoor die spontaan naar de wc moet omdat dat een onderdeel is dat de parasympatsiche zenuwstelsel controleert dat soort van word uitgeschakelt als de sympatische zenuwstelsel geactiveerd word","2025-10-15T15:23:43.774637+00:00"
+"assistant","Mooi uitgelegd! Je hebt duidelijk het algemene principe te pakken. Kun je nog wat specifieker zijn en uitleggen welke lichamelijke reacties je direct kunt koppelen aan de werking van de sympathicus? Bijvoorbeeld: hoe ontstaan een droge mond en misselijkheid in deze situatie? En wat gebeurt er op het niveau van de organen als de parasympathicus weer overheerst?","2025-10-15T15:23:51.686896+00:00"
+"user","droge mond komt door de versnelling van de ademhaling waardoor je mond droger wordt en misselijkheid misschien omdat de maag en darmen stoppen met verteren waardoor er allemaal eten er gewoon zit","2025-10-15T15:26:00.397385+00:00"
+"assistant","Interessante redenatie! Even checken: denk je dat de droge mond alleen door snellere ademhaling ontstaat, of heeft de sympathicus ook direct invloed op speekselklieren? En bij de misselijkheid: klopt het dat de sympathicus verteringsprocessen remt, en waarom zou dat een misselijk gevoel kunnen geven? Kun je jouw uitleg hierover verder aanvullen?","2025-10-15T15:26:10.940978+00:00"
+"user","sympathicus heeft ook invloed op speekselklieren inderdaad maar verder weet ik het neit","2025-10-15T15:26:39.37561+00:00"
+"assistant","Dat klopt: de sympathicus remt de speekselproductie, waardoor je mond droog wordt, los van alleen de snellere ademhaling. Wat betreft misselijkheid: de sympathicus remt inderdaad de activiteit van maag en darmen — dit betekent dat de vertering even “on hold” wordt gezet. Voedsel beweegt daardoor minder snel door het maag-darmkanaal, wat dat onaangename, misselijke gevoel kan geven.
+
+Wil je nog toelichten wat er gebeurt als de parasympathicus weer actief wordt, bijvoorbeeld waarom ineens die aandrang om naar het toilet kan ontstaan na ontspanning?","2025-10-15T15:26:49.9163+00:00"
+"user","de vertering begint weer dus daarom moet je misschien naar de wc","2025-10-15T15:28:12.16678+00:00"
+"assistant","Precies, dat is het idee! De parasympathicus stimuleert de werking van het maag-darmkanaal en de blaas, waardoor je na stress soms ineens aandrang voelt om te plassen of naar het toilet te gaan.
+
+Je koppelt nu de symptomen netjes aan de werking van het autonome zenuwstelsel. We kunnen doorgaan naar het laatste stukje van deze casus.
+
+Hier nogmaals de casus:
+
+Een 19-jarige jongen meldt dat hij, terwijl hij naar zijn eerste tentamen ging, zijn hart sneller voelde kloppen, zijn handpalmen zweterig werden en zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Na aankomst in de examenzaal en even diep ademhalen, merkten hij dat zijn hartslag vertraagde, zijn ademhaling weer normaal werd, en hij aandrang kreeg om naar het toilet te gaan.
+
+###ASSESSMENT QUESTION###
+Hoe begrijp je nu de symptomen in dit geval? Schrijf elk detail op dat je kunt bedenken: jouw ideeën, redeneringen en de koppelingen naar wat je geleerd hebt. Hoe vollediger je uitleg, hoe beter dit je helpt bij het begrijpen, voorbereiden op tentamens én klinisch redeneren bij soortgelijke casussen in de toekomst!","2025-10-15T15:28:28.74602+00:00"
+"user","dit wil ik graag overslaan","2025-10-15T15:29:11.592243+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Prima, dan gaan we verder met Fase 3 - Reasoning Transfer en passen we je kennis toe op een nieuwe situatie.
+
+VIGNETTE 2:
+Een 76-jarige man staat in de rij bij de apotheek op een warme middag. Na enkele minuten begint hij zich licht in het hoofd te voelen, misselijk, zweterig, en ervaart hij “tunnelvisie” voordat hij kort het bewustzijn verliest en neervalt. Omstanders helpen hem op de grond en na een paar minuten bij bewustzijn, voelt hij zich zwak maar helder, met een trage hartslag en lage bloeddruk. Na enkele minuten is hij helemaal hersteld.
+
+Kun je uitleggen welke verschuivingen in het autonome zenuwstelsel deze symptomen veroorzaken bij deze patiënt, en ook hoe het herstel verloopt?","2025-10-15T15:29:24.453211+00:00"
+"user","klaar","2025-10-15T15:33:14.59303+00:00"
+"assistant","Prima, de sessie stopt hier. Mocht je later verder willen oefenen of vragen hebben, dan kun je weer beginnen bij PHASE 1. Succes met studeren!","2025-10-15T15:33:22.948013+00:00"

@@ -1,0 +1,70 @@
+"role","content","created_at"
+"user","laten we beginnen","2025-10-15T15:49:37.608387+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Kun je uitleggen welke symptomen de student ervaarde? Denk aan het deel van het autonoom zenuwstelsel dat verantwoordelijk is voor deze symptomen.","2025-10-15T15:49:45.006014+00:00"
+"user","Zweten, versnelde ademhaling, misselijk, droge mond. Dit komt door stress, waardoor adrenaline vrij komt","2025-10-15T15:51:21.823898+00:00"
+"assistant","Geweldig begin! Laten we even pauzeren en starten met Fase 1 – Kennisactivatie. In deze fase herhalen we kort de kernbegrippen en mechanismen die bij deze casus horen. Heb je vooraf vragen of punten die je graag verduidelijkt wilt hebben?
+
+Zo niet, kun je dan uitleggen wat de twee hoofdonderdelen van het autonoom zenuwstelsel zijn en wat elk onderdeel doet?","2025-10-15T15:51:29.302432+00:00"
+"user","Parasympatisch en sympatisch","2025-10-15T15:52:19.167706+00:00"
+"assistant","Klopt, precies! Kun je in je eigen woorden uitleggen wat het sympathisch zenuwstelsel doet, en wat het parasympatisch zenuwstelsel doet? Wat zijn de belangrijkste verschillen?","2025-10-15T15:52:24.706978+00:00"
+"user","Parasympatisch= in rust, dus vooral de spijsvertering is bezig, ook verlaagde hartslag 
+Sympatisch= Fight or flight, dus juist als je aan het bewegen bent. Dus versnelde hartslag en is je spijsvertering minder hard bezig","2025-10-15T15:53:34.669667+00:00"
+"assistant","Dat is goed uitgelegd! Nog een stapje verder: weet je ook hoe signalen van deze systemen vanuit de hersenen bij de organen komen? Bijvoorbeeld, welke boodschapperstoffen worden er gebruikt om organen aan te sturen?","2025-10-15T15:53:45.259944+00:00"
+"user","Via neurotransmitters uit de hersenen die via synapsen naar andere neuronen gaan en zo (via motorische cellen) naar de organen gaan","2025-10-15T15:55:24.384533+00:00"
+"assistant","Goed geformuleerd! Kun je misschien specifieker aangeven welke neurotransmitters betrokken zijn bij het sympathisch en parasympathisch zenuwstelsel, en waar deze stoffen precies hun werking uitoefenen? 
+
+Als het lastig is, mag je eerst één van beide systemen kiezen en uitleggen.","2025-10-15T15:55:30.776613+00:00"
+"user","geen idee, geef een tip","2025-10-15T15:56:21.032547+00:00"
+"assistant","Natuurlijk! Denk bij het sympathisch zenuwstelsel aan de stof “adrenaline” en een andere stof die vaak in zenuwsynapsen wordt gebruikt, vooral bij de ‘vecht-of-vlucht’-reactie. 
+
+En bij het parasympathisch zenuwstelsel is er een stof waarvan de naam begint met een ""A"" en die veel gebruikt wordt in rusttoestand. Kun je daarmee verder komen?","2025-10-15T15:56:29.167397+00:00"
+"user","ADH?","2025-10-15T15:56:39.080536+00:00"
+"assistant","Goede poging, maar ADH (antidiuretisch hormoon) is inderdaad een hormoon, maar niet de hoofdrolspeler hier. Denk aan stoffen die direct in zenuwsynapsen worden afgegeven als neurotransmitter. 
+
+Voor het sympathisch zenuwstelsel: deze stof begint met “nor…”  
+Voor het parasympathisch zenuwstelsel: deze stof heet “acetyl…”  
+
+Lukt het je met deze aanwijzingen?","2025-10-15T15:56:47.322256+00:00"
+"user","ohh nordopanine en acetylchlorine","2025-10-15T15:57:05.16282+00:00"
+"assistant","Dat gaat de goede kant op! Bijna goed gespeld: het zijn noradrenaline (of norepinefrine) voor het sympathisch zenuwstelsel, en acetylcholine voor het parasympathisch zenuwstelsel.
+
+Laatste kennisvraag voordat we verder gaan: wat gebeurt er met het lichaam als het sympathisch zenuwstelsel actief is, en wat gebeurt er als het parasympathisch zenuwstelsel overheerst? Kun je beide situaties kort uitleggen?","2025-10-15T15:57:14.070778+00:00"
+"user","Als sympathisch actief is heb je vooral de fight or flight. En ben je dus ook erg alert. Bij parasympatisch is het vooral in de rust en sta je niet zo strak. Hierbij gaat vooral de spijsvertering aan de gang","2025-10-15T15:58:53.586858+00:00"
+"assistant","Helemaal goed! Je hebt de kern te pakken. Je begrijpt nu hoe het sympathische en parasympathische zenuwstelsel elkaar afwisselen om het lichaam aan te passen aan inspanning en rust.
+
+Als je geen vragen meer hebt over de basiskennis, gaan we nu naar het toepassen ervan in de klinische casus.
+
+=== PHASE 2: Narrative Construction ===
+
+Hier is opnieuw het vignet:
+
+**Een 19-jarige jongen meldt dat hij, terwijl hij naar zijn eerste universitaire examens ging, zijn hart voelde bonzen, zijn handpalmen klam werden en hij merkte dat zijn ademhaling versnelde. Ook voelde hij zich wat misselijk en kreeg hij een droge mond. Nadat hij was gaan zitten en een paar keer diep ademhaalde, vertraagde zijn hartslag, werd zijn ademhaling rustiger, en kreeg hij aandrang om naar het toilet te gaan.**
+
+Nu je de kennis nog vers in het geheugen hebt, kun je uitleggen hoe deze symptomen ontstaan? Denk specifiek aan welk deel van het autonoom zenuwstelsel actief is bij de verschillende klachten.","2025-10-15T15:59:09.023594+00:00"
+"user","Parasympatisch is nu vooral actief. Er word noradrenaline vrij gegeven waardoor je nu erg alert bent. Hierdoor gaat zijn hart sneller kloppen en zweten","2025-10-15T16:00:57.840266+00:00"
+"assistant","Je maakt al een mooie koppeling, maar let op: noradrenaline hoort niet bij het parasympatisch zenuwstelsel. Laten we samen de stappen doornemen:
+
+1. **Tijdens de stress van het examen:**
+   - Welk deel van het autonoom zenuwstelsel is dan vooral actief? Waarom?
+2. **Welke neurotransmitter is daarbij betrokken en welke effecten heeft dit op het lichaam (zoals hartslag en zweten)?**
+
+Kun je deze stappen invullen? Welk deel is actief en wat doet noradrenaline dan precies?","2025-10-15T16:01:07.419578+00:00"
+"user","1: Parasympatisch, omdat je nu in flight or fight mode bent door de stress
+2: Noradrenaline is hierbij betrokken, waardoor je dus snellere hartslag hebt en zweet.","2025-10-15T16:02:29.007693+00:00"
+"assistant","Je zit er nog net naast! Bij stressvolle situaties zoals een examen wordt juist het **sympathisch** zenuwstelsel actief, niet het parasympathisch zenuwstelsel. Het parasympathisch stelsel is vooral actief in rust.
+
+Dus als je zenuwachtig bent, is het sympathisch zenuwstelsel dominant en dat geeft de verschijnselen als snelle hartslag, zweten en droge mond, via noradrenaline.
+
+Nu: wat gebeurt er nadat de student rustig zit en diep ademhaalt? Welk deel van het zenuwstelsel wordt dan actief, en wat gebeurt er met het lichaam? Kun je die stap uitleggen?","2025-10-15T16:02:39.865351+00:00"
+"user","sorry ik bedoel sympatisch","2025-10-15T16:02:45.973736+00:00"
+"assistant","Geen probleem, dat kan gebeuren! Precies, sympathisch is actief bij stress. 
+
+Kun je nu uitleggen wat er in het lichaam gebeurt als de student zich ontspant nadat hij gaat zitten en diep ademhaalt? Welk deel van het autonoom zenuwstelsel wordt dan actief, en welke effecten horen daarbij?","2025-10-15T16:02:52.485765+00:00"
+"user","dan word juist parasympatisch actief, waardoor je hartslag word vertraagd en minder snel ademd","2025-10-15T16:03:31.488717+00:00"
+"assistant","Juist! Het parasympathisch zenuwstelsel neemt het over, waardoor de hartslag daalt en de ademhaling rustiger wordt. Ook worden spijsvertering en plassen weer actiever, wat die aandrang tot naar het toilet kan verklaren.
+
+Als afsluiting van deze casus:
+
+**Hoe begrijp je nu de symptomen in dit geval? Schrijf alles op wat je kunt bedenken — je ideeën, redeneringen en verbanden met wat je hebt geleerd. Hoe vollediger je bent, hoe dieper je inzicht, en hoe beter je dit soort casussen straks zelf kunt verklaren!**","2025-10-15T16:03:41.735942+00:00"

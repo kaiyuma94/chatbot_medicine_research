@@ -1,0 +1,98 @@
+"role","content","created_at"
+"user","laten we beginnen","2025-10-15T13:11:52.530786+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Kun je de symptomen van de student uitleggen? Denk na over het deel van het autonome zenuwstelsel dat verantwoordelijk is voor deze symptomen.","2025-10-15T13:11:57.233765+00:00"
+"user","hey","2025-10-15T13:12:34.181815+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Je krijgt de volgende casus:
+
+###VIGNETTE 1###
+Een 19-jarige jongen vertelt dat hij, terwijl hij naar zijn eerste universitaire tentamens ging, zijn hart voelde bonzen, zijn handpalmen begonnen te zweten en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook een beetje misselijk en had een droge mond. Nadat hij bij de examenzaal aankwam en ging zitten, haalde hij een paar keer diep adem. Binnen 10 minuten vertraagde zijn hartslag, normaliseerde zijn ademhaling en voelde hij de drang om naar het toilet te gaan.
+
+Kun jij uitleggen welke symptomen de student ervaart? Denk aan het deel van het autonome zenuwstelsel dat verantwoordelijk is voor deze symptomen.","2025-10-15T13:12:47.319149+00:00"
+"user","de student ervaart symptomen van een verhoogde stresslevel dus door de verhoogde adrenaline gaat het sympathische zenuwstelsel aan de slag door te zweten, versnelde ademhaling etc.","2025-10-15T13:14:00.538322+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we even pauzeren en starten met Fase 1 – Kennisactivatie. In deze fase gaan we kort de belangrijkste concepten en mechanismen bespreken die met deze casus te maken hebben. 
+
+Heb je nu al specifieke vragen of punten die je graag wilt ophelderen voordat we beginnen? 
+
+Zo niet, kun je me dan eerst uitleggen: weet jij wat de twee belangrijkste delen van het autonome zenuwstelsel zijn, en wat elk deel doet?","2025-10-15T13:14:10.079342+00:00"
+"user","sympathische en parasympathische zenuwstelsel. Sympathisch regelt organen waar je zelf geen controle over hebt in actieve stand en parasympathisch regelt organen waar je zelf geen controle over hebt in passieve stand","2025-10-15T13:15:35.940003+00:00"
+"assistant","Goed, je noemt het sympathisch en parasympathisch zenuwstelsel. Je zegt dat het sympathisch actief is in de ‘actieve’ stand en het parasympathisch in de ‘passieve’ stand.
+
+Kun je nog iets specifieker uitleggen wat er precies in het lichaam gebeurt als het sympathische zenuwstelsel actief wordt? Welke organen of processen veranderen, en welke boodschapperstoffen spelen daarbij een rol?","2025-10-15T13:15:47.802214+00:00"
+"user","als het sympathische zenuwstelsel actief wordt, verhoogd bijv. de hartslag door het stresshormoon adrenaline. adrenaline is dus ook de boodschapperstof","2025-10-15T13:16:50.073384+00:00"
+"assistant","Mooi dat je adrenaline noemt! Dat speelt inderdaad een rol bij de stressrespons, maar als we specifiek naar zenuwbanen kijken: welke andere boodschapperstof gebruikt het sympathische zenuwstelsel vooral om signalen van zenuweinden naar organen te sturen? En kun je een voorbeeld geven van wat er met bijvoorbeeld de bloedvaten of de longen gebeurt als het sympathische systeem actief is?","2025-10-15T13:16:57.789159+00:00"
+"user","Neurotransmitters, wanneer het sympathisch systeem actief is gaat er meer zuurstof naar het bloed waardoor je dus sneller moet ademhalen en de bloedvaten gaan verwijden","2025-10-15T13:17:57.205393+00:00"
+"assistant","Dat klopt, neurotransmitters spelen inderdaad een rol. In het sympathische zenuwstelsel is de belangrijkste neurotransmitter bij orgaansignalering meestal noradrenaline (norepinefrine), naast adrenaline uit het bijniermerg.
+
+Je noemt dat bloedvaten gaan verwijden—bij sommige organen klopt dat, bijvoorbeeld naar de spieren, maar naar de huid en het maagdarmstelsel juist niet. Wil je nog eens uitleggen: wat gebeurt er bij activering van het sympathische zenuwstelsel met de bloedvaten naar huid/darmen en juist naar de spieren? Hoe helpt dit bij een stressvolle situatie?","2025-10-15T13:18:07.546803+00:00"
+"user","bij activering van het sympathische zenuwstelsel gaan de boedvaten naar de spieren verwijden, dit komt zodat je meer zuurstof naar de spieren krijgt waardoor je spieren snel in actie kunnen komen in een stresssituatie. Bij de huid/darmen worden de bloedvaten kleiner, hoe dit komt weet ik niet","2025-10-15T13:19:50.324278+00:00"
+"assistant","Prima verwoord! Inderdaad: de bloedvaten naar de spieren verwijden (vasodilatatie), zodat er meer bloed, en dus meer zuurstof en voedingsstoffen, naar de spieren kan als je snel zou moeten reageren.
+
+Over de huid en darmen: de bloedvaten worden daar nauwer (vasoconstrictie) door activering van α₁-receptoren door noradrenaline. Kun je bedenken waarom het in een stresssituatie juist handig is dat er minder bloed naar huid en darmen gaat? Wat is het functionele voordeel hiervan voor het lichaam?","2025-10-15T13:19:59.500991+00:00"
+"user","als er in een stresssituatie minder bloed naar de huid en darmen gaat, is er meer zuurstof over voor de organen waarvan het essentieel is om veel zuurstof te hebben in een stresssituatie","2025-10-15T13:20:44.445371+00:00"
+"assistant","Mooi uitgelegd! Zo kun je inderdaad in een stresssituatie de beperkte energie en zuurstof richten naar spieren en hersenen die je op dat moment het meest nodig hebt.
+
+Voordat we naar de toepassing bij de casus overstappen: wil je nog kort samenvatten wat het sympathisch en het parasympathisch zenuwstelsel doen—en welke stofjes daarbij vooral belangrijk zijn? Of heb je hierover nog vragen?","2025-10-15T13:20:55.886102+00:00"
+"user","het sympathisch zenuwstelsel wordt in actieve stand gestimuleerd en de neurotransmitter noradrenaline is hierbij belangrijk. het parasympatisch zenuwstelsel wordt in passieve stand gestimuleerd","2025-10-15T13:22:00.944539+00:00"
+"assistant","Goed samengevat! De belangrijkste neurotransmitter bij het parasympathisch zenuwstelsel is acetylcholine, die vooral via de nervus vagus werkt.
+
+Heb je nog vragen over deze basisprincipes, of is het zo duidelijk en kunnen we verdergaan naar het toepassen van deze kennis op de casus?","2025-10-15T13:22:07.432519+00:00"
+"user","het is duidelijk","2025-10-15T13:22:19.099184+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Prima! Nu gaan we naar Fase 2 – Narrative Construction. Hier gaan we de kennis die je net hebt opgehaald toepassen op de casus.
+
+###VIGNETTE 1###
+Een 19-jarige jongen vertelt dat hij, terwijl hij naar zijn eerste universitaire tentamens ging, zijn hart voelde bonzen, zijn handpalmen begonnen te zweten en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook een beetje misselijk en had een droge mond. Nadat hij bij de examenzaal aankwam en ging zitten, haalde hij een paar keer diep adem. Binnen 10 minuten vertraagde zijn hartslag, normaliseerde zijn ademhaling en voelde hij de drang om naar het toilet te gaan.
+
+Kun je nu, met de kennis die je net hebt opgehaald, uitleggen welke processen in het autonome zenuwstelsel verantwoordelijk zijn voor de symptomen die de student ervaart? Geef zo volledig mogelijk antwoord.","2025-10-15T13:22:32.310014+00:00"
+"user","doordat de jongen stress heeft, wordt de noradrenaline verhoogd. Door de verhoogde noradrenaline wordt het sympatische zenuwstelsel geactiveerd. door deze activatie gaat er meer bloed (dus zuurstof) naar de belangrijke organen zoals spieren en hersenen. En daardoor minder naar andere organen, hierdoor is hij bijvoorbeeld misselijk. De versnelde ademhaling komt doordat de jongen meer zuurstof nodig heeft omdat er dus meer naar de spieren en hersenen dan normaal gaat.","2025-10-15T13:24:33.081025+00:00"
+"assistant","Je analyse is al heel goed! Je noemt de stress, noradrenaline en de activatie van het sympathische zenuwstelsel. Je legt ook mooi uit dat bloed naar essentiële organen zoals spieren en hersenen gaat, en je verklaart misselijkheid doordat er minder bloed naar de darmen stroomt.
+
+Wil je de andere symptomen (zoals zweten, droge mond, en na het ontspannen de drang om te plassen) ook proberen te koppelen aan het sympathisch of parasympathisch zenuwstelsel? Welke rol spelen deze systemen bij deze verschijnselen?","2025-10-15T13:24:42.169731+00:00"
+"user","doordat de vaten naar bepaalde organen worden vernauwd, krijgt de jongen het warm en gaat hij zweten. hij krijgt een droge mond doordat al het vocht in de stresssituatie nodig is voor essentiele organen. nadat hij is ontspannen is dat vocht dus niet meer nodig en moet hij plassen.","2025-10-15T13:26:05.733719+00:00"
+"assistant","Je koppelt al goed het vernauwen van de vaten en zweten aan het sympathisch zenuwstelsel! Zweten is inderdaad een typisch sympathisch effect, bedoeld om af te koelen bij stress/actie. De droge mond heeft te maken met een onderdrukking van de speekselproductie doordat de parasympathicus wordt geremd tijdens stress.
+
+Na ontspanning wordt juist het parasympathisch zenuwstelsel weer actiever: acetylcholine stimuleert bijvoorbeeld de blaas om samen te trekken (vandaar de plasdrang). Wil je dit mechanisme van “omschakelen” zelf kort samenvatten—hoe verloopt deze wisselwerking tussen de twee systemen bij stress en ontspanning? Wat gebeurt er precies bij het terugkeren naar balans?","2025-10-15T13:26:17.408259+00:00"
+"user","als de stress vermindert, vermindert de noradrenaline. Hierdoor komt er meer acetylcholine vrij, waardoor het parasympatisch zenuwstelsel wordt geactiveerd","2025-10-15T13:27:01.025148+00:00"
+"assistant","Heel helder omschreven! Dus: na de stress-situatie daalt de noradrenaline, en het parasympatisch zenuwstelsel — met acetylcholine als belangrijkste stof — zorgt ervoor dat het lichaam terugkomt in de ruststand en balans herwint.
+
+Nu volgt de laatste vraag van deze fase:
+
+###VIGNETTE 1###
+Een 19-jarige jongen vertelt dat hij, terwijl hij naar zijn eerste universitaire tentamens ging, zijn hart voelde bonzen, zijn handpalmen begonnen te zweten en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook een beetje misselijk en had een droge mond. Nadat hij bij de examenzaal aankwam en ging zitten, haalde hij een paar keer diep adem. Binnen 10 minuten vertraagde zijn hartslag, normaliseerde zijn ademhaling en voelde hij de drang om naar het toilet te gaan.
+
+###ASSESSMENT QUESTION###
+Hoe begrijp je nu de symptomen in deze casus? Schrijf alles uit wat je kunt bedenken — je ideeën, redenering en welke verbanden je legt met wat je geleerd hebt. Hoe vollediger je uitleg, hoe beter je je kennis versterkt voor examens en klinisch redeneren!","2025-10-15T13:27:17.648073+00:00"
+"user","Door zijn stress, verhoogd de noradrenaline waardoor het sympathische zenuwstelsel geactiveerd word. Na zijn tentamen verlaagd de noradrenaline weer, waardoor er meer acetylcholine vrijkomt en het parasypathische zenwustelsel weer geactiveerd wordt.","2025-10-15T13:28:32.29585+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Goed gedaan! Nu gaan we naar Fase 3 - Reasoning Transfer. Hier testen we of je deze kennis kunt toepassen op een nieuwe situatie:
+
+###VIGNETTE 2###
+Een 76-jarige man staat op een warme middag in de rij bij de apotheek. Na een paar minuten voelt hij zich licht in het hoofd, misselijk en zweterig. Hij beschrijft een gevoel van “tunnelzicht” voordat hij kort het bewustzijn verliest en in elkaar zakt. Omstanders helpen hem op de grond, en na een paar minuten bijgekomen te zijn, voelt hij zich zwak maar helder, met een langzame hartslag en lage bloeddruk. Na een paar minuten is hij volledig hersteld.
+
+Kun je uitleggen welke processen in zijn autonome zenuwstelsel verantwoordelijk zijn voor deze symptomen én het herstel? Wat gebeurt er in zijn lichaam voor, tijdens en na het flauwvallen?","2025-10-15T13:28:46.644936+00:00"
+"user","doordat het warm was, werd het sympathische zenuwstelsel geactiveerd, maar hiervoor is vocht in het lichaam nodig en dat had hij door de warmte waarschijnlijk te weinig. Na zijn bewustzijnverlies is de stressrespons 'voorbij' en komt er meer acetylcholine vrij waardoor zijn parasympathische zenuwstelsel aan de slag kan en het herstelt.","2025-10-15T13:30:43.881502+00:00"
+"assistant","Interessante redenering! Je zegt dat het sympathische zenuwstelsel eerst actief is vanwege de warmte, maar noemt ook dat er door het vochtverlies een probleem ontstaat. Toch is er bij deze casus vooral sprake van een “overschieten” van het parasympathisch zenuwstelsel: een zogenaamde vasovagale reactie.
+
+Wat denk je: waarom helpt het, bij zo’n flauwte, om te gaan liggen? En hoe zorgt dat er samen met het autonome zenuwstelsel voor dat deze man uiteindelijk weer bijkomt? Kun je het proces van flauwvallen tot herstel nog één keer stapsgewijs uitleggen vanuit het sympathisch en parasympathisch zenuwstelsel?","2025-10-15T13:30:54.569775+00:00"
+"user","ik weet niet waarom liggen helpt","2025-10-15T13:32:31.713203+00:00"
+"assistant","Dat is geen probleem, laten we er samen stap voor stap naar kijken.
+
+Wanneer iemand staat, moet het lichaam extra moeite doen om bloed naar de hersenen te pompen, vooral bij warmte en weinig vocht. Bij een vasovagale reactie schakelt het parasympathisch zenuwstelsel plotseling sterk in: het hart gaat langzamer kloppen en de bloedvaten verwijden, waardoor de bloeddruk daalt. Dit zorgt ervoor dat er (te) weinig bloed bij de hersenen komt en de man flauwvalt.
+
+Wat gebeurt er als iemand dan gaat liggen, denk je? Hoe helpt dat om de bloedtoevoer naar de hersenen te herstellen?","2025-10-15T13:32:43.067653+00:00"
+"user","door het liggen hoeft het lichaam weer minder moeite te doen om genoeg bloed naar de hersenen te pompen","2025-10-15T13:33:48.623617+00:00"
+"assistant","Precies! Door te gaan liggen is er minder zwaartekracht die het bloed “wegtrekt” van de hersenen. Hierdoor kan er makkelijker weer voldoende bloed naar de hersenen stromen.
+
+Zodra de hersenen weer genoeg bloed krijgen, merken sensoren in de bloedvaten (baroreceptoren) dat de bloeddruk weer stijgt. Hoe zorgt het autonome zenuwstelsel er dan voor dat het lichaam geleidelijk weer terugkeert naar de normale situatie na het flauwvallen? Kun je die correctie kort uitleggen aan de hand van het sympathisch en parasympathisch zenuwstelsel?","2025-10-15T13:34:02.011283+00:00"
+"user","doordat het parasympathische zenwustelsel in overvloed was, wordt na het flauwvallen weer het sympathische zenuwstelsel meer geactiveerd waardoor de balans herstelt","2025-10-15T13:34:56.491977+00:00"
+"assistant","Juist! Na het flauwvallen vermindert de overactiviteit van het parasympathische zenuwstelsel, terwijl het sympathische zenuwstelsel weer wordt geactiveerd. Hierdoor stijgen de hartslag en bloeddruk weer, en herstelt het lichaam zijn balans.
+
+Je hebt nu laten zien dat je dezelfde fysiologie kunt toepassen op verschillende klinische situaties. Heb je nog vragen over de werking van het autonome zenuwstelsel of over deze casussen? Zo niet, dan zijn we klaar!","2025-10-15T13:35:05.297786+00:00"

@@ -1,0 +1,70 @@
+"role","content","created_at"
+"user","Ik ben klaar om te beginnen","2025-10-15T13:33:41.702272+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Hier is het eerste klinische vignet:
+
+**VIGNET 1**  
+Een 19-jarige jongen meldt dat hij, terwijl hij op weg ging naar zijn eerste universiteitsexamens, zijn hart voelde bonzen, zijn handpalmen zweterig werden en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Na aankomst in de examenzaal en het gaan zitten, haalde hij een paar keer diep adem. Binnen 10 minuten vertraagde zijn hartslag, normaliseerde zijn ademhaling en kreeg hij aandrang om naar het toilet te gaan.
+
+Kun je uitleggen waardoor de symptomen bij de student worden veroorzaakt? Denk hierbij aan welk deel van het autonoom zenuwstelsel verantwoordelijk is voor deze symptomen.","2025-10-15T13:33:53.090803+00:00"
+"user","Het sympatische deel toch?","2025-10-15T13:35:29.096411+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed opgemerkt! Laten we even pauzeren en starten met Fase 1 – Kennis Activeren. In deze fase lopen we kort de kernbegrippen en mechanismen door die met deze casus te maken hebben. Heb je op dit moment al vragen of punten die je wilt verduidelijken voordat we verdergaan?
+
+Als je geen vragen hebt, kun je mij dan vertellen:  
+Weet je wat de twee belangrijkste delen van het autonome zenuwstelsel zijn en wat ieder deel doet?","2025-10-15T13:35:38.910448+00:00"
+"user","Sympatische en parasympatische deel.","2025-10-15T13:35:52.669691+00:00"
+"assistant","Prima, dat klopt! Kun je in je eigen woorden uitleggen wat elk deel van het autonome zenuwstelsel doet? Wat is het verschil tussen de functie van het sympatische en het parasympatische deel?","2025-10-15T13:35:58.61853+00:00"
+"user","Dingen waar je wel invloed op hebt zoals het bewegen van de skeletspieren worden aangestuurd door het sympatische zenuwstelsel. Het samentrekken van het hart bijvoorbeeld hoort bij het parasympathische deel, dus dingen die je niet bewust doet.","2025-10-15T13:37:02.388922+00:00"
+"assistant","Dat is een interessante poging, maar zit er een klein misverstand in. De skeletspieren (waar je bewust invloed op hebt) worden namelijk bestuurd door het somatisch zenuwstelsel – dus niet door het autonome zenuwstelsel.  
+
+Het autonome zenuwstelsel stuurt juist processen aan waar je géén bewuste controle over hebt, zoals hartslag, spijsvertering en ademhaling. Beide delen, het sympatische én het parasympatische, behoren hiertoe.
+
+Kun je proberen uit te leggen wat het sympatische en wat het parasympatische deel precies doen binnen het **autonome** zenuwstelsel, als je denkt aan bijvoorbeeld stress of ontspanning?","2025-10-15T13:37:13.547969+00:00"
+"user","Sympathische = stress, parasympathische = ontspanning","2025-10-15T13:37:57.46708+00:00"
+"assistant","Mooi beknopt geantwoord! Kun je nu toelichten:  
+Wat gebeurt er in het lichaam tijdens stress door het sympathische zenuwstelsel? Kun je enkele veranderingen noemen, bijvoorbeeld aan het hart, de longen of de spijsvertering? Wat gebeurt er juist als het parasympathische zenuwstelsel overheerst?","2025-10-15T13:38:05.174721+00:00"
+"user","Tijdens stress gaat het hart sneller samentrekken, de ventilatie/ademhaling gaat sneller, de spijsvertering verloopt sneller","2025-10-15T13:38:47.496182+00:00"
+"assistant","Je hebt het begin van het antwoord te pakken!  
+Je zegt dat de hartslag en ademhaling sneller worden—dat klopt. Maar hoe zit het precies met de spijsvertering? Gaat die bij stress echt sneller? Of gebeurt er juist iets anders? Wat denk je dat er gebeurt met de bloedstroom naar organen zoals de darmen/magen tijdens stress?","2025-10-15T13:38:55.177731+00:00"
+"user","Bij stress wordt de spijsvertering juist geremd, omdat er meer bloed naar vitale organen wordt gepompt en dus minder bloed naar de darmen/maag gaat","2025-10-15T13:39:43.859447+00:00"
+"assistant","Precies goed! Tijdens stress veroorzaakt het sympathische zenuwstelsel een snellere hartslag en ademhaling en zorgt ervoor dat de spijsvertering juist afneemt, omdat bloed naar de spieren en het hart wordt geleid.
+
+Andersom, als het parasympathische zenuwstelsel de overhand krijgt, wat gebeurt er dan met hart, ademhaling en spijsvertering? Kun je dat kort uitleggen?","2025-10-15T13:39:56.783347+00:00"
+"user","Hartslag lager, ademhaling trager, snellere spijsvertering. Bloed wordt weer meer verdeeld","2025-10-15T13:40:30.763827+00:00"
+"assistant","Mooi verwoord! Je hebt de hoofdlijnen goed te pakken.
+
+Voordat we doorgaan naar de volgende fase: heb je nog vragen of onduidelijkheden over de functie en werking van het autonome zenuwstelsel of over de sympatische en parasympatische systemen? Zo niet, laat het weten—dan gaan we verder met het toepassen van deze kennis op de klinische casus!","2025-10-15T13:40:39.305787+00:00"
+"user","Geen vragen","2025-10-15T13:40:43.147024+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Goed! Nu gaan we naar Fase 2 – Narrative Construction. Hier passen we de kennis toe op het klinisch vignet:
+
+**VIGNET 1**  
+Een 19-jarige jongen meldt dat hij, terwijl hij op weg ging naar zijn eerste universiteitsexamens, zijn hart voelde bonzen, zijn handpalmen zweterig werden en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Na aankomst in de examenzaal en het gaan zitten, haalde hij een paar keer diep adem. Binnen 10 minuten vertraagde zijn hartslag, normaliseerde zijn ademhaling en kreeg hij aandrang om naar het toilet te gaan.
+
+Kun je nu met de kennis die je net hebt opgefrist, uitleggen waardoor de klachten bij de student ontstaan? Denk aan het autonome zenuwstelsel en leg uit welke symptomen door welk deel worden veroorzaakt.","2025-10-15T13:40:56.72452+00:00"
+"user","De hypofyse gaf een afferent signaal ergens naartoe en er kwam meer cortisol vrij. Hierdoor ging het hart meer bloed naar vitale organen pompen en ging het dus sneller bonzen. Zijn handpalmen werden zweterig doordat zijn lichaam de warmte van dat bloed kwijt moest. Waarom zijn mond droog werd weet ik even niet.","2025-10-15T13:43:59.152532+00:00"
+"assistant","Goed dat je probeert te redeneren! Je haalt nu de hypofyse (en dus hormonen zoals cortisol) erbij, maar denk eraan dat het autonome zenuwstelsel grotendeels apart werkt van het hormonale systeem, zeker op de korte termijn. 
+
+Focus eens op de snelle, directe signalen via het sympathische zenuwstelsel zelf, niet via hormonen uit de hypofyse. Wat gebeurt er bij het activeren van het sympathisch zenuwstelsel—welke neurotransmitter wordt gebruikt, en wat doet dit met bijvoorbeeld hartritme, zweetproductie en speeksel?
+
+Kun je die stap verder invullen? Wat doet het sympathisch zenuwstelsel direct met organen zoals hart, zweetklieren en speekselklieren, en welke neurotransmitters spelen daar een rol in?","2025-10-15T13:44:11.399208+00:00"
+"user","De neurotransmitter acetylcholine?","2025-10-15T13:44:38.350456+00:00"
+"assistant","Dat is een goede gok! Acetylcholine speelt inderdaad een rol in het autonome zenuwstelsel, maar vooral aan de kant van het parasympatische zenuwstelsel. 
+
+Bij de sympatische activatie wordt er meestal een andere neurotransmitter gebruikt bij de organen zelf. Kun je nog eens denken aan welke neurotransmitter daar centraal staat? En wat doet die bijvoorbeeld met het hart, de luchtwegen en de zweetklieren?","2025-10-15T13:44:46.710989+00:00"
+"user","Ik weet het even niet","2025-10-15T13:44:57.95718+00:00"
+"assistant","Geen probleem, het is logisch dat dit even lastig is. Bij het sympathische zenuwstelsel is **noradrenaline (norepinefrine)** de belangrijkste neurotransmitter die bij de meeste organen vrijkomt. Deze stof zorgt ervoor dat het hart sneller gaat kloppen (verhoogde hartslag), de luchtwegen wijder worden en bloedvaten naar de spieren open gaan, terwijl bloedvaten naar de darmen juist nauwer worden. Voor zweetklieren wordt uitzonderlijk wél acetylcholine gebruikt.
+
+Wil je nu proberen om deze kennis toe te passen op het vignet? Kun je de symptomen benoemen die direct te verklaren zijn door de sympathische activatie, en wat er vervolgens gebeurt als de parasympathicus het overneemt?","2025-10-15T13:45:09.584338+00:00"
+"user","Kan je dan ook buikpijn krijgen doordat de bloedvaten nauwer worden?","2025-10-15T13:45:49.979597+00:00"
+"assistant","Dat is een heel interessante vraag! Het nauwer worden van de bloedvaten naar je maag en darmen (door sympathische activatie) zorgt inderdaad voor een verminderde doorbloeding van deze organen. Dit kan klachten geven zoals een misselijk gevoel of een ""steen op de maag""-gevoel.
+
+Denk je dat dat ook direct buikpijn kan veroorzaken, of zijn er andere factoren die kunnen bijdragen aan buikpijn bij stress of spanning? Wat gebeurt er bijvoorbeeld met de activiteit van de darmen zelf onder invloed van het sympathisch en parasympathisch zenuwstelsel?","2025-10-15T13:45:59.594289+00:00"
+"user","De darmactiviteit wordt onderdrukt door het sympathische zenuwstelsel denk ik","2025-10-15T13:47:11.943699+00:00"
+"assistant","Helemaal goed! Het sympathische zenuwstelsel remt inderdaad de darmactiviteit. Hierdoor kan de spijsvertering vertragen en kunnen klachten zoals misselijkheid, een opgeblazen gevoel of een knoop in de maag ontstaan.
+
+Nu je dit weet: kun je nu nog eens alle symptomen van de student in het vignet koppelen aan ofwel het sympathische, ofwel het parasympathische zenuwstelsel? Benoem wat er bij wie hoort, en hoe dat samenhangt met zijn situatie voor en na het examen.","2025-10-15T13:47:20.988584+00:00"

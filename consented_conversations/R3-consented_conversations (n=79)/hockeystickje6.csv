@@ -1,0 +1,75 @@
+"role","content","created_at"
+"user","hoi","2025-10-15T13:17:46.950004+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Hier is de eerste casus:
+
+###VIGNETTE 1###
+Een 19-jarige student vertelt dat hij op weg naar zijn eerste tentamens ineens ervoer dat zijn hart sneller ging kloppen, zijn handpalmen gingen zweten en zijn ademhaling versnelde. Ook voelde hij zich een beetje misselijk en had hij een droge mond. Toen hij in de tentamenzaal zat en een paar keer diep ademhaalde, merkte hij dat zijn hartslag rustiger werd, zijn ademhaling weer normaal werd en hij aandrang voelde om naar het toilet te gaan.
+
+Kun je uitleggen waardoor deze student deze klachten ervaart? Denk hierbij aan welk deel van het autonome zenuwstelsel hierbij betrokken is.","2025-10-15T13:17:58.994187+00:00"
+"user","de eerste symptomen komen door het sympatischwe zenwustelselen , hij had zenuwen voor zijn tentamen en toen hij tot rust kwam toen gingen de klachten voorbij en ontpsande de darmen weer.","2025-10-15T13:19:21.120788+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we even pauzeren en starten met Fase 1 – Kennisactivering. In deze fase bekijken we kort de belangrijkste concepten en mechanismen die bij deze casus horen.
+
+Heb je zelf nog vragen of zijn er punten die je graag eerst wilt verduidelijken voordat we verder gaan?
+
+Zo niet, kun je me dan vertellen wat de twee hoofdonderdelen zijn van het autonome zenuwstelsel, en wat hun functies zijn?","2025-10-15T13:19:30.072281+00:00"
+"user","sympatische en parasympatisch, parasympatisch is voor rust en synpatische voor actie","2025-10-15T13:20:07.693486+00:00"
+"assistant","Mooi! Je noemt inderdaad het sympathisch en het parasympathisch zenuwstelsel. 
+
+Kun je verder toelichten hoe signalen vanuit de hersenen tot bij de organen komen in dit systeem? Heb je enig idee welke boodschapperstoffen (neurotransmitters) deze zenuwen gebruiken om signalen door te geven aan de organen?","2025-10-15T13:20:14.842059+00:00"
+"user","je hebt efferente neuronen en postganglionaire neurotransmitters","2025-10-15T13:20:48.721619+00:00"
+"assistant","Klopt, je noemt efferente neuronen en postganglionaire neurotransmitters. Laten we dit nog iets specifieker maken.
+
+Weet je welke neurotransmitters vooral gebruikt worden door het sympathische en parasympathische systeem aan het eind van hun zenuw? En wat hun effect is op een orgaan, bijvoorbeeld het hart?","2025-10-15T13:20:56.145526+00:00"
+"user","ja acetylchlorine en noradrenaline","2025-10-15T13:22:05.83105+00:00"
+"assistant","Mooi, dat klopt! Acetylcholine wordt meestal gebruikt door het parasympathisch systeem (bijvoorbeeld via de nervus vagus), en noradrenaline door het sympathisch systeem.
+
+Weet je ook via welke receptoren deze stoffen werken op de organen? Kun je bijvoorbeeld benoemen welke receptoren betrokken zijn bij de reactie van het hart op deze systemen?","2025-10-15T13:22:13.267051+00:00"
+"user","metabotrope receptoren","2025-10-15T13:22:39.102796+00:00"
+"assistant","Goed! Inderdaad, het zijn metabotrope receptoren—dus ze werken via tweede boodschappers, niet direct op ionkanalen.
+
+Kun je nog specifieker zijn? Weet je welke namen deze receptoren krijgen voor het hart onder invloed van het sympathische en parasympathische systeem? Denk bijvoorbeeld aan de namen zoals ""muscarinereceptoren"" of ""beta-receptoren"".","2025-10-15T13:22:47.751778+00:00"
+"user","beta 2 adrenerge receptroen","2025-10-15T13:23:07.861184+00:00"
+"assistant","Je noemt de β2-adrenerge receptoren. Dat is een voorbeeld van een adrenerge receptor, maar voor het hart is er nog een andere, eigenlijk belangrijkere adrenerge receptor. Heb je al gehoord van de β1-adrenerge receptor? En weet je ook welke receptoren geactiveerd worden door acetylcholine aan de kant van het parasympathisch systeem?
+
+Kun je proberen deze receptoren te benoemen en te koppelen aan hun belangrijkste acties in het hart?","2025-10-15T13:23:16.85031+00:00"
+"user","b1 receptoren gaat de contractie van het hart omhoog en de hartslag ook","2025-10-15T13:23:54.858168+00:00"
+"assistant","Precies! β1-adrenerge receptoren in het hart zorgen bij stimulatie inderdaad voor een snellere en krachtigere hartslag. Dit gebeurt bij verhoogde sympathische activiteit.
+
+Kun je nu ook benoemen welke receptor (en effect) vooral betrokken is bij het hart vanuit het parasympathisch systeem? (Denk aan de neurotransmitter en de naam van de receptor.)","2025-10-15T13:24:02.102562+00:00"
+"user","noradrenaline","2025-10-15T13:24:27.924333+00:00"
+"assistant","Noradrenaline hoort inderdaad bij het sympathische systeem. Maar bij het parasympathische systeem is er een andere hoofdboodschapper!
+
+Denk nog eens aan welke stof door de nervus vagus wordt afgegeven rond het hart, en op welk type receptor dat werkt. Kun je de naam noemen?","2025-10-15T13:24:34.26001+00:00"
+"user","acetylcholrine","2025-10-15T13:24:43.952252+00:00"
+"assistant","Heel goed! Acetylcholine is inderdaad de neurotransmitter van het parasympathisch systeem.
+
+Weet je ook op welk type receptor deze acetylcholine werkt in het hart, en wat het effect daarvan is? (Denk aan de naam van de receptor en het effect op bijvoorbeeld de hartslag.)","2025-10-15T13:24:51.345077+00:00"
+"user","Muscarinereceptor (M1-M5)","2025-10-15T13:25:14.841232+00:00"
+"assistant","Prima, acetylcholine werkt op muscarinereceptoren in het hart, maar vooral het subtype M2 is hier belangrijk. M2-receptoren vertragen de hartslag bij parasympathische activiteit.
+
+Laatste check: Wat gebeurt er globaal met de organen (zoals hart, darmen, blaas) als het sympathisch systeem actief wordt? En wat gebeurt er als juist het parasympathisch systeem overheerst? Kun je dit kort samenvatten?","2025-10-15T13:25:23.431165+00:00"
+"user","als sympatosch zenuwstelsel actief wordt dan gaat het hart harder werken en juist de darmen en de blaas minder hard werken en bij parasymaptisch is dit juist andersom","2025-10-15T13:26:05.409224+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Goed! Nu gaan we naar Fase 2 – Narrative Construction.
+
+Hier is nogmaals de casus:
+
+###VIGNETTE 1###
+Een 19-jarige student vertelt dat hij op weg naar zijn eerste tentamens ineens ervoer dat zijn hart sneller ging kloppen, zijn handpalmen gingen zweten en zijn ademhaling versnelde. Ook voelde hij zich een beetje misselijk en had hij een droge mond. Toen hij in de tentamenzaal zat en een paar keer diep ademhaalde, merkte hij dat zijn hartslag rustiger werd, zijn ademhaling weer normaal werd en hij aandrang voelde om naar het toilet te gaan.
+
+Kun je nu met de kennis die we net besproken hebben uitleggen welke processen in het autonome zenuwstelsel verantwoordelijk zijn voor deze symptomen? Probeer hierbij zoveel mogelijk details mee te nemen.","2025-10-15T13:26:17.662035+00:00"
+"user","ja als eerste gebruikte hij zijn synmpatische zenwustelsel, wat betekend dat zijn hartslag omhoog gaat, juist de darmen en blaas minder actief worden. als die eenmaal in de tentamenzaal was en rustig zat en ademnhaalde kwam zijn parasymaptische zenuwstelsel erbij. deze zorgde voor een verlaging van de hartslag, weeer juist actievere darmen en blaas etc en daarom moest hij naar de wc.","2025-10-15T13:27:59.807078+00:00"
+"assistant","Mooi uitgelegd. Kun je nog beschrijven welke boodschapperstoffen zorgen voor deze effecten in het hart, en via welke receptoren dit gebeurt? Wat gebeurt er precies tijdens de overgang van spanning naar ontspanning bij deze student?","2025-10-15T13:28:05.477584+00:00"
+"user","van spanning naar ontspanning gaat via noradrenailine naar acetylcholinre","2025-10-15T13:28:41.399574+00:00"
+"assistant","Dat klopt! Er is een overgang van noradrenaline (sympathisch) naar acetylcholine (parasympathisch). 
+
+Kun je uitleggen wat het effect is van noradrenaline op het hart (en via welk type receptor), en daarna wat acetylcholine doet (en via welk type receptor) wanneer de student weer ontspant?","2025-10-15T13:28:48.066425+00:00"
+"user","noradrenaline zorgt ervoor dat de hartslag toeneemt en de contractie , dus via die b1 receptoren en acetyolchlorine zorgt ervoor dst het hart weer ontspant via m2 receptoren","2025-10-15T13:29:59.173392+00:00"
+"assistant","Precies! Je koppelt noradrenaline aan de β1-receptoren voor een sneller en krachtiger hart, en acetylcholine aan de M2-receptoren om het hart rustiger te maken bij ontspanning.
+
+Laatste vraag voordat we doorgaan: Kun je zelf bedenken waarom de student na ontspanning juist aandrang voelt om te plassen? Wat gebeurt er dan met de blaas door het parasympathisch systeem?","2025-10-15T13:30:06.442405+00:00"

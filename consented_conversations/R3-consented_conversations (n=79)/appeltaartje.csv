@@ -1,0 +1,36 @@
+"role","content","created_at"
+"user","Ik ben klaar om te beginnen","2025-10-15T13:19:58.56199+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Hier is de casus:
+
+Een 19-jarige jongen meldt dat hij tijdens zijn eerste universitaire tentamens begon te voelen dat zijn hart sneller sloeg, zijn handpalmen werden klam en hij merkte dat zijn ademhaling versnelde. Hij voelde zich ook wat misselijk en had een droge mond. Nadat hij in de examenzaal was gaan zitten en een paar keer diep adem had gehaald, werd zijn hartslag weer langzamer, zijn ademhaling genormaliseerd en voelde hij drang om naar het toilet te gaan.
+
+Kun je uitleggen welke symptomen de student ervaart? Denk na over het deel van het autonome zenuwstelsel dat hiervoor verantwoordelijk is.","2025-10-15T13:20:09.421345+00:00"
+"user","De student had last van het sympatische zenuwstelsel die hem voorbereidde op 'fight or flight', toen die tot rust kwam werd het parasympatische zenuwstelsel geactiveerd waardoor het verteringsstelsel op gang kwam en hij naar het toilet moest","2025-10-15T13:23:40.108632+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed gedaan! Laten we even pauzeren en starten met Fase 1 – Kennisactivatie. In deze fase lopen we kort door de belangrijkste concepten en mechanismen die bij deze casus horen. Zijn er punten of vragen die je eerst wilt bespreken voordat we samen de basiskennis verkennen?
+
+Als je niets specifieks hebt, kunnen we verder gaan met deze vraag:  
+Weet je wat de twee hoofdonderdelen zijn van het autonome zenuwstelsel, en wat elk onderdeel doet?","2025-10-15T13:23:49.822279+00:00"
+"user","Parasympatisch; rest and digest
+Sympathisch; fight or flight","2025-10-15T13:24:45.323475+00:00"
+"assistant","Mooi! Je kent de namen en hun functies.
+
+Een vervolgvraag:  
+Hoe reist er een signaal vanuit de hersenen naar een doelorgaan in het autonome zenuwstelsel? Kun je beschrijven wat de route is, bijvoorbeeld van het hart of een klier?","2025-10-15T13:24:52.610856+00:00"
+"user","Dat hangt af of het een sympathisch of parasympatisch respons is","2025-10-15T13:25:24.396121+00:00"
+"assistant","Dat klopt, dat maakt verschil. Kun je het proces voor één van beide systemen (bijvoorbeeld het sympathische systeem) iets verder toelichten?  
+
+Welke stappen of zenuwbanen worden gebruikt, en weet je welke boodschapperstoffen erbij betrokken zijn? Probeer het eens in je eigen woorden.","2025-10-15T13:25:30.975556+00:00"
+"user","Sympathisch; er komt een prikkel vanuit het ruggenmerg, dat gaat het ruggenmerg uit via craniaalsacrale zenuwen door lichtgemyeliniseerde preganglionaire axonen, dan wordt er in het ganglion acetylcholine afgegeven en wordt de prikkel verder gestuurd via ongemyeliniseerde postganglionaire axonen naar het doelwitorgaan","2025-10-15T13:28:20.646224+00:00"
+"assistant","Je zit heel dichtbij, maar er zijn een paar details die aangescherpt kunnen worden. Wil je proberen na te denken:  
+- Waar in het ruggenmerg ontspringen sympathische zenuwen precies (is dit craniaalsacraal of thoracolumbaal)?
+- En welke neurotransmitter wordt meestal afgegeven door de postganglionaire zenuwuiteinden in het sympathisch systeem bij de meeste organen?  
+
+Denk eraan: wat gebeurt er precies in de ganglia en op het uiteinde van de zenuw bij het doelorgaan?","2025-10-15T13:28:29.964419+00:00"
+"user","Ik meende dat de sympatische zenuwen craniaalsacraal ontsprongen maar ik denk nu toch thoracolumbaal en sympathisch wordt er NA afgegeven aan het doelwitorgaan","2025-10-15T13:29:41.338591+00:00"
+"assistant","Goed bijgesteld! Dat klopt: de sympathische zenuwen ontspringen thoracolumbaal in het ruggenmerg, en op het doelorgaan geven de postganglionaire vezels meestal noradrenaline (NA) af.
+
+Wil je nu hetzelfde proces voor het parasympathische zenuwstelsel in je eigen woorden beschrijven? Denk aan waar deze zenuwen ontspringen, via welke route ze lopen, en welke neurotransmitter aan het doelorgaan wordt afgegeven.","2025-10-15T13:29:51.134201+00:00"

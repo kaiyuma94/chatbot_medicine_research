@@ -1,0 +1,149 @@
+"role","content","created_at"
+"user","hoi","2025-10-15T13:11:59.353074+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Welkom! Laten we beginnen met het volgende:
+
+###VIGNETTE 1###
+Een 19-jarige jongen geeft aan dat hij, onderweg naar zijn eerste universitaire tentamens, zijn hart voelde bonzen, dat zijn handpalmen zweterig werden en dat zijn ademhaling versneld was. Hij voelde zich ook een beetje misselijk en had een droge mond. Toen hij eenmaal in de examenzaal zat en een paar keer diep ademhaalde, merkte hij dat zijn hartslag langzamer werd, zijn ademhaling normaler werd en dat hij aandrang kreeg om naar het toilet te gaan.
+
+Mijn eerste vraag:  
+Kun je uitleggen waardoor deze symptomen bij de student ontstaan? Denk aan welk deel van het autonoom zenuwstelsel hiervoor verantwoordelijk is.","2025-10-15T13:12:11.258107+00:00"
+"user","er kan bijvoorbeeld teveel insuline zijn","2025-10-15T13:13:22.644284+00:00"
+"assistant","Interessante gedachte! Je brengt een andere oorzaak naar voren, namelijk een te hoge insuline (bijvoorbeeld door hypoglykemie). Maar kijk nog eens goed naar de situatie: de student is onderweg naar een spannend tentamen en merkt vooral versnelde hartslag, zweten, droge mond, en pas daarna — als hij zich ontspant — veranderingen als normale ademhaling en de aandrang om te plassen.
+
+Heb je hierbij nagedacht aan wat het autonoom zenuwstelsel doet in stressvolle situaties? Welk deel van het zenuwstelsel zou zulke acute lichamelijke reacties veroorzaken bij spanning of zenuwen? Wat gebeurt er normaal gezien met je hartslag, ademhaling en spijsvertering als je gespannen bent?","2025-10-15T13:13:33.653621+00:00"
+"user","stress kan hartslag en ademhaling verhogen","2025-10-15T13:14:13.558253+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed, je vertelt dat stress hartslag en ademhaling kan verhogen. Laten we dat samen verder uitwerken voordat we dieper op het verhaal ingaan.
+
+Laten we even de basis herhalen:  
+Wat weet je over de twee hoofdonderdelen van het autonoom zenuwstelsel en wat ze ieder doen? Bijvoorbeeld: wat is het verschil tussen het sympathisch en het parasympathisch zenuwstelsel?","2025-10-15T13:14:21.877069+00:00"
+"user","sympathisch en parapsympathisch hebben beide invloed op veel van de organen (eentje heeft geen invloed op nieren, bleodvaten en nog iets)Verder wee tik het neit","2025-10-15T13:15:07.287008+00:00"
+"assistant","Prima! Je weet dat het sympathisch en parasympathisch zenuwstelsel beide veel organen beïnvloeden, maar er zijn uitzonderingen zoals je noemt. Laten we daar kort bij stilstaan:
+
+Het sympathisch zenuwstelsel wordt vooral actief bij stress of gevaar (“fight or flight”). Het parasympathisch zenuwstelsel is juist actief als het lichaam tot rust komt (“rest and digest”).
+
+Kun je benoemen wat er gebeurt met het hart, de luchtwegen en het spijsverteringsstelsel wanneer het sympathisch zenuwstelsel actief wordt? Wat voor signaalstoffen gebruikt het sympathisch zenuwstelsel om die effecten te bereiken?","2025-10-15T13:15:18.078976+00:00"
+"user","acetylchloronide en Adrenaline?","2025-10-15T13:15:41.3585+00:00"
+"assistant","Dat is een goede poging! Je noemt alvast acetylcholine en adrenaline. Even ter verduidelijking:
+
+- Het sympathisch zenuwstelsel gebruikt vooral noradrenaline (norepinefrine) als neurotransmitter bij de organen, en in sommige gevallen adrenaline (afkomstig uit het bijniermerg).
+- Het parasympathisch zenuwstelsel gebruikt acetylcholine als belangrijkste neurotransmitter bij de eindorgaantjes.
+
+Weet je nog wat deze stoffen precies doen bij het hart en de luchtwegen als het sympathisch zenuwstelsel actief wordt? Kun je beschrijven welk effect noradrenaline en adrenaline hebben op die organen?","2025-10-15T13:15:51.876061+00:00"
+"user","vernauwing","2025-10-15T13:16:19.246054+00:00"
+"assistant","Interessant antwoord! Je noemt “vernauwing”. Dat geldt inderdaad voor sommige organen, maar laten we het stap voor stap bekijken:
+
+Wat gebeurt er specifiek met het hart (denk aan hartslag en kracht) en met de luchtwegen (denk aan bronchoconstrictie of bronchodilatatie) als adrenaline en noradrenaline via het sympathisch zenuwstelsel werkzaam zijn? Kun je voor elk van deze organen de sympathische reactie kort omschrijven?","2025-10-15T13:16:27.450638+00:00"
+"user","hartslag neemt toe, luchtwegen geen idee? Ik kan het neit omschrijven","2025-10-15T13:16:53.807036+00:00"
+"assistant","Dat is prima, je weet al dat de hartslag toeneemt bij activatie van het sympathisch zenuwstelsel. Kijk even naar de luchtwegen: het doel van de ""fight or flight""-reactie is het lichaam klaar te maken voor actie.
+
+Wat zou er handiger zijn als je snel moet reageren: wijdere luchtwegen of nauwere luchtwegen? Waarom denk je dat?","2025-10-15T13:17:00.781987+00:00"
+"user","wijdere luchtwegen, meer zuurstofis goed voor intense situaties","2025-10-15T13:17:15.530362+00:00"
+"assistant","Precies! Wijdere luchtwegen zorgen ervoor dat er meer zuurstof binnenkomt, wat essentieel is in stressvolle situaties waarbij het lichaam snel moet kunnen reageren.
+
+Nog kort: kun je nu samenvatten wat het sympathisch zenuwstelsel doet met het hart en de longen, en welke neurotransmitters hierbij belangrijk zijn? Daarna gaan we door naar de volgende fase.","2025-10-15T13:17:22.914772+00:00"
+"user","symphatisch zenuwstel (verantwoordelijk voor flight or fight) gebruik Noradrenaline om luchtwegen te verwijden en hartslag toe te laten nemen om meer zuurstof door het lichaam te geven ter voorbereiding","2025-10-15T13:18:28.476719+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Mooi, je hebt de hoofdlijn van het sympathisch zenuwstelsel goed beschreven! 
+
+Hier is nog een keer de casus:
+
+###VIGNETTE 1###
+Een 19-jarige jongen geeft aan dat hij, onderweg naar zijn eerste universitaire tentamens, zijn hart voelde bonzen, dat zijn handpalmen zweterig werden en dat zijn ademhaling versneld was. Hij voelde zich ook een beetje misselijk en had een droge mond. Toen hij eenmaal in de examenzaal zat en een paar keer diep ademhaalde, merkte hij dat zijn hartslag langzamer werd, zijn ademhaling normaler werd en dat hij aandrang kreeg om naar het toilet te gaan.
+
+De vraag:  
+Kun je nu met de kennis die je zojuist hebt opgehaald uitleggen waardoor de symptomen bij de student ontstaan zijn? Denk bij je uitleg aan welk deel van het autonoom zenuwstelsel actief is, en waarom die lichamelijke reacties optreden. Probeer zo volledig mogelijk te zijn.","2025-10-15T13:18:45.795639+00:00"
+"user","waarschijnlijk is zijn sympathische zenuwstelsel actief, waardoor hij in een fight ro flight stand staat
+Verwijde luchtwegen, versnelde hartritme alles is actief en dat heeft een tol op hem
+Maar toen hij eenmaal zat was zijn rest en digest zenuwstelsel gaande wat alles rustig op zich af liet komen","2025-10-15T13:20:21.945171+00:00"
+"assistant","Dat is een duidelijke samenvatting! Je koppelt de symptomen aan de overgang van een actieve sympathische naar een parasympathische toestand.
+
+Laten we het nog iets verder uitbreiden:
+- Kun je voor jezelf nog specifieker uitleggen hoe het sympathisch zenuwstelsel de droge mond, het zweten en de aandrang tot plassen beïnvloedt tijdens en na de stressvolle situatie? Wat gebeurt er met deze functies wanneer het parasympathisch stelsel weer de overhand krijgt?","2025-10-15T13:20:31.067644+00:00"
+"user","ik weet het niet, er gebeurd blijkbaar iets met de watergehalte in fight or lfight, aangezien water ipv. bij zijn mond bij zijn zweetklieren naar buiten gaat
+en bij parasympathisch moet hij naar de wc
+geen idee waarom of hoe","2025-10-15T13:21:38.087434+00:00"
+"assistant","Mooi dat je het probeert te beredeneren! Ik help je op weg:  
+
+Tijdens stress (=sympathisch actief) vermindert de speekselproductie, waardoor je een droge mond krijgt. Ook worden de zweetklieren gestimuleerd door het sympathisch zenuwstelsel, vandaar het zweten. Je spijsvertering en blaasfunctie worden juist geremd, dus je hoeft minder snel naar het toilet.
+
+Zodra het parasympathisch zenuwstelsel overheerst (“rest and digest”), worden spijsvertering en blaasactiviteit juist gestimuleerd: daarom krijg je aandrang om te plassen zodra je ontspant.
+
+Is dat zo duidelijker? Kun je nu vanuit deze kennis de overgang van symptomen bij deze student verklaren in termen van de balans tussen sympathisch en parasympathisch? Probeer de belangrijkste veranderingen nog eens aan elkaar te koppelen.","2025-10-15T13:21:54.26457+00:00"
+"user","Ja
+Eerst is het sympathische gedeelte actief (´fight or flight´)
+Zijn hartslag en ademhaling neemt toe voor extra zuurstof, de speekselaanmaak is geremd en de zweetklieren worden gestimuleerd en spijsvertering en blaasactiviteit wordeng eremd
+Toen hij eenmaal rustig zat en ademhaalde werd de parasympathische gedeelte actief (´rest en digest´)
+Zijn ademhaling werd rustiger en zijn spijsvertering en blaasactiviteit worden gestimuleerd","2025-10-15T13:24:49.408168+00:00"
+"assistant","Goed uitgelegd! Je koppelt de symptomen nu direct aan de juiste delen van het autonoom zenuwstelsel en beschrijft wat er gebeurt als het lichaam overschakelt van stress naar ontspanning.
+
+Hierbij de afsluitende vraag van deze fase:
+
+###VIGNETTE 1###
+Een 19-jarige jongen geeft aan dat hij, onderweg naar zijn eerste universitaire tentamens, zijn hart voelde bonzen, dat zijn handpalmen zweterig werden en dat zijn ademhaling versneld was. Hij voelde zich ook een beetje misselijk en had een droge mond. Toen hij eenmaal in de examenzaal zat en een paar keer diep ademhaalde, merkte hij dat zijn hartslag langzamer werd, zijn ademhaling normaler werd en dat hij aandrang kreeg om naar het toilet te gaan.
+
+###ASSESSMENT QUESTION###
+Hoe begrijp je nu de symptomen in deze casus? Schrijf zo volledig mogelijk op wat er gebeurt, je redenering en alle verbanden die je kunt leggen. Hoe meer details je opschrijft, hoe beter je deze stof beheerst en in toekomstige casuïstiek kunt toepassen!","2025-10-15T13:25:05.24431+00:00"
+"user","Eerst is het sympathische gedeelte actief (´fight or flight´)
+Zijn hartslag en ademhaling neemt toe voor extra zuurstof, de speekselaanmaak is geremd en de zweetklieren worden gestimuleerd en spijsvertering en blaasactiviteit wordeng eremd
+Toen hij eenmaal rustig zat en ademhaalde werd de parasympathische gedeelte actief (´rest en digest´)
+Zijn ademhaling werd rustiger en zijn spijsvertering en blaasactiviteit worden gestimuleerd","2025-10-15T13:25:13.474363+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Prima uitleg! We gaan door naar een nieuwe situatie waar je deze kennis kunt toepassen.
+
+###VIGNETTE 2###
+Een 76-jarige man staat in de rij bij de apotheek op een warme middag. Na enkele minuten voelt hij zich licht in het hoofd, misselijk en zweterig. Hij krijgt een “tunnelvisie” en valt uiteindelijk flauw. Omstanders helpen hem op de grond, en na een paar minuten bijgekomen te zijn, voelt hij zich zwak maar alert. Zijn hartslag en bloeddruk zijn laag. Na een paar minuten is hij volledig hersteld.
+
+Kun je uitleggen waardoor deze symptomen bij deze man ontstaan? Denk opnieuw na over de rol van het autonoom zenuwstelsel en wat er gebeurt tijdens en na het flauwvallen.","2025-10-15T13:25:25.321853+00:00"
+"user","fluawvallen kan een symptoon izjn van te weinig zuurstof of water
+dus het kan zijn dat er te veel energie werd gebruikt door hem doordat hij stond in de hitte (sympathisch)
+Toen viel hij flauw wat zijn lichaam een kans gaf om bij te komen (parasympathisch) vandaar dat zijn bloeddruk en hartslag laag zijn","2025-10-15T13:27:03.617914+00:00"
+"assistant","Je redenering laat al goed zien dat je naar de balans kijkt tussen zuurstof, circulatie, en het autonome zenuwstelsel. Wil je dit nog wat verder uitwerken?
+
+Wat gebeurt er vlak vóór het flauwvallen in het autonome zenuwstelsel dat maakt dat hij duizelig wordt, gaat zweten en lage bloeddruk krijgt? Denk bijvoorbeeld:  
+- Neemt juist het sympathisch of het parasympathisch zenuwstelsel tijdelijk sterk toe?
+- Welke concrete effecten heeft dat op bloedvaten en het hart?
+
+Kun je deze specifieke stap van het flauwvallen via het autonoom zenuwstelsel proberen te beschrijven?","2025-10-15T13:27:16.555671+00:00"
+"user","nee, geen idee
+Ik zou denken dat dit een fight or flight situatie is (sympathsich)","2025-10-15T13:28:22.419214+00:00"
+"assistant","Mooie poging! Het lijkt inderdaad vaak op een stressreactie, maar bij flauwvallen zoals in deze situatie (vaak ""vasovagale syncope"" genoemd), gebeurt er juist iets anders:
+
+Bij het flauwvallen neemt opeens het parasympathisch zenuwstelsel heel sterk toe, en daalt de sympathische activiteit. Dit leidt tot een plotselinge verlaging van hartslag (bradycardie) en verwijding van de bloedvaten (vasodilatatie). Daardoor daalt de bloeddruk snel, en krijgt de hersenen te weinig bloed — met als gevolg dat je duizelig wordt en “tunnelvisie” krijgt en uiteindelijk het bewustzijn verliest.
+
+Kun je nu – in je eigen woorden – uitleggen waarom het herstel optreedt zodra de man plat neergelegd wordt? Wat verandert er in het bloed en het autonoom zenuwstelsel?","2025-10-15T13:28:34.84439+00:00"
+"user","doordat hij ligt kan meer bloed makkelijker naar zijn brein, er wordt minder energie gebruikt door zijn spieren, het parasymptahische is dan genoeg om het leven gewoon in stand te houden","2025-10-15T13:29:33.859126+00:00"
+"assistant","Dat is een goed begin! Je noemt dat het bloed nu makkelijker naar de hersenen kan, waardoor hij bij bewustzijn komt. Wil je daar één stap verder over nadenken:
+
+Wat gebeurt er met het autonoom zenuwstelsel zodra de bloedtoevoer naar de hersenen weer normaal wordt—blijft het parasympathisch zenuwstelsel overheersen, of wordt het sympathisch zenuwstelsel juist weer actiever? En hoe helpt dat zijn bloeddruk en hartslag te herstellen?","2025-10-15T13:29:42.31997+00:00"
+"user","waardoor nam in een keer de parasympathische gedeelte überhaupt toe in deze casus waardoor hij flauwviel?","2025-10-15T13:30:15.681163+00:00"
+"assistant","Goede, kritische vraag! In dit soort situaties wordt het parasympathisch zenuwstelsel opeens sterk geactiveerd door een reflex. 
+
+Stel je voor: de man staat lang stil op een warme dag. Hierdoor zakt er relatief veel bloed naar de benen en voeten. Zenuwsensoren in het hart en de bloedvaten signaleren dit, en soms — bijvoorbeeld door hitte, uitputting, pijn of emotie — geven lichaamssensoren plots een sterk signaal naar de hersenstam. Die reageert soms overdreven met een “vasovagale reflex”:  
+- De nervus vagus (van het parasympathisch zenuwstelsel) wordt extra geactiveerd.
+- Hierdoor daalt de hartslag ineens sterk, en worden de bloedvaten wijder (lage bloeddruk).
+- Het bloed bereikt de hersenen niet genoeg, en flauwvallen volgt.
+
+Weet je nu waarom die stapeling van omgevingsfactoren (warmte, lang staan, enz.) tot die heftige parasympathische reactie kunnen leiden? Kun je dat verband kort samenvatten?","2025-10-15T13:30:34.176302+00:00"
+"user","het is dus een soort van mini coma idee
+Van alles op parasympathisch zodat al het energie gaat naar herstel ipv staande houden?","2025-10-15T13:31:25.278173+00:00"
+"assistant","Dat is een interessante vergelijking! Het lijkt inderdaad op een soort ""reset"" waarbij het lichaam automatisch zorgt dat er geen energie meer naar het staande houden gaat, maar alle reserves richt op herstel van de doorbloeding van de hersenen. Maar let op: het doel van deze reflex is niet zozeer herstel, maar bescherming.
+
+Samengevat:  
+Bij vasovagale syncope geven sensoren een signaal waardoor plots het parasympathisch zenuwstelsel overheerst. Dit leidt tot lage hartslag en verwijding van de bloedvaten, waardoor het bloeddruk zakt en je flauwvalt. Door te gaan liggen, kan het bloed makkelijker naar de hersenen terugstromen, waardoor de hersenen weer voldoende zuurstof krijgen. Daarna neemt het sympathisch zenuwstelsel weer toe en normaliseren je hartslag en bloeddruk geleidelijk.
+
+Laatste check: Kun je de grootste verschillen (en overeenkomsten) noemen tussen het autonome zenuwstelsel in de examencasus (de student) en deze syncopecasus (de oudere man)?","2025-10-15T13:31:40.016388+00:00"
+"user","het tegenovergestelde gebeurt bij he tbegin
+bij de 19jarige is het probleem bij het begin dat de sympathische gedeelte over actief is, terwijl bij de oude man juist de parasympathische over actief is
+hierdoor is bij de jonge verhoogde hartslag, ademhaling en meer. Terwijl bij de man lage bloeddruk is. 
+Bij de jonge word dit herstel door te zitten door meer parasympathische gedeelte actief te maken, en bij de oude man door de sympathische gedeelte meer actief te laten worden (of eerst liggen, meer zuurstof/bloed naar de brein, en als resultaat daarvan wordt de sympathische gedeelte actief)","2025-10-15T13:34:14.566168+00:00"
+"assistant","Mooie en volledige samenvatting! Je benoemt duidelijk het verschil in welk deel van het autonoom zenuwstelsel op welk moment overheerst, én hoe het lichaam daarna herstelt.
+
+Goed gedaan! Daarmee heb je laten zien dat je de werking van het autonoom zenuwstelsel kan herkennen en verklaren bij twee heel verschillende situaties. Wil je hier nog ergens op doorvragen of heb je behoefte aan verdere uitleg over een van de onderdelen? Zo niet, dan is deze sessie afgerond.","2025-10-15T13:34:23.184232+00:00"
+"user","duidelijk, dank","2025-10-15T13:34:28.169078+00:00"
+"assistant","Graag gedaan! Fijn dat het nu duidelijk is. Succes met verder studeren — je mag altijd terugkomen met vragen!","2025-10-15T13:34:33.214162+00:00"
