@@ -1,0 +1,65 @@
+role,content,created_at
+user,Ik ben klaar om te beginnen,2025-09-17T16:11:13.478103+00:00
+assistant,"Laten we beginnen! Hier is de casus om het onderwerp te kaderen:
+
+### VIGNETTE ###
+Een gezonde 25-jarige vrouw had routine prenatale zorg. Bij een echo op 24 weken werd een kleine opening (~5 mm) aan de rechterkant van de buik van de baby, nabij de navelstreng, gezien. Genetische tests (vruchtwaterpunctie) bij 26 weken waren normaal. In de loop van de tijd werd de opening groter (tot 34 mm), en delen van de darmen van de baby werden zwevend in het vruchtwater waargenomen. De baby groeide ook minder goed dan verwacht. Bij 37 weken werd een keizersnede uitgevoerd. De pasgeboren jongen had delen van zijn dunne en dikke darm, en de maag, buiten de buikholte liggen. Het steunweefsel was kort en de darmen oogden gezwollen. De diagnose was gastroschisis, een buikwanddefect.
+
+We beginnen met een basale kennisvraag:
+
+Wat is gastrulatie?",2025-09-17T16:11:28.78789+00:00
+user,Gastrulatie is een fase van de embryonale ontwikkeling waar de blastula wordt omgevormd naar de gastrula,2025-09-17T16:14:51.406079+00:00
+assistant,"Goed zo! Je benoemt correct dat gastrulatie een vroege fase is waarin het embryo transformeert van een blastula naar een gastrula.
+
+Kun je beschrijven welke drie kiemlagen gevormd worden tijdens de gastrulatie, en wat hun namen zijn?",2025-09-17T16:14:57.218647+00:00
+user,"Het endoderm, het mesoderm en het ectoderm",2025-09-17T16:15:07.923367+00:00
+assistant,"Precies! De drie kiemlagen zijn het endoderm, mesoderm en ectoderm.
+
+Laten we verder gaan: Kun je uitleggen wat wordt bedoeld met âembryonale plooingâ (embryonic folding)?",2025-09-17T16:15:26.419262+00:00
+user,"Met embryonale plooing wordt bedoeld dat een foetus vanaf een kleine cel zich langzaam ontvouwt tot een ware baby. Hierbij ontvouwen zich verschillende lagen, zoals bijvoorbeeld de neurale buis of de dooierzak.",2025-09-17T16:16:25.816485+00:00
+assistant,"Je hebt het al over âontvouwenâ en over verschillende structuren zoals de neurale buis en de dooierzak. Bij embryonale plooing bedoelen we eigenlijk het proces waarbij het platte, schijfvormige embryo op twee manieren gaat âomvouwenâ: in de lengte (craniaal-caudale plooiing) en in de breedte (laterale plooiing).
+
+Kun je met deze aanwijzing nog eens proberen te beschrijven wat er met het embryo gebeurt tijdens embryonale plooing? Wat verandert er in de vorm of oriÃ«ntatie?",2025-09-17T16:16:35.463945+00:00
+user,"Tijdens de embryonale plooing, veranderen er verschillende lagen van het embryo. Zo ontvouw het zich transversaal dus om het embryo heen, maar ook lateraal.",2025-09-17T16:18:03.039667+00:00
+assistant,"Je zit in de goede richting! Je noemt zowel transversaal als lateraal, maar die betekenen eigenlijk hetzelfde in deze context. 
+
+Om je te helpen: embryonale plooing bestaat uit een *craniaal-caudale* (kop-staart) plooing en een *laterale* (zijwaartse) plooing. Door deze bewegingen wordt het platte embryo een buisvormige structuur, waardoor de buikholte en borstholte ontstaan en organen op hun plek komen.
+
+Kun je nu uitleggen waarom deze plooing belangrijk is voor de positie van de organen? Wat gebeurt er met bijvoorbeeld de dooierzak of de darm tijdens deze plooiingsprocessen?",2025-09-17T16:18:15.134721+00:00
+user,"De plooing is belangrijk voor de positie van de organen, omdat het ervoor zorgt dat alles op de goede plek terecht komt. De dooierzak gaat bijvoorbeeld naar onderen toe en de oerdarm ontwikkelt zich uiteindelijk tot de normale darm.",2025-09-17T16:19:41.72453+00:00
+assistant,"Heel goed! Je beschrijft dat door de plooing organen op de juiste plek komen, en dat de dooierzak en oerdarm een nieuwe positie krijgen. Inderdaad, door het proces van plooiing komt een deel van de dooierzak in het embryo terecht en vormt zo de oerdarm, wat later het maag-darmkanaal zal worden.
+
+Laten we nog een basisbegrip behandelen:
+
+Wat zijn de vier hoofdsubdivisies van het mesoderm, en kun je ze bij naam noemen?",2025-09-17T16:19:53.337244+00:00
+user,"Paraxiaal, lateraal, splanchisch en intermediair",2025-09-17T16:21:09.548071+00:00
+assistant,"Je noemt al een aantal belangrijke. Het paraxiaal, lateraal en intermediair mesoderm zijn juist, maar âsplanchischâ is niet Ã©Ã©n van de hoofdsubdivisies; dat is een deel van het laterale plaatmesoderm.
+
+Kun je nagaan welke vier hoofddelen van het mesoderm we onderscheiden als je denkt aan hun ligging ten opzichte van de chorda (de centrale as van het embryo)? Wat weet je over het âaxiaalâ mesoderm?",2025-09-17T16:21:23.479654+00:00
+user,"Dus je hebt paraxiaal mesoderm, lateraal mesoderm, intermediair mesoderm en axiaal mesoderm. Het axiaal mesoderm vormt het notochord",2025-09-17T16:22:24.387655+00:00
+assistant,"Heel goed! Je hebt ze nu allemaal correct: het axiaal mesoderm (chorda/notochord), paraxiaal mesoderm, intermediair mesoderm, en lateraal plaatmesoderm (dat later splitst in splanchnisch en somatisch mesoderm).
+
+De laatste terminologie-vraag voor nu:
+
+Wat betekenen de termen caudaal, craniaal, ventraal en dorsaal bij de beschrijving van het embryo?",2025-09-17T16:22:32.203281+00:00
+user,"Dorsaal betekent aan de kant van de rug, ventraal betekent aan de kant van de buik, craniaal betekent dichtbij het schedel en caudaal betekent dichtbij de staart",2025-09-17T16:23:08.953671+00:00
+assistant,"Perfect uitgelegd! Je kent nu de basisbegrippen van de oriÃ«ntatie in het embryo goed.
+
+Laten we een stap verder gaan. Kun je uitleggen wat er tijdens gastrulatie met de cellen gebeurt zodat de drie kiemlagen ontstaan? Wat zijn de belangrijke stappen die deze transformatie mogelijk maken?",2025-09-17T16:23:16.409159+00:00
+assistant,"**OVERALL SUMMARY**  
+Goed gewerkt! Je laat zien dat je de basisbegrippen van de embryologie kent en je bent niet bang om door te denken wanneer een vraag moeilijker wordt. Je inzet en actieve deelname vallen positief op.
+
+**WHAT YOU DID WELL**
+- **Strong Grasp of:** Je herkent de drie kiemlagen (endoderm, mesoderm, ectoderm) en de termen die worden gebruikt voor oriÃ«ntatie van het embryo (craniaal, caudaal, dorsaal, ventraal). Ook benoemde je correct de subindelingen van het mesoderm en de kern van gastrulatie.
+- **Good Application of:** Je kon uitleggen waarom embryonale plooing belangrijk is en gaf aan wat er verandert in de positie van de dooierzak en de oerdarm. Je bleef proberen uitleg te geven, ondanks sturende feedback.
+
+**AREAS FOR GROWTH & FOCUS**
+- **Connecting the Dots:** Bij het uitleggen van complexe processen, zoals embryonale plooing, was je uitleg nog wat algemeen en soms verwarrend in de terminologie (bijvoorbeeld âtransversaal vs. lateraalâ). Ook miste soms de details over het verloop van processen. Dit is begrijpelijk: veel studenten vinden procesbeschrijvingen lastig.
+- **Reviewing Key Terms:** De subdivisies van het mesoderm waren niet allemaal direct paraat, en splanchnisch/somatisch werden door elkaar gehaald. Dat is een veelvoorkomende verwarring.
+
+**ACTIONABLE STUDY RECOMMENDATIONS**  
+Jouw grootste winst zit in het verder oefenen met het uitleggen van processen. 
+
+- **Tip:** Maak een schematische tekening of conceptmap van embryonale plooiing en het ontstaan van de kiemlagen (denk aan: wat is de startpositie, welke vouwen zijn er, welke structuren ontstaan waarbij?). Probeer daar stap voor stap bij te beschrijven wat er gebeurt in elke laag. Hang deze tekening ergens waar je vaak kijkt, zodat je de onderlinge verbanden en volgorde intuÃ¯tief leert herkennen.
+
+Goed bezig! Je leert zichtbaar door te doen. Blijf vragen stellen en processtappen tekenen/uitspreken: zo maak je de sprong van âwetenâ naar âbegrijpenâ.",2025-09-17T16:26:23.64+00:00
