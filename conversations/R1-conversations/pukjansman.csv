@@ -1,0 +1,74 @@
+role,content,created_at
+user,hoi,2025-09-17T13:23:59.422414+00:00
+assistant,"Hallo! We gaan samen leren over de embryonale ontwikkeling, vooral over de eerste acht weken van de zwangerschap.  
+
+Hier is een casus om het onderwerp te kaderen:
+
+**VIGNETTE**  
+Een gezonde 25-jarige vrouw heeft een routine zwangerschapscontrole. Tijdens een echo bij 24 weken wordt een opening rechts van de navel van de baby gezien, waar delen van de darm buiten het lijfje uitpuilen. Uiteindelijk wordt de baby geboren met een deel van de ingewanden buiten de buik: dit heet gastroschisis.
+
+Laten we starten met een basisvraag:
+
+Wat is gastrulatie?",2025-09-17T13:24:10.184271+00:00
+user,Gastrulatie is het process waarbij de neurale buis sluit doordat de neurale platen naar elkaar toe buigen en in het midden de notochord aanwezig is,2025-09-17T13:25:20.04575+00:00
+assistant,"Dat is een goed begin, maar laten we even nagaan wat gastrulatie precies betekent. Je beschrijft nu vooral de vorming van de neurale buis (neurulatie). Gastrulatie is eigenlijk een eerdere stap in de ontwikkeling.
+
+Denk eens terug aan de vroege embryonale stadia:  
+Wat gebeurt er tijdens gastrulatie met betrekking tot de kiemlagen? Welke lagen ontstaan hierdoor?",2025-09-17T13:25:27.846023+00:00
+user,"Er onstaat een ectoderm, mesoderm en endoderm. Ze onstaan uit 2 lagen hypoblast en endoblast",2025-09-17T13:26:34.942437+00:00
+assistant,"Goed, je hebt juist dat er tijdens gastrulatie drie kiemlagen ontstaan: ectoderm, mesoderm en endoderm. Maar laten we nog even beter kijken naar de details:
+
+Je noemt nu ""hypoblast en endoblast"" als de twee oorspronkelijke lagen. Kun je herinneren hoe de kiemschijf hiervoor is opgebouwd, en vanuit welke laag (epiblast of hypoblast) eigenlijk deze drie kiemlagen ontstaan?  
+Stel jezelf de vraag: uit welke laag migreren de cellen tijdens gastrulatie?",2025-09-17T13:26:43.981892+00:00
+user,Het onstaat uit de epiblast als het goed is,2025-09-17T13:27:08.076714+00:00
+assistant,"Precies, heel goed! De drie kiemlagen (ectoderm, mesoderm, en endoderm) ontstaan allemaal uit de epiblast tijdens gastrulatie. 
+
+Laten we doorgaan met een volgende basisvraag:  
+Kun je de drie kiemlagen (ectoderm, mesoderm, endoderm) kort benoemen op basis van hun positie ten opzichte van elkaar in het embryo?",2025-09-17T13:27:20.758376+00:00
+user,"Ectoderm is de buitenste laag en vormt de huid, mesoderm de middelste laag en de endoderm de binneste laag",2025-09-17T13:28:27.234728+00:00
+assistant,"Dat klopt! Goed geantwoord:  
+- Ectoderm = buitenste laag  
+- Mesoderm = middelste laag  
+- Endoderm = binnenste/binnenlaag  
+
+Om nog verder te gaan met de basis: Hoe heet het proces waarin het embryo een buisvorm krijgt door het vouwen van de kiemschijf (dus het ârollenâ en vormen van een driedimensionale structuur)?",2025-09-17T13:28:35.935949+00:00
+user,neurulatie,2025-09-17T13:28:54.627758+00:00
+assistant,"Dat is een begrijpelijke verwarring! Neurulatie is inderdaad de vorming van de neurale buis, maar het proces waarbij het hele embryo tot een driedimensionale buis oprolt, heet anders.
+
+Denk aan wat er gebeurt voordat neurulatie begint: het vlakke embryoblad vouwt zich zodat het een buisstructuur vormt, zowel in de lengte (craniocaudaal) als over de breedte (lateraal). Hoe noem je dat proces?",2025-09-17T13:29:08.163237+00:00
+user,inductie?,2025-09-17T13:30:11.07716+00:00
+assistant,"Dat is niet helemaal juistâinductie verwijst meer naar het proces waarbij bepaalde weefsels de ontwikkeling van andere weefsels stimuleren, zoals het notochord dat de vorming van het neurale plaat induceert.
+
+Het proces dat we bedoelen heeft echt te maken met het ""vouwen"" van het embryo zelf. Kun je nog eens nadenken: wat is de term voor het buigen of vouwen van het embryo waardoor de lichaamswanden en de buikholte ontstaan? (Tip: het woord komt van ""vouwen"" of ""inhouden"")",2025-09-17T13:30:20.131997+00:00
+user,Ik weet het niet,2025-09-17T13:31:28.591693+00:00
+assistant,"Geen probleem! Het proces heet **embryonale vouwing** of **embryonale folding**. Hierbij buigt het embryo zowel in de lengterichting als over de breedte, waardoor het een buisachtig lichaam vormt en de organen op hun plek komen.
+
+Laten we verdergaan en het leren stap voor stap voortzetten:
+
+Kun je de vier belangrijke onderdelen van het mesoderm benoemen die ontstaan in het embryo (denk aan hun positie van centraal naar meer lateraal)?",2025-09-17T13:31:37.658673+00:00
+user,"Ruggenmerg, wervels, botten",2025-09-17T13:32:50.962366+00:00
+assistant,"Je noemt nu structuren die uit het mesoderm ontstaan, maar ik bedoelde eigenlijk de verschillende *subdivisies* van het mesoderm zelfâde ""soorten mesoderm"" op basis van hun positie in het embryo.
+
+Tip: Het zijn vier namen, van centraal naar lateraal. Denk aan: axial, paraxiaal, ... Kun je er een paar noemen (of proberen)?",2025-09-17T13:33:13.959107+00:00
+user,Nee dat weet ik nog niet want dat heb ik nog niet geleerd,2025-09-17T13:33:22.424394+00:00
+assistant,"Dat is helemaal okÃ©! Je hoeft het nog niet te wetenâje zit hier juist om te leren. De vier subdivisions van het mesoderm zijn (van centraal naar lateraal):  
+1. Axiaal mesoderm  
+2. Paraxiaal mesoderm  
+3. Intermediair mesoderm  
+4. Lateraal plaat mesoderm  
+
+Wil je proberen te raden wat Ã©Ã©n functie of wat er ontstaat uit Ã©Ã©n van deze types? Bijvoorbeeld: waaruit vormen zich de wervels? (Je mag gokken of vertellen wat je denkt.)",2025-09-17T13:33:31.510161+00:00
+assistant,"**OVERALL SUMMARY**  
+Goed gedaan met het actief meedoen aan het gesprek en het stap voor stap beantwoorden van de vragen! Je laat zien dat je gemotiveerd bent om embryologie beter te begrijpen. Je schroomt niet om eerlijk aan te geven wat je nog niet weet en stelt je open op om bij te leren, wat heel waardevol is voor je leerproces.
+
+**WHAT YOU DID WELL**
+- **Strong Grasp of:** Je kunt duidelijk uitleggen welke drie kiemlagen er ontstaan tijdens gastrulatie (ectoderm, mesoderm, endoderm) en weet deze ook correct te positioneren in het embryo.
+- **Good Application of:** Je bent in staat om eerdere feedback te verwerken in je volgende antwoorden; zo corrigeerde je jezelf van hypoblast naar epiblast. Je benoemt ook op de juiste manier voorbeelden van structuren die uit de verschillende kiemlagen ontstaan.
+
+**AREAS FOR GROWTH & FOCUS**
+- **Reviewing Key Terms:** Je had moeite met enkele kernbegrippen (âembryonale vouwing/foldingâ en de indeling van het mesoderm). Soms werden processen (neurulatie, inductie) en termen door elkaar gehaald.
+- **Connecting the Dots:** Het is soms lastig om de verschillende stappen in de embryonale ontwikkeling en hun samenhang precies uit elkaar te houden, zoals het onderscheid tussen gastrulatie, neurulatie en embryonale vouwing.
+- **Applying Theory to Practice:** Je hebt nog geen kans gehad om de kennis toe te passen op een casus (zoals gastroschisis), maar je bent wel goed op weg met het opbouwen van je basisschema.
+
+**ACTIONABLE STUDY RECOMMENDATION**
+Maak een tekening van het embryo tijdens verschillende fasen (gastrulatie, embryonale vouwing, neurulatie) en geef hierin duidelijk aan welke processen elkaar opvolgen Ã©n waar de verschillende kiemlagen en mesoderme subdivisies zich bevinden. Door visueel in kaart te brengen wanneer en waar elk proces zich afspeelt, krijg je sneller overzicht en onthoud je de termen beter!",2025-09-17T13:35:28.766+00:00

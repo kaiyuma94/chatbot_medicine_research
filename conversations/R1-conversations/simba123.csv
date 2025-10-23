@@ -1,0 +1,175 @@
+role,content,created_at
+user,laten we beginnen,2025-09-17T15:25:06.043927+00:00
+assistant,"Perfect! Hier volgt een korte samenvatting van de casus om het onderwerp te kaderen:
+
+**Casus:**  
+Een gezonde 25-jarige vrouw krijgt tijdens de zwangerschap bij een echo te horen dat haar baby een kleine opening (~5 mm) heeft aan de rechterkant van de buik, vlakbij de navelstreng. Later wordt gezien dat een deel van de darmen buiten het buikje van de baby zweven. Na de geboorte blijken de maag en delen van de darmen buiten de buikholte te liggen; het kind heeft een gastroschisis, een buikwanddefect.
+
+Mijn eerste vraag om je voorkennis te activeren:
+
+**Wat zijn de drie kiemlagen die ontstaan tijdens de embryonale ontwikkeling?**",2025-09-17T15:25:17.847866+00:00
+user,"Endoderm, mesoderm en ectoderm",2025-09-17T15:26:05.970875+00:00
+assistant,"Helemaal goed! De drie kiemlagen zijn inderdaad het **endoderm**, **mesoderm** en **ectoderm**.
+
+Laten we verdergaan:
+
+**Wat is gastrulatie?**",2025-09-17T15:26:16.027018+00:00
+user,Het ontstaan van de drie kiemlagen,2025-09-17T15:26:52.597944+00:00
+assistant,"Goed! Gastrulatie is inderdaad het proces waarbij de drie kiemlagen ontstaan uit de ene oorspronkelijke cellaag van het embryo.
+
+Kun je nu uitleggen wat er bedoeld wordt met âembryonale plooingâ (embryonic folding)?",2025-09-17T15:26:59.344091+00:00
+user,het vouwen van de ectoderme laag waardoor er twee plooien ontstaan,2025-09-17T15:27:41.653318+00:00
+assistant,"Goed begin! Je noemt de ectoderme laag en plooienâdat klopt deels. Maar embryonale plooing betreft eigenlijk het hele embryo, inclusief alle kiemlagen. 
+
+Denk aan hoe het platte âschijfjeâ van het embryo zich vouwt tot een driedimensionaal lichaam. Kun je iets meer zeggen over **welke plooien er ontstaan (richting/plaats)** en **welk doel deze plooien hebben**?",2025-09-17T15:27:49.456182+00:00
+user,uit de ectoderme laag ontstaat de neurale buis en de huid. de neurale buis ligt middenin het mesoderm,2025-09-17T15:29:08.15284+00:00
+assistant,"Dat klopt: uit de ectodermale laag ontstaan de neurale buis (het toekomstige zenuwstelsel) en de huid. Goed opgemerkt! Maar dit beschrijft vooral de derivaten van de ectoderm, terwijl de vraag meer ging over het vouwen (*folding*) van het embryo als geheel.
+
+Embryonale plooing betekent dat het embryo in verschillende richtingen buigt om een driedimensionale lichaamsvorm te maken. Weet je misschien vanuit welke **richtingen** (bijv. hoofd-staart, zijkant-buik) deze plooien plaatsvinden? Wat gebeurt er met de embryo als geheel hierdoor?",2025-09-17T15:29:18.577395+00:00
+user,de eerste plooien zijn naar boven,2025-09-17T15:30:53.279452+00:00
+assistant,"Je noemt nu een richting: ânaar boven.â Dat is al een begin van richting denken! Maar bij embryonale plooing spreken we meestal van specifieke richtingen:
+
+Kun je nagaan wat er bedoeld wordt met **craniaal-caudale** plooiing en **laterale** plooiing van het embryo?  
+Tip: craniaal-caudale richting is van hoofd naar staart; lateraal is van zijkant naar zijkant. Wat gebeurt er met het embryo door deze plooien?",2025-09-17T15:31:02.38005+00:00
+user,door craniaal en caudale plooing vormt de huid en door laterale plooing de organen,2025-09-17T15:32:11.982901+00:00
+assistant,"Je maakt een duidelijk onderscheid, maar er zit nog een foutje in je redenering. Bij zowel craniaal-caudale als laterale plooing verandert het embryo van een platte schijf naar een buisvormig lichaam. Beide typen plooing dragen bij aan het omsluiten van de lichaamsinhoud door de buikwand.
+
+Zal ik je helpen met een tussenstap?  
+- Craniaal-caudale plooiing vouwt het embryo langs de lengteas (hoofd-staart).
+- Laterale plooiing vouwt het embryo van zijkant naar zijkant.
+
+Hierdoor worden de dooierzak en delen van de kiemlagen naar binnen getrokken. Dit leidt tot de vorming van niet alleen de huid, maar ook van de lichaamswand en de inwendige holte (buik- en borstholte).
+
+Wil je daarmee nog eens proberen uit te leggen **wat het doel is van embryonale plooing en wat het resultaat daarvan is voor de bouw van het embryo?**",2025-09-17T15:32:26.418471+00:00
+user,door embryonale plooing ontstaan er een bouwsteen met daarin allerlei weefsels,2025-09-17T15:33:31.331166+00:00
+assistant,"Mooi, je geeft al aan dat er een ""bouwsteen"" ontstaat waarin allerlei weefsels zitten. Precies, maar kun je het nog een tikkeltje concreter maken?
+
+Wat gebeurt er bijvoorbeeld specifiek met:
+- De positie van de organen (komen ze dichter binnenin te liggen?),
+- De omsluiting van de toekomstige buikholte,
+- De buikwand?
+
+Wat verandert er door deze plooien aan de **lichaamsvorm** van het embryo vergeleken met het platte stadium? Probeer dat kort te beschrijven!",2025-09-17T15:33:40.526267+00:00
+user,door de vouwing wordt de bouwsteen een cilinder ipv een schijf. in de cilinder bevinden zich de organen die op de juiste plek komen te liggen,2025-09-17T15:35:06.215002+00:00
+assistant,"Heel goed! Dat is precies het idee:  
+Door embryonale plooing verandert de platte âschijfâ van het embryo in een âcilinderâ. Hierdoor komen de organen en lichaamsdelen steeds meer op hun uiteindelijke plek te liggen binnen het embryo, en ontstaat er een gesloten lichaamswand (zoals de buikwand).
+
+We gaan nog even door met een volgende basisvraag:
+
+**Wat zijn de vier belangrijke subdivisies van het mesoderm, en waar liggen deze ongeveer in het embryo?**",2025-09-17T15:35:15.188258+00:00
+user,"organen, wervels, botten, kraakbeen",2025-09-17T15:36:07.204206+00:00
+assistant,"Je noemt hier voorbeelden van structuren die zich uiteindelijk uit het mesoderm ontwikkelen. Wat ik bedoel zijn de **naamgeving van de vier delen** van het mesoderm, ieder met een eigen ligging en afgeleiden.
+
+Kun je de termen proberen te noemen? Denk aan woorden als *axiaal*, *paraxiaal*, *intermediair*, en *laterale plaat*.  
+Zeggen die termen je iets? Wat weet je erover?",2025-09-17T15:36:18.641085+00:00
+user,"intermediair is het middelste deel van het mesoderm, axiaal het achterste en paraxiaal het voorste. de laterale plaat is waaruit het mesoderm gevorm wordt",2025-09-17T15:37:38.573669+00:00
+assistant,"Je weet al enkele termen! Laten we het iets meer structureren:
+
+- **Axiaal mesoderm:** dit ligt in het midden, direct onder de neurale buis.
+- **Paraxiaal mesoderm:** direct naast het axiale mesoderm, links en rechts ervan.
+- **Intermediair mesoderm:** nog verder opzij, tussen paraxiaal en laterale plaat.
+- **Laterale plaatmesoderm:** helemaal aan de buitenrand, splitst later in twee bladen (pariÃ«taal en visceraal).
+
+Helpt dit je om het terug te halen? Kun je nu beschrijven waar **elk van deze vier mesodermdelen** ongeveer liggen ten opzichte van elkaar in het embryo?",2025-09-17T15:38:04.791656+00:00
+user,in het midden axiaal dan paraxiaal dan intermediar en dan de laterale plaat,2025-09-17T15:39:23.518673+00:00
+assistant,"Precies! Nu heb je het goed verwoord:  
+- In het **midden** ligt het **axiale** mesoderm,  
+- daarnaast (aan beide zijden) het **paraxiale** mesoderm,  
+- vervolgens meer naar buiten het **intermediaire** mesoderm,  
+- en het meest **aan de zijkant** de **laterale plaat**.
+
+Laatste basisvraag:  
+De laterale plaat splitst zich tijdens ontwikkeling in twee bladen. **Hoe heten deze bladen, en wat zijn hun functies?**",2025-09-17T15:39:33.930045+00:00
+user,de een gaat naar boven en de ander naar beneden,2025-09-17T15:40:06.411061+00:00
+assistant,"Je geeft al goed aan dat ze een verschillende richting op gaan, maar kun je proberen de **namen** van de twee bladen te noemen? En weet je welk blad richting de bekleding van de lichaamswand gaat, en welk naar de organen?
+
+Denk aan de termen: *pariÃ«taal* (wand) en *visceraal* (orgaangebonden). Zegt dat je iets?",2025-09-17T15:40:13.483012+00:00
+user,de ene omringt de buikwand,2025-09-17T15:40:48.648953+00:00
+assistant,"Precies, dat klopt! Dat is het **pariÃ«tale blad**âhet bekleedt de binnenkant van de lichaamswand. Het **viscerale blad** (of splanchnisch blad) omsluit de organen zelf en vormt bijvoorbeeld het mesenterium en het bekledende vlies van organen.
+
+Je hebt hiermee de basisbegrippen onder de knie. Laten we nu dieper ingaan op de onderliggende processen:
+
+**Kun je uitleggen wat er gebeurt tijdens het proces van gastrulatie in het embryo?**",2025-09-17T15:40:58.505594+00:00
+user,"de cellen van het epiblast gaan door de spleet migreren, hierdoor wordt eerst de endoderme laag gevoormd dan tussenin de mesoderm en daarna veranderen de cellen waardoor de ectoderm gevorm wordt. nu zijn de drie kiemlagen gevormd",2025-09-17T15:45:08.759477+00:00
+assistant,"Mooi uitgelegd! Tijdens gastrulatie migreren de epiblastcellen inderdaad door de primitiefgroeve (âspleetâ) en zorgen zo achtereenvolgens voor het ontstaan van endoderm, mesoderm (tussenlaag) en uiteindelijk blijft het buitenste ectoderm over. Nu zijn de drie kiemlagen gevormd en kan organogenese verder plaatsvinden.
+
+Laten we nu verdergaan:
+
+**Kun je uitleggen waarom embryonale plooing essentieel is voor het sluiten van de ventrale (buik-)wand van het embryo?**",2025-09-17T15:45:18.143627+00:00
+user,doordat de neurale plaat gaat plooien vindt er een vouwing plaats. hierbij vormt het laterale deel van het mesoderm de ventrale wand,2025-09-17T15:46:41.129252+00:00
+assistant,"Heel goed, je benoemt dat de vouwing plaatsvindt en dat het laterale mesoderm een rol speelt. Kun je nog specifieker uitleggen wat er gebeurt met de laterale lichaamswanden tijdens deze plooing? Denk aan hoe links en rechts naar elkaar toe bewegen, en welke structuur hierdoor wordt omsloten of afgesloten. Wat gebeurt er precies met de âvoorzijdeâ (ventrale kant) van het embryo?",2025-09-17T15:46:48.884381+00:00
+user,weet ik niet,2025-09-17T15:47:36.310727+00:00
+assistant,"Geen probleem! Laten we het samen herhalen:
+
+Tijdens de laterale plooiing bewegen de linker- en rechterzijkant van het embryo naar beneden en naar elkaar toe, totdat ze in het midden samenkomen aan de voorkant (de ventrale zijde). Hierdoor sluiten zij de buikwand. Dit omsluit uiteindelijk de buikorganen en het grootste deel van de dooierzak wordt opgenomen in het embryo.
+
+Wil je deze redenering in je eigen woorden afmaken? Wat gebeurt er met de buikinhoud als de ventrale wand correct sluit?",2025-09-17T15:47:45.913957+00:00
+user,de buikinhoud wordt beschermd door de buikwand,2025-09-17T15:48:41.692264+00:00
+assistant,"Precies! Door het sluiten van de ventrale (buik)wand ligt de buikinhoudâzoals de darmen en de maagâbeschermd binnenin het embryo, achter de buikwand.
+
+Nu een volgende procesvraag:
+
+**Hoe ontstaat vanuit de drie kiemlagen de verdeling van de belangrijkste weefsels en organen? Kun je bij elke kiemlaag noemen waarvoor die vooral de oorsprong is?**",2025-09-17T15:48:49.460276+00:00
+user,"ectoderm voor opperhuid (epitheel) en zenuwstelsels, endoderm voor de binnenste bekleding van de holtes en mesoderm voor de rest: spier, bot, wervels, organen env",2025-09-17T15:50:21.23156+00:00
+assistant,"Heel goed samengevat!  
+- **Ectoderm** geeft vooral aanleiding tot de huid (epidermis) en het zenuwstelsel.  
+- **Endoderm** vormt het binnenste bekledende epitheel van het maag-darmkanaal, de luchtwegen en aanverwante klieren.  
+- **Mesoderm** geeft inderdaad spieren, botten, kraakbeen, bloedvaten en bindweefselâkortom: veel van de ârestâ van het lichaam.
+
+Volgende procesvraag:
+
+**Kun je uitleggen hoe het intra-embryonale coeloom (de lichaamsholte) ontstaat tijdens de embryonale ontwikkeling?**  
+Denk aan het laterale plaatmesoderm en de holtevorming daarin.",2025-09-17T15:50:33.332966+00:00
+user,"er vormt uit het mesoderm een buis, iets met notchord en daaruit ontstaan uiteondelijk de holtes",2025-09-17T15:52:04.875919+00:00
+assistant,"Je hebt het nu over de notochord (chorda dorsalis), wat correct is voor de as van het embryo en de inductie van het zenuwstelsel, maar het intra-embryonale coeloom ontstaat op een andere manier.
+
+Een **hint**:  
+Binnen het **laterale plaatmesoderm** ontstaan er ruimtes die samenvloeien tot Ã©Ã©n grote holte â dit is het intra-embryonale coeloom. Deze holte splitst het laterale plaatmesoderm in twee bladen (pariÃ«taal en visceraal), en vormt uiteindelijk de borst- en buikholten.
+
+Wil je op basis hiervan proberen te omschrijven **hoe het coeloom precies tot stand komt en welke structuren dit mogelijk maakt?**",2025-09-17T15:52:16.219516+00:00
+user,de grote holtes uit de neurale plaat vormen de lichaamsholtes,2025-09-17T15:53:01.874323+00:00
+assistant,"Je verwart nu de neurale plaat (die uit ectoderm ontstaat en het zenuwstelsel vormt) met het gebied waar de lichaamsholtes ontstaan. De lichaamsholtes (coeloom) ontstaan namelijk in het mesoderm, specifiek in de **laterale plaatmesoderm**.
+
+Kun je je voorstellen dat in het laterale plaatmesoderm aan beide kanten van het embryo kleine spleten (ruimtes) ontstaan? Deze ruimtes vloeien samen tot een grote longitudinale holteâhet intra-embryonale coeloom. Dit wordt uiteindelijk de borstholte, buikholte en bekkenholte.
+
+Wil je deze laatste stap zelf proberen te formuleren? Wat gebeurt er met het laterale plaatmesoderm door het ontstaan van deze grote holte?",2025-09-17T15:53:14.021288+00:00
+user,weet ik niet,2025-09-17T15:53:52.675421+00:00
+assistant,"Dat is niet erg!  
+Hier is een aanwijzing:  
+Het laterale plaatmesoderm **splitst** door deze holtevorming in twee bladenâeen aan de buitenkant (tegen de lichaamswand) en een aan de binnenkant (tegen de organen). 
+
+Kun je nu de **naam** van deze twee bladen noemen en zeggen wat zij omsluiten? (Tip: je gebruikt hiervoor termen als pariÃ«taal en visceraal.)",2025-09-17T15:54:10.84417+00:00
+user,parietale plaat omsluit de lichaamswand en de viscerale plaat omsluit de organen,2025-09-17T15:54:59.043633+00:00
+assistant,"Helemaal correct! De **pariÃ«tale plaat** ligt tegen de lichaamswand aan, en de **viscerale plaat** ligt tegen de organen. Zo wordt door splitsing van het laterale plaatmesoderm het intra-embryonale coeloom gevormdâde toekomstige lichaamsholten.
+
+Nu heb je de processen van gastrulatie, embryonale plooing, de verdeling van kiemlagen en de vorming van lichaamsholten begrepen!
+
+Laten we nu alles samenbrengen naar de casus:
+
+**Kun je uitleggen wat er in deze casus is gebeurd met de kennis die je nu bezit?**  
+(Denk aan de embryonale plooing, ventrale sluiting en de gevolgen voor de buikwand.)",2025-09-17T15:55:17.165043+00:00
+user,de visceerale plaat is niet goed gevormd bij de embryonale plooing,2025-09-17T15:56:10.426396+00:00
+assistant,"Goed dat je de viscerale plaat noemt bij het nadenken over afwijkingen tijdens de plooing. Maar denk nog even door:  
+Bij een defect als gastroschisis ligt het probleem juist bij de **vormen en sluiten** van de ventrale (buik-)wand tijdens embryonale plooing. Het gaat vooral om de samenwerking tussen het **laterale plaatmesoderm** en de ventrale migratie van cellen aan weerszijden.
+
+Wat zou er gebeuren als de linker- en rechterzijde van het laterale plaatmesoderm niet volledig samenkomen aan de voorzijde? Wat zijn daar de gevolgen van voor de positie van de buikorganen? Probeer nÃ³g een keer met deze aanwijzing te beantwoorden!",2025-09-17T15:56:22.278498+00:00
+assistant,"**OVERALL SUMMARY**  
+Je hebt enthousiast deelgenomen aan een uitdagend en belangrijk onderwerp in de embryologie! Je inzet om door te puzzelen bij elk onderdeel laat zien dat je echt wilt begrijpen hoe deze processen interacteren. Goed gedaan in het benoemen van termen en het meedenken bij doorvragen van nieuwe begrippen.
+
+**WHAT YOU DID WELL**
+- **Strong Grasp of:** De drie kiemlagen (endoderm, mesoderm, ectoderm) en hun belangrijkste afgeleiden. Je hebt ook goed het verschil tussen paraxiaal, intermediair, axiaal en laterale plaatmesoderm kunnen plaatsen.
+- **Good Application of:** Het uitleggen van de gastrulatie, en een mooie omschrijving gegeven van het effect van embryonale plooing (âvan schijf naar cilinderâ) en het belang van de gesloten buikwand.
+
+**AREAS FOR GROWTH & FOCUS**
+- **Connecting the Dots:** Je vindt het soms lastig om de processen (zoals plooingsrichtingen en holtevorming) en bijbehorende termen helemaal correct te verbinden. Bijvoorbeeld: de details van laterale plooing bij sluiting van de buikwand, en welk mesodermdeel voor welke structuur zorgt.
+- **Reviewing Key Terms:** Af en toe zijn de termen (zoals pariÃ«tale/viscerale plaat, intra-embryonaal coeloom) nog wat verwarrend of niet volledig paraat.  
+- **Applying Theory to Practice:** Bij de vertaling naar de casus (gastroschisis) mag je nÃ³g concreter denken: welk foutje in het proces veroorzaakt het probleem? (Bijvoorbeeld: incomplete sluiting van de laterale lichaamswanden door het laterale plaatmesoderm.)
+
+**ACTIONABLE STUDY RECOMMENDATIONS**  
+Omdat je vooral nog moeite hebt met het goed verbinden van de processen en de precieze termen, helpt het enorm om **diagrammen of concept maps** te maken.  
+- **Teken het embryo als een doorsnede** met de vier mesodermsubtypen (axiaal tot laterale plaat), en geef pijlen aan hoe de plooiingen plaatsvinden en waar de bladen en holtes ontstaan.
+- Zet de bijbehorende namen telkens bij de structuren, zodat de term direct aan een plek/functie gekoppeld wordt.
+
+Zo krijg je het overzicht helder â en valt het kwartje bij lastige toepassing in bijvoorbeeld een casus als gastroschisis!
+
+Blijf oefenen, je maakt echt grote stappen!",2025-09-17T15:57:03.695+00:00

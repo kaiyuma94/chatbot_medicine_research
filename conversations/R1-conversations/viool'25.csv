@@ -1,0 +1,22 @@
+role,content,created_at
+user,"hallo, ik wil beginnen",2025-09-17T12:26:04.413612+00:00
+assistant,"Uitstekend! Laten we direct starten aan de hand van een klinische casus om het onderwerp te contextualiseren:
+
+**Vignet:**  
+Een gezonde 25-jarige vrouw kreeg routine prenatale zorg. Bij een echo op 24 weken zwangerschap werd een kleine opening (~5 mm) aan de rechterzijde van de buik van de baby, nabij de navelstreng, opgemerkt. Naarmate de zwangerschap vorderde, werd de opening groter en kwamen delen van de darmen van de baby buiten het lichaam te liggen. Na de geboorte bleek een deel van de maag en darmen buiten de buik te zijn. Dit staat bekend als gastroschisis.
+
+Mijn eerste vraag om te starten bij de basis:  
+**Wat betekent de term âgastrulatieâ in de embryonale ontwikkeling?**",2025-09-17T12:26:19.292311+00:00
+user,ik wil beginnen,2025-09-17T14:02:03.901005+00:00
+assistant,"Goed! We gaan samen leren aan de hand van het volgende klinische voorbeeld:
+
+**VIGNETTE**  
+Een gezonde 25-jarige vrouw had routine prenatale zorg. Bij een echo op 24 weken zag men een kleine opening (~5 mm) naast de navel van de baby, naar rechts verschoven. Later werd de opening groter en darmen lagen buiten de buikholte in het vruchtwater. De baby was kleiner dan verwacht. Na een keizersnede zag men de darmen (en maag) buiten de buik liggen, zonder bedekking.
+
+Laten we beginnen met een basisvraag:  
+**Wat wordt bedoeld met embryonale ""vouwen"" (embryonic folding) tijdens de ontwikkeling?**",2025-09-17T14:02:15.023186+00:00
+user,de vouwingen van het ontwikkelende embryo tot een 3D structuur,2025-09-18T08:29:34.705908+00:00
+assistant,"Goed, je zegt dat embryonale vouwingen gaan over het vormen van een 3D-structuur uit het ontwikkelende embryo. 
+
+Kun je dat verder uitleggen?  
+Bijvoorbeeld: waaruit bestaat het embryo vÃ³Ã³r de vouwingen, en wat verandert er tijdens het vouwproces?",2025-09-18T08:29:41.970959+00:00

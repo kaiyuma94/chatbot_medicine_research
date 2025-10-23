@@ -1,0 +1,89 @@
+role,content,created_at
+user,ik ben klaar om te beginnen,2025-09-17T13:34:59.991433+00:00
+assistant,"We starten met de casus om het onderwerp van de embryonale ontwikkeling in context te plaatsen:
+
+### Casus
+Een gezonde vrouw van 25 jaar heeft routine prenatale controles gehad. Bij een echo op 24 weken zwangerschap is een kleine opening (~5 mm) aan de rechterkant van de buik van de baby, vlak bij de navelstreng, gezien. Genetisch onderzoek op 26 weken was normaal. De opening werd groter (tot 34 mm) en delen van de darmen waren in het vruchtwater zichtbaar. De baby was ook kleiner dan verwacht. Bij de geboorte via keizersnede waren delen van de maag en darmen buiten de buik gelegen. De diagnose was gastroschisis, een buikwanddefect.
+
+Laten we met een basisvraag beginnen:
+
+Wat zijn de drie kiemlagen die ontstaan tijdens de vroege embryonale ontwikkeling?",2025-09-17T13:35:12.657739+00:00
+user,"endoderm, mesoderm, ectoderm",2025-09-17T13:35:25.507372+00:00
+assistant,"Dat klopt, goed gedaan!
+
+Volgende vraag: Kun je benoemen welke anatomische structuren uit elk van deze drie kiemlagen ontstaan? Je hoeft niet alles te noemenâeen paar voorbeelden per kiemlaag is voldoende.",2025-09-17T13:35:32.878864+00:00
+user,"endoderm is dingen zoals de binnekant van de mond, spijsvertering systeem dat soort dingen. ectoderm is zenuwstelsel, dus binnenkant oren de ogen de neuronen, brijn, ruggenmerg en het mesoderm zijn alle bindweefsels, spierweefels",2025-09-17T13:36:58.513219+00:00
+assistant,"Prima! Je geeft al relevante voorbeelden per kiemlaag.
+
+Denk ook aan de huid: weet je nog of de buitenste huidlaag (opperhuid/epidermis) uit een specifieke kiemlaag ontstaat?
+
+Laten we nog een andere basisterm pakken:  
+Wat wordt bedoeld met âgastrulatieâ in de embryonale ontwikkeling?",2025-09-17T13:37:09.590569+00:00
+user,gastrulatie is het proces waarbij de bilaminaire schijf een trilaminair schijf wordt,2025-09-17T13:38:05.576194+00:00
+user,lukt het?,2025-09-17T13:41:28.266456+00:00
+assistant,"Ik kan je helpen als je even vastloopt! Kun je proberen te omschrijven wat er gebeurt tijdens de embryonale plooivorming? Bijvoorbeeld:  
+Denk aan wat er met de vorm van het embryo gebeurt in week 4 en 5. Wordt het platter, juist ruimtelijker, of verandert er iets aan de ligging van de kiemlagen?  
+
+Wat weet je hiervan?",2025-09-17T13:41:38.09287+00:00
+user,"het wordt meer in de vorm van een mens, start vorming ruggen graat en uitstulpingen van de ledematen",2025-09-17T13:42:08.018992+00:00
+assistant,"Goed, je bent op het juiste spoor: het embryo krijgt inderdaad meer de vorm van een mens.
+
+Kun je nog iets specifieker zijn over âplooivormingâ?  
+Bedenk:  
+- Wat gebeurt er met de hoofd- en staarteinde (craniale en caudale zijde)?
+- En de zijkanten?
+Wordt het embryo juist platter of buigt het op een bepaalde manier?
+
+Kun je dat aanvullen?",2025-09-17T13:42:16.696252+00:00
+user,het buigt als een banaan soortvan,2025-09-17T13:42:42.885721+00:00
+assistant,"Mooi beeld! Inderdaad, het embryo buigt zich als het ware. Tijdens de plooivorming vouwen het hoofd- en staartuiteinde (craniale en caudale zijde) naar binnen en naar beneden, en ook de zijkanten bewegen naar de middellijn toe zodat een soort âbuisâ ontstaat. Hierdoor wordt het embryo veel driedimensionaler.
+
+Laten we een volgende kernbegrip erbij nemen:
+Wat is âmorphogeneseâ in de embryologie?",2025-09-17T13:42:52.563615+00:00
+user,geen idee,2025-09-17T13:43:25.505426+00:00
+user,ik ben klaar om te beginnen,2025-09-17T13:47:20.323014+00:00
+assistant,"Hier is de casus om onze sessie te starten:
+
+Een gezonde 25-jarige vrouw had regelmatige prenatale controles. Bij een echo op 24 weken zwangerschap werd een kleine opening (~5 mm) aan de rechterkant van de buik van de baby gezien, dicht bij de navelstreng. Genetisch onderzoek (vruchtwaterpunctie) bij 26 weken was normaal. In de loop van de tijd werd de opening groter (tot 34 mm) en waren delen van de darmen van de baby zichtbaar in het vruchtwater. De baby leek ook kleiner dan verwacht. Bij 37 weken werd een keizersnede uitgevoerd. De pasgeboren jongen had delen van zijn dunne en dikke darm, en de maag, buiten de buik liggen. Het ondersteunende weefsel was kort en de darm zag er gezwollen uit. Diagnose: gastroschisis, een defect van de buikwand.
+
+Mijn eerste vraag:
+
+Wat is gastrulatie?",2025-09-17T13:47:34.059284+00:00
+user,"de vorming van de 3 lagen, endoderm mesoderm en ectoderm uit de hypoblast en epiblast",2025-09-17T13:47:56.112846+00:00
+assistant,"Heel goed! Gastrulatie is inderdaad het proces waarbij uit de epiblast drie kiemlagen (endoderm, mesoderm en ectoderm) ontstaan. Je noemt ook de hypoblast. Heb je helder welke rol de hypoblast precies speelt bij gastrulatie, of wil je dat verder toelichten?
+
+Nu een volgende vraag om je kennis te verbreden:
+
+Kun je de drie kiemlagen (endoderm, mesoderm en ectoderm) elk benoemen en aangeven wat voor type weefsels of organen er voornamelijk uit ontstaan?",2025-09-17T13:48:05.369588+00:00
+user,"endoderm is de binnenkant van het lichaam, binnenkant mond, binnenkant spijsvertering kanaalen, dat soort dingen. ectoderm is het zenuwstelsel dus het huid, oge, binnenkant oor, brijn, ruggenmerg en alle zenuwen en het mesoderm is alles dat nog over is",2025-09-17T13:49:08.39946+00:00
+assistant,"Je hebt de essentie goed te pakken! Je koppelt de kiemlagen aan de juiste lichaamsstructuren. Zal ik je helpen om het nog iets specifieker te maken?
+
+- Het endoderm vormt inderdaad de bekleding van het spijsverterings- en ademhalingsstelsel, maar niet de binnenkant van de mond (dat komt uit het ectoderm).
+- Het ectoderm vormt huid Ã©n zenuwstelsel (hersenen, ruggenmerg, zenuwen), plus delen van het oog en oor.
+- Het mesoderm vormt onder andere spieren, botten, bindweefsel, het hart, bloedvaten, nieren, en de meeste delen van het urogenitaal stelsel.
+
+Wil je nog een concrete oefenvraag over deze kiemlagen of ga je graag verder?
+
+Mijn volgende vraag voor jou:
+
+Wat wordt bedoeld met de termen âaxiaal mesoderm,â âparaxiaal mesoderm,â âintermediair mesodermâ en âlateraal plaat mesodermâ? Geef kort aan waar deze zich bevinden.",2025-09-17T13:49:23.868377+00:00
+user,lateraal plaat mesoderm heeft met de coeloms te maken. de rest weet ik niet,2025-09-17T13:50:44.625479+00:00
+assistant,"Mooi dat je de koppeling maakt tussen het lateraal plaat mesoderm en de lichaamsholten (coelom)! Je zou kunnen denken aan de rol van het lateraal plaat mesoderm bij het vormen van het hart, de bloedvaten, en de bekleding van de lichaamsholten.
+
+Laten we het samen stap voor stap verder opbouwen:
+
+- Het axiaal mesoderm vind je in de middellijn van het embryo en staat ook bekend als de chorda dorsalis (notochord).
+- Het paraxiaal mesoderm ligt direct naast het axiaal mesoderm. Hieruit ontstaan onder andere de somieten die bijdragen aan wervels, skeletspieren, en dermis van de rug.
+- Het intermediair mesoderm ligt tussen het paraxiaal mesoderm en het lateraal plaat mesoderm en vormt delen van het urogenitaal stelsel.
+- Het lateraal plaat mesoderm ligt nog meer naar buiten; vormt de wanden van de lichaams- en orgaanholten.
+
+Heb je nu een idee van de ruimtelijke ligging van deze mesoderm-subdivisies rondom het embryo? Waar zou in een doorsnede het lateraal plaat mesoderm liggen ten opzichte van de somieten?",2025-09-17T13:51:02.469452+00:00
+user,rond de buitenkant,2025-09-17T13:52:38.739445+00:00
+assistant,"Precies! Het lateraal plaat mesoderm ligt inderdaad aan de buitenzijde, verder van de middellijn dan het paraxiaal mesoderm (waaruit de somieten ontstaan). Dus in een doorsnede van het embryo vind je â van binnen naar buiten â het axiaal mesoderm, het paraxiaal mesoderm, het intermediair mesoderm en ten slotte het lateraal plaat mesoderm.
+
+Mijn volgende vraag voor jou:
+
+Wat bedoelen we met de termen âcaudaal, craniaal, ventraal, en dorsaalâ als we praten over het embryo? Waar bevinden deze posities zich?",2025-09-17T13:52:49.760604+00:00
+user,"caudaal is richting het hoofd, craniaal is boven op het hoofd, ventraal is naar beneden en dorsaal is de rug",2025-09-17T13:53:39.38625+00:00
+user,mag ik de chat eindigen,2025-09-17T13:55:46.862328+00:00
+assistant,"Natuurlijk, je mag altijd de chat beÃ«indigen wanneer je wilt. Goed gewerkt vandaag! Als je op een later moment verder wilt oefenen of vragen hebt, kun je gewoon opnieuw beginnen. Veel succes met je studie!",2025-09-17T13:55:51.722681+00:00

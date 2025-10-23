@@ -1,0 +1,217 @@
+role,content,created_at
+user,skes,2025-09-18T15:32:10.116651+00:00
+assistant,"Let's start learning using the clinical scenario below!
+
+A healthy 25-year-old woman had routine prenatal care. At 24 weeks of pregnancy, an ultrasound revealed a small opening (~5 mm) on the right side of the babyâs belly, near the umbilical cord. Genetic tests (amniotic fluid analysis) at 26 weeks were normal. Over time, the opening enlarged (up to 34 mm), and parts of the babyâs intestines were seen floating in the amniotic fluid. The baby also measured smaller than expected. At 37 weeks, a caesarean section was performed. The newborn boy had parts of his small and large intestines, and stomach, located outside the abdomen. The supporting tissue was short, and the bowel appeared swollen. The diagnosis was gastroschisis, a defect in the abdominal wall.
+
+To start with a basic foundational question:
+
+What are the three primary germ layers formed during early embryonic development?",2025-09-18T15:32:31.835776+00:00
+user,nederlands,2025-09-18T15:32:34.618241+00:00
+assistant,"Prima! We gaan verder in het Nederlands.
+
+Hier is de casus nogmaals:
+
+Een gezonde 25-jarige vrouw had routine prenatale zorg. Bij 24 weken zwangerschap toonde een echo een kleine opening (~5 mm) aan de rechterkant van de buik van de baby, dicht bij de navelstreng. Genetische testen (vruchtwaterpunctie) bij 26 weken waren normaal. Met het verstrijken van de tijd werd de opening groter (tot 34 mm), en delen van de darmen van de baby dreven zichtbaar in het vruchtwater. De baby was ook kleiner dan verwacht. Bij 37 weken werd een keizersnede uitgevoerd. De pasgeboren jongen had delen van de dunne en dikke darm, Ã©n maag, buiten de buik liggen. Het ondersteunend bindweefsel was kort en de darmen zagen er gezwollen uit. De diagnose was gastroschisis, een defect in de buikwand.
+
+Startvraag:
+
+Wat zijn de drie primaire kiemlagen die ontstaan tijdens de vroege embryonale ontwikkeling?",2025-09-18T15:32:50.384919+00:00
+user,"endoderm, ectoderm, mesoderm",2025-09-18T15:33:04.56755+00:00
+assistant,"Dat klopt! De drie primaire kiemlagen zijn:
+
+- Endoderm
+- Ectoderm
+- Mesoderm
+
+Volgende vraag:
+
+Hoe noem je het proces waarbij deze drie kiemlagen ontstaan tijdens de embryonale ontwikkeling?",2025-09-18T15:33:10.596734+00:00
+user,gastrulatie,2025-09-18T15:33:16.63754+00:00
+assistant,"Goed zo! Het proces waarbij de drie kiemlagen ontstaan heet gastrulatie.
+
+Nieuwe vraag:
+
+Wat betekent embryonale plooiing (embryonic folding) en waarom is dit belangrijk tijdens de ontwikkeling?",2025-09-18T15:33:22.875156+00:00
+user,omdat het kindje dan goed vouwt,2025-09-18T15:34:02.180181+00:00
+assistant,Je bent op het juiste spoor: het heeft inderdaad met het 'vouwen' van het embryo te maken! Kun je uitleggen **hoe** het embryo precies vouwt tijdens embryonale plooiing â bijvoorbeeld welke richtingen en vormen van vouwen er zijn? En wat gebeurt er daardoor met de ligging van de kiemlagen en structuren?,2025-09-18T15:34:09.769996+00:00
+user,"causaal en caudaal, en daarom krijg je een hoofdje en een staart aks het ware",2025-09-18T15:35:38.274762+00:00
+assistant,"Klopt, je noemt nu de craniaal (hoofd) en caudaal (staart) plooiingen die plaatsvinden! Het embryo vouwt zich in zowel de lengte (craniaalâcaudaal) als de breedte (lateraal).
+
+Nog een stapje verder:  
+Wat gebeurt er met de dooierzak (yolk sac) en de positie van de endoderm, mesoderm en ectoderm door deze plooiingen? Denk aan hoe het lichaam en de organen zich beginnen te vormen. Kun je dat beschrijven?",2025-09-18T15:35:48.7618+00:00
+user,"deze wordt groter, zodat er ruimte ontstaat zodat de organen hierin kunnen ontwikkelen",2025-09-18T15:36:32.886236+00:00
+assistant,"Interessante gedachte! Je noemt dat de dooierzak groter wordt zodat er ruimte ontstaat voor de organen. Heb je overwogen wat er feitelijk met de dooierzak gebeurt tijdens de plooiing?
+
+Hint: Denk aan de rol van de dooierzak in de vroege ontwikkeling versus later. Wat gebeurt er met het grootste deel van de dooierzak tijdens de embryonale plooiing? Waar veranderen de kiemlagen zoals het endoderm en mesoderm in?
+
+Probeer het nog eens te beschrijven!",2025-09-18T15:36:45.441129+00:00
+user,deze veranderen in organen en botten etceterea,2025-09-18T15:37:10.642081+00:00
+assistant,"Heel goed! De kiemlagen (endoderm, mesoderm, ectoderm) differentiÃ«ren zich inderdaad verder en vormen de verschillende organen en weefsels van het lichaam.
+
+Nog even over de dooierzak: deze wordt grotendeels opgenomen in het embryo zelf door de plooiing. Het binnenste deel vormt de oerdarm (primitive gut), terwijl een klein buitenste deel buiten het embryo blijft liggen.
+
+Volgende vraag:
+Wat zijn de vier belangrijke delen waarin het mesoderm zich tijdens de ontwikkeling splitst? Kun je ze benoemen?",2025-09-18T15:37:22.613322+00:00
+user,"bot, organen, darmen en bloedvaten",2025-09-18T15:37:44.993994+00:00
+assistant,"Je beschrijft nu verschillende structuren die uit het mesoderm kunnen ontstaan â dat is goed! Maar ik bedoel de **vier ruimtelijke** onderverdelingen van het mesoderm in het embryo, met namen als âaxiaalâ, âparaxiaalâ, etc.
+
+Kun je die specifieke termen noemen? Mocht je ze niet allemaal weten, probeer ze eens te benoemen of denk aan delen rondom de middellijn van het embryo tot aan de buitenkant.",2025-09-18T15:37:53.815387+00:00
+user,nee geen idee,2025-09-18T15:38:09.228604+00:00
+assistant,"Geen probleem, laten we het samen ontdekken! Het mesoderm wordt tijdens de embryonale ontwikkeling opgedeeld in vier hoofdonderdelen (van mediaal naar lateraal):
+
+1. Axiaal mesoderm  
+2. Paraxiaal mesoderm  
+3. Intermediair mesoderm  
+4. Lateraal plaatmesoderm
+
+Misschien herinner je je nu een aantal? Kun je aangeven welke van deze delen bijvoorbeeld de wervelkolom en spieren vormt?",2025-09-18T15:38:17.921754+00:00
+user,praa,2025-09-18T15:38:29.004824+00:00
+assistant,"Dat klinkt alsof je bedoelt: paraxiaal mesoderm! Dat klopt: het **paraxiale mesoderm** ontwikkelt zich tot onder andere de wervelkolom en de skeletspieren.
+
+Denk je dat je nu kunt aangeven welke structuur(âs) uit het **axiale** mesoderm ontstaat? (Tip: Denk aan iets wat precies in de middellijn van het embryo ligt en belangrijk is voor de as van het lichaam.)",2025-09-18T15:38:37.735516+00:00
+user,het hart,2025-09-18T15:38:51.835765+00:00
+assistant,"Een goede poging! Maar het hart ontstaat niet uit het axiale mesoderm.
+
+Het axiale mesoderm vormt de **chorda dorsalis** (de notochord). Dit is een centrale structuur in de ontwikkeling van het lichaam, die een belangrijke rol speelt bij het induceren van omliggende weefsels, bijvoorbeeld voor de ontwikkeling van het zenuwstelsel.
+
+Nu een vervolgvraag:  
+Kun je benoemen waar het **intermediaire** mesoderm en het **laterale plaatmesoderm** vooral aan bijdragen in het lichaam? Wat ontstaat hieruit? Probeer het eens!",2025-09-18T15:39:04.797116+00:00
+user,"dunne darmen, en botten",2025-09-18T15:39:16.778557+00:00
+user,"verteringstelsel, en ledematen en bloedomloopstelsel",2025-09-18T15:42:19.724947+00:00
+assistant,"Heel goed gedacht! Je noemt nu systemen waarbij het mesoderm inderdaad betrokken is. Even iets specifieker:
+
+- Het **intermediair mesoderm** draagt hoofdzakelijk bij aan de ontwikkeling van het urogenitaalstelsel (nieren, urinewegen, geslachtsorganen).
+- Het **lateraal plaatmesoderm** vormt onder andere de bekleding van de lichaamsholten (het pariÃ«taal en visceraal peritoneum), bloedvaten en is inderdaad betrokken bij de vorming van ledematen en het hart.
+
+Even samenvatten: kun je nu de vier delen van het mesoderm opnoemen en kort Ã©Ã©n structuur of systeem noemen dat door elk deel wordt gevormd? Probeer dit eens!",2025-09-18T15:42:31.011287+00:00
+user,"paraxiaal mesoderm, laterale plaatmesoderm, axiaal mesoderm, intermediair mesoderm",2025-09-18T15:43:44.523582+00:00
+assistant,"Prima, je noemt ze allemaal!  
+
+Kun je nu van elk deel Ã©Ã©n structuur of systeem noemen dat eruit ontstaat? Bijvoorbeeld:
+
+- Paraxiaal mesoderm â ...
+- Axiaal mesoderm â ...
+- Intermediair mesoderm â ...
+- Lateraal plaatmesoderm â ...
+
+Wil je het proberen in te vullen?",2025-09-18T15:43:52.604603+00:00
+user,"wervelkolom en spieren, notochord, urogenitaalstelsel, bekleding lichaamsholten",2025-09-18T15:44:48.476804+00:00
+assistant,"Uitstekend! Dat is precies goed:
+
+- Paraxiaal mesoderm â wervelkolom en spieren  
+- Axiaal mesoderm â notochord  
+- Intermediair mesoderm â urogenitaalstelsel  
+- Lateraal plaatmesoderm â bekleding van lichaamsholten (serosa)
+
+Laatste begrippenvraag voordat we een niveau dieper gaan:  
+Wat betekenen de termen **craniaal**, **caudaal**, **dorsaal** en **ventraal** als we het over het embryo hebben? Kun je kort uitleggen wat elk aanduidt?",2025-09-18T15:44:59.878408+00:00
+user,"richting het hoofd, richting de staart, van de middellijn af, naar de middellijn toe",2025-09-18T15:45:35.542585+00:00
+assistant,"Je zit heel dicht in de buurt! Twee zijn helemaal goed, twee kun je nog iets aanpassen:
+
+- **Craniaal** = richting het hoofd  
+- **Caudaal** = richting de staart  
+- **Dorsaal** = richting de rug (of achterzijde bij het embryo)  
+- **Ventral** = richting de buik (of voorzijde bij het embryo)
+
+**Dorsaal** en **ventraal** hebben te maken met de rug- en buikzijde, niet de lijn naar het midden.
+
+Nu gaan we verder met inzichtsvragen:
+
+Kun je uitleggen **waarom** gastrulatie zoân essentieel proces is in de embryonale ontwikkeling? Wat verandert er (en waarom is dat belangrijk) tijdens gastrulatie?",2025-09-18T15:45:56.702718+00:00
+user,"endoderme lagen enzo veranderen in zulke stelsels, dus het is echt het ontwikkelen van het embryo",2025-09-18T15:47:03.599792+00:00
+assistant,"Dat klopt: tijdens gastrulatie ontstaan de drie kiemlagen (endoderm, mesoderm, ectoderm), en deze vormen later alle organen en weefsels van het lichaam. Dit proces is dus essentieel omdat het embryo tijdens gastrulatie zijn eerste ruimtelijke organisatie en specialisatie krijgt.
+
+Wil je nog proberen te beschrijven hoe de bewegingen van cellen tijdens gastrulatie verlopen? Waar beginnen de cellen te migreren en waarom is dat bepalend voor hun uiteindelijke bestemming?",2025-09-18T15:47:12.39734+00:00
+user,"door de primitieve groeve , omdat vanuit daar alles gemaakt wordt",2025-09-18T15:47:50.496182+00:00
+assistant,"Heel goed! Precies: de cellen migreren tijdens gastrulatie dÃ³Ã³r de primitieve groeve (primitive streak). Vanuit die groeve bewegen ze naar binnen (invaginatie/involutie) om zo de kiemlagen te vormen.
+
+Volgende inzichtsvraag:
+Kun je uitleggen hoe het proces van **embryonale plooiing** bijdraagt aan het ontstaan van het toekomstige lichaamsholte (zoals de buikholte) en de positionering van de organen? Wat gebeurt er met het embryo tijdens deze plooiingen?",2025-09-18T15:47:59.884108+00:00
+user,"deze wordt groter, en hierdoor kunnen alle organen erin liggen",2025-09-18T15:48:29.602787+00:00
+assistant,"Mooi geprobeerd! Je zegt dat het embryo groter wordt zodat organen erin kunnen liggen. Maar embryonale plooiing gaat vooral over **het vormen van een buis-achtig lichaam uit een platte schijf**.  
+Kun je uitleggen wat er gebeurt met de lichaamswand en de interne ruimte door deze plooiing? Vormt zich dan een bepaalde holte? Wat gebeurt er met de uiteinden van het embryo en met de dooierzak tijdens het vouwen?",2025-09-18T15:48:43.30331+00:00
+user,"deze worden groter, en er vormt zich inderdaad een bepaalde plooiing voor de hersenen toch?",2025-09-18T15:49:20.700449+00:00
+assistant,"Fijn dat je het verband legt met het ontstaan van hersenen (craniaal). Je hebt gelijk dat bij de craniÃ«le embryonale plooiing het hoofdgebied (en dus ook de hersenen) gevormd wordt.
+
+Wat er daarnaast gebeurt:
+- Er ontstaan zowel een **craniaal** (hoofd) als een **caudaal** (staart) vouwproces, maar ook een **laterale** vouw (links/rechts).
+- Hierdoor gaat de platte schijf in een cilindervorm, waarbij de zijkanten van het embryo naar elkaar toe bewegen en versmelten aan de ventrale kant (onderkant/buikzijde).
+- Zo ontstaan de lichaamswand en de **lichaamsholte** (coeloom), waar uiteindelijk organen in kunnen ontwikkelen.
+
+Wil je proberen uit te leggen **hoe de drie kiemlagen rondom die toekomstige lichaamsholte komen te liggen** na het plooien? Wat ligt binnen, wat buiten?",2025-09-18T15:49:34.886129+00:00
+user,"endoderm binnen, mesoderm ertussen, ectoderm aan de buitenkant",2025-09-18T15:49:56.23536+00:00
+assistant,"Precies! Na het plooien ligt het:
+
+- **Endoderm** aan de binnenkant (vormt o.a. darmbuis)
+- **Mesoderm** er tussenin (vormt spieren, bindweefsel, bloedvaten etc.)
+- **Ectoderm** aan de buitenkant (vormt huid, zenuwstelsel)
+
+Nu een volgende vraag:  
+Hoe zorgt de embryonale vouw (plooiing) ervoor dat de lichaamswand en het buikvlies (peritoneum) worden gevormd, en waarom is een goede âventrale sluitingâ belangrijk voor het ontstaan van een normale buikwand?",2025-09-18T15:50:06.857117+00:00
+user,"Door de laterale en craniocaudale plooien vouwt het embryo zich rond de dooierzak, waardoor de somatopleura naar ventraal toe sluit en de buikwand vormt, terwijl de splanchnopleura het peritoneum vormt dat de buikorganen bekleedt. Een goede ventrale sluiting is essentieel om de buikwand volledig te sluiten; bij een fout hierin kunnen aangeboren buikwanddefecten zoals omfalocele of gastroschisis ontstaan",2025-09-18T15:51:30.000776+00:00
+assistant,"Uitstekend uitgelegd! Je noemt alle belangrijke stappen:
+
+- De laterale Ã©n craniocaudale plooiingen zorgen dat het embryo zich rond de dooierzak vouwt.
+- De **somatopleura** (pariÃ«tale laag) sluit naar ventraal toe en vormt zo de buikwand.
+- De **splanchnopleura** (viscerale laag) bekleedt de buikorganen.
+- Bij incomplete ventrale sluiting kunnen defecten ontstaan, zoals de casus hierboven.
+
+Laatste inzichtsvraag op dit niveau:
+Kun je uitleggen op welke manier de drie kiemlagen samenwerken in het ontwikkelen van de darmbuis en de buikwand? Welke lagen leveren welk deel van deze structuren?",2025-09-18T15:51:42.453376+00:00
+user,"De darmbuis ontstaat doordat endoderm zich tot epitheel en klieren van het maagdarmkanaal ontwikkelt, terwijl het omringende mesoderm het bindweefsel, de spieren en het peritoneum vormt, en het ectoderm via de lichaamswand bijdraagt aan de huid en het zenuwstelsel van de buikwand. Zo levert endoderm de binnenbekleding van de darm, mesoderm de ondersteunende en spierlagen Ã©n de sereuze bekleding, en ectoderm de buitenste bekleding en innervatie van de buikwand.",2025-09-18T15:52:07.896149+00:00
+assistant,"Geweldige, zeer volledige uitleg! Je kent duidelijk de bijdrage van elke kiemlaag aan de structuren van de buik en de darmbuis.
+
+Laten we nu naar de casus kijken:
+
+Kun je uitleggen wat er in deze casus is gebeurd, met de kennis die je nu hebt opgedaan?",2025-09-18T15:52:14.651635+00:00
+user,"Bij gastroschisis is tijdens de embryonale ontwikkeling de ventrale sluiting van de buikwand niet volledig gelukt, meestal rechts van de navelstrenginsertie. Daardoor blijft er een opening bestaan in de buikwand waardoor de darmen en soms ook de maag naar buiten komen, zonder dat ze omgeven worden door het beschermende peritoneum of een navelstrengzak. Omdat de organen direct in contact staan met het vruchtwater raken ze geÃ¯rriteerd en opgezwollen, wat hun functie kan verstoren. Het korte, verdikte mesenterium en de groeiachterstand passen ook bij deze aandoening. Kortom: er is een fout in de embryonale lichaamsplooiing en ventrale sluiting, waardoor de buikwand niet goed gesloten is en de buikorganen buiten de buikholte terechtkomen",2025-09-18T15:53:03.013814+00:00
+assistant,"Heel goed uitgelegd. Je koppelt de embroyonale processen direct aan de bevindingen uit de casus en laat zien dat je het verband begrijpt.
+
+Nu, als afsluitende oefening â schrijf zo volledig mogelijk op:
+Hoe begrijp je nu de oorzaken achter de klinische bevindingen van deze casus? Noteer elk detail dat je kunt bedenken â je redenatie, je ideeÃ«n en alles wat je hiervan geleerd hebt. Hoe completer jouw uitleg, hoe sterker je inzicht en voorbereiding op het herkennen van gastroschisis!",2025-09-18T15:53:13.177191+00:00
+user,"Embryologisch probleem: de ventrale lichaamsplooien sluiten niet volledig â er blijft een opening rechts van de navelstrenginsertie.
+Gevolg daarvan: delen van de darm, soms ook maag, vallen naar buiten, zonder beschermende peritoneale zak (anders dan bij omfalocele).
+Op echo: eerst klein defect (5 mm), dat groter werd (34 mm) â dit past bij progressieve uitstulping van de darmen door de opening.
+Vruchtwatercontact: de darmen liggen direct in vruchtwater â dit veroorzaakt irritatie, ontsteking en verdikking â klinisch gezien âgezwollenâ darmen bij geboorte.
+Kort en verdikt mesenterium: verklaart de beperkte mobiliteit van de darmlussen en kan leiden tot circulatieproblemen of atresieÃ«n.
+Groei achterblijvend (IUGR): vaak gezien bij gastroschisis, waarschijnlijk door verminderde voedingsstoffen en mogelijke verminderde doorbloeding van de buitenliggende darmen.
+Klinisch beeld bij geboorte: maag + dunne en dikke darm buiten de buik, geen membraan eromheen, gezwollen â textbook gastroschisis.
+Belang van ventrale sluiting: bevestigt dat dit defect direct terug te voeren is op gestoorde embryonale buikwandvorming.",2025-09-18T15:54:35.231413+00:00
+assistant,"Uitstekend en volledig onderbouwd! Je hebt alle embryologische, structurele en klinische aspecten die uit deze stoornis voortvloeien benoemd. 
+
+Nu een transferopdracht met een nieuwe casus:
+
+Een 27-jarige vrouw, zwanger van haar eerste kind, komt bij 13 weken voor routine-echografie. Geen relevante familie-anamnese. Tijdens het echo-onderzoek wordt bij de baby een middenlijn-openingsdefect in het lumbosacrale deel van de wervelkolom gezien. Er puilt een met vocht gevulde zak uit, met daarin delen van het ruggenmerg en zijn vliezen. Laboratoriumonderzoek toont aan dat het ruggenmerg in dit gebied slecht ontwikkeld is. Dit wordt spina bifida met myelomeningocele genoemd â een ernstige vorm van een neurale buisdefect.
+
+Kun je uitleggen wat er in deze casus gebeurd is?",2025-09-18T15:54:51.001212+00:00
+user,"ChatGPT zei:
+Bij deze casus is de neurale buis in het lumbosacrale gebied niet volledig gesloten tijdens de embryonale ontwikkeling, waardoor een deel van het ruggenmerg samen met de vliezen in een met vocht gevulde zak uitpuilt (myelomeningocele). Dit veroorzaakt slechte ontwikkeling van het ruggenmerg ter plaatse en kan leiden tot neurologische uitval en andere complicaties onder het defectniveau.",2025-09-18T15:55:26.293157+00:00
+assistant,"Prima begin! Je hebt het ontstaan van het defect (onvolledige sluiting van de neurale buis) en het gevolg (uitpuilen van ruggenmergweefsel en vliezen) goed samengevat.
+
+Wil je nu proberen te benoemen **welke embryonale processen of kiemlagen specifiek betrokken zijn** bij het ontstaan van de neurale buis Ã©n de omliggende weefsels?  
+En, kun je uitleggen **waarom kinderen met spina bifida vaak neurologische uitval hebben onder het defectniveau?**",2025-09-18T15:55:36.031249+00:00
+user,"Embryonale processen en kiemlagen
+Ectoderm:
+Neuroectoderm â neurale buis â centraal zenuwstelsel.
+Oppervlakte-ectoderm â huid over de buis.
+Mesoderm:
+Paraxiaal mesoderm â somieten â wervels en spieren rond de buis.
+Proces:
+Neurulatie: neurale plaat vouwt en sluit tot neurale buis.
+Primair (craniaal â caudaal) en secundair (lage rug/staart).
+2. Neurologische uitval bij spina bifida
+Ruggenmerg of zenuwen zijn beschadigd of blootgesteld.
+Functies onder het defectniveau (motoriek, gevoel) worden verstoord.
+Hoe lager het defect, hoe groter het gebied van uitval.",2025-09-18T15:56:13.165701+00:00
+assistant,"Uitstekend uitgelegd! Je koppelt de betrokken kiemlagen en processen (neurulatie, ectoderm, paraxiaal mesoderm, somieten) correct aan zowel de aanleg van het centrale zenuwstelsel als de omliggende structuren. Ook beschrijf je helder waarom juist neurologische uitval onder het defect ontstaat.
+
+Wil je tot slot in je eigen woorden beschrijven:  
+**Waarom het lumbosacrale defect zorgt voor een myelomeningocele met uitpuilen van ruggenmerg in een vochtblaas, en wat dit betekent voor latere problemen zoals verlamming of incontinentie?**",2025-09-18T15:56:24.662041+00:00
+user,"ChatGPT zei:
+Het lumbosacrale defect ontstaat doordat de neurale buis in dat gebied niet volledig sluit tijdens de embryonale ontwikkeling, waardoor wervelbogen ontbreken en het ruggenmerg samen met de meningen uitpuilt in een met vocht gevulde zak (myelomeningocele). Omdat het ruggenmerg daar niet goed ontwikkeld is, zijn de zenuwbanen die naar benen, blaas en darmen lopen aangetast. Dit leidt later vaak tot verlamming of spierzwakte in de benen en blaas- en darmincontinentie, afhankelijk van de hoogte en omvang van het defect.",2025-09-18T15:56:46.636164+00:00
+assistant,"Heldere en precieze uitleg! Je maakt goed duidelijk hoe het defect ontstaat (onvolledige sluiting, ontbrekende wervelbogen, uitpuilen van ruggenmerg en vliezen) en wat daarvan de gevolgen zijn (neurologische uitval onder het defect, met spierzwakte/verlamming en incontinentie).
+
+Je begrijpt het embryologisch proces en de klinische consequenties duidelijk!
+
+Goed gedaan â je kunt nu de embryonale kennis toepassen op verschillende aangeboren afwijkingen. Wil je nog verder oefenen, of is er een ander onderwerp waar je uitleg over wilt?",2025-09-18T15:56:57.471267+00:00

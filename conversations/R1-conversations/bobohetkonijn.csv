@@ -1,0 +1,63 @@
+role,content,created_at
+user,Embryologie,2025-09-17T17:04:05.345591+00:00
+assistant,"Letâs focus your learning using a clinical context:
+
+A healthy 25-year-old woman had routine prenatal care. At 24 weeks of pregnancy, an ultrasound revealed a small opening (~5 mm) on the right side of the babyâs belly, near the umbilical cord. Genetic tests (amniotic fluid analysis) at 26 weeks were normal. Over time, the opening enlarged (up to 34 mm), and parts of the babyâs intestines were seen floating in the amniotic fluid. The baby also measured smaller than expected. At 37 weeks, a caesarean section was performed. The newborn boy had parts of his small and large intestines, and stomach, located outside the abdomen. The supporting tissue was short, and the bowel appeared swollen. The diagnosis was gastroschisis, a defect in the abdominal wall.
+
+Letâs start with a foundational question:
+
+**What are the three primary germ layers formed during early embryonic development, and can you briefly name at least one structure that arises from each layer?**",2025-09-17T17:04:50.285587+00:00
+user,Laten we beginnen,2025-09-17T17:05:04.054437+00:00
+assistant,"Hier is de casus die je in deze module zal helpen om de eerste ontwikkelingsfases van een embryo beter te begrijpen:
+
+Een gezonde 25-jarige vrouw had een routine prenatale controle. Bij een echo op 24 weken werd een kleine opening (ongeveer 5 mm) aan de rechterkant van de buik van de baby, dicht bij de navelstreng, gevonden. Genetisch onderzoek (vruchtwaterpunctie) bij 26 weken was normaal. De opening werd groter (tot 34 mm) en delen van de darmen van de baby zweefden in het vruchtwater. De baby was kleiner dan verwacht. Na 37 weken volgde een keizersnede. De pasgeboren jongen had delen van zijn darmen en maag buiten de buik. De diagnose was gastroschisis (een buikwanddefect).
+
+Om te beginnen:  
+Wat wordt bedoeld met 'gastrulatie' in de embryonale ontwikkeling?",2025-09-17T17:05:17.995967+00:00
+user,Gastrulatie is het proces om van twee platen naar drie te gaan,2025-09-17T17:08:19.86789+00:00
+assistant,Dat is al goed in de richting! Gastrulatie is inderdaad het proces waarbij uit een tweelagig embryo een drielagig embryo ontstaat. Kun je de namen noemen van de drie kiemlagen die hierdoor gevormd worden?,2025-09-17T17:08:25.910152+00:00
+user,"Endoderm, mesoderm en ectoderm",2025-09-17T17:08:50.471074+00:00
+assistant,"Precies, dat klopt helemaal: endoderm, mesoderm en ectoderm zijn de drie kiemlagen die door gastrulatie ontstaan.
+
+Laten we verdergaan:  
+Kun je uitleggen wat met ""embryonale vouwingsprocessen"" wordt bedoeld? Wat houdt embryonale plooing (folding) in?",2025-09-17T17:08:57.588572+00:00
+user,Dat is het proces waarbij de neurale vouwen naar elkaar toen vouwen en de neurale buis vormen,2025-09-17T17:09:36.752752+00:00
+assistant,"Je beschrijft nu vooral de *neurulatie*, waarbij de neurale buis wordt gevormd.  
+Embryonale vouwingsprocessen zijn net iets breder: ze hebben te maken met het vormen van het driedimensionale lichaam uit de platte embryonale schijf. 
+
+Kun je nagaan wat er allemaal gebeurt als het embryo gaat vouwen in week 4? Heb je een idee hoe deze vouwingen bijdragen aan de vorming van het lichaam?",2025-09-17T17:09:45.589066+00:00
+user,Het hart komt op de goeie plek te liggen,2025-09-17T17:10:09.815922+00:00
+assistant,"Dat klopt, het hart komt inderdaad door de vouwingsprocessen meer naar de juiste (ventrale) positie te liggen! Je noemt al een mooi gevolg van het vouwen. 
+
+Als we kijken naar het hele embryo:  
+Welke richtingen van vouwen zijn er â en kun je bedenken hoe die samen van invloed zijn op het embryo als geheel?",2025-09-17T17:10:17.205697+00:00
+user,"Craniaal, caudaal, dorsaal, ventraal",2025-09-17T17:10:48.089601+00:00
+assistant,"Goed, je noemt de termen craniaal (richting hoofd), caudaal (richting staart), dorsaal (rugzijde), en ventraal (buikzijde). Prima!  
+
+Kun je uitleggen wat morfogenese betekent in de context van embryonale ontwikkeling?",2025-09-17T17:10:54.81939+00:00
+user,Het ontstaan van vorm,2025-09-17T17:11:13.94569+00:00
+assistant,"Helemaal juist! Morfogenese betekent inderdaad 'het ontstaan van vorm', en verwijst naar de processen waardoor het embryo en de organen hun uiteindelijke structuur krijgen.
+
+Nu een vervolgvraag:  
+Kun je de vier subdivisies van het mesoderm noemen?",2025-09-17T17:11:58.589752+00:00
+user,"Paraxiaal, intermediaire, lateraal en somieten",2025-09-17T17:12:32.030889+00:00
+assistant,"Je bent heel dichtbij! Drie van de vier zijn goed genoemd. Somieten zijn eigenlijk structuren die ontstaan uit Ã©Ã©n van de mesodermale subdivisies.  
+Kun je nagaan welke hoofdindeling mist, en weet je ook waar de somieten bij horen?  
+Tip: Het begint met ""ax..."".",2025-09-17T17:12:40.560635+00:00
+user,Axeraal,2025-09-17T17:12:53.879858+00:00
+assistant,"Bijna goed! Het juiste woord is ""axiaal"" mesoderm. Dus de vier subdivisies zijn: axiaal, paraxiaal, intermediair en lateraal plaat mesoderm.  
+
+Laatste basisvraag:  
+Wat betekent, in dit embryologische verband, het verschil tussen ""visceraal"" en ""parietaal""?",2025-09-17T17:13:01.524122+00:00
+user,Geen idee,2025-09-17T17:15:06.57204+00:00
+assistant,"Dat geeft niet! Wat weet je al over deze begrippen uit andere contexten, zoals de anatomie bij volwassenen? Bijvoorbeeld: heb je ooit gehoord van het ""visceraal peritoneum"" of ""parietaal peritoneum""? Wat weet je daarover?",2025-09-17T17:15:31.904473+00:00
+user,Ik weet het niet,2025-09-17T17:15:47.756202+00:00
+assistant,"Geen probleem!  
+Denk aan het volgende: in het lichaam zijn de organen (zoals maag, darmen) omgeven door vliezen. Het ""viscerale"" deel ligt direct Ã³p de organen, terwijl het ""pariÃ«tale"" deel tegen de wand van de lichaamsholte aan ligt.
+
+Dus in de embryologie:
+- *Visceraal* betekent: gericht op/tegen de organen zelf.
+- *PariÃ«taal* betekent: gericht op de lichaamswand.
+
+Nu je deze uitleg hebt, kun je in eigen woorden uitleggen wat ""visceraal mesoderm"" en ""pariÃ«taal mesoderm"" zijn?",2025-09-17T17:15:59.391881+00:00
+user,Ik weet het niet,2025-09-17T17:16:31.584509+00:00

@@ -1,0 +1,148 @@
+role,content,created_at
+user,ik ben klaar om te beginnen,2025-09-17T13:34:14.734118+00:00
+assistant,"Prima! Laten we aan de slag gaan met het leerdoel voor deze sessie: je moet de sleutelprocessen van de embryonale ontwikkeling in de eerste acht weken kunnen beschrijven en uitleggenâmet nadruk op week 4 en 5âwaarbij we kijken naar embryonale plooivorming, gastrulatie, de oorsprong van lichaamsstructuren uit de drie kiemlagen, ontwikkeling van het mesoderm in de verschillende subgroepen, en het belang van ventrale sluiting voor de lichaamsholte.
+
+Hier is de casus om de theorie te koppelen aan de praktijk:
+> Een gezonde 25-jarige vrouw had een routine zwangerschapscontrole. Bij een echo op 24 weken bleek er een openinâg (~5 mm) rechts naast de navel van de baby te zitten, die later groter werd. Delen van de darmen van de baby dreven in het vruchtwater. Na de geboorte had de baby delen van maag, dunne en dikke darm buiten de buikholte. De diagnose was gastroschisis: een defect in de buikwand.
+
+Eerste vraag:  
+Wat is gastrulatie?",2025-09-17T13:34:30.469561+00:00
+user,het proces van van 2 naar 3 lagen komen,2025-09-17T13:35:35.165742+00:00
+assistant,"Dat klopt! Gastrulatie is inderdaad het proces waarbij het tweelagige embryo (epiblast en hypoblast) wordt omgevormd tot een drie-lagig embryo met endoderm, mesoderm en ectoderm.
+
+Kun je de drie kiemlagen bij naam noemen? Wat zijn ze?",2025-09-17T13:35:42.978224+00:00
+user,"ectoderm, mesoderm, endoderm",2025-09-17T13:36:09.47999+00:00
+assistant,"Prima, dat zijn inderdaad de drie kiemlagen: ectoderm, mesoderm, en endoderm.
+
+Volgende vraag om basisbegrippen verder te verkennen:  
+Wat betekent âembryonale plooivormingâ?",2025-09-17T13:36:15.309463+00:00
+user,het vouwingsproces,2025-09-17T13:36:47.530102+00:00
+assistant,"Klopt, het is inderdaad een vouwingsproces! Kun je toelichten wÃ¡t er dan precies wordt âgevouwenâ tijdens embryonale plooivorming? Wat gebeurt er met het embryo zelf in deze fase?",2025-09-17T13:36:53.56317+00:00
+user,hierbij sluit de ruggenmerg?,2025-09-17T13:38:19.9376+00:00
+assistant,"Interessante gedachte! Tijdens de embryonale plooivorming (of embryo folding) verandert het embryo inderdaad sterk van vorm, en de sluiting van de neurale buis (waaruit het ruggenmerg ontstaat) gebeurt ongeveer in dezelfde periode, maar is een apart proces. 
+
+Bij de plooivorming wordt het platte embryo door verschillende plooibewegingen een soort buisje. Wat gebeurt er met de lichaamswand en lichaamsholte tijdens deze plooivorming? En hoe verandert bijvoorbeeld de positie van de dooierzak (yolk sac) ten opzichte van het embryo?",2025-09-17T13:38:32.021851+00:00
+user,epiblast cellen migreren door primitieve put en vormen een buis in de mediaan van de embryo. Het notochord induceert mede de vorming van het zenuwstelsel. Belangrijk omdat het de omliggende weefsels gaat zeggen wat ze moeten doen. Induceerd mede de vorming van het zenuwstelsel.,2025-09-17T13:40:11.259255+00:00
+assistant,"Je hebt het nu vooral over gastrulatie en de rol van het notochord bij de inductie van het zenuwstelsel beschreven. Dat klopt! Maar ik vroeg net naar wat er gebeurt met de *lichaamswand* en de *lichaamsholte* tijdens de embryonale plooivorming.
+
+Denk eens terug aan het platte schijfvormige embryo: als het embryo zich âvouwtâ, wat gebeurt er dan met de buitenste randen van dat platte plaatje? En hoe ontstaat uiteindelijk de buikwand? Kun je daar wat meer over beschrijven?",2025-09-17T13:40:21.70722+00:00
+user,"1.	Epiblast cellen migreren door primitieve groeve en vervangen de hypoblast = endoderm
+2.	Epiblast cellen migreren door primitieve groeve en creeÃ«ren een nieuwe kiemlaag = mesoderm
+3.	Overgebleven epiblast cellen worden ectoderm",2025-09-17T13:40:41.836983+00:00
+assistant,"Goed! Wat je nu beschrijft zijn de stappen van gastrulatie: de vorming van de drie kiemlagen vanuit epiblastcellen via migratie door de primitieve groeve. Dat is helemaal correct.
+
+Maar de vorige vraag ging over hoe het embryo als een platte schijf tijdens de plooivorming verandert van structuur. Dus: **Wat gebeurt er met die platte schijf tijdens de embryonale plooivorming? Hoe ontstaan de buikwand en de lichaamsholte?**  
+
+Wil je daar nog een poging toe doen? Denk aan termen als âcraniaalâ, âcaudaalâ, âlateraalâ, en misschien de dooierzakâwat gebeurt daarmee tijdens de folding?",2025-09-17T13:40:53.251144+00:00
+user,nee,2025-09-17T13:41:02.463148+00:00
+assistant,"Geen probleem! Ik zal proberen het voor je op te splitsen:
+
+Tijdens embryonale plooivorming vouwt het embryo zich in verschillende richtingen, namelijk:
+- in de **craniaal-caudale richting** (dus van hoofd naar staart)
+- en in **laterale richting** (zijkanten naar binnen).
+
+**Wat denk je dat het effect is van het naar binnen vouwen van de zijkanten (laterale plooivorming)? Wat gebeurt er bijvoorbeeld met de buikwand en welke structuur komt er aan de buitenkant van het embryo te liggen?**",2025-09-17T13:41:11.927926+00:00
+user,het nestelen in de baarmoeder,2025-09-17T13:41:36.142892+00:00
+assistant,"Dat is een mooi gedachtensprong, maar het nestelen (innesteling of implantatie) gebeurt al vÃ³Ã³r deze plooivorming. Embryonale plooivorming gebeurt pas in week 4, nadat het embryo al is ingenesteld.
+
+Probeer je in te beelden: je hebt een **platte schijf** van cellen. Die schijf krult zich naar binnen aan de randen (lateraal) en ook van kop (craniaal) en staart (caudaal). Daardoor wordt het embryo cilindervormig in plaats van plat. Dit proces zorgt er ook voor dat de lichaamswand en de buikhuid worden gevormd.
+
+**Wil je eens proberen uit te leggen wat er gebeurt met de dooierzak (yolk sac) en de embryonale darm bij deze plooivorming?** Wat gebeurt er precies als het embryo zân zijkanten naar elkaar toe âvouwtâ?",2025-09-17T13:41:49.486095+00:00
+user,"Somieten zijn bouwestenen / segmenten die weer differentiÃ«ren in:
+-	Myotoom
+-	Dermatoom
+-	Sclerotoom",2025-09-17T13:44:26.865286+00:00
+assistant,"Super! Je hebt helemaal goed uitgelegd wat somieten zijn en waarin ze differentiÃ«renâmyotoom (spieren), dermatoom (huid) en sclerotoom (bot van wervelkolom). 
+
+Laten we nog heel even terug naar het vouwingsproces. Je hoeft geen perfect antwoord te geven, maar probeer eens:  
+**Tijdens de laterale plooivorming âomsluitenâ de lichaamswanden de dooierzak. Wat gebeurt er daardoor met het endoderm, en hoe wordt de primitieve darm gevormd?** Heb je daar een idee over?",2025-09-17T13:44:38.420078+00:00
+user,nee,2025-09-17T13:44:42.631315+00:00
+assistant,"Prima, je geeft het eerlijk aan! Dit kan lastig zijn.
+
+Denk aan dit: als de zijkanten van het embryo naar elkaar toe vouwen (laterale plooivorming), âsluitenâ ze zich rond een deel van de dooierzak. Dat deel wordt dan **afgesnoerd** en komt in het embryo te liggenâdat wordt de **primitieve darm** (precies: het endoderm aan de binnenkant). De rest van de dooierzak blijft buiten het embryo.
+
+**Wil je nu proberen samen te vatten: wat gebeurt er met de buikwand en de primitieve darm tijdens deze plooivorming?**",2025-09-17T13:44:52.879052+00:00
+user,weet ik niet,2025-09-17T13:44:58.163098+00:00
+assistant,"Geen probleem, dat is logisch als je het nog nooit visueel hebt gezien! Je mag altijd een afbeelding uit je boek of het internet erbij zoeken als dat helpt.
+
+Nog Ã©Ã©n keer een korte uitleg in stukjes:  
+- De zijkanten (lateraal) van het platte embryo buigen naar elkaar toe en âsluitenâ aan de voorkant (ventraal).
+- Hierdoor wordt er een buisachtige structuur van het endoderm gevormd: dit wordt de **primitieve darm** binnen in het embryo.
+- Tegelijkertijd vormt het ectoderm, samen met mesoderm, de **buikwand** die nu de organen (zoals de darm) insluit.
+
+Laatste check om het even in je eigen woorden te proberen:  
+**Kun je nu proberen te beschrijven hoe de embryonale buikwand ontstaat uit de platte schijf?** Wat gebeurt er als die zijkanten naar elkaar toe vouwen?",2025-09-17T13:45:11.367309+00:00
+user,"De embryonale buikwand ontstaat uit een platte schijf door een proces van vouwing, waarbij de zijkanten van de schijf naar beneden buigen en naar elkaar toe bewegen om de buikholte te sluiten en de organen te vormen. Dit proces is cruciaal voor de vorming van de buikwand en de inbedding van de organen, en resulteert in een buisvormig embryo",2025-09-17T13:46:25.709847+00:00
+assistant,"Heel goed! Dit is een duidelijke uitleg: het embryo vouwt zich zodanig dat de zijkanten naar elkaar toe komen, waardoor de buikwand wordt gevormd en de organen ingesloten raken in een buisvormig lichaam. Dat is inderdaad de essentie van embryonale plooivorming.
+
+Volgende basisvraag:  
+Wat is het verschil tussen de **axiale**, **paraxiale**, **intermediaire** en **laterale plaatmesoderm**? Kun je kort aangeven waar elk van deze mesoderm-subtypes ligt en/of welke structuren ze zullen vormen?",2025-09-17T13:46:35.379931+00:00
+user,"ze liggen aan de voor, zijkant en in het midden van het mesoderm. aan de boven en onderkant",2025-09-17T13:47:45.947261+00:00
+assistant,"Mooi dat je al richting de ligging denkt! Zou je het nog iets specifieker kunnen proberen te maken? Denk eens na:  
+- Welke ligt helemaal in het midden, langs de notochord?
+- Welke ligt juist het meest aan de buitenkant, tegen het ectoderm aan?
+- Waaruit ontstaan de somieten?
+Misschien kun je de volgorde van binnen naar buiten proberen te beschrijven?",2025-09-17T13:47:53.694883+00:00
+user,nee dat weet ik niet,2025-09-17T13:48:22.963936+00:00
+assistant,"Dat is niet erg, dit is ook best lastig en het helpt om het vaak te herhalen of te visualiseren!
+
+Hier wat structuur als hint:
+Denk aan de doorsnede van een embryo, van binnen naar buiten:
+
+1. **Axiaal mesoderm**: ligt helemaal in het midden, direct naast de notochord.
+2. **Paraxiaal mesoderm**: ligt naast het axiaal mesoderm â dit vormt later de somieten.
+3. **Intermediair mesoderm**: ligt weer iets verder naar buiten, tussen paraxiaal en laterale plaat.
+4. **Laterale plaatmesoderm**: ligt het meest naar buiten en splitst zich later in twee lagen.
+
+Nu je deze volgorde weet:  
+**Kun je proberen te benoemen welke hoofdstructuren of organen elk van deze mesodermale regioâs later vormen? Geef voor elk 1 voorbeeld als je kunt.**",2025-09-17T13:48:35.823083+00:00
+user,1.,2025-09-17T13:50:02.372939+00:00
+assistant,"Dat is een begin! Kun je voor het **axiaal mesoderm** een voorbeeld geven van wat daaruit gevormd wordt? En kun je daarna proberen hetzelfde te doen voor paraxiaal, intermediair en laterale plaatmesoderm? Je hoeft niet alles te wetenâprobeer van elke zone Ã©Ã©n structuur of orgaan te noemen die je kent, of waar je een vermoeden van hebt.",2025-09-17T13:50:10.813352+00:00
+user,paraxiaal mesoderm: somieten en lateraal mesoderm is somatisch,2025-09-17T13:50:32.464249+00:00
+assistant,"Goed geprobeerd! Je hebt het paraxiaal mesoderm correct gekoppeld aan de somietenâprima.
+
+Wat betreft het laterale plaatmesoderm: dat splitst zich inderdaad in twee lagen, het **somatisch (parietaal)** en **splanchnisch (visceraal)** mesoderm.
+
+Denk nu nog aan het **axiaal mesoderm** (helemaal in het midden) en het **intermediair mesoderm** (tussen paraxiaal en lateraal in).
+
+- Kun je bedenken wat eruit het axiale mesoderm ontstaat?
+- En waaruit bestaat of wat vormt het intermediair mesoderm?  
+
+Als je het niet direct weet, kun je hardop denken of aangeven wat je wÃ©l weet!",2025-09-17T13:50:43.650252+00:00
+user,"Het axiale mesoderm vormt het notokord (chorda dorsalis), wat een belangrijke structuur is die dient als een ruggengraat en de ontwikkeling van het centrale zenuwstelsel (het brein en de wervelkolom) ondersteunt. Het intermediaire mesoderm vormt de structuren van het urogenitale systeem, inclusief de nieren en de voortplantingsorganen (zoals de geslachtsklieren).",2025-09-17T13:53:15.077918+00:00
+assistant,"Uitstekend! Je beschrijft het heel goed:
+- Het **axiale mesoderm** vormt de notochord (chorda dorsalis), essentieel voor de ontwikkeling van de wervelkolom en als signaalcentrum voor de vorming van het zenuwstelsel.
+- Het **intermediaire mesoderm** geeft inderdaad aanleiding tot urogenitale structuren, zoals de nieren en voortplantingsorganen.
+- Je hebt al genoemd dat het **paraxiale mesoderm** de somieten vormt, waaruit bot, spieren en dermis van de romp ontstaan.
+- Het **laterale plaatmesoderm** splitst in pariÃ«taal (somatisch, vormt o.a. lichaamswand) en visceraal (splanchnisch, vormt o.a. de bekleding rond organen).
+
+Je beheerst nu de basisstructuren en de termen die in deze fase belangrijk zijn.  
+Laatste basisvraag:  
+Wat betekenen de anatomische termen **craniaal**, **caudaal**, **ventraal**, en **dorsaal**?",2025-09-17T13:53:30.758438+00:00
+user,"craniaal = snuitkant
+caudaal = bovenkant
+ventraal = voorkant
+dorsaal is achterkant",2025-09-17T13:54:02.465526+00:00
+assistant,"Je zit al in de goede richting, maar let op de precieze betekenis van de termen! Denk nog eens goed na, vooral bij ""caudaal"" en ""ventraal"".  
+- ""Craniaal"": klopt, is richting de kop of het hoofd  
+- ""Caudaal"": betekent ...? Wat betekent het letterlijk met het woord ""cauda""?
+- ""Ventral"" en ""dorsaal"": gaat het om voor/achter, of onder/boven in het embryo?  
+
+Wil je het nog eens proberen aan te passen? Denk aan een viervoeter als model!",2025-09-17T13:54:11.505571+00:00
+user,dorsaal is bovenkant,2025-09-17T13:54:21.614261+00:00
+assistant,"Dat klopt in de context van het embryo op handen en voeten (âviervoetige houdingâ): dorsaal is inderdaad de âbovenkantâ of rugzijde van het embryo, en ventraal is de âonderkantâ of buikzijde.
+
+Wil je de vier termen nu in Ã©Ã©n keer kort samenvatten, elk met een paar woorden? Dus:  
+- Craniaal =
+- Caudaal =
+- Dorsaal =
+- Ventraal =
+
+Dan is deze basis-fase rond!",2025-09-17T13:54:30.235938+00:00
+user,kan ik de chat afronden,2025-09-17T13:54:47.52577+00:00
+assistant,"Natuurlijk, dat kan altijd! Als je wilt, kun je op elk moment stoppen.  
+
+Wil je nog even snel oefenen of alles samenvatten, of ben je tevreden met wat je geleerd hebt over de kernprocessen van de vroege embryonale ontwikkeling?  
+Laat gerust weten als je verder wilt oefenen, of liever nu afrondt!",2025-09-17T13:54:54.987851+00:00
+user,ik rond af,2025-09-17T13:54:57.168868+00:00
+assistant,"Dat is helemaal goed. Bedankt voor het meedoen en succes met je verdere studie! Mocht je later nog willen oefenen of vragen hebben, dan kun je altijd terugkomen. Fijne dag verder!",2025-09-17T13:55:05.117022+00:00

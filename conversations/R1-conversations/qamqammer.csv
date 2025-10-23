@@ -1,0 +1,97 @@
+role,content,created_at
+user,hoi,2025-09-18T15:32:03.979392+00:00
+assistant,"Hallo! Laten we beginnen. Hier is de casus waarmee we werken:
+
+Een 25-jarige vrouw met een gezonde zwangerschap had bij 24 weken een echo waarop een opening rechts naast de navel van de baby werd gezien. Uiteindelijk werden delen van de darmen buiten het buikje gezien: gastroschisis.
+
+Om te starten:  
+Wat is gastrulatie? Kun je uitleggen wat deze term betekent?",2025-09-18T15:32:12.115655+00:00
+user,nee ik weet niet wat dat betekend,2025-09-18T15:32:36.548562+00:00
+assistant,"Geen probleem! Denk rustig na: gastrulatie gebeurt heel vroeg in de embryonale ontwikkeling. Het is een proces waarbij uit Ã©Ã©n laag (de blastula) uiteindelijk verschillende lagen ontstaan, die later verschillende weefsels en organen vormen.
+
+Heb je wel eens gehoord van de âkiemlagenâ? Weet je hoeveel kiemlagen er zijn na gastrulatie?",2025-09-18T15:32:43.61955+00:00
+user,3,2025-09-18T15:32:55.097225+00:00
+assistant,"Goed! Er ontstaan inderdaad drie kiemlagen na gastrulatie.
+
+Weet je ook hoe deze drie kiemlagen heten?",2025-09-18T15:33:00.059441+00:00
+user,endo meso en ectoderm,2025-09-18T15:33:09.037293+00:00
+assistant,"Klopt helemaal! De drie kiemlagen zijn het endoderm, mesoderm en ectoderm.
+
+Laten we nu naar het mesoderm kijken. Kun je een of meer verschillende soorten mesoderm noemen die ontstaan tijdens de embryonale ontwikkeling?",2025-09-18T15:33:15.84153+00:00
+user,spier organen bot,2025-09-18T15:33:43.304511+00:00
+assistant,"Je zit in de goede richting â deze structuren ontstaan inderdaad uit het mesoderm. Maar het mesoderm zelf wordt in verschillende delen (subdivisies) verdeeld, bijvoorbeeld afhankelijk van waar ze in het embryo liggen.
+
+Weet je hoe deze verschillende delen of gebieden van het mesoderm heten? Denk bijvoorbeeld aan de termen *axiaal*, *paraxiaal*, *intermediair*, of *lateraal plaat mesoderm*. Welke hiervan zegt je iets of kun je er eentje noemen?",2025-09-18T15:33:52.945411+00:00
+user,laterale plaat zegt me iets,2025-09-18T15:35:01.012257+00:00
+assistant,"Heel goed! De laterale plaat is inderdaad Ã©Ã©n van die delen.
+
+Er zijn nog drie andere belangrijke verdelingen van het mesoderm. Kun je er nog een opnoemen, bijvoorbeeld een die dichtbij de as van het lichaam ligt? Misschien zegt ""axiaal"" of ""paraxiaal"" je iets?",2025-09-18T15:35:08.213379+00:00
+user,wervelkolom,2025-09-18T15:35:31.818343+00:00
+assistant,"Goed opgemerkt! De wervelkolom ontwikkelt zich uit het *paraxiale mesoderm*. Het paraxiale mesoderm vormt aan weerszijden van de middenlijn van het embryo een reeks van blokjes (somieten), en daaruit ontstaan onder andere de wervelkolom en de spieren van de rug.
+
+Kun je nu de namen van de vier hoofdonderdelen van het mesoderm opsommen? Ze zijn: axiaal, paraxiaal, ..., en ...?",2025-09-18T15:35:40.724502+00:00
+user,intermediair en lateraal,2025-09-18T15:37:16.413172+00:00
+assistant,"Uitstekend! De vier hoofdonderdelen van het mesoderm zijn dus: axiaal, paraxiaal, intermediair en lateraal plaat mesoderm.
+
+Een stapje verder:  
+Tijdens de embryonale ontwikkeling vinden bepaalde richtingen plaats zoals âcraniaalâ en âcaudaalâ, en ook âventraalâ en âdorsaalâ. Kun je kort uitleggen waar deze termen (craniaal, caudaal, ventraal, dorsaal) voor staan?",2025-09-18T15:37:25.179966+00:00
+user,richting hoofd staart buik en rug,2025-09-18T15:38:05.135314+00:00
+assistant,"Precies! âCraniaalâ betekent richting het hoofd, âcaudaalâ richting de staart, âventraalâ is richting de buik en âdorsaalâ is richting de rug.
+
+Laten we nog Ã©Ã©n term behandelen:  
+Wat betekent âembryonale vouwingâ of âembryonic foldingâ tijdens de ontwikkeling? Waar verwijst deze term naar?",2025-09-18T15:38:13.026614+00:00
+user,het als het ware dubbelvouwen van het embryo waardoor het hart migreert naar de romp,2025-09-18T15:38:46.641564+00:00
+assistant,"Heel goed! Embryonale vouwing houdt inderdaad in dat het embryo zich als het ware âdubbelvouwtâ. Tijdens dit proces beweegt onder andere het hart (oorspronkelijk meer naar voren gelegen) naar zijn definitieve plek in de borst, en vormt het embryo een driedimensionale structuur.
+
+Denk je dat deze vouwing alleen in Ã©Ã©n richting gebeurt, of in meer dan Ã©Ã©n richting? Kun je dat toelichten?",2025-09-18T15:38:54.495893+00:00
+user,deze vouwing gebeurt zowel caudaal als craniaal naar binnen als het waren,2025-09-18T15:39:33.542413+00:00
+assistant,"Goed bezig! De vouwing gebeurt inderdaad zowel in craniaal (hoofdzijde) als caudaal (staartzijde) richting naar binnen, Ã©n daarnaast ook in laterale richting. Hierdoor sluit het embryo zich van een platte schijf tot een buisvormige structuur.
+
+Nu een volgende vraag over de processen:  
+Kun je uitleggen wat er gebeurt tijdens gastrulatie? Wat zijn de belangrijkste stappen die plaatsvinden?",2025-09-18T15:39:43.843369+00:00
+user,het ontwikkelen van 2 lagen naar de drie lagen,2025-09-18T15:44:59.413012+00:00
+assistant,"Heel goed! Gastrulatie is inderdaad het proces waarbij het embryo van twee lagen (epiblast en hypoblast) naar drie kiemlagen (ectoderm, mesoderm en endoderm) gaat.
+
+Weet je ook hÃ³Ã© die derde laag erbij komt? Wat gebeurt er fysiek met de cellen uit de epiblast tijdens gastrulatie?",2025-09-18T15:45:06.678893+00:00
+user,dat komt omdat er cellen van het epiblast migreren naar binnen op de streep  waardoor er 3 lagen ontstaan,2025-09-18T15:45:47.722557+00:00
+assistant,"Precies, heel goed uitgelegd! De cellen van het epiblast migreren naar binnen via de *primitiefstreep*, en vormen zo het mesoderm en endoderm. De cellen die achterblijven vormen het ectoderm.
+
+Laten we nu verder gaan met het proces van embryonale vouwing:  
+Waarom is deze vouwing van het embryo belangrijk voor het vormen van de lichaamsholte (zoals de buikholte)? Wat denk je dat er zou gebeuren zonder deze vouwing?",2025-09-18T15:45:56.549925+00:00
+user,daardoor gaat alles op zijn plek liggen en wordt alles in lagen zakjes verdeeld,2025-09-18T15:46:43.827904+00:00
+assistant,"Precies, dat is een goed begin van het antwoord! Embryonale vouwing zorgt ervoor dat de verschillende structuren van het embryo op de juiste locaties terechtkomen en dat de lichaamsholten, zoals de buikholte, ontstaan doordat de wand van het embryo naar binnen vouwt en dicht.
+
+Kun je uitleggen welke structuren precies bijdragen aan het vormen en afsluiten van de lichaamsholte (bijvoorbeeld het coeloom)? Welke rol spelen het laterale plaat mesoderm en de ventrale sluiting hierbij?",2025-09-18T15:46:52.740984+00:00
+user,deze migreren samen over het hele embryo en vormen zo de huid,2025-09-18T15:48:14.130202+00:00
+user,deze migreren samen over het hele embryo en vormen zo samen de voorloper van de lichaamsholte die uit viscerale en parietale laag bestaan,2025-09-18T15:50:08.521278+00:00
+assistant,"Heel goed! Het laterale plaatmesoderm splitst zich inderdaad in een viscerale (binnenste) en pariÃ«tale (buitenste) laag die samen de voorlopige lichaamsholte (coeloom) vormen. Deze lagen migreren en sluiten zich aan de ventrale zijde, waardoor de lichaamsholte ontstaat waarin de organen komen te liggen.
+
+Stel nu: als deze ventrale sluiting niet volledig lukt, wat voor soort afwijking zou je dan kunnen verwachten bij een pasgeborene? Wat gebeurt er met de organen die normaal binnen de lichaamsholte horen te liggen?",2025-09-18T15:50:17.89072+00:00
+user,er kan een gat ontstaan in de buik waardoor organen zoals de darmen naar buiten kunnen komen,2025-09-18T15:50:53.580768+00:00
+assistant,"Precies, dat is het goed verwoord! Als de ventrale sluiting niet compleet is, ontstaat er een opening in de buikwand en kunnen organen, zoals de darmen, buiten het lichaam terechtkomen.
+
+Nu gaan we terug naar de casus:
+
+Een baby wordt geboren met delen van de darmen en maag buiten het buikje, waarbij ze in het vruchtwater liggen: gastroschisis.
+
+Kun je uitleggen wat er in deze casus is gebeurd met de kennis die we net hebben doorgenomen?",2025-09-18T15:51:03.24372+00:00
+user,tijdens het migreren van het laterale plaatmesoderm naar de ventrale zijde gaat er iets fout waardoor de ventrale sluiting niet lukt en er een gat in de buik ontstaat. hierdoor kunnen de darmen naar buiten komen,2025-09-18T15:53:06.99952+00:00
+assistant,"Heel goed uitgelegd! Je koppelt de embryonale ontwikkeling duidelijk aan het klinische beeld: als de ventrale sluiting door het laterale plaatmesoderm niet goed verloopt, ontstaat een opening (bijvoorbeeld gastroschisis) waardoor buikorganen buiten het lichaam kunnen komen te liggen.
+
+Kun je nog uitleggen waarom een kind met gastroschisis soms âkleinâ of met een lager geboortegewicht geboren wordt, zelfs als het probleem vooral bij de buikwand zit? Wat denk je daarover?",2025-09-18T15:53:15.384262+00:00
+user,omdat ze minder gegroeid zijn door een tekort aan cellen en migratie,2025-09-18T15:54:05.292738+00:00
+assistant,"Dat is een logische gedachte. Je noemt een celtekort, maar denk ook eens aan de gevolgen van darmen die langdurig buiten het lichaam liggen en in contact komen met vruchtwater. Wat zou dat kunnen betekenen voor de werking van de darmen en de opname van voedingsstoffen tijdens de zwangerschap?",2025-09-18T15:54:11.233292+00:00
+user,de werking van de darmen verslechtert waardoor het embryo niet genoeg voedingstoffen krijgt om volledig te groeien,2025-09-18T15:54:57.786501+00:00
+assistant,"Precies! Dat is het belangrijkste gevolg: als de darmen buiten het lichaam en in contact met vruchtwater liggen, raken ze geÃ¯rriteerd of beschadigd en kunnen ze minder goed voedingsstoffen opnemen. Hierdoor groeit het embryo minder goed en kan het kleiner of lichter geboren worden.
+
+Je hebt nu veel belangrijke concepten gekoppeld aan deze casus. Hier is de afsluitende vraag om alles samen te brengen:
+
+Hoe begrijp je nu de oorzaken achter de klinische bevindingen in deze casus? Schrijf alles op wat je kunt bedenken: jouw ideeÃ«n, redeneringen en verbanden met wat je hebt geleerd. Hoe vollediger je uitleg, hoe beter het helpt voor je inzicht, examens en het klinisch herkennen van gastroschisis!",2025-09-18T15:55:08.96753+00:00
+user,ik begrijp dat tijdens de gastrulatie het embryo van 2 naar 3 lagen gaan. hierna migreert het laterale plaatmesoderm om het coeloom te vormen maar dat gaat niet goed waardoor de buik niet volledig sluit de darmen naar buitenkunnen komen en beschadigen waardoor het kind een lager gewicht heeft,2025-09-18T15:57:09.896701+00:00
+assistant,"Goed gedaan! Je hebt de kern van de embryonale ontwikkelingsprocessen en hun relatie tot de klinische bevindingen van gastroschisis duidelijk samengevat.
+
+Laten we nu deze kennis toepassen op een andere, maar verwante casus:
+
+Een 27-jarige zwangere vrouw krijgt bij 13 weken zwangerschapsecho te horen dat haar baby een opening in de onderrug heeft met een uitpuilende zak. Hierin bevinden zich delen van het ruggenmerg en de vliezen: spina bifida met myelomeningocele.
+
+Kun je uitleggen wat er in deze casus is gebeurd?",2025-09-18T15:57:20.40741+00:00

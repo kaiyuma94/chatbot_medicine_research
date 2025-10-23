@@ -1,0 +1,86 @@
+role,content,created_at
+user,hoi,2025-09-17T13:22:44.968833+00:00
+assistant,"Hallo! Laten we aan de slag gaan.
+
+Hier is de casus om alles in context te plaatsen:
+
+Een gezonde 25-jarige vrouw had routinematige zwangerschapszorg. Tijdens een echo op 24 weken werd een kleine opening (~5 mm) aan de rechterkant van de buik van de baby, vlak bij de navelstreng, gezien. Genetisch onderzoek was normaal. De opening werd groter, en delen van de darmen zweefden in het vruchtwater. Bij geboorte lagen de darmen buiten de buik. Dit heet gastroschisis.
+
+Nu, om te beginnen met de basis:
+
+Wat is gastrulatie?",2025-09-17T13:22:54.911471+00:00
+user,het dicht gaan van de neurale buis tijdens de 1e 4 weken van de zwangerschap,2025-09-17T13:24:36.333477+00:00
+assistant,"Dat is een goede poging, maar gastrulatie is iets anders dan het sluiten van de neurale buis. Denk goed na:
+
+- Gastrulatie komt iets eerder dan neurale buissluiting voor.
+- Het gaat over de vorming van verschillende lagen in het embryo.
+
+Wat weet je over de drie kiemlagen? Welke worden gevormd tijdens gastrulatie?",2025-09-17T13:24:43.175158+00:00
+user,"je hebt een ectoderm, mesoderm en endoderm",2025-09-17T13:25:21.061297+00:00
+assistant,"Heel goed! Tijdens gastrulatie worden inderdaad de drie kiemlagen gevormd: ectoderm, mesoderm en endoderm. Dit is een belangrijk proces in de vroege embryonale ontwikkeling.
+
+Laten we een andere basisvraag stellen, in de context van de eerdere casus:
+
+Wat betekent âembryonale vouwingâ tijdens de ontwikkeling van het embryo?",2025-09-17T13:25:28.802491+00:00
+user,dan vormt die buis,2025-09-17T13:25:42.171729+00:00
+assistant,"Je zit in de goede richting â bij embryonale vouwing krijgt het embryo inderdaad een buisachtige vorm! Maar kun je iets specifieker uitleggen wat er precies gebeurt tijdens de embryonale vouwing? 
+
+Denk bijvoorbeeld aan hoe het embryo in verschillende richtingen vouwt (craniaal, caudaal, lateraal), en wat het nut daarvan is. Wat gebeurt er met de ligging van de kiemlagen en de lichaamswand tijdens deze vouwing?",2025-09-17T13:25:51.834626+00:00
+user,dat weet ik niet,2025-09-17T13:26:44.511729+00:00
+assistant,"Geen probleem! Het is een complex onderwerp. Laten we het samen stap voor stap bekijken.
+
+Tijdens embryonale vouwing vouwt het embryo zich zowel van hoofd naar staart (craniaal naar caudaal) als van zijkant naar zijkant (lateraal). Hierdoor verandert het platte embryodisc in een buisvormig embryo. 
+
+Waarom denk je dat deze vouwing belangrijk is voor de vorming van de buikwand en de lichaamsvorm? Wat zou er kunnen gebeuren als deze vouwing niet correct plaatsvindt?",2025-09-17T13:26:54.507199+00:00
+user,heb je er een plaatje bij?,2025-09-17T13:27:43.740265+00:00
+assistant,"Ik kan jou nu niet direct een plaatje tonen, maar je kunt eenvoudig een afbeelding zoeken met de zoekterm: âembryonic folding human embryoâ. Daar zie je vaak een reeks tekeningen waarbij een plat schijfje opkrult tot een buis. 
+
+Om het visueel voor je te beschrijven:  
+- In het begin ligt het embryo als een platte schijf.
+- Tijdens de craniaal-caudale vouwing buigen het hoofd- en staartuiteinde naar elkaar toe.
+- Tijdens de laterale vouwing krullen de zijkanten naar beneden, naar elkaar toe, zodat er een buis ontstaat.
+
+Herken je aan deze beschrijving wat het gevolg is voor de ligging van (bijvoorbeeld) de darm en de buikwand? Wat denk je gebeurt er met de darm, als deze vouwing tekortschiet?",2025-09-17T13:27:55.829244+00:00
+user,nee nieuwe casus,2025-09-17T13:28:05.561253+00:00
+assistant,"We gaan nog even door met de basiskennis, want die is belangrijk voordat je een nieuwe casus goed kunt analyseren.
+
+Voordat ik een nieuwe casus geef, wil ik eerst weten: kun je drie kiemlagen nogmaals benoemen en aangeven welke soorten weefsels of organen uit elke laag ontstaan? Bijvoorbeeld: wat ontstaat uit het ectoderm?
+
+Probeer bij elke kiemlaag minstens Ã©Ã©n structuur of orgaan te noemen die eruit ontstaat.",2025-09-17T13:28:50.953548+00:00
+user,"ectoderm:huid en zo, endoderm: darmen, mesoderm: organen",2025-09-17T13:30:05.428869+00:00
+assistant,"Dat is al een goed begin! Je herkent duidelijk al een paar basisprincipes. Om het nog wat concreter te maken:
+
+- Ectoderm: huid en zenuwstelsel
+- Endoderm: binnenbekleding van het maag-darmkanaal en organen als lever en longen
+- Mesoderm: spieren, botten, bloedvaten en veel inwendige organen
+
+We gaan door met een basisterm uit het leerdoel:
+
+Wat betekenen de begrippen **axiaal**, **paraxiaal**, **intermediair** en **lateraal plaatmesoderm** in de embryologie? Probeer te benoemen waar elk zich ongeveer in het embryo bevindt, of wat daaruit ontstaat.",2025-09-17T13:30:16.549546+00:00
+user,ik weet het niet zeg het me,2025-09-17T13:31:31.0103+00:00
+assistant,"Dat is niet erg! Laten we het samen opbouwen. In plaats van direct het antwoord te geven, ga ik je stap voor stap begeleiden.
+
+Het mesoderm (Ã©Ã©n van de drie kiemlagen) verdeelt zich tijdens de ontwikkeling in vier delen, afhankelijk van hun positie ten opzichte van de lichaamsas.
+
+Kun je bedenken wat de term âaxiaalâ betekent, als je denkt aan het woord âasâ of âlichaamsasâ? Waar zou het axiale mesoderm dan liggen ten opzichte van het embryo?",2025-09-17T13:31:43.990007+00:00
+user,bij het hoofd,2025-09-17T13:32:06.007181+00:00
+assistant,"Je bent in de buurt, maar ""axiaal"" verwijst eigenlijk naar de centrale as van het hele embryo, niet alleen het hoofd.
+
+Denk aan de ""as"" als een lijn midden door het hele lichaam van boven naar beneden (van hoofd naar staart). Dus, het axiale mesoderm ligt in het midden van het embryo, langs deze centrale lijn.
+
+Met dat in gedachten:  
+Als axiaal in het midden ligt, waar denk je dat ""paraxiaal"", ""intermediair"" en ""lateraal plaatmesoderm"" liggen ten opzichte van dat axiale (midden) gedeelte? Wat betekenen paraxiaal, intermediair en lateraal voor hun positie?",2025-09-17T13:32:18.717697+00:00
+user,"paraxiaal boven axiaal, intermedeair en tussen in en lateraal er onder",2025-09-17T13:33:02.482986+00:00
+assistant,"Je maakt al onderscheid tussen de begrippenâmooi! Het gaat bij deze termen echter niet om âbovenâ of âonderâ (zoals op een ladder), maar om ânaastâ het axiale vlak, dus van binnen naar buiten gezien (als een serie stroken naast elkaar).
+
+Laat me het reframen:
+
+- **Axiaal mesoderm** ligt precies in het midden (de as).
+- **Paraxiaal mesoderm** ligt direct aan weerszijden van het axiale mesoderm (dus direct ernaast).
+- **Intermediair mesoderm** ligt naast het paraxiale mesoderm.
+- **Lateraal plaatmesoderm** ligt het verst naar buiten, aan de zijkant van het embryo.
+
+Zie het als een soort concentrische banen van het midden naar buiten.
+
+Nu je deze indeling kent:  
+Kun je proberen te bedenken welk type weefsel of orgaan kan ontstaan uit het **paraxiale mesoderm**? Denk bijvoorbeeld aan structuren dichtbij de centrale as van je lichaam.",2025-09-17T13:33:16.385493+00:00

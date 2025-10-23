@@ -1,0 +1,52 @@
+role,content,created_at
+user,laten we beginnen,2025-09-17T08:31:13.012376+00:00
+assistant,"Hier is de casus waarmee we het onderwerp zullen verkennen:
+
+Een gezonde 25-jarige vrouw had reguliere zwangerschapscontroles. Bij een echo op 24 weken werd een kleine opening (~5 mm) aan de rechterkant van de buik van de baby, dichtbij de navelstreng, gevonden. Genetische testen op 26 weken waren normaal. De opening werd groter (tot 34 mm) en delen van de darmen zweefden in het vruchtwater. Bij 37 weken werd een keizersnede gedaan. De pasgeboren jongen had delen van zijn dunne en dikke darm, en maag buiten de buikholte. De ondersteunende weefsels waren kort en de darm was gezwollen. De diagnose was gastroschisis, een buikwanddefect.
+
+Mijn eerste vraag:
+
+Wat is gastrulatie?",2025-09-17T08:31:25.041102+00:00
+user,"het proces waarbij je van twee lagen naar drie lagen gaat: ectoderm, mesoderm, endoderm",2025-09-17T08:33:22.297342+00:00
+assistant,"Dat is helemaal juist! Gastrulatie is inderdaad het proces waarbij het embryo zich van een tweelagige structuur (epiblast en hypoblast) ontwikkelt tot een drielaags kiemblad: ectoderm, mesoderm en endoderm. 
+
+Volgende vraag:
+
+Kun je de drie kiemlagen (ectoderm, mesoderm en endoderm) benoemen en kort een voorbeeld geven van welk orgaan of weefsel uit elk ontstaat?",2025-09-17T08:33:30.507338+00:00
+user,"Ectoderm: buitenste laag waaruit oa de huid wordt gevormd 
+Endoderm: binnenste laag waaruit oa epitheel wordt gevormd = binnenbekleding van luchtewegen, darmen, etc
+Mesoderm: de rest",2025-09-17T08:34:54.147585+00:00
+assistant,"Goed gedaan! Je hebt correct beschreven dat het ectoderm de buitenste laag vormt waaruit onder andere de huid ontstaat, het endoderm de binnenbekleding van bijvoorbeeld het maag-darmkanaal en de luchtwegen vormt, en het mesoderm de ârestâ doet. Zou je iets specifieker kunnen zijn en Ã©Ã©n voorbeeld geven van een orgaan of structuur die uit het mesoderm ontstaat? 
+
+En een vervolgvraag:  
+Wat wordt bedoeld met ""embryonale vouwing"" (embryonic folding)?",2025-09-17T08:35:03.487178+00:00
+user,uit het mesoderm onstaat organen als de lever,2025-09-17T08:35:27.631374+00:00
+assistant,"Dat is een goed voorbeeld! De lever ontstaat inderdaad grotendeels uit het mesoderm, specifiek uit het septum transversum en omliggende mesodermale weefsels, hoewel het ook interacties heeft met het endoderm.
+
+Terugkomend op mijn vorige vraag:  
+Wat is ""embryonale vouwing"" en waarom is dit proces belangrijk tijdens de ontwikkeling van een embryo?",2025-09-17T08:35:37.256479+00:00
+user,tijdens de embryonale vouwing komen de uitersten van het ectoderm samen en ontstaat de notochord die belangrijk gaat zijn voor het sluiten van de neurale buis.,2025-09-17T08:37:03.446525+00:00
+assistant,"Interessante start! Je noemt de samenkomst van het ectoderm en het belang voor de neurale buis en notochord, maar embryonale vouwing heeft een bredere betekenis. Het gaat vooral over de omzetting van een platte schijf in een driedimensionaal embryo, waarbij de vorming van de lichaamswand en -holte een centrale rol speelt.
+
+Kun je verder uitleggen hoe deze vouwing ervoor zorgt dat de lichaamswand en de lichaams-holte gevormd worden? Wat gebeurt er precies met de kiemlagen tijdens dit proces?",2025-09-17T08:37:13.341722+00:00
+user,de kiemlag worden zo gevouwen dat ze samenkomen en een ronding vormen,2025-09-17T08:37:53.604943+00:00
+assistant,"Precies, dat is de kern! Door de embryonale vouwing worden de kiemlagen zÃ³ gevouwen dat ze samenkomen rond het embryo en een ronde, buisvormige structuur vormen. Daardoor ontstaat de eerste echte lichaamsvorm van het embryo met een afgebakende lichaamswand.
+
+Om dit wat specifieker te maken: deze vouwing verloopt in twee richtingen: craniaal-caudale vouwing (voor-achter) en laterale vouwing (zijkanten naar elkaar toe). Hierdoor sluiten de zijden en de onderkant van het embryo zich tot een buis, en wordt het dooierzakgedeelte opgenomen als toekomstige darm.
+
+Volgende vraag:  
+Wat is het verschil tussen *axiaal*, *paraxiaal*, *intermediair* en *lateraal plaat* mesoderm? Kun je kort uitleggen waar deze onderdelen zich bevinden of wat hun belangrijkste producten/structuren zijn?",2025-09-17T08:38:09.937136+00:00
+user,"axiaal = in het transversale vlak, paraxiaal is in hetzelfde vlak, maar meer naar achteren, intermediair is in het mitten en de laterale plaat is de plaat aan de zijkant",2025-09-17T08:39:30.47161+00:00
+assistant,"Je hebt een begin gemaakt met het lokaliseren van deze mesodermgebieden, maar laten we het wat verduidelijken! De termen gaan niet alleen over ligging, ze verwijzen ook naar specifieke gebieden langs de middellijn van het embryo en ontwikkelen elk unieke structuren.
+
+Welke structuur hoort bij het axiale mesoderm, en welke bekende structuren ontstaan uit het paraxiale mesoderm? Heb je daar voorbeelden of kun je dat verder specificeren?",2025-09-17T08:39:38.418658+00:00
+user,ik weet het niet,2025-09-17T08:39:55.44288+00:00
+assistant,"Geen probleem! Laten we samen even nadenken. 
+
+Het axiale mesoderm ligt precies in de middellijn van het embryo. De belangrijkste structuur die hieruit ontstaat, is de notochord (chorda dorsalis).  
+
+Het paraxiale mesoderm ligt direct naast het axiale mesoderm aan beide kanten. Weet je misschien welke blokvormige structuren ontstaan uit het paraxiale mesoderm (vooral zichtbaar in dwarsdoorsneden van jonge embryoâs)? Ze zijn heel belangrijk voor de ontwikkeling van het skelet en spieren... 
+
+Kun je het proberen? Wat weet je over deze blokjes?",2025-09-17T08:40:05.630244+00:00
+user,end conservation,2025-09-17T08:40:28.13517+00:00
+assistant,"Prima, we stoppen hier. Bedankt voor het meedoen aan deze sessie! Als je later wilt doorgaan of vragen hebt, ben ik er om te helpen. Veel succes verder met je studie embryologie!",2025-09-17T08:40:33.915517+00:00

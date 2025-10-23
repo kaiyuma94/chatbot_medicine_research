@@ -1,0 +1,62 @@
+role,content,created_at
+user,laten we beginnen!,2025-09-17T08:31:13.673713+00:00
+assistant,"Laten we beginnen! Hier volgt de vignet als context:
+
+Een gezonde 25-jarige vrouw had routine prenatale controles. Bij 24 weken zwangerschap laat een echo een kleine opening (~5 mm) zien rechts van de navel van de baby. Genetisch onderzoek (vruchtwaterpunctie) op 26 weken is normaal. De opening wordt groter (tot 34 mm) en delen van de darmen zijn te zien in het vruchtwater. De baby is kleiner dan verwacht. Bij 37 weken wordt een keizersnede uitgevoerd. De pasgeboren jongen heeft delen van de dunne en dikke darm, en maag, buiten de buik liggen. Het steeltje is kort en de darmlussen zijn gezwollen. De diagnose is gastroschisis, een defect in de buikwand.
+
+Eerste vraag:  
+Wat wordt bedoeld met ""embryonale vouwing"" (embryonic folding) tijdens de ontwikkeling?",2025-09-17T08:31:26.503662+00:00
+user,"Met embryonale vouwing word bedoel dat tijdens de embryonale ontwikkeling de spinale cord komt te ontwikkeling doordat de buitenste lagen van de 3 kiemlagen naar elkaar toe vouwen. Na het vouwen ontstaat de eerste echte ontwikkeling van het embryo, zo kunnen hierna de organen en ruggenmerg zich verder ontwikkelen.",2025-09-17T08:34:27.206326+00:00
+assistant,"Je hebt al wat belangrijke elementen genoemd: vouwing, kiemlagen, en het ontstaan van organen en het ruggenmerg.
+
+Denk nog even aan het hele embryo:  
+- Wat verandert er precies aan de vorm van het embryo tijdens deze vouwing?
+- Kun je benoemen in welke richtingen de embryonale vouwing plaatsvindt (denk aan hoofd-staart versus zijkanten)?
+- Heeft deze vouwing invloed op de positie van andere structuren, zoals de dooierzak of de amnionholte?
+
+Kun je dit aanvullen?",2025-09-17T08:34:36.290829+00:00
+user,de vouwing vind plaats van de hoofd staart kant. de vouwing maakt dat de doorzak apart komt te liggen van het spinal cord en de amninholte word gevormd. door het vouwen krijgt het embryo een meer menselijkachtige vorm vanplaats de vorm van een horizontaal vlak van kiemlagen.,2025-09-17T08:36:31.115266+00:00
+assistant,"Dat is beter! Je noemt nu de vouwing in de hoofd-staart richting (craniaal-caudale as) en dat het embryo hierdoor van een vlak naar een meer buisvorm krijgt â dichter bij hoe een mens uiteindelijk gevormd wordt. Je benoemt ook de dooierzak die meer los komt te liggen, en de vorming van de amnionholte.
+
+Een andere richting waarin vouwing plaatsvindt is van zijkant naar zijkant. Weet je hoe deze richting genoemd wordt? En kun je vertellen welke hoofdstructuren hierdoor gevormd of beÃ¯nvloed worden?",2025-09-17T08:36:46.903045+00:00
+user,"ik weet niet hoe die richting heet. hierdoor kunnen de drie kiemlagen hun eigen specialiteit vormen. de ene laag vorm de huid, de ander de organen en nog een andere het centrale zenuwstelsel.",2025-09-17T08:38:13.389326+00:00
+assistant,"Goed dat je benoemt dat de vouwing ervoor zorgt dat de drie kiemlagen verder kunnen differentiÃ«ren! De richting van vouwing die je bedoelt is de *laterale vouwing* (van de zijkanten naar het midden toe). 
+
+Deze laterale vouwing zorgt ervoor dat:
+- Het embryo van een platte schijf verandert in een buisvorm.
+- De buikwand sluit aan de voorkant (ventraal), waardoor de inwendige holte (de lichaamsholte) gevormd wordt.
+- De dooierzak wordt verder afgesnoerd, waardoor de darmbuis kan ontstaan uit het endoderm.
+
+Nu je deze basis onder de knie hebt:  
+Kun je kort uitleggen wat gastrulatie is, en wat het resultaat hiervan is voor het embryo?",2025-09-17T08:38:25.837354+00:00
+user,ik kan er even niet opkomen,2025-09-17T08:39:44.360515+00:00
+assistant,"Geen probleem, laten we het samen proberen te herleiden!
+
+Gastrulatie gebeurt vroeg in de embryonale ontwikkeling.  
+- Wat weet je over het aantal kiemlagen vÃ³Ã³r de gastrulatie?
+- Wat gebeurt er met het aantal kiemlagen na de gastrulatie?
+- Wat is het nut van het vormen van meerdere kiemlagen tijdens de embryonale ontwikkeling? 
+
+Kun je met deze hints een beschrijving proberen te geven van gastrulatie?",2025-09-17T08:39:52.537875+00:00
+user,gatsrulatie is het vormen van twee kiemlagen naar drie kiemlagen.,2025-09-17T08:40:25.097437+00:00
+assistant,"Prima! Gastrulatie zorgt inderdaad voor de overgang van twee naar drie kiemlagen.
+
+Wil je nu ook proberen de namen van deze drie kiemlagen te geven? En kun je kort aangeven waar elke laag **in het algemeen** aan bijdraagt in het latere embryo? Je hoeft nog geen details te geven â globaal is genoeg!",2025-09-17T08:40:32.980687+00:00
+assistant,"**OVERALL SUMMARY**  
+Goed gedaan met je inzet en het beantwoorden van de vragen over embryonale ontwikkeling. Je was gemotiveerd en probeerde steeds op de hints door te bouwen, ook als je het lastig vond. Dat laten zien dat je actief met de stof bezig bent, en dat is erg positief!
+
+**WHAT YOU DID WELL**
+- **Strong Grasp of:** Je hebt aangetoond inzicht te hebben in de basis van de embryonale vouwing, het concept van de hoofd-staart as (craniaal-caudale vouwing) en het belang van verandering in embryo-vorm.
+- **Good Application of:** Je kon met extra aanwijzingen uitleggen hoe de vorm van het embryo verandert en wat het algemene effect van vouwing is op de organogenese.
+
+**AREAS FOR GROWTH & FOCUS**
+- **Reviewing Key Terms:** Je had wat moeite met de naam van de laterale vouwing en met het benoemen en de functie van de drie kiemlagen (ectoderm, mesoderm, endoderm).
+- **Connecting the Dots:** Het verbinden van grote concepten, zoals het verschil tussen gastrulatie en vouwing en de volgorde van deze processen, was soms uitdagend.  
+- **Applying Theory to Practice:** Je hebt deze ronde de theorie vooral verklaard zonder klinische toepassing; probeer straks ook steeds de vertaalslag te maken naar waarom deze processen belangrijk zijn bij congenitale afwijkingen, zoals gastroschisis.
+
+**ACTIONABLE STUDY RECOMMENDATIONS**  
+Je grootste winst zit nu in het scherp krijgen van basisbegrippen en hun namen (factual knowledge).  
+**Aanbeveling:**  
+Maak voor jezelf eenvoudige flashcards met de belangrijkste termen (kiemlagen, gastrulatie, embryonale vouwing, craniaal-caudale/laterale vouwing) en schrijf kort de functie van elke laag erbij. Herhaal deze regelmatig; zo wordt het benoemen en herkennen steeds makkelijker.
+
+Blijf zo oefenen â je begrijpt het geheel al goed; nu nog de terminologie vlot paraat krijgen!",2025-09-17T08:40:47.891+00:00

@@ -1,0 +1,87 @@
+role,content,created_at
+user,laten we beginnen,2025-09-17T13:03:33.856639+00:00
+assistant,"Hier volgt de casus om het onderwerp te kaderen:
+
+**VIGNETTE:**  
+Een gezonde 25-jarige vrouw had routine prenatale zorg. Bij een echo op 24 weken werd er een kleine opening (~5 mm) aan de rechterkant van de buik van haar baby gezien, dicht bij de navelstreng. Genetische testen (vruchtwaterpunctie) op 26 weken waren normaal. De opening werd met de tijd groter (tot 34 mm), en delen van de darmen van de baby waren te zien in het vruchtwater. De baby was ook kleiner dan verwacht. Bij 37 weken werd een keizersnede uitgevoerd. De pasgeboren jongen had delen van zijn dunne en dikke darm, en maag, buiten de buik liggen. Het dragende weefsel was kort en de darm zag er gezwollen uit. Diagnose: gastroschisis, een buikwanddefect.
+
+**Eerste vraag:**  
+Kun je drie kiemlagen noemen waaruit de belangrijkste lichaamsstructuren bij het embryo ontstaan?",2025-09-17T13:03:52.74221+00:00
+user,"endoderm, mesoderm en ectoderm",2025-09-17T13:05:28.730914+00:00
+assistant,"Goed! Dat klopt: endoderm, mesoderm en ectoderm zijn de drie kiemlagen waaruit alle organen en weefsels ontstaan.
+
+Volgende vraag:  
+Wat betekent ""embryonale plooing"" (embryonic folding) tijdens de ontwikkeling van het embryo?",2025-09-17T13:05:35.253973+00:00
+user,"dat betekent het van twee lagen dus een schijf naar drie lagen te gaan, waardoor uiteindelijk de embryo de juiste ruimtelijke vorm krijgt",2025-09-17T13:06:45.843722+00:00
+assistant,"Je uitleg is een goed begin, maar er zijn wat details die door elkaar lopen. Gastrulatie en embryonale plooing zijn beide belangrijke stappen, maar ze zijn verschillend.
+
+Heb je overwogen wat het directe effect is van plooien op de vorm van het embryo zelf? Probeer eens te beschrijven *hoe* het embryo verandert tijdens de embryonale plooing. Wat gebeurt er met het uiterlijk of de oriÃ«ntatie van de embryonale schijf?",2025-09-17T13:06:54.169277+00:00
+user,het hart gaat bijvoorbeeld van craniaal naar causaal ventraal en de ectoderm vouwt zich om de endoderm en mesoderm heen,2025-09-17T13:07:49.129636+00:00
+user,zullen we verder gaan?,2025-09-17T13:10:47.773442+00:00
+assistant,"Zeker! Even ter controle: embryonale plooing zorgt ervoor dat de trilaminaire schijf van het embryo verandert in een meer buisvormige structuur â dit is belangrijk voor het ontstaan van het voorlopige lichaam en de vorming van de lichaamswand en -holtes.
+
+Volgende vraag:
+Kun je benoemen wat wordt bedoeld met de vier mesodermale subdivisies: axiaal, paraxiaal, intermediair en lateraal plaatmesoderm? Wat zijn die vier onderdelen?",2025-09-17T13:10:56.042008+00:00
+user,axiaal is een transversale doorsnede. lateraal is een vouwing naar buiten,2025-09-17T13:11:57.637656+00:00
+assistant,"Je legt termen deels ruimtelijk uit, maar deze subdivisies verwijzen naar specifieke delen van het mesoderm zelf.
+
+Wil je proberen elk van de vier subdivisies te benoemen als aparte onderdelen van het mesoderm die naast elkaar in het embryo liggen? Waar vind je bijvoorbeeld het axiaal mesoderm precies terug? Wat doet het paraxiaal mesoderm? Denk aan namen van weefsellagen of structuren â kun je ze opnoemen?",2025-09-17T13:12:06.217322+00:00
+user,axiaal zorgt voor een cilinder vorming weefsel,2025-09-17T13:12:45.061534+00:00
+assistant,"Goed, je geeft aan dat het axiaal mesoderm een centrale cilinder in het embryo vormt. Kun je verder specificeren welke belangrijke structuur uit het axiaal mesoderm ontstaat?
+
+En kun je daarnaast ook benoemen waar het paraxiaal, intermediair en lateraal plaatmesoderm zich bevinden en tot welke belangrijke weefsels/structuren zij bijdragen? Denk aan hun ligging ten opzichte van de middenlijn.",2025-09-17T13:12:53.044774+00:00
+user,lateraal plaatmesoderm zal wel de binnenste laag van de huid zijn,2025-09-17T13:13:53.17802+00:00
+assistant,"Interessante gedachte! Maar het lateraal plaatmesoderm vormt niet de binnenste laag van de huid. Denk eraan dat de huid vooral uit ectoderm ontstaat.
+
+Kun je je herinneren welke lichaamsstructuren, zoals de organen in de buikholte of delen van het skelet, uit het lateraal plaatmesoderm ontstaan? En hoe zit het met het paraxiaal en intermediair mesoderm? Wat weet je daar nog van?",2025-09-17T13:14:00.956322+00:00
+user,"is de lateraal plaats,esoderm dan het epitheel in de organen in de buikholte?",2025-09-17T13:14:32.714566+00:00
+assistant,"Goede vraag! Het epitheel van de organen (zoals het darmepitheel) ontstaat vooral uit het **endoderm**. Het **lateraal plaatmesoderm** draagt bij aan andere delen van de organen.
+
+Denk aan de bekleding van de lichaamsholten en de structuren die rondom de organen liggen. Kun je nagaan welke specifieke lagen of structuren in de buikholte afkomstig zijn van het lateraal plaatmesoderm? Bijvoorbeeld, wat vormt het lateraal plaatmesoderm aan de binnenkant van de lichaamswand en rond de ingewanden?",2025-09-17T13:14:44.954787+00:00
+user,het spierweefsel om de organen in de buikholte,2025-09-17T13:15:11.806332+00:00
+assistant,"Ja, dat is juist! Het lateraal plaatmesoderm vormt inderdaad spier- en bindweefsels om de buikorganen (zoals de gladde spierlaag van de darm, en het bindweefsel rondom organen), Ã©n het vormt ook de bekleding van de lichaamswand (peritoneum).
+
+Zullen we nu kijken naar de andere mesodermale onderdelen?
+Kun je kort beschrijven:
+1. Welke structuur ontstaat uit het **axiaal mesoderm**?
+2. Welke belangrijke weefsels/structuren ontstaan uit het **paraxiaal mesoderm**?
+3. Welke uit het **intermediair mesoderm**?
+
+Zoek vooral naar termen als ""chorda"", ""somieten"", ""urogenitaal stelsel"" als houvast in je antwoord!",2025-09-17T13:15:26.206326+00:00
+user,uit het intermediair mesoderm ontstaan misschien organen las de lever,2025-09-17T13:16:06.315283+00:00
+assistant,"Je zit in de goede richting door naar organen te kijken, maar de lever ontstaat eigenlijk uit het endoderm (leverknop uit de voordarm).
+
+Denk bij het **intermediair mesoderm** vooral aan delen van het urogenitaalstelsel. Kun je nagaan welke organen of systemen onder het urogenitaalstelsel vallen?
+
+En hoe zit het met het **axiaal** en **paraxiaal mesoderm**? Wat weet je daar nog van? Geef het gerust in steekwoorden als dat helpt!",2025-09-17T13:16:15.942751+00:00
+user,de blaas,2025-09-17T13:16:27.002256+00:00
+assistant,"Dat is al een stuk beter! De blaas heeft inderdaad een bijdrage van het intermediair mesoderm, hoewel hij deels ook uit endoderm ontstaat.
+
+Misschien helpt het om het urogenitaalstelsel in twee delen te denken: het **urinaire systeem** (zoals de nieren en urineleiders) en het **genitale systeem** (zoals testes en ovaria). Het **intermediair mesoderm** levert vooral deze componenten!
+
+Zullen we het axiaal en paraxiaal mesoderm nog even afmaken?  
+- Weet je wat de chorda dorsalis is en bij welk type mesoderm die hoort?
+- En waaruit ontstaan spieren en wervels?  
+
+Kun je daaraan een poging wagen?",2025-09-17T13:16:38.311258+00:00
+user,"ik denk dat de chroma dorsalis ergens bij de rug ligt en bij het paraxiaal mesoderm hoort, en dat de spieren en wervels dan uit axiaal mesoderm word gevormd",2025-09-17T13:18:30.900355+00:00
+assistant,"Goede poging! Je zit heel dicht in de buurt met de rug en ligging.
+
+Het klopt dat de **chorda dorsalis** (ook wel notochord genoemd) in de rug van het embryo ligt. Maar de chorda dorsalis ontstaat uit het **axiaal mesoderm**âdat is het centrale, middenste deel. 
+
+De **spieren en wervels** komen juist uit het **paraxiaal mesoderm**. Dit bevindt zich direct naast het axiaal mesoderm en vormt zogenoemde ""somieten"", waaruit skeletspieren en het axiale skelet (wervelkolom) voortkomen.
+
+Wil je dat nog eens kort samenvatten voor jezelf?
+- Axiaal mesoderm: â¦
+- Paraxiaal mesoderm: â¦
+- Intermediair mesoderm: â¦
+- Lateraal plaatmesoderm: â¦",2025-09-17T13:18:43.166415+00:00
+user,axiaal mesoderm: maakt de notochord,2025-09-17T13:19:40.151657+00:00
+assistant,"Juist, het axiaal mesoderm maakt de notochord (chorda dorsalis)!
+
+Nu de rest nog:
+- Paraxiaal mesoderm: â¦  
+- Intermediair mesoderm: â¦  
+- Lateraal plaatmesoderm: â¦  
+
+Wil je proberen deze nog aan te vullen?",2025-09-17T13:19:47.154239+00:00

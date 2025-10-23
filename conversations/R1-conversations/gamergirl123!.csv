@@ -1,0 +1,67 @@
+role,content,created_at
+user,ik ben klaar om te beginnen,2025-09-17T13:05:17.694027+00:00
+assistant,"Laten we beginnen! Hier is de casus:
+
+Een gezonde 25-jarige vrouw had routine prenatale controles. Bij een echo op 24 weken zwangerschap werd er een kleine opening (~5 mm) aan de rechterkant van de buik van de baby gezien, vlak naast de navel. Genetisch onderzoek (vruchtwaterpunctie) op 26 weken was normaal. In de weken daarna werd de opening groter (tot 34 mm) en werden delen van de darmen waargenomen in het vruchtwater. De baby bleek ook kleiner dan verwacht. Bij 37 weken werd een keizersnede gedaan. De pasgeboren jongen had delen van de dunne en dikke darm, en de maag, buiten de buikholte. Het ondersteunende weefsel was kort en de darmlissen waren gezwollen. Er werd gastroschisis vastgesteld, een defect in de buikwand.
+
+Eerste vraag om te starten:
+Wat is gastrulatie?",2025-09-17T13:05:31.583579+00:00
+user,de gastrulatie is een proces vroeg tijdens de zwangerschap waarbij een meerdere lagen systeem ontstaat,2025-09-17T13:07:48.736917+00:00
+assistant,"Goed begin! Je noemt dat tijdens de gastrulatie een meerlagig systeem ontstaat. Kun je specifieker aangeven *hoeveel* kiemlagen er tijdens de gastrulatie ontstaan, en hoe deze kiemlagen heten?",2025-09-17T13:07:54.620086+00:00
+user,"er ontstaan dire kiemlagen, de ecotoderm, mesoderm en endoderm",2025-09-17T13:08:28.486336+00:00
+assistant,"Precies! Tijdens de gastrulatie ontstaan drie kiemlagen: de ectoderm, het mesoderm en het endoderm.
+
+Volgende vraag:
+Wat is embryonale vouwing (embryonic folding)?",2025-09-17T13:08:36.360684+00:00
+user,tijdens de embryonale vouwing wordt het dubbel gevouwd waardoor de organen op je juiste plek belanden,2025-09-17T13:09:20.109237+00:00
+assistant,"Dat klopt, je noemt dat het embryo dubbel wordt gevouwen en dat de organen op de juiste plek terechtkomen. Kun je verduidelijken in welke richtingen deze vouwing plaatsvindt? Dus: over welke assen ""vouwt"" het embryo zich?",2025-09-17T13:09:27.149902+00:00
+user,de embryo vouwt zich naar voorlangs en naar beneden,2025-09-17T13:10:44.019007+00:00
+assistant,"Goed! Je geeft aan dat het embryo zich naar voren (craniaal/caudaal) en naar beneden vouwt. Kun je de termen benoemen die horen bij deze richtingen? Denk aan woorden als craniaal, caudaal, ventraal en lateraal. Welke twee soorten embryonale vouwingen zijn er en wat betekenen deze termen?",2025-09-17T13:10:51.427757+00:00
+user,de embryo vouwt caudaal en ventraal,2025-09-17T13:11:23.948279+00:00
+assistant,"Je bent op de goede weg! De embryo vouwt zich inderdaad in een caudale en ventrale richting, maar er zijn twee hoofdrichtingen van vouwing die vaak worden genoemd. Kun je misschien eens nadenken of er naast de caudale vouwing nog een andere richting is, bijvoorbeeld over de zijkanten van het embryo? Hoe zou je deze vouwbewegingen noemen?",2025-09-17T13:11:31.204495+00:00
+user,dat noem je lateraal,2025-09-17T13:13:21.242292+00:00
+assistant,"Precies! Embryonale vouwing gebeurt in twee richtingen: craniaal-caudale vouwing (voor-naar-achter) en laterale vouwing (van de zijkanten naar binnen). Dat is goed!
+
+Volgende vraag:
+Kun je de drie kiemlagen â endoderm, mesoderm en ectoderm â benoemen? Wat vormt elk van deze lagen in het latere embryo? Noem van elk Ã©Ã©n belangrijk weefsel of orgaan dat daaruit ontstaat.",2025-09-17T13:13:33.54886+00:00
+user,uit het endoderm ontstaan de onderdelen voor het spijsverteringssysteem. uit de mesoderm ontstaan boten spieren en bloedvaten. uit de ectoderm ontstaat je huid,2025-09-17T13:15:26.172454+00:00
+assistant,"Heel goed! Je koppelt de drie kiemlagen aan de juiste weefsels en organen:  
+- Endoderm â spijsverteringssysteem  
+- Mesoderm â botten, spieren, bloedvaten  
+- Ectoderm â huid  
+
+We gaan nog iets specifieker in op het mesoderm.  
+Het mesoderm wordt opgedeeld in vier delen: axiaal mesoderm, paraxiaal mesoderm, intermediair mesoderm en laterale plaat mesoderm.  
+Kun je Ã©Ã©n functie of kenmerk noemen van het paraxiale mesoderm? Wat ontstaat hieruit?",2025-09-17T13:15:38.202235+00:00
+user,hieruit ontstaan somieten,2025-09-17T13:16:42.185157+00:00
+assistant,"Heel goed, het paraxiale mesoderm vormt inderdaad de somieten!
+
+Laten we nog een andere structuur benoemen:  
+Wat ontstaat er uit het laterale plaat mesoderm? Kun je Ã©Ã©n belangrijk onderdeel of structuur noemen dat gevormd wordt door deze laag?",2025-09-17T13:16:49.058706+00:00
+user,het hart,2025-09-17T13:17:13.810487+00:00
+assistant,"Prima! Het hart ontstaat inderdaad uit het laterale plaat mesoderm. Ook lichaamswand en delen van de lichaams- en orgaanvliezen worden vanuit deze laag gevormd.
+
+Laatste terminologievraag voordat we verder gaan:
+Wat betekenen de begrippen âventraalâ en âdorsaalâ bij de beschrijving van een embryo?",2025-09-17T13:17:20.554382+00:00
+user,ventraal verwijst naar de voorzijde en dorsaal verwijst naar de achterzijde,2025-09-17T13:18:56.723406+00:00
+assistant,"Klopt, ventraal verwijst naar de voorzijde (de buikzijde) en dorsaal naar de achterzijde (de rugzijde) van het embryo.
+
+Nu een vraag over het onderscheid tussen visceraal en pariÃ«taal:  
+Wat betekent âvisceraalâ en wat betekent âpariÃ«taalâ als we het hebben over embryonale vliezen of organen?",2025-09-17T13:19:04.11886+00:00
+assistant,"**OVERALL SUMMARY**  
+Goed gedaan! Je laat zien dat je de basisbegrippen over embryonale ontwikkeling goed kent en dat je in staat bent om termen correct te benoemen en toe te lichten waar nodig. Je antwoorden zijn duidelijk en je past je kennis netjes stap voor stap toe.
+
+**WHAT YOU DID WELL**
+- **Sterke beheersing van:**  
+Het benoemen van de drie kiemlagen, hun functies en voorbeelden (endoderm, mesoderm, ectoderm). Je herkent het belang van embryonale vouwing en kunt de hoofdrichtingen goed aanduiden zodra ernaar gevraagd wordt.
+- **Goede toepassing van:**  
+Het verbinden van medische termen aan concrete voorbeelden (bijvoorbeeld: somieten uit het paraxiale mesoderm, hart uit het laterale plaatmesoderm). Je antwoorden op terminologievragen zijn correct en kernachtig.
+
+**AREAS FOR GROWTH & FOCUS**
+- **Het verbinden van processen:**  
+Je kent de losse feiten uitstekend, maar het koppelen van deze processen aan de klinische casus (bijvoorbeeld: wat gebeurt er mis bij gastroschisis?) is een volgend niveau waarop je jezelf nog kan uitdagen.
+- **Verruimen van uitleg bij processen:**  
+Bij embryonale vouwing had je aanvankelijk wat moeite om beide richtingen en de juiste terminologie uit jezelf te benoemen. Hier kun je nog oefenen om procesmatige kennis vlotter te verwoorden.
+
+**ACTIONABLE STUDY RECOMMENDATION**  
+Probeer een conceptmap of een reeks eenvoudige tekeningen te maken die laten zien hoe de kiemlagen zich ontwikkelen tot organen Ã©n hoe verstoringen hierin (zoals bij gastroschisis) kunnen ontstaan. Zo wordt het verband tussen jouw uitstekende kennis van feiten en het grotere ontwikkelingsproces nog sterker!",2025-09-17T13:43:47.842+00:00

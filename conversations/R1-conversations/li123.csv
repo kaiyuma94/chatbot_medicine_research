@@ -1,0 +1,57 @@
+role,content,created_at
+user,goedemiddag,2025-09-17T14:19:04.523556+00:00
+assistant,"Goedemiddag! Laten we beginnen. Hier is een casus om ons onderwerp in context te plaatsen:
+
+**VIGNETTE**
+Een gezonde 25-jarige vrouw had routine prenatale controles. Bij een echo op 24 weken zwangerschap werd een kleine opening (~5 mm) aan de rechterkant van de buik van de baby gevonden, dichtbij de navelstreng. Genetisch onderzoek was normaal. De opening werd later groter (tot 34 mm) en delen van de darmen dreven in het vruchtwater. De baby was ook kleiner dan verwacht. Bij een keizersnede op 37 weken werd een jongen geboren met delen van zijn dunne en dikke darm, Ã©n de maag, buiten de buik. De ondersteunende weefsels waren kort en de darmlussen gezwollen. Diagnose: gastroschisis, een buikwanddefect.
+
+**Vraag:**  
+Wat is *embryonale plooivorming* (embryonic folding) in de context van de vroege embryonale ontwikkeling?",2025-09-17T14:19:18.28902+00:00
+user,de vorm van het embryo veranderd,2025-09-17T14:21:16.833454+00:00
+assistant,"Klopt, het embryo verandert inderdaad van vorm tijdens de embryonale plooivorming. Kun je misschien wat specifieker zijn:  
+- Op welk moment in de ontwikkeling gebeurt deze plooivorming?  
+- Welke richtingen of delen van het embryo zijn vooral betrokken bij die vormverandering?",2025-09-17T14:21:23.447256+00:00
+user,vanaf de 4e week begint dit en de delen van het embryo die betrokken zijn hierbij zijn de dooierzak en de darm,2025-09-17T14:22:24.132552+00:00
+assistant,"Goed dat je aangeeft dat het rond de 4e week start en dat de dooierzak en de darm hiermee te maken hebben! Je zit op het juiste spoor.  
+Kun je misschien nog wat concreter zijn over *hoe* het embryo plooit? Welke richtingen van plooivorming zijn er precies? Misschien kun je de termen âcraniaalâ, âcaudaalâ, âlateraalâ of andere richtingen hierbij gebruiken?",2025-09-17T14:22:37.673454+00:00
+user,de plooivorming gaat in een laterale richting,2025-09-17T14:22:59.414758+00:00
+assistant,"Dat klopt, er is inderdaad laterale plooivorming waarbij de zijkanten naar het midden toe buigen.  
+Maar, naast de laterale richting, gebeurt er ook iets aan de uiteinden.  
+Weet je welke richtingen of delen van het embryo daar betrokken zijn? Denk aan de lichaamsas (hoofd-staart).  
+Probeer het nog eens: welke twee hoofdassen zijn betrokken bij de plooivorming?",2025-09-17T14:23:07.668847+00:00
+user,er is een longitudinale as bij betrokken en een transverseel vlak,2025-09-17T14:23:43.595902+00:00
+assistant,"Precies! Er is inderdaad plooivorming langs de longitudinale as (van hoofd naar staart; craniaal naar caudaal) Ã©n langs het transversale vlak (van links naar rechts; laterale plooivorming).
+
+Laten we het verschil tussen de twee eens verduidelijken:
+- **Longitudinale plooivorming**: buigen van het embryo over de hoofd-staart-as.
+- **Laterale plooivorming**: buigen van de zijden van het embryo naar het midden.
+
+Goed gedaan!  
+Nu een volgende vraag:
+
+**Wat is gastrulatie in de embryonale ontwikkeling?** (Probeer te benoemen welke belangrijke verandering optreedt.)",2025-09-17T14:23:56.408978+00:00
+user,"gastrulatie is een proces waarbij 3 kiembladen worden gevormd uit de epiblast, hierbij ontstaan de ectoderm, mesoderm en endoderm",2025-09-17T14:24:58.597553+00:00
+assistant,"Heel goed! Gastrulatie is inderdaad het proces waarbij uit de epiblast drie kiembladen worden gevormd: ectoderm, mesoderm en endoderm.
+
+Nu een volgende vraag:
+
+Welke regioâs of onderdelen van de mesoderm worden onderscheiden tijdens de ontwikkeling in week 4-5? Kun je de namen noemen van de vier belangrijkste âdelenâ van het mesoderm?",2025-09-17T14:25:19.939445+00:00
+user,deze weet ik even niet,2025-09-17T14:26:57.75713+00:00
+assistant,"Geen probleem, dat is een lastigere! Wat weet je nog van de indeling van het mesoderm?  
+Misschien herken je termen zoals âaxiaalâ, âparaxiaalâ, âintermediairâ, of âlaterale plaatâ?  
+Probeer het nog eens: zegt Ã©Ã©n van deze termen je iets? Of kun je er een paar noemen?",2025-09-17T14:27:17.005789+00:00
+user,nee dit zegt mij niks,2025-09-17T18:17:10.004338+00:00
+assistant,"Dat is niet erg! De vier hoofdonderdelen van het mesoderm zijn belangrijke begrippen die je vaak tegen zult komen.
+
+Hier een hint:  
+- EÃ©n deel ligt precies in het midden (langs de as van het embryo).
+- Een tweede deel ligt direct aan weerszijden daarvan.
+- Het derde deel zit tussen het vorige deel en de zijkant.
+- Het vierde deel vormt helemaal de buitenste laag van het mesoderm.
+
+Klinken de namen ""axiaal,"" ""paraxiaal,"" ""intermediair,"" en ""laterale plaat"" na deze uitleg iets bekender? Of kun je ze nu misschien aan de juiste beschrijving koppelen?",2025-09-17T18:17:20.403797+00:00
+user,nee dat zegt mij niks,2025-09-17T18:17:31.304434+00:00
+assistant,"Geen probleem! Dit zijn echt lastige begrippen als je ze voor het eerst ziet.
+
+Ik raad je aan om deze termen op te zoeken in een betrouwbaar bronnen zoals je embryologieboek, een atlas, of de embryologie-sectie van een medische bron zoals de website van het AMC of Kenhub.  
+Wil je proberen deze termen te vinden, of zal ik een andere basisvraag stellen zodat je rustig verder kunt leren?",2025-09-17T18:17:38.600093+00:00

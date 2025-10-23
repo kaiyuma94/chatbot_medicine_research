@@ -1,0 +1,80 @@
+role,content,created_at
+user,ik ben klaar om te beginnen,2025-09-17T14:11:10.332094+00:00
+assistant,"Mooi! Hier volgt de casus om onze les te starten:
+
+### Casus (VIGNETTE) ###
+Een gezonde vrouw van 25 jaar kreeg routinematige zwangerschapszorg. Tijdens de echo op 24 weken zwangerschap werd een kleine opening gevonden (ongeveer 5 mm) aan de rechterzijde van de buik van de baby, vlak bij de navelstreng. Genetische tests waren normaal. In de weken erna werd de opening groter (tot 34 mm), en delen van de darmen van de baby zweefden in het vruchtwater. De baby was kleiner dan verwacht. Bij 37 weken werd een keizersnede uitgevoerd. De pasgeboren jongen had delen van de dunne- en dikke darm en de maag buiten de buik liggen. De ondersteunende weefsels waren kort en de darmen zagen er gezwollen uit. De diagnose was gastroschisis, een defect in de buikwand.
+
+Laten we eerst starten met een basale kennisvraag:
+Wat is gastrulatie?",2025-09-17T14:11:24.472727+00:00
+user,een fase in de ontwikkeling,2025-09-17T14:14:01.741265+00:00
+assistant,Dat klopt! Gastrulatie is inderdaad een belangrijke fase in de embryonale ontwikkeling. Kun je wat specifieker uitleggen wat er gebeurt tijdens gastrulatie? Wat verandert er in het embryo tijdens deze fase?,2025-09-17T14:14:08.001219+00:00
+user,er komen celdelingen,2025-09-17T14:14:16.339194+00:00
+assistant,"Inderdaad, er zijn veel celdelingen, maar gastrulatie gaat vooral over een specifieker proces. Tijdens gastrulatie ontstaat er iets nieuws in het embryo dat erg belangrijk is voor de verdere ontwikkeling.
+
+Kun je aangeven welke drie hoofdstructuren (of lagen) gevormd worden tijdens gastrulatie? Misschien ken je de namen van deze drie kiemlagen?",2025-09-17T14:14:23.925061+00:00
+user,oo mesoderm endoderm en ectoderm,2025-09-17T14:14:34.990564+00:00
+assistant,"Heel goed! De drie kiemlagen die gevormd worden tijdens gastrulatie zijn inderdaad het ectoderm, mesoderm en endoderm.
+
+Laten we verdergaan met een andere basale vraag:  
+Wat is embryonale plooivorming (embryonic folding)? Waarvoor is deze plooivorming belangrijk in de ontwikkeling van het embryo?",2025-09-17T14:14:45.16607+00:00
+user,hier komen er groeven in de laag zodat de middelste laag gevormd kan worden,2025-09-17T14:15:14.952081+00:00
+assistant,"Interessant geprobeerd! Je haalt het proces van vouwen en lagen aan, maar er is een klein verschil tussen gastrulatie (lagen vormen) en embryonale plooivorming (het vouwen/zich oprollen van het embryootje zelf).  
+
+Bij embryonale plooivorming gebeurt er iets met de vorm van het embryo na de aanleg van de drie kiemlagen.  
+Wat verandert er precies aan de vorm of positie van het embryo tijdens deze plooivorming? Waarom zou dit nodig zijn voor bijvoorbeeld de buikholte en buikwand?",2025-09-17T14:15:24.876979+00:00
+user,"de embryo gaat zich opvouwen, zodat dit beter in de placenta past en het beter zit in de buikholte",2025-09-17T14:17:20.486641+00:00
+assistant,"Mooi, je denkt goed in de richting van âopvouwenâ!  
+Tijdens embryonale plooivorming verandert het embryo inderdaad van een platte schijf naar een meer cilindrische vorm. Daarbij worden de lichaamswanden en holtes gevormd.
+
+Kun je uitleggen of er verschillende richtingen zijn waarin het embryo opvouwt? Denk aan termen als craniaal, caudaal, lateraal, ventraal of dorsaal. Welke twee hoofdbewegingen van plooivorming zijn er, en wat is hun functie?",2025-09-17T14:17:31.113677+00:00
+user,"de eerste hoofdbeweging is ventraal, dan vouwt de embryo zich op",2025-09-17T14:18:42.23688+00:00
+assistant,"Dat is een goed begin! Je noemt de ventrale richting. Laten we even stilstaan bij hoe het embryo zich opvouwt.
+
+Er zijn eigenlijk twee hoofdtypen van plooivorming:
+1. **Cranio-caudale vouwen** (van hoofd naar staart)
+2. **Laterale (of transversale) vouwen** (van zijkant naar zijkant)
+
+Deze vouwen helpen het embryo om van een platte schijf uiteindelijk een soort âbuisâ te vormen.
+
+Kun je uitleggen welke structuur of holte door deze vouwen aan de binnenkant wordt gevormd en afgesloten? Denk bijvoorbeeld aan wat er tussen de vouwen komt te liggen of wat er uiteindelijk afgedicht moet worden.",2025-09-17T14:18:53.594708+00:00
+user,de wervelkolom moet afgedicht worden,2025-09-17T14:19:29.097198+00:00
+assistant,"Interessante gedachte! De wervelkolom ontstaat inderdaad centraal aan de achterzijde van het embryo, maar bij embryonale plooivorming gaat het vooral om het ontstaan en afsluiten van de lichaamswand en buikholte.
+
+Tip: Door de plooiingen worden de lichaamswanden naar beneden en naar voren getrokken, zodat sommige belangrijke holtes uiteindelijk dicht zijn.
+
+Waar wordt specifiek de darmbuis van de rest van het embryo gescheiden tijdens de plooivorming? En welke buikwand- of lichaamsstructuur moet ventraal sluiten om te voorkomen dat organen naar buiten puilen?",2025-09-17T14:19:38.189205+00:00
+user,aan de rugzijde,2025-09-17T14:22:39.92929+00:00
+assistant,"Je denkt aan de juiste structuur, maar de scheiding van de darmbuis van de rest van het embryo en de sluiting van de buikwand gebeuren vooral aan de ventrale (buik)zijde, niet aan de rugzijde.
+
+Denk nog eens aan:
+- De darmbuis ontstaat doordat de zijkanten (lateraal) en de uiteinden (craniaal en caudaal) van het embryo naar elkaar toe bewegen en samenkomen, zodat de buikzijde ""sluit"".
+- Hierdoor wordt niet alleen de darmbuis ingesloten, maar ook de definitieve buikholte (coeloom) en de buikwand gevormd.
+
+Kun je nu aangeven welke structuur of wand aan de ventrale zijde sluit en waarom dat belangrijk is voor de normale embryonale ontwikkeling? Wat zou er gebeuren als deze sluiting niet goed verloopt?",2025-09-17T14:22:52.172384+00:00
+user,de laterale en craniale zijde,2025-09-17T14:23:45.403421+00:00
+user,de laterale en craniale zijde,2025-09-17T14:24:52.209232+00:00
+assistant,"Ja, dat klopt! Tijdens de embryonale plooivorming bewegen de laterale (zijkanten) en craniale (kopzijde) uiteinden naar elkaar toe en sluiten aan de ventrale zijde (buikzijde). Hierdoor wordt de buikwand gevormd en worden de buikorganen netjes omsloten binnen het lichaam.
+
+Nog een korte kennisvraag hierover:  
+Welke vier hoofdsubdomeinen van het mesoderm ontstaan vroeg in de embryonale ontwikkeling? Kun je hun namen noemen?",2025-09-17T14:25:00.640004+00:00
+user,"hypoblast, epoblast",2025-09-17T14:25:18.220945+00:00
+assistant,"Dat zijn goede namen, maar de hypoblast en epiblast zijn structuren die juist vÃ³Ã³r de vorming van de drie kiemlagen voorkomenânog vÃ³Ã³r gastrulatie.
+
+Denk aan de drie kiemlagen: ectoderm, mesoderm en endoderm. Na gastrulatie splitst het **mesoderm** zich verder in vier regioâs die belangrijk zijn voor verschillende organen en weefsels.
+
+Weet je nog waar deze vier soorten mesoderm voor staan? Denk aan termen die eindigen op âmesodermâ, zoals ...axial, ...paraxial, ...intermediate, ...lateral plate. Kun je deze vier opsommen?",2025-09-17T14:25:30.228107+00:00
+assistant,"**OVERALL SUMMARY**  
+Goed gedaan! Je hebt actief meegedaan aan het gesprek en je best gedaan om de verschillende stappen in de embryonale ontwikkeling te benoemen en te verduidelijken. Je laat zien dat je al een basiskennis hebt van de termen en probeert goed verbanden te leggen tussen de processen.
+
+**WHAT YOU DID WELL**  
+- **Strong Grasp of:** Je wist de drie kiemlagen (ectoderm, mesoderm, endoderm) te benoemen, wat een belangrijk fundament vormt in de embryologie. Ook begreep je het principe dat het embryo door vouwen zijn uiteindelijke vorm krijgt.
+- **Good Application of:** Je zette stappen om procesvragen te beantwoorden en probeerde meerdere keren de logica achter het opvouwen en de ontwikkeling van lichaamsstructuren uit te leggen.
+
+**AREAS FOR GROWTH & FOCUS**  
+- **Reviewing Key Terms:** Soms haalde je termen als hypoblast en epiblast door elkaar met latere structuren (zoals de mesoderm-subdomeinen). Het is handig om de volgorde en specifieke namen van de structuren te herhalen.
+- **Connecting the Dots:** Er was wat verwarring tussen processen als gastrulatie (vorming van kiemlagen) en plooivorming (opvouwen tot de lichaamsvorm). Ook het onderscheid tussen rug- en buikzijde bij de vorming van de buikwand kan nog wat aangescherpt worden.
+- **Applying Theory to Practice:** Je antwoordde vooral feitelijk, maar mag oefenen om je kennis te verbinden aan het klinische probleem uit de casus (zoals: waarom leidt een verkeerde sluiting van de buikwand tot bijvoorbeeld gastroschisis?).
+
+**ACTIONABLE STUDY RECOMMENDATIONS**  
+Maak een schematische tekening (concept map of tijdlijn) van de vroege embryonale ontwikkeling, waarbij je eerst de hypoblast/epiblast, daarna de drie kiemlagen, en vervolgens de vier subdomeinen van het mesoderm opschrijft. Voeg pijlen toe om te laten zien hoe deze structuren in elkaar overgaan. Dit helpt je om volgorde, termen en processen helder te krijgen en verbanden te leggen tussen de stappen!",2025-09-17T14:25:46.63+00:00

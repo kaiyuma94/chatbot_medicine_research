@@ -1,0 +1,105 @@
+role,content,created_at
+user,hoi,2025-09-17T13:42:56.167597+00:00
+assistant,"Hoi! Laten we beginnen met het leren over embryonale ontwikkeling. Hier is de casus om het onderwerp te kaderen:
+
+Een gezonde 25-jarige vrouw had routine prenatale zorg. Bij een 24-weken echo werd een kleine opening (ongeveer 5 mm) gezien aan de rechterkant van de buik van de baby, vlak bij de navelstreng. Later werden delen van de darmen buiten de buik waargenomen. De baby werd uiteindelijk geboren via keizersnede met een deel van de darmen en maag buiten het lichaam: gastroschisis, een defect van de buikwand.
+
+Mijn eerste vraag om je kennis te activeren is:
+Wat is gastrulatie?",2025-09-17T13:43:07.625343+00:00
+user,zijn de eerste weken van het vormen van het embryo,2025-09-17T13:44:14.712947+00:00
+assistant,"Je hebt het goed dat gastrulatie vroeg in de embryonale ontwikkeling plaatsvindtâdat is een goed begin! Kun je specifieker uitleggen wat er tijdens gastrulatie precies gebeurt met het embryo? Welke veranderingen vinden plaats, en wat is het eindresultaat van deze stap?",2025-09-17T13:44:20.720847+00:00
+user,blastocyt veranderd. uiteindelijk met een yolk sac en een amnoinsac. uiteindelijk begint het klompje cellen zich te vouwen.,2025-09-17T13:44:58.451089+00:00
+assistant,"Goed geprobeerd! Je noemt de blastocyst en de ontwikkeling van dooierzak en amnion, wat belangrijke structuren zijn. Gastrulatie zelf focust op een specifieke gebeurtenis. Denk aan de kiemlagenâweet je wat gastrulatie betekent als het gaat om de vorming van deze lagen? Wat gebeurt er met de cellen tijdens gastrulatie?",2025-09-17T13:45:06.522529+00:00
+user,"vormt mesoderm, ectoderm en endoderm?",2025-09-17T13:45:25.185995+00:00
+assistant,"Ja, klopt! Tijdens gastrulatie vormt het embryo de drie kiemlagen: ectoderm, mesoderm en endoderm. Deze lagen zijn de basis voor de verdere ontwikkeling van alle organen en weefsels.
+
+Volgende vraag:  
+Kun jij de drie kiemlagen (ectoderm, mesoderm en endoderm) noemen en heel kort uitleggen waar elk van deze lagen globaal voor zal zorgen in het volwassen lichaam?",2025-09-17T13:45:33.958903+00:00
+user,ja is goed. ectoderm zorgt voor buitenkant van het lichaam. dus de huid en ook nog zenuwstelsel. de mesoderm zorgt voor tussen weefsel. volgensmij dus bindweefsel. botten. en de endoderm zorgt voor organen,2025-09-17T13:46:23.579257+00:00
+assistant,"Prima gedaan! Je hebt de algemene rollen van de kiemlagen goed begrepen:
+
+- **Ectoderm:** buitenkant, huid en zenuwstelsel.
+- **Mesoderm:** bindweefsel, botten, spieren, en andere âtussenweefselsâ.
+- **Endoderm:** voornamelijk het binnenste van organen zoals het spijsverteringskanaal en de ademhalingsorganen.
+
+Laten we een stap verder gaan binnen onze leerdoelen.  
+Kun je de vier delen van het mesoderm noemen en kort benoemen waar elke afdeling voor zorgt? (Denk aan: axiaal, paraxiaal, intermediair, laterale plaat mesoderm.)",2025-09-17T13:46:34.580628+00:00
+user,"paraaxiaal, zorgt voor botten. intermediar voor bindweefsel? voor de rest weet ik het niet. ik dacht dat er 3 lagen waren",2025-09-17T13:47:59.59243+00:00
+assistant,"Goed geprobeerd! Het is inderdaad verwarrend: er zijn drie hoofdkiemlagen, maar het mesoderm splitst zich verder op in verschillende regioâs. Je noemt paraxiaal en intermediair al.
+
+Zal ik je helpen:  
+- Paraxiaal mesoderm vormt onder andere de somieten, waar botten en spieren uit ontstaan.  
+- Intermediair mesoderm draagt bij aan organen zoals nieren en voortplantingsorganen.  
+We missen nog twee gebieden: axiaal en laterale plaat. Kun je bedenken waar deze liggen, of ken je de termen ""axiaal"" en ""laterale plaat mesoderm"" al? Wat weet je van deze begrippen of wil je dat ik ze toelicht?",2025-09-17T13:48:11.164113+00:00
+user,op volgorde van het midden en verder van het romp gaat van. paraxiaal- intermediad- lateraleplaat. axiaal weet ik niet. ik weet niet wat axiaal betekent. maar lateraal is volgensmij van de romp af,2025-09-17T13:49:38.575655+00:00
+assistant,"Erg goed geredeneerd! Je hebt helemaal gelijk dat ""lateral"" verder van het midden (de romp) betekent. De volgorde vanuit het midden is inderdaad: axiaal, paraxiaal, intermediair, laterale plaat.
+
+Laat mij aanvullen:
+- **Axiaal mesoderm:** Dit ligt helemaal in het midden en vormt o.a. de chorda dorsalis (notochord), die belangrijk is voor de aanleg van de wervelkolom.
+- **Paraxiaal mesoderm:** Direct naast het axiale, vormt somieten (spieren, skelet, dermis).
+- **Intermediair mesoderm:** Iets verder naar buiten, vormt organen als nieren en geslachtsorganen.
+- **Laterale plaat mesoderm:** Het verst naar buiten, splitst in twee lagen (pariÃ«taal en visceraal) en vormt o.a. de buikwand en het hartzakje.
+
+Nieuwe vraag:
+Kun je uitleggen wat er wordt bedoeld met âventraalâ en âdorsaalâ in het embryo?",2025-09-17T13:49:54.685718+00:00
+user,dorsaal rugkant en ventraal buikkant,2025-09-17T13:51:29.969773+00:00
+assistant,"Helemaal juist! âDorsaalâ is de rugzijde, en âventraalâ is de buikzijde van het embryo.
+
+Volgende vraag, aansluitend op het leerdoel:  
+Wat wordt bedoeld met âembryonale vouwingâ (embryonic folding)?",2025-09-17T13:51:36.008654+00:00
+user,"dat het embryo gaat vouwen. volgens mij dat yoclksac naar binenn vouwd, en je dus forgut, midgut and hindgut krijgt. en laterale buis gaat sluiten als het goed is. de mond vormt zich.",2025-09-17T13:52:42.824834+00:00
+assistant,"Mooi! Je noemt al enkele belangrijke aspecten. Inderdaad: het embryo vouwt zich, wat leidt tot de vorming van de darm (foregut, midgut, hindgut) en de sluiting van de embryonale buis. De dooierzak (yolk sac) wordt deels opgenomen.
+
+Om het compleet te maken:  
+Embryonale vouwing verloopt in twee richtingen. Kun je benoemen welke twee richtingen van vouwbewegingen hierbij betrokken zijn, en kort uitleggen wat het effect is? (Tip: denk aan de as van het lichaam.)",2025-09-17T13:52:51.98165+00:00
+user,gaat van craniaal naar ventraal dacht ik. je hebt ook dat een soort rits sluit dacht ik. dus de somieten. gebeurd craniaal naar caudaal,2025-09-17T13:53:43.793604+00:00
+assistant,"Je redenering klopt deels! Je noemt al belangrijke begrippen: craniaal, ventraal, en somieten. Dit is wat aanwijzing:
+
+Bij embryonale vouwing zijn twee hoofdassen betrokken:  
+1. De **craniocaudale as** (van hoofd naar staart): het embryo buigt met het hoofd en de staart naar elkaar toe.  
+2. De **laterale as** (links en rechts): de zijkanten van het embryo vouwen naar het midden en sluiten zo de buikwand.
+
+Kun je nu, met deze aanwijzing, samenvatten wat het eindresultaat is van deze twee vouwingbewegingen voor de vorm van het embryo?",2025-09-17T13:53:54.64739+00:00
+user,dan worden de spijsverteringsstelsel gevormd,2025-09-17T13:54:50.068215+00:00
+assistant,"Klopt, de vouwingen zorgen dat het spijsverteringsstelsel ontstaat door opname van een deel van de dooierzak! Maar er gebeurt nog iets belangrijks: denk aan hoe het embryo van een platte schijf een driedimensionaal 'buiseffect' krijgt. Wat gebeurt er met de lichaamsholten en de positie van de organen door deze vouwingen? Kun je dat beschrijven?",2025-09-17T13:54:57.977632+00:00
+user,dat weet ik niet,2025-09-17T13:56:22.15425+00:00
+assistant,"Geen probleem, laten we het samen doornemen! Tijdens het vouwen verandert het embryo van een platte schijf naar een buisachtige vorm. Hierdoor worden:
+
+- De organen (zoals de darm) naar binnen gebracht vanuit de dooierzak;
+- Lichaamsholten (zoals de buikholte en borstholte) gevormd doordat de laterale wanden met elkaar versmelten aan de ventrale zijde.
+
+Nu een vraag om je te laten nadenken:  
+Als de ventrale (buik) kant niet volledig sluit tijdens deze vouwing, wat zou er dan kunnen gebeuren met de positie van de buikorganen?",2025-09-17T13:56:34.043911+00:00
+user,die gaan dan door de buik. dus kan een soort van door de buik lekken,2025-09-17T13:58:07.50433+00:00
+assistant,"Heel goed! Als de ventrale buikwand niet volledig sluit, kunnen organen uit de buikholte naar buiten komen â precies wat je beschrijft.
+
+Laatste vraag op dit kennisniveau:  
+Hoe heet het proces waarbij het embryo van een platte schijf naar een buis verandert en waarbij de ventrale buikwand wordt gevormd?",2025-09-17T13:58:35.837019+00:00
+user,ik heb een vraa voor jou. kan je me meer vertellen over driedemensionaal buis effect?,2025-09-17T14:01:27.594091+00:00
+assistant,"Goede vraag! Laten we er samen over nadenken. Je hebt al goed uitgelegd dat het embryo van een platte schijf naar een buis verandert. 
+
+Wat bedoelen we met het âdriedimensionaal buiseffectâ? Denk aan wat er met het embryo gebeurt tijdens het vouwen.  
+- Eerst is het een platte schijf van cellen.
+- Door vouwen ontstaat een soort buis.
+
+Kun je je voorstellen wat er met de structuur van het embryo gebeurt? Hoe liggen de binnen- en buitenlagen ten opzichte van elkaar na deze verandering? Waarom is deze verandering belangrijk voor de uiteindelijke bouw van het lichaam? Wat denk je?",2025-09-17T14:01:38.651505+00:00
+user,door dat er een buis ontstaat lijkt het meer op een mens. binnen en buitenlagen weet ik niet zo.,2025-09-17T14:02:34.609577+00:00
+assistant,"Mooi geantwoord! Je hebt gelijk: door die buisvorming krijgt het embryo meer de typische mensvorm, met een duidelijke binnen- en buitenkant.
+
+Om wat verder te helpen:  
+- De buitenste laag (ectoderm) komt aan de buitenkant te liggen en vormt later bijvoorbeeld de huid.
+- De binnenste laag (endoderm) wordt omsloten en vormt het binnenste van organen, zoals de darmen.
+- Het mesoderm komt ertussen en vormt dingen zoals spieren, botten en bloedvaten.
+
+Waarom denk je dat het belangrijk is dat die binnenste laag (endoderm) door vouwing Ã­n het lichaam terechtkomt, en niet aan de buitenkant blijft? Wat zou er gebeuren als die vouwing niet plaatsvindt?",2025-09-17T14:02:46.962006+00:00
+user,als het niet gebeurt dan worden de kiemlagen niet door elkaar omsloten. en kan je dus orgaan vorming krijgen bij je botten of bij de huid. lijkt me niet zo handig,2025-09-17T14:03:26.319389+00:00
+assistant,"Precies! Als de vouwing niet goed gebeurt, komen de kiemlagen niet in de juiste positie, waardoor de organen niet goed omsloten en beschermd zijn door het lichaam. Goed uitgelegd!
+
+Met deze basiskennis kunnen we het toepassen op de casus.  
+Kun je nu, met wat je geleerd hebt, uitleggen wat er in deze casus is gebeurd?",2025-09-17T14:03:34.133113+00:00
+user,kan je die opnieuw uitleggen,2025-09-17T14:04:28.647909+00:00
+assistant,"Natuurlijk! Hier is de casus opnieuw, zodat je hem goed kunt bekijken:
+
+> Een gezonde 25-jarige vrouw had routine prenatale zorg. Bij een 24-weken echo werd een kleine opening (ongeveer 5 mm) gezien aan de rechterkant van de buik van de baby, vlak bij de navelstreng. Later werden delen van de darmen buiten de buik waargenomen. De baby werd uiteindelijk geboren via keizersnede met een deel van de darmen en maag buiten het lichaam: gastroschisis, een defect van de buikwand.
+
+Met alles wat je geleerd hebt over embryonale ontwikkeling â vooral over vouwing en het sluiten van de buikwand â kun je nu uitleggen wat er in deze casus misging? Wat gebeurde er in de embryonale ontwikkeling waardoor deze afwijking ontstond?",2025-09-17T14:04:40.925171+00:00

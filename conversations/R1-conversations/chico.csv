@@ -1,0 +1,64 @@
+role,content,created_at
+user,ik ben klaar om te beginnen,2025-09-17T16:11:15.797825+00:00
+assistant,"Laten we starten! Hier is de situatie:
+
+Een gezonde 25-jarige vrouw had routine prenatale zorg. Bij een echografie op 24 weken zwangerschap werd er een kleine opening (~5 mm) net rechts van de navel van de baby gezien. Genetisch onderzoek was normaal. Later werd de opening groter (tot 34 mm) en waren delen van de darmen zichtbaar buiten de buik in het vruchtwater. Bij de geboorte had de jongen delen van maag, dunne en dikke darm buiten de buik liggen. Diagnose: gastroschisis, een buikwanddefect.
+
+Mijn eerste vraag:
+Wat is gastrulatie?",2025-09-17T16:11:27.712947+00:00
+user,"de vorming van het ectoderm, mesoderm & endoderm vanuit de epiblast",2025-09-17T16:13:46.918423+00:00
+assistant,"Goed! Gastrulatie is inderdaad het proces waarbij uit de epiblast de drie kiemlagen ontstaan: ectoderm, mesoderm en endoderm.
+
+Volgende vraag:
+Kun je de drie kiemlagen benoemen en kort aangeven welk type weefsels of organen daaruit ontstaan?",2025-09-17T16:13:55.330098+00:00
+user,"ectoderm, mesoderm en endoderm. Ectoderm vormt het zenuwstelsel en de opperhuid. Mesoderm vormde het spierweefsel en endoderm vormde het skelet",2025-09-17T16:15:41.473378+00:00
+assistant,"Je zit goed met het benoemen van de kiemlagen. Je schrijft dat het endoderm het skelet vormtâdenk je dat dat klopt? En hoe zit het met het mesoderm en skelet, of heeft die een andere rol?
+
+Kun je iets preciezer aangeven welk kiemlaag vooral bijdraagt aan het skelet, en waarvoor het endoderm juist belangrijk is?",2025-09-17T16:15:49.601655+00:00
+user,het mesoderm en endoderm vormen samen het skelet,2025-09-17T16:16:24.558558+00:00
+assistant,"Je zit in de buurt, maar kijk nog eens goed naar de rol van het mesoderm versus het endoderm. Vraag jezelf af: welk van de twee vormt vooral structuren zoals botten, spieren en bloedvaten? En waarop richt het endoderm zich vooral tijdens de embryonale ontwikkeling? 
+
+Kun je aangeven welke van deze twee (mesoderm of endoderm) vooral betrokken is bij de ontwikkeling van:
+1. Het skelet  
+2. Het maagdarmkanaal?",2025-09-17T16:16:33.571176+00:00
+user,het mesoderm vormt bindweefsel in het lichaam en endoderm vormt de bekleding van de interne organen,2025-09-17T16:18:54.566525+00:00
+assistant,"Heel goed! Het mesoderm vormt inderdaad het bindweefsel, spieren, botten en het bloedvatenstelsel. Het endoderm vormt de binnenbekleding van het maagdarmkanaal en interne organen zoals de longen en lever.
+
+Volgende vraag:
+Kun je uitleggen wat âembryonale plooivormingâ (embryonic folding) is?",2025-09-17T16:19:01.628681+00:00
+user,dat is wanneer het ectoderm naar beneden vouwt en de endoderm als het ware capsuleert,2025-09-17T16:20:10.30402+00:00
+assistant,"Je geeft aan dat het ectoderm naar beneden vouwt en het endoderm âcapsuleertââje zit in de goede richting qua bewegingen, maar laten we het iets preciezer beschrijven. Embryonale plooivorming heeft te maken met het vormen van de typische driedimensionale vorm van het embryo.
+
+Kun je specifieker aangeven in welke richtingen het embryo vouwt (denk aan âcraniaal/caudaalâ en âlateraalâ), en wat het resultaat is van deze plooivormingen voor de positie van de kiemlagen?",2025-09-17T16:20:53.874019+00:00
+user,hij vouwt craniaal,2025-09-17T16:21:02.518829+00:00
+assistant,"Klopt, het embryo ondergaat inderdaad een craniale vouw (bij het hoofd), maar er vinden ook andere vouwen plaats. Heb je nagedacht over wat er caudaal (bij de staart) of aan de zijkanten gebeurt tijdens de embryonale plooivorming? 
+
+Kun je omschrijven wat er gebeurt met het embryo in laterale richting tijdens deze fase?",2025-09-17T16:21:26.030489+00:00
+user,de laterale delen vouwen naar beneden en het caudale gedeelte vernauwt,2025-09-17T16:22:03.686622+00:00
+assistant,"Goed dat je aangeeft dat de laterale delen naar beneden vouwen en dat het caudale deel vernauwt. Dit is inderdaad belangrijk voor het vormen van de lichaamsstructuur.
+
+Nu een vervolgvraag:  
+Tijdens embryonale plooivorming ontstaan er verschillende regioâs binnen het mesoderm. Kun je de namen noemen van de vier belangrijkste mesodermale subdivisies?",2025-09-17T16:22:13.755961+00:00
+user,"axiale plaat, paraaxiale laterale plaat en intermediale plaat",2025-09-17T16:23:25.127733+00:00
+assistant,"Je noemt een aantal belangrijke subdivisies! Je zit heel dicht bij de standaard terminologie. Kijk nog eens naar je antwoord: de axiale, paraxiale en laterale zijn correct genoemd, maar er is Ã©Ã©n die je net iets anders formuleert dan gangbaar is.
+
+Kun je de terminologie nog eens proberen op te schrijven? Denk aan:  
+- axial  
+- paraxial  
+- intermediate  
+- lateral plate
+
+Welke vier subdivisies gebruik je volgens deze indeling?",2025-09-17T16:23:36.218397+00:00
+assistant,"**OVERALL SUMMARY**  
+Goed gedaan met het beantwoorden van de vragen en het actief meedenken! Je laat zien dat je de basisschemaâs van embryologie begrijpt en je zet steeds stappen richting een goed onderbouwd antwoord. Je aarzelt niet om verbeteringen aan te brengen als je feedback krijgt, wat een belangrijke vaardigheid is voor je verdere groei.
+
+**WHAT YOU DID WELL**
+- **Strong Grasp of:** Het benoemen van de drie kiemlagen en het correct toewijzen van hun hoofdfuncties na feedback. Je begrijpt dat het endoderm de bekleding van interne organen vormt en het mesoderm de bindweefsels en spieren.
+- **Good Application of:** Je kon uitleggen wat embryonale plooivorming ongeveer is en denkt na over de anatomische richtingen (craniaal, caudaal, lateraal). Je gebruikte de juiste tekeningen bij het verdelen van het mesoderm.
+
+**AREAS FOR GROWTH & FOCUS**
+- **Reviewing Key Terms:** Je had soms moeite met de exacte terminologie van de mesodermale delen (âintermediairâ vs. âintermediaalâ, âlaterale plaatâ) en met het verschil tussen endoderm en mesoderm m.b.t. skeletvorming.
+- **Connecting the Dots:** Het toelichten van processen zoals embryonale plooivorming en de exacte uitkomsten hiervan kan nog iets preciezer. Probeer om bij het uitleggen van een proces de belangrijke stappen en hun resultaten expliciet te maken.
+
+**ACTIONABLE STUDY RECOMMENDATIONS**  
+Teken het proces van embryonale plooivorming en maak een conceptmap waarin je de kiemlagen en mesodermal subdivisies koppelt aan hun eindstructuren. Schrijf vervolgens bij elke term kort de Nederlandse en Engelse benaming. Visueel inzicht krijgen in de processen en hun terminologie zal je helpen deze kennis nog beter te onthouden Ã©n toe te passen!",2025-09-17T16:26:01.518+00:00
