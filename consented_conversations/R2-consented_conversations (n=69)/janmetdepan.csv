@@ -1,5 +1,5 @@
-"role","content"
-"user","ik ben klaar om te beginnen"
+"role","content","created_at"
+"user","ik ben klaar om te beginnen","2025-09-29T16:12:43.253001+00:00"
 "assistant","Hier volgt de casus waarmee we gaan werken:
 
 ###VIGNETTE 1###
@@ -10,27 +10,27 @@ Bloedglucose: 45 mg/dL (norm: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal negatief)  
 Lactaat: 4,2 mmol/L (norm: 0,5–2,0 mmol/L)
 
-Kun je uitleggen wat er in deze casus aan de hand is?"
-"user","er is kans op op een ziekte die te maken heeft met een probleem met de vet verbranding of de glycogeenomzetting naar glucose omdat bij vasten er problemen ontstaan"
-"user","kun je doorgaan?"
-"assistant","Natuurlijk! Weet je wat glycolyse inhoudt, wat het doel is en waar in de cel dit proces plaatsvindt? Vertel eens wat je hierover weet. Als je het niet precies weet, kun je aangeven wat je je wel herinnert?"
-"user","glycolyse is de omzetting van glycogeen naar glucose?"
+Kun je uitleggen wat er in deze casus aan de hand is?","2025-09-29T16:13:00.442108+00:00"
+"user","er is kans op op een ziekte die te maken heeft met een probleem met de vet verbranding of de glycogeenomzetting naar glucose omdat bij vasten er problemen ontstaan","2025-09-29T16:17:12.254248+00:00"
+"user","kun je doorgaan?","2025-09-29T16:22:52.206986+00:00"
+"assistant","Natuurlijk! Weet je wat glycolyse inhoudt, wat het doel is en waar in de cel dit proces plaatsvindt? Vertel eens wat je hierover weet. Als je het niet precies weet, kun je aangeven wat je je wel herinnert?","2025-09-29T16:23:00.130434+00:00"
+"user","glycolyse is de omzetting van glycogeen naar glucose?","2025-09-29T16:23:38.79451+00:00"
 "assistant","Je zit in de buurt! Glycolyse lijkt qua naam inderdaad op glycogenolyse. Maar glycolyse is eigenlijk iets anders. Kun je bedenken wat er precies gebeurt tijdens glycolyse, en wat het begin- en eindproduct zijn?
 
-Wat denk je: wordt in glycolyse glycogeen omgezet, of gebeurt er iets anders met glucose?"
-"user","wordt glycogeen omgezet naar vet?"
+Wat denk je: wordt in glycolyse glycogeen omgezet, of gebeurt er iets anders met glucose?","2025-09-29T16:23:46.084087+00:00"
+"user","wordt glycogeen omgezet naar vet?","2025-09-29T16:24:18.014493+00:00"
 "assistant","Dat is logisch gedacht, want het lichaam kan inderdaad energie opslaan als vet. Maar laten we focussen op glycolyse: hierbij draait het niet direct om de omzetting van glycogeen of vet.
 
 Misschien kan het volgende je helpen:  
 Glycolyse start bij glucose. Wat gebeurt er vervolgens met glucose in de glycolyse? En in welk deel van de cel vindt glycolyse plaats?  
 
-Probeer eens te beschrijven welke stappen glucose doorloopt tijdens glycolyse. Wat weet je daar nog van?"
-"user","glucose wordt verder afgebroken, dit vindt in de mitochordien plaats"
+Probeer eens te beschrijven welke stappen glucose doorloopt tijdens glycolyse. Wat weet je daar nog van?","2025-09-29T16:24:28.523306+00:00"
+"user","glucose wordt verder afgebroken, dit vindt in de mitochordien plaats","2025-09-29T16:25:18.524536+00:00"
 "assistant","Je bent goed op weg! Glucose wordt inderdaad afgebroken. Maar denk nog even na: waar in de cel begint die afbraak? Vindt glycolyse daadwerkelijk in de mitochondriën plaats, of ergens anders?
 
-Wat gebeurt er met glucose voordat het eventueel de mitochondriën in gaat? Heb je een idee waar glycolyse begint?"
-"user","glucose wordt buiten de cel omgezet in pyruvaat"
+Wat gebeurt er met glucose voordat het eventueel de mitochondriën in gaat? Heb je een idee waar glycolyse begint?","2025-09-29T16:25:25.411706+00:00"
+"user","glucose wordt buiten de cel omgezet in pyruvaat","2025-09-29T16:26:47.159918+00:00"
 "assistant","Je bent al een stuk dichterbij! Glycolyse vindt echter binnen de cel plaats, maar vóórdat glucose de mitochondriën in gaat. Kun je je herinneren in welk deel van de cel glycolyse gebeurt? Is dat in het cytoplasma of ergens anders? Wat denk je?
 
-En weet je nog wat het eindproduct van glycolyse is voordat er eventueel verdere omzettingen plaatsvinden in de mitochondriën?"
-"user","glycolyses bevindt zich in het cytoplasma?"
+En weet je nog wat het eindproduct van glycolyse is voordat er eventueel verdere omzettingen plaatsvinden in de mitochondriën?","2025-09-29T16:27:21.393058+00:00"
+"user","glycolyses bevindt zich in het cytoplasma?","2025-09-29T16:29:10.515197+00:00"

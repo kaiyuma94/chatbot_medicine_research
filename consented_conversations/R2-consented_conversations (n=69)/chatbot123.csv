@@ -1,5 +1,5 @@
-"role","content"
-"user","ik ben er klaar voor"
+"role","content","created_at"
+"user","ik ben er klaar voor","2025-09-29T16:05:36.141113+00:00"
 "assistant","Hier komt je eerste casus:
 
 Deel van de theorie:  
@@ -11,18 +11,18 @@ Een meisje van 3 jaar met een GSD wordt gezien omdat ze erg prikkelbaar is en ee
 - Bloedketonen: negatief (normaal negatief)
 - Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun je uitleggen wat er in deze casus is gebeurd?"
-"user","het meisje heeft GSD, symptomen van God zijn ook dat je een opgezette lever hebt en dat is ook de reden dat haar buik dan opgezet is"
+Kun je uitleggen wat er in deze casus is gebeurd?","2025-09-29T16:05:52.540985+00:00"
+"user","het meisje heeft GSD, symptomen van God zijn ook dat je een opgezette lever hebt en dat is ook de reden dat haar buik dan opgezet is","2025-09-29T16:07:35.493069+00:00"
 "assistant","Goed geprobeerd! Je benoemt het verband tussen GSD, leververgroting en de opgezwollen buik. Voordat we verdergaan, wil ik samen even terugkijken naar de benodigde basiskennis. Dit helpt om straks de casus beter te begrijpen.
 
 Heb je op dit moment nog vragen of verwarring over de processen van energieopslag en -gebruik in het lichaam? Of zullen we eerst samen wat kernbegrippen ophalen, zoals glycolyse, glycogenolyse, of het verschil tussen aëroob en anaeroob metabolisme? 
 
-Weet je bijvoorbeeld wat glycolyse is en waar het plaatsvindt?"
-"user","laten we bij de basis beginnen"
+Weet je bijvoorbeeld wat glycolyse is en waar het plaatsvindt?","2025-09-29T16:07:48.471041+00:00"
+"user","laten we bij de basis beginnen","2025-09-29T16:08:02.613415+00:00"
 "assistant","Prima idee! We houden het kort en overzichtelijk. 
 
-Kun je me vertellen wat je weet over glycogenolyse en glycolyse? Wat is het verschil tussen die twee processen en waar vinden ze plaats in de cel?"
-"user","eentje bevindt zich dacht ik in het mitochondrium plaats en de ander in het cytoplasme"
+Kun je me vertellen wat je weet over glycogenolyse en glycolyse? Wat is het verschil tussen die twee processen en waar vinden ze plaats in de cel?","2025-09-29T16:08:08.990736+00:00"
+"user","eentje bevindt zich dacht ik in het mitochondrium plaats en de ander in het cytoplasme","2025-09-29T16:08:41.058335+00:00"
 "assistant","Je zit in de goede richting door te denken aan verschillende locaties in de cel! Laten we dieper ingaan op beide processen:
 
 Glycogenolyse:  
@@ -36,34 +36,34 @@ Glycolyse:
 
 Dus, beide processen vinden in het cytoplasma plaats. Glycogenolyse levert glucose-6-fosfaat, wat vervolgens via de glycolyse verder kan worden afgebroken voor energie.
 
-Wil je nu kort samenvatten wat je hiervan hebt opgepikt, of is er een specifiek onderdeel dat je verder wilt bespreken?"
-"user","nee dankje"
+Wil je nu kort samenvatten wat je hiervan hebt opgepikt, of is er een specifiek onderdeel dat je verder wilt bespreken?","2025-09-29T16:08:57.125618+00:00"
+"user","nee dankje","2025-09-29T16:11:36.096002+00:00"
 "assistant","Mooi, dan pakken we door! Je hebt het onderscheid nu scherp.
 
 Laten we nu kort de rol van aëroob en anaeroob metabolisme bespreken:
-- Weet je wat er na de glycolyse met pyruvaat gebeurt als er wél voldoende zuurstof is (aërob), en wat er gebeurt bij zuurstoftekort (anaerob)? Kun je hier iets over vertellen?"
-"user","ik weet niet wat het verschil is behalve dat bij aeroob zuurstof aanwezig is en bij anaeroob niet"
+- Weet je wat er na de glycolyse met pyruvaat gebeurt als er wél voldoende zuurstof is (aërob), en wat er gebeurt bij zuurstoftekort (anaerob)? Kun je hier iets over vertellen?","2025-09-29T16:11:45.120485+00:00"
+"user","ik weet niet wat het verschil is behalve dat bij aeroob zuurstof aanwezig is en bij anaeroob niet","2025-09-29T16:13:38.666918+00:00"
 "assistant","Goed dat je aangeeft waar nog onduidelijkheid zit! Je hebt gelijk dat bij aëroob zuurstof aanwezig is, en bij anaeroob niet. Laten we het kort verder uitwerken:
 
 Na glycolyse:
 - **Aëroob (met zuurstof):** pyruvaat wordt omgezet in acetyl-CoA en gaat het mitochondrium in naar de citroenzuurcyclus (Krebs), waarna via de oxidatieve fosforylering veel ATP wordt gevormd.
 - **Anaëroob (zonder zuurstof):** pyruvaat wordt omgezet in lactaat in het cytoplasma. Hierbij ontstaat minder ATP, maar glycolyse kan wel doorgaan.
 
-Wil je proberen samen te vatten wat er met pyruvaat gebeurt afhankelijk van de aanwezigheid van zuurstof? Zo ja, doe dat eens in je eigen woorden!"
-"user","wat wordt er bedoeld met dat glycose bij het anearobe wel door kan gaan? stopt het bij aerobe dan nadat acetylcoa wordt gevormd?"
+Wil je proberen samen te vatten wat er met pyruvaat gebeurt afhankelijk van de aanwezigheid van zuurstof? Zo ja, doe dat eens in je eigen woorden!","2025-09-29T16:13:51.173294+00:00"
+"user","wat wordt er bedoeld met dat glycose bij het anearobe wel door kan gaan? stopt het bij aerobe dan nadat acetylcoa wordt gevormd?","2025-09-29T16:14:59.828349+00:00"
 "assistant","Leuke, kritische vraag! Ik zal proberen de gedachtegang te verhelderen.
 
 Wat bedoeld wordt: Glycolyse — de afbraak van glucose tot pyruvaat in het cytoplasma — kán altijd doorgaan, maar er zijn verschillen in de omstandigheden en 'waarom' het blijft werken:
 - **Bij anaëroob:** Wanneer er géén zuurstof is, stapelt NADH zich op en raakt NAD⁺ op, wat glycolyse zou doen stoppen. Door pyruvaat om te zetten in lactaat, wordt NADH weer omgezet in NAD⁺, waardoor glycolyse kan blijven doorgaan en er toch nog wat ATP gemaakt wordt.
 - **Bij aëroob:** Het gevormde NADH uit glycolyse wordt in het mitochondrium gebruikt voor oxidatieve fosforylering, waarbij weer NAD⁺ ontstaat. Pyruvaat gaat verder naar de citroenzuurcyclus. Glycolyse gaat dus niet 'stoppen', maar er ontstaat een andere balans, want nu komt de meeste ATP uit de mitochondriale route.
 
-Kun je nu beredeneren hoe het lichaam onder zowel anaërobe als aërobe omstandigheden aan energie komt via deze routes? Wat is het voordeel van het gebruik van zuurstof?"
-"user","het oordeel van zuurstof gebruiken is dat pyrovaat naar de citroenzuurcyclus gaat waardoor er meer energie wordt gevormd"
+Kun je nu beredeneren hoe het lichaam onder zowel anaërobe als aërobe omstandigheden aan energie komt via deze routes? Wat is het voordeel van het gebruik van zuurstof?","2025-09-29T16:15:18.386023+00:00"
+"user","het oordeel van zuurstof gebruiken is dat pyrovaat naar de citroenzuurcyclus gaat waardoor er meer energie wordt gevormd","2025-09-29T16:24:59.190152+00:00"
 "assistant","Precies, dat klopt: als er zuurstof is, kan pyruvaat naar de citroenzuurcyclus (in het mitochondrium), en worden er via oxidatieve fosforylering in totaal veel meer ATP-moleculen gevormd per glucosemolecuul.
 
-Is het voor jou duidelijk wat de belangrijkste input en output zijn van de glycolyse en citroenzuurcyclus? Of wil je dat samen kort herhalen voordat we verdergaan?"
-"user","het voordeel van het gebruik van zuurstof is dat pyrovaat doorgaat naar de citroenzuurcyclus waardoor er meer energie en app wordt gevormd"
-"user","ik wil graag afsluiten en feedback houden"
+Is het voor jou duidelijk wat de belangrijkste input en output zijn van de glycolyse en citroenzuurcyclus? Of wil je dat samen kort herhalen voordat we verdergaan?","2025-09-29T16:25:08.16629+00:00"
+"user","het voordeel van het gebruik van zuurstof is dat pyrovaat doorgaat naar de citroenzuurcyclus waardoor er meer energie en app wordt gevormd","2025-09-29T16:25:55.177785+00:00"
+"user","ik wil graag afsluiten en feedback houden","2025-09-29T16:33:59.377123+00:00"
 "assistant","Dat is prima, mooi gewerkt vandaag! Je hebt de belangrijkste punten van energie­metabolisme besproken: glycolyse, glycogenolyse, het verschil tussen aëroob en anaeroob metabolisme, én het belang van zuurstof voor efficiënte ATP-productie. Je stelde goede vragen en hebt actief meegedacht en samengevat, wat heel belangrijk is voor blijvend begrip.
 
 **Tips voor verdere verdieping:**
@@ -71,4 +71,4 @@ Is het voor jou duidelijk wat de belangrijkste input en output zijn van de glyco
 - Oefen in je eigen woorden uit te leggen wat er gebeurt bij vasten of inspanning.
 - Kijk of je het verschil kunt benoemen tussen energiemetabolisme bij gezonde mensen en bij mensen met een opslagziekte zoals GSD.
 
-Goed gedaan — vragen blijven altijd welkom! Veel succes verder met je studie."
+Goed gedaan — vragen blijven altijd welkom! Veel succes verder met je studie.","2025-09-29T16:34:14.533602+00:00"

@@ -1,5 +1,5 @@
-"role","content"
-"user","hallo"
+"role","content","created_at"
+"user","hallo","2025-09-29T17:16:49.567485+00:00"
 "assistant","Hier volgt de casus ter introductie:
 
 ###VIGNETTE 1###
@@ -10,33 +10,33 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun je uitleggen wat er in dit geval is gebeurd?"
-"user","ze heeft een vergrote lever, dus waarschijnlijk glycogeenstapeling in de lever. prikkelbaarheid kan duiden op een verminderde hersen en zenuwfunctie. er is sprake van hypoglykemie, maar de vetzuuroxidatie met daarbij het maken van ketonen is niet gestart. verder zie je een stapeling van lactaat, wat er waarschijnlijk op duidt dat pyrufaat niet omgezet kan worden naar glucose"
+Kun je uitleggen wat er in dit geval is gebeurd?","2025-09-29T17:17:12.906086+00:00"
+"user","ze heeft een vergrote lever, dus waarschijnlijk glycogeenstapeling in de lever. prikkelbaarheid kan duiden op een verminderde hersen en zenuwfunctie. er is sprake van hypoglykemie, maar de vetzuuroxidatie met daarbij het maken van ketonen is niet gestart. verder zie je een stapeling van lactaat, wat er waarschijnlijk op duidt dat pyrufaat niet omgezet kan worden naar glucose","2025-09-29T17:19:45.276122+00:00"
 "assistant","Goed geprobeerd! Je noemt een aantal belangrijke punten. Voordat we verdergaan, laten we samen even de basiskennis rondom deze casus ophalen. Dit helpt je om straks de vervolgstappen beter te kunnen analyseren.
 
 Heb je op dit moment vragen of verwarring over iets? Of zal ik een start maken met een overzichtsvraag, bijvoorbeeld: 
 
-Weet je wat glycolyse is en wat het doel ervan is?"
-"user","glycolyse is het omzetten van glucose naar glycogeen, daarmee kan er energie opgeslagen worden"
+Weet je wat glycolyse is en wat het doel ervan is?","2025-09-29T17:19:54.152193+00:00"
+"user","glycolyse is het omzetten van glucose naar glycogeen, daarmee kan er energie opgeslagen worden","2025-09-29T17:20:31.989059+00:00"
 "assistant","Je verwart glycolyse met glycogenese! Laten we dit kort opfrissen:
 
 Glycolyse is het proces waarbij glucose (een suiker) wordt afgebroken tot pyruvaat, waarbij een beetje ATP en NADH wordt gevormd, en géén glycogeen wordt aangemaakt. Dit gebeurt in het cytoplasma van de cel.  
 Glycogenese is juist het proces waarbij glucose wordt omgezet in glycogeen voor opslag.
 
-Zou je kunnen vertellen wat het eindproduct is van glycolyse en wat er daarna met pyruvaat kan gebeuren, afhankelijk van de aanwezigheid van zuurstof?"
-"user","pyruvaat kan omgezet worden naar lactaat, waar energiehoudend NADH vrijkomt"
+Zou je kunnen vertellen wat het eindproduct is van glycolyse en wat er daarna met pyruvaat kan gebeuren, afhankelijk van de aanwezigheid van zuurstof?","2025-09-29T17:20:41.552752+00:00"
+"user","pyruvaat kan omgezet worden naar lactaat, waar energiehoudend NADH vrijkomt","2025-09-29T17:21:25.599212+00:00"
 "assistant","Je zit in de goede richting! Inderdaad: als er geen zuurstof is, wordt pyruvaat omgezet in lactaat, en daarbij wordt NADH weer omgezet in NAD+, waardoor de glycolyse kan doorgaan.
 
-Maar als er wél zuurstof is, weet je dan wat er normaal gesproken met pyruvaat gebeurt? En waarom levert dat uiteindelijk méér energie op dan lactaatvorming?"
-"user","pyruvaat en andere stoffen worden tijdens de gluconeogenese omgezet tot glucose, die weer als energiebron gebruikt kan worden"
+Maar als er wél zuurstof is, weet je dan wat er normaal gesproken met pyruvaat gebeurt? En waarom levert dat uiteindelijk méér energie op dan lactaatvorming?","2025-09-29T17:22:15.454655+00:00"
+"user","pyruvaat en andere stoffen worden tijdens de gluconeogenese omgezet tot glucose, die weer als energiebron gebruikt kan worden","2025-09-29T17:22:53.424039+00:00"
 "assistant","Gedeeltelijk juist! Pyruvaat kan inderdaad tijdens gluconeogenese (in de lever) worden omgezet in glucose, vooral in perioden van vasten of tijdens inspanning.
 
-Maar ik bedoelde eigenlijk: als er wél voldoende zuurstof is, wat gebeurt er dan direct met pyruvaat na de glycolyse? Kun je uitleggen welk proces na glycolyse plaatsvindt en waarom dat zoveel meer ATP oplevert per glucosemolecuul dan alleen glycolyse en lactaatvorming?"
-"user","het gaat de citroenzuurcylcus in?"
+Maar ik bedoelde eigenlijk: als er wél voldoende zuurstof is, wat gebeurt er dan direct met pyruvaat na de glycolyse? Kun je uitleggen welk proces na glycolyse plaatsvindt en waarom dat zoveel meer ATP oplevert per glucosemolecuul dan alleen glycolyse en lactaatvorming?","2025-09-29T17:23:02.186144+00:00"
+"user","het gaat de citroenzuurcylcus in?","2025-09-29T17:23:24.88245+00:00"
 "assistant","Ja, precies! Na glycolyse wordt pyruvaat als er genoeg zuurstof is, in de mitochondriën omgezet tot acetyl-CoA en gaat dan de citroenzuurcyclus (ook wel Krebs- of TCA-cyclus genoemd) in.
 
-Kun je uitleggen wat het belangrijkste doel is van de citroenzuurcyclus en welke energierijke moleculen daarbij ontstaan die verder in de oxidatieve fosforylering worden gebruikt?"
-"user","tijdens de citroenzuurcyclus komt er vooral NADH en een GTP vrij. deze NADH brengt energierijke elektronen over naar het eiwitcomplex dat verantwoordelijk is voor de oxidatieve fosforylering, waarbij aTP gemaakt wordt"
+Kun je uitleggen wat het belangrijkste doel is van de citroenzuurcyclus en welke energierijke moleculen daarbij ontstaan die verder in de oxidatieve fosforylering worden gebruikt?","2025-09-29T17:23:33.578542+00:00"
+"user","tijdens de citroenzuurcyclus komt er vooral NADH en een GTP vrij. deze NADH brengt energierijke elektronen over naar het eiwitcomplex dat verantwoordelijk is voor de oxidatieve fosforylering, waarbij aTP gemaakt wordt","2025-09-29T17:25:15.676886+00:00"
 "assistant","Mooie uitleg! Je benoemt de kernprocessen en de rol van NADH (en FADH2) in de overdracht van elektronen naar de oxidatieve fosforylering.
 
 Heb je nog vragen over deze basis? Voel je je comfortabel met de termen glycolyse, citroenzuurcyclus, oxidatieve fosforylering en hun samenhang? Zo niet, stel gerust je vraag!
@@ -49,30 +49,30 @@ Bij Glycogeenstapelingsziekten (GSD) is dit proces verstoord door enzymdeficiën
 
 Een 3-jarig meisje met GSD is prikkelbaar, heeft een vergrote lever, bloedglucose 45 mg/dL (te laag), geen ketonen, en een verhoogd lactaat.
 
-Nu je de basis herhaald hebt: Kun je met deze kennis uitleggen wat er in dit geval is gebeurd?"
-"user","Ze heeft te lang niet gegeten, waardoor de glucosespiegel is gedaald."
+Nu je de basis herhaald hebt: Kun je met deze kennis uitleggen wat er in dit geval is gebeurd?","2025-09-29T17:25:35.556188+00:00"
+"user","Ze heeft te lang niet gegeten, waardoor de glucosespiegel is gedaald.","2025-09-29T17:26:28.100175+00:00"
 "assistant","Dat klopt: de lage glucosespiegel laat inderdaad zien dat het meisje een tekort aan beschikbare glucose heeft.
 
-Maar wat gebeurt er normaal gesproken als iemand een tijdje niet eet? Welk mechanisme zorgt er dan voor het op peil houden van de bloedglucose, en waarom lukt dat bij haar niet? Heb je gedacht aan het effect van de glycogeenstapelingsziekte op deze processen?"
-"user","de glucogenolyse?"
+Maar wat gebeurt er normaal gesproken als iemand een tijdje niet eet? Welk mechanisme zorgt er dan voor het op peil houden van de bloedglucose, en waarom lukt dat bij haar niet? Heb je gedacht aan het effect van de glycogeenstapelingsziekte op deze processen?","2025-09-29T17:26:36.088475+00:00"
+"user","de glucogenolyse?","2025-09-29T17:28:05.712669+00:00"
 "assistant","Precies! Normaal gezien wordt bij vasten glycogeen afgebroken in de lever tot glucose (dit heet glycogenolyse) om de bloedglucose op peil te houden.
 
-Kun jij uitleggen waarom dit bij een glycogeenstapelingsziekte zoals bij dit meisje niet goed werkt? Wat is het gevolg hiervan voor haar energievoorziening?"
-"user","Glycogeen kan niet omgezet worden tot glucose omdat een van de enzymen niet aanwezig is. dit betekent dat je lichaam niet uit je glycogeenreserves kan putten"
+Kun jij uitleggen waarom dit bij een glycogeenstapelingsziekte zoals bij dit meisje niet goed werkt? Wat is het gevolg hiervan voor haar energievoorziening?","2025-09-29T17:28:12.851326+00:00"
+"user","Glycogeen kan niet omgezet worden tot glucose omdat een van de enzymen niet aanwezig is. dit betekent dat je lichaam niet uit je glycogeenreserves kan putten","2025-09-29T17:30:00.73689+00:00"
 "assistant","Goed uitgelegd! Omdat een essentieel enzym ontbreekt, kan zij haar opgeslagen glycogeen niet effectief omzetten naar glucose. Daardoor kan haar lichaam tijdens vasten niet voldoende glucose vrijmaken.
 
 Nu een vervolgvraag om het beeld compleet te maken:  
-Omdat de directe aanvoer van glucose stokt, zal het lichaam alternatieve energiebronnen en -routes proberen te gebruiken. Kun je bedenken welke metabole routes dan ‘overuren’ draaien? En wat zijn mogelijke beperkingen of bijwerkingen van deze alternatieven bij GSD?"
-"user","de gluconeogenese, vetzuuroxidatie"
+Omdat de directe aanvoer van glucose stokt, zal het lichaam alternatieve energiebronnen en -routes proberen te gebruiken. Kun je bedenken welke metabole routes dan ‘overuren’ draaien? En wat zijn mogelijke beperkingen of bijwerkingen van deze alternatieven bij GSD?","2025-09-29T17:30:08.914587+00:00"
+"user","de gluconeogenese, vetzuuroxidatie","2025-09-29T17:30:26.746976+00:00"
 "assistant","Klopt, die routes worden inderdaad geactiveerd! Gluconeogenese maakt nieuw glucose aan uit andere stoffen, en vetzuuroxidatie levert energie vanuit vet, vooral bij langer vasten.
 
 Maar kijk nog eens even naar haar bloedwaarden: geen ketonen, maar wel heel veel lactaat.  
-Welke route is hier kennelijk bijzonder actief? En hoe verklaar jij het verhoogde lactaat en de afwezigheid van ketonen? Wat zegt dat over de werking en de begrenzing van deze alternatieve routes bij dit meisje?"
-"user","de afbraak van pyrufaat naar lactaat wordt gebruikt ipv glycogenese"
+Welke route is hier kennelijk bijzonder actief? En hoe verklaar jij het verhoogde lactaat en de afwezigheid van ketonen? Wat zegt dat over de werking en de begrenzing van deze alternatieve routes bij dit meisje?","2025-09-29T17:30:35.196937+00:00"
+"user","de afbraak van pyrufaat naar lactaat wordt gebruikt ipv glycogenese","2025-09-29T17:31:15.819561+00:00"
 "assistant","Dat zie je goed! Doordat glycogenolyse niet werkt, schakelt haar lichaam over op sterke glycolyse met als eindproduct pyruvaat. Omdat de lever bij GSD meestal niet goed kan omgaan met pyruvaat (en de gluconeogenese vaak ook niet goed functioneert), wordt pyruvaat omgezet in lactaat—daardoor ontstaat lactaatstapeling.
 
-Maar je zegt ""in plaats van glycogenese""—zou je dat nog willen verduidelijken? En: kun je uitleggen waarom er géén ketonen worden gemaakt bij dit meisje, ondanks het lage glucosegehalte? Welk metabolisme zou voor ketonen moeten zorgen, en waarom gebeurt dat nu niet?"
-"user","de vetzuuroxidatie"
+Maar je zegt ""in plaats van glycogenese""—zou je dat nog willen verduidelijken? En: kun je uitleggen waarom er géén ketonen worden gemaakt bij dit meisje, ondanks het lage glucosegehalte? Welk metabolisme zou voor ketonen moeten zorgen, en waarom gebeurt dat nu niet?","2025-09-29T17:31:26.799995+00:00"
+"user","de vetzuuroxidatie","2025-09-29T17:31:54.406131+00:00"
 "assistant","**1. Learning Context and Roles**  
 • Educational setting: Medical tutoring session focused on metabolic biochemistry and pathophysiology, particularly glycogen storage diseases (GSD), using a case-based approach.  
 • Purpose: To provide formative feedback supporting the learner’s understanding of carbohydrate and lipid metabolism, diagnostic reasoning, and application of core metabolic concepts.
@@ -113,4 +113,4 @@ Maar je zegt ""in plaats van glycogenese""—zou je dat nog willen verduidelijke
 ---
 
 **Forward-looking Guidance**  
-In the next session, focus on integrating clinical findings with biochemical pathways, and aim to provide more comprehensive explanations that explicitly connect symptoms, lab values, and metabolic defects. Proactively summarizing or questioning complex mechanisms will further enhance your diagnostic and reflective skills."
+In the next session, focus on integrating clinical findings with biochemical pathways, and aim to provide more comprehensive explanations that explicitly connect symptoms, lab values, and metabolic defects. Proactively summarizing or questioning complex mechanisms will further enhance your diagnostic and reflective skills.","2025-09-29T17:33:04.35+00:00"

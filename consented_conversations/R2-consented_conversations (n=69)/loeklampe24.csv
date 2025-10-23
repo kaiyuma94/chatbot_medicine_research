@@ -1,5 +1,5 @@
-"role","content"
-"user","hoi"
+"role","content","created_at"
+"user","hoi","2025-09-29T17:19:00.825679+00:00"
 "assistant","###VIGNETTE 1###
 Het lichaam slaat glucose op in de vorm van glycogeen, vooral in de lever en spieren, zodat het kan worden gebruikt als energiebron wanneer dat nodig is—met name tussen de maaltijden of tijdens inspanning. 
 Bij Glycogeenstapelingsziekten (GSD’s) is dit proces verstoord door erfelijke enzymdeficiënties. Hierdoor is het lichaam minder goed in staat om normale bloedglucosewaarden te behouden, vooral tijdens vasten. Om dit te compenseren, worden andere metabole routes geactiveerd. In GSD zijn deze alternatieve paden, zoals de Cori-cyclus, overbelast.
@@ -8,12 +8,12 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun je uitleggen wat er in dit geval gebeurd is?"
-"user","hallo"
+Kun je uitleggen wat er in dit geval gebeurd is?","2025-09-29T17:19:17.679062+00:00"
+"user","hallo","2025-09-29T17:19:21.383237+00:00"
 "assistant","Prima dat je reageert! Denk je dat je een idee hebt wat er bij dit meisje gebeurt, of wil je eerst wat basiskennis herhalen over energie-metabolisme? 
 
-Laat het gerust weten als je vragen hebt of ergens uitleg bij wilt. We kunnen bijvoorbeeld even kort bespreken wat glycolyse is, of wat je weet over glycogeen en de manier waarop het lichaam energie haalt uit glucose. Waar wil je mee starten?"
-"user","je hebt mij nog niks over een meisje verteld, misschieni s het handig om bij het  begin te beginnen"
+Laat het gerust weten als je vragen hebt of ergens uitleg bij wilt. We kunnen bijvoorbeeld even kort bespreken wat glycolyse is, of wat je weet over glycogeen en de manier waarop het lichaam energie haalt uit glucose. Waar wil je mee starten?","2025-09-29T17:19:35.946136+00:00"
+"user","je hebt mij nog niks over een meisje verteld, misschieni s het handig om bij het  begin te beginnen","2025-09-29T17:19:55.265273+00:00"
 "assistant","Goed punt! Ik zal het vignet nogmaals compleet geven om je goed te laten starten:
 
 ###VIGNETTE 1###
@@ -24,16 +24,16 @@ Een 3-jarig meisje met GSD bezoekt de arts omdat ze erg prikkelbaar is en haar b
 - Bloedketonen: Negatief (normaal: negatief)
 - Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun je uitleggen wat er in dit geval gebeurd is?"
-"user","ze heeft dus hypoglykemie, want haar bloedglucose is te laag, en haar lactaat is ook te laag wat dus inhoud dat ze metabolische alkalose heeft"
+Kun je uitleggen wat er in dit geval gebeurd is?","2025-09-29T17:20:21.70372+00:00"
+"user","ze heeft dus hypoglykemie, want haar bloedglucose is te laag, en haar lactaat is ook te laag wat dus inhoud dat ze metabolische alkalose heeft","2025-09-29T17:21:23.751474+00:00"
 "assistant","Goed dat je opmerkt dat de bloedglucose te laag (hypoglykemie) is! Ook zie je dat het lactaat verhoogd is, maar een hoog lactaat past eerder bij een metabole acidose dan bij een alkalose. Wil je hier nog even over nadenken: wat zegt een verhoogd lactaat meestal over het zuur-base-evenwicht?
 
 Laten we nu even een stapje terugnemen en wat basiskennis ophalen:  
 - Wat weet je over het proces van glycogenolyse?  
 - En kun je kort uitleggen wat glycolyse is en waar dit plaatsvindt in de cel?
 
-Of is er een ander onderdeel van het energie-metabolisme waar je als eerste naar wilt kijken?"
-"user","hoi"
+Of is er een ander onderdeel van het energie-metabolisme waar je als eerste naar wilt kijken?","2025-09-29T17:21:39.858486+00:00"
+"user","hoi","2025-09-29T17:26:04.889609+00:00"
 "assistant","###VIGNETTE 1###
 Het lichaam slaat glucose op in de vorm van glycogeen, vooral in de lever en spieren, om dit te gebruiken als er energie nodig is—met name tussen maaltijden of tijdens inspanning. 
 Bij glycogeenstapelingsziekten (GSD’s) is dit proces verstoord door een erfelijke enzymdeficiëntie. Hierdoor heeft het lichaam moeite om normale bloedglucosewaarden te behouden, vooral tijdens vasten. Als compensatie worden andere metabole routes geactiveerd. Echter, bij GSD zijn alternatieve paden, zoals de Cori-cyclus, 
@@ -42,27 +42,27 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)  
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)  
 
-Kun jij uitleggen wat er in deze casus is gebeurd?"
-"user","ze heeft dus een hypoglykemie want te laat bloedsuiker en veel te veel lactaat wat erop wijst dat ze een metsvole acidosis heeft"
+Kun jij uitleggen wat er in deze casus is gebeurd?","2025-09-29T17:26:21.702113+00:00"
+"user","ze heeft dus een hypoglykemie want te laat bloedsuiker en veel te veel lactaat wat erop wijst dat ze een metsvole acidosis heeft","2025-09-29T17:26:49.387397+00:00"
 "assistant","Goede poging! Voordat we verder ingaan op deze casus, laten we eerst even een stap terug doen en samen de basiskennis doornemen die hierbij hoort. Dit helpt om straks de casus beter te analyseren. Zijn er tot nu toe dingen waar je vragen over hebt of waarover je twijfelt?  
 
 Anders kunnen we het hebben over een van de volgende onderwerpen:
 - Weet je wat glycolyse is?
 - Of wil je liever eerst iets bespreken over glycogenolyse, aerobe of anaerobe energievoorziening? 
 
-Je mag alles vragen of aangeven waar je uitleg over wilt!"
-"user","ik weet dit alles, glycolyse is de afbraak van glucose om energie op de wekken. glycogenolyse is van glycogeen wat opgebouwd is in het lichaam als reserve omgezet te worden naar glucose voor energie. aerobe is via CAC en oxidatieve forforylering. Anaerobe kan niet via CAC en dus wordt het omgezet in lactaat. Anaerobe produceert 2 ATP EN aerobe 38"
+Je mag alles vragen of aangeven waar je uitleg over wilt!","2025-09-29T17:26:58.638718+00:00"
+"user","ik weet dit alles, glycolyse is de afbraak van glucose om energie op de wekken. glycogenolyse is van glycogeen wat opgebouwd is in het lichaam als reserve omgezet te worden naar glucose voor energie. aerobe is via CAC en oxidatieve forforylering. Anaerobe kan niet via CAC en dus wordt het omgezet in lactaat. Anaerobe produceert 2 ATP EN aerobe 38","2025-09-29T17:28:44.81903+00:00"
 "assistant","Prima, het lijkt alsof je de basismechanismen en de belangrijkste verschillen kent! Om te checken of je het helemaal begrijpt:  
 Kun je kort uitleggen waar (in welke organen/celcompartimenten) deze processen zich voornamelijk afspelen, en wat de belangrijkste input- en outputstoffen zijn van glycolyse en de citroenzuurcyclus? 
 
-Als het oké is voor je, kunnen we daarna teruggaan naar de casus."
-"user","deze processen vinden plaats in mitochondrien en het cytoplasma van de cel. de belangrijkste input voor glycolyse is glucose. Output is pyruvaat en acetylcoa te maken. Voor de CAC is dit oxaloacetaat en pyruvaat om citroenzuur te maken. Tijdens dit wordt NADH en FADH2 gemaakt en die worden gebruikt in de oxidatieve fosofsyleringg om vervolgens vet veel atp te maken"
+Als het oké is voor je, kunnen we daarna teruggaan naar de casus.","2025-09-29T17:28:53.635703+00:00"
+"user","deze processen vinden plaats in mitochondrien en het cytoplasma van de cel. de belangrijkste input voor glycolyse is glucose. Output is pyruvaat en acetylcoa te maken. Voor de CAC is dit oxaloacetaat en pyruvaat om citroenzuur te maken. Tijdens dit wordt NADH en FADH2 gemaakt en die worden gebruikt in de oxidatieve fosofsyleringg om vervolgens vet veel atp te maken","2025-09-29T17:30:55.279184+00:00"
 "assistant","Je redeneert goed! Glycolyse vindt inderdaad plaats in het cytoplasma, waarbij glucose wordt omgezet in pyruvaat. De citroenzuurcyclus (CAC) en oxidatieve fosforylering gebeuren in de mitochondriën. Je noemt mooi de input en output.
 
 Nog een kleine aanvulling: Acetyl-CoA wordt uit pyruvaat gevormd (in de mitochondriën), en dat gaat dan de citroenzuurcyclus in. Daarbij ontstaan NADH en FADH2, die hun energie uiteindelijk in de vorm van ATP afgegeven via de oxidatieve fosforylering.
 
-Voel je je hier zeker over, of is er nog iets waar je vragen over hebt voordat we teruggaan naar de casus? Zo niet, dan gaan we door!"
-"user","ik ben zeker"
+Voel je je hier zeker over, of is er nog iets waar je vragen over hebt voordat we teruggaan naar de casus? Zo niet, dan gaan we door!","2025-09-29T17:31:07.934897+00:00"
+"user","ik ben zeker","2025-09-29T17:31:16.960239+00:00"
 "assistant","Mooi! Herinner je nog deze casus:
 
 ###VIGNETTE 1###
@@ -74,19 +74,19 @@ Bloedketonen: Negatief (normaal: negatief)
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)  
 
 Nu je de basiskennis weer scherp hebt:  
-Kun je nu met deze kennis uitleggen wat er in deze casus gebeurt?"
-"user","ze heeft een GSD die ervoor zorgt dat ze een metabole acidose heeft"
+Kun je nu met deze kennis uitleggen wat er in deze casus gebeurt?","2025-09-29T17:31:44.328406+00:00"
+"user","ze heeft een GSD die ervoor zorgt dat ze een metabole acidose heeft","2025-09-29T17:32:05.077594+00:00"
 "assistant","Dat is een goed begin! Je benoemt de metabole acidose die waarschijnlijk door het verhoogde lactaat komt. Maar laten we wat dieper inzoomen: 
 
-Door de glycogeenstapelingsziekte is het afbreken van glycogeen tot glucose (glycogenolyse) verminderd, waardoor de bloedglucose daalt. Waarom zie je bij haar dan ook dat het lactaat verhoogd is? Kun je uitleggen via welke metabole route(s) dat gebeurt en waarom het lichaam daarvoor kiest?"
-"user","omdat het niet lukt via aerobe cyclus dus dan maar anaerobe"
+Door de glycogeenstapelingsziekte is het afbreken van glycogeen tot glucose (glycogenolyse) verminderd, waardoor de bloedglucose daalt. Waarom zie je bij haar dan ook dat het lactaat verhoogd is? Kun je uitleggen via welke metabole route(s) dat gebeurt en waarom het lichaam daarvoor kiest?","2025-09-29T17:32:14.357569+00:00"
+"user","omdat het niet lukt via aerobe cyclus dus dan maar anaerobe","2025-09-29T17:36:54.503454+00:00"
 "assistant","Precies, je zit op het goede spoor! Het lichaam kan door de gestoorde glycogenolyse niet genoeg glucose vrijmaken voor de bloedbaan. Hierdoor moet het op zoek naar andere manieren om snel energie te produceren, vooral voor organen als de hersenen en spieren.
 
-Je zei “dan maar anaerobe”—dat klopt! Kan je uitleggen welke rol glycolyse en de Cori-cyclus hier dan precies spelen? Wat gebeurt er met het gevormde pyruvaat in deze situatie, en hoe draagt dat bij aan het hoge lactaat?"
-"user","het pyruvaat wordt in stukjes gedeeld en wordt lactaat"
+Je zei “dan maar anaerobe”—dat klopt! Kan je uitleggen welke rol glycolyse en de Cori-cyclus hier dan precies spelen? Wat gebeurt er met het gevormde pyruvaat in deze situatie, en hoe draagt dat bij aan het hoge lactaat?","2025-09-29T17:37:03.074721+00:00"
+"user","het pyruvaat wordt in stukjes gedeeld en wordt lactaat","2025-09-29T17:37:24.519619+00:00"
 "assistant","Je zit in de goede richting! Pyruvaat wordt inderdaad omgezet naar lactaat als er onvoldoende mogelijkheid is om het aeroob verder te verwerken. Kun je uitleggen waarom het pyruvaat niet volledig wordt gebruikt in de citroenzuurcyclus bij deze patiënt? En:  
-Wat gebeurt er vervolgens met het lactaat dat ontstaat? Wordt het nog ergens voor gebruikt, of hoopt het zich gewoon op?"
-"user","omdat de CAC O2 nodig heey"
+Wat gebeurt er vervolgens met het lactaat dat ontstaat? Wordt het nog ergens voor gebruikt, of hoopt het zich gewoon op?","2025-09-29T17:37:33.295201+00:00"
+"user","omdat de CAC O2 nodig heey","2025-09-29T17:37:50.294538+00:00"
 "assistant","Dat is gedeeltelijk waar! De citroenzuurcyclus en de oxidatieve fosforylering zijn inderdaad zuurstofafhankelijk (vooral de laatste stap). Maar in deze situatie—deze patiënt is niet zuurstoftekort, maar heeft vooral een tekort aan direct beschikbare glucose door het gebrek aan glycogenolyse. 
 
-Wat denk je dat er gebeurt met de energieproductie als de cel vooral afhankelijk moet zijn van anaerobe glycolyse, ondanks voldoende zuurstof? Wat betekent dit voor de hoeveelheid ATP die cellen kunnen maken, en waarom ontstaat dan relatief veel lactaat?"
+Wat denk je dat er gebeurt met de energieproductie als de cel vooral afhankelijk moet zijn van anaerobe glycolyse, ondanks voldoende zuurstof? Wat betekent dit voor de hoeveelheid ATP die cellen kunnen maken, en waarom ontstaat dan relatief veel lactaat?","2025-09-29T17:38:00.327738+00:00"

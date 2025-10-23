@@ -1,5 +1,5 @@
-"role","content"
-"user","Starrt"
+"role","content","created_at"
+"user","Starrt","2025-09-29T16:53:39.224615+00:00"
 "assistant","Hier volgt de context voor ons gesprek:
 
 De body slaat glucose op in de vorm van glycogeen, voornamelijk in de lever en spieren, om te worden gebruikt als er energie nodig is—vooral tussen maaltijden of tijdens inspanning. Bij glycogeenstapelingsziekten (GSD’s) is dit proces verstoord door aangeboren enzymdefecten. Het lichaam heeft daardoor moeite om de normale bloedsuikerspiegel te handhaven, vooral tijdens vasten. Als compensatie worden andere metabole routes geactiveerd. In GSD zijn alternatieve wegen, zoals de Cori-cyclus, belangrijk.
@@ -9,32 +9,32 @@ Bloedsuiker: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)  
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)  
 
-Kun jij uitleggen wat er in dit geval is gebeurd?"
-"user","Geen glycogeen die word omgezet in glucose, anaerobe route belopen dus daarom veel melkzuur"
+Kun jij uitleggen wat er in dit geval is gebeurd?","2025-09-29T16:53:59.798964+00:00"
+"user","Geen glycogeen die word omgezet in glucose, anaerobe route belopen dus daarom veel melkzuur","2025-09-29T16:56:35.624713+00:00"
 "assistant","Goed geprobeerd! Voordat we verder gaan, laten we eerst even samen de basiskennis ophalen die hierbij hoort. Dit helpt om straks de case beter te analyseren. Heb je hier al vragen over, of iets waar je over twijfelt?
 
-Zo niet, kun je mij dan kort uitleggen wat je weet over glycolyse? Bijvoorbeeld: wat gebeurt er met glucose tijdens glycolyse, wat zijn de belangrijkste eindproducten, en waar vindt dit proces plaats in de cel?"
-"user","Glucose word omgezet in gy"
-"assistant","Je begon goed! Je zegt: glucose wordt omgezet in ... Heb je geprobeerd te zeggen dat glucose wordt omgezet in pyruvaat tijdens glycolyse? Kun je uitleggen wat er vervolgens met dat pyruvaat kan gebeuren, en onder welke omstandigheden het verder verwerkt wordt tot melkzuur (lactaat) of in andere richtingen? Waar in de cel spelen deze stappen zich af?"
-"user","Kan de citroenzuurcyclus in maar als die niet werkt word en"
+Zo niet, kun je mij dan kort uitleggen wat je weet over glycolyse? Bijvoorbeeld: wat gebeurt er met glucose tijdens glycolyse, wat zijn de belangrijkste eindproducten, en waar vindt dit proces plaats in de cel?","2025-09-29T16:56:43.224771+00:00"
+"user","Glucose word omgezet in gy","2025-09-29T16:56:57.80115+00:00"
+"assistant","Je begon goed! Je zegt: glucose wordt omgezet in ... Heb je geprobeerd te zeggen dat glucose wordt omgezet in pyruvaat tijdens glycolyse? Kun je uitleggen wat er vervolgens met dat pyruvaat kan gebeuren, en onder welke omstandigheden het verder verwerkt wordt tot melkzuur (lactaat) of in andere richtingen? Waar in de cel spelen deze stappen zich af?","2025-09-29T16:57:11.691995+00:00"
+"user","Kan de citroenzuurcyclus in maar als die niet werkt word en","2025-09-29T16:57:39.422237+00:00"
 "assistant","Precies, pyruvaat kan de citroenzuurcyclus (Krebs-cyclus) in, maar onder bepaalde omstandigheden gebeurt dat niet optimaal. Wil je afmaken wat je wilde zeggen? Wat gebeurt er met pyruvaat als de citroenzuurcyclus niet goed werkt, bijvoorbeeld door gebrek aan zuurstof of problemen elders in het metabolisme?
 
-En zou je kunnen aangeven in welk deel van de cel de citroenzuurcyclus plaatsvindt, vergeleken met glycolyse?"
-"user","Word melkzuur speelt zich af ijn"
+En zou je kunnen aangeven in welk deel van de cel de citroenzuurcyclus plaatsvindt, vergeleken met glycolyse?","2025-09-29T16:57:53.329941+00:00"
+"user","Word melkzuur speelt zich af ijn","2025-09-29T16:58:29.097605+00:00"
 "assistant","Goed! Pyruvaat wordt dan omgezet in melkzuur (lactaat). Kun je zeggen in welk deel van de cel deze omzetting naar melkzuur plaatsvindt, en hoe dat verschil is met de citroenzuurcyclus? 
 
-En wat weet je over het nut van deze omzetting naar melkzuur voor de cel in deze situatie?"
-"user","Cytoplasma"
+En wat weet je over het nut van deze omzetting naar melkzuur voor de cel in deze situatie?","2025-09-29T16:58:36.826733+00:00"
+"user","Cytoplasma","2025-09-29T16:58:43.341323+00:00"
 "assistant","Klopt! De omzetting van pyruvaat naar melkzuur gebeurt in het cytoplasma. De citroenzuurcyclus daarentegen vindt plaats in de mitochondriën. 
 
-Kun je ook uitleggen waarom een cel ervoor kiest om pyruvaat om te zetten naar melkzuur in het cytoplasma in plaats van het verder te verwerken in de mitochondriën? Wat levert dit de cel op, vooral als het gaat om energiewinning?"
-"user","ATP"
+Kun je ook uitleggen waarom een cel ervoor kiest om pyruvaat om te zetten naar melkzuur in het cytoplasma in plaats van het verder te verwerken in de mitochondriën? Wat levert dit de cel op, vooral als het gaat om energiewinning?","2025-09-29T16:58:51.235263+00:00"
+"user","ATP","2025-09-29T16:59:00.859801+00:00"
 "assistant","Inderdaad! Door glycolyse (en dus ook bij de omzetting van glucose naar pyruvaat en uiteindelijk lactaat) wordt ATP geproduceerd, wat energie oplevert voor de cel. Echter, in vergelijking met aerobe verbranding is de hoeveelheid ATP per glucosemolecuul veel lager.
 
 Heb je verder nog vragen over glycolyse, de citroenzuurcyclus, of oxidatieve fosforylering? Of zullen we door naar de verbinding tussen glycogeenafbraak (glycogenolyse) en deze processen? 
 
-Laat het weten als er nog iets onduidelijk is; anders gaan we straks de kennis toepassen op de casus!"
-"user","Door"
+Laat het weten als er nog iets onduidelijk is; anders gaan we straks de kennis toepassen op de casus!","2025-09-29T16:59:15.902867+00:00"
+"user","Door","2025-09-29T16:59:38.24904+00:00"
 "assistant","Mooi, laten we de kennis toepassen! Hier volgt nogmaals de context:
 
 De body slaat glucose op in de vorm van glycogeen, voornamelijk in de lever en spieren, om te worden gebruikt als er energie nodig is—vooral tussen maaltijden of tijdens inspanning. Bij glycogeenstapelingsziekten (GSD’s) is dit proces verstoord door aangeboren enzymdefecten. Het lichaam heeft daardoor moeite om de normale bloedsuikerspiegel te handhaven, vooral tijdens vasten. Als compensatie worden andere metabole routes geactiveerd. In GSD zijn alternatieve wegen, zoals de Cori-cyclus, belangrijk.
@@ -44,8 +44,8 @@ Bloedsuiker: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)  
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)  
 
-Nu je je kennis hebt opgefrist: kun je met deze informatie uitleggen wat er in dit geval is gebeurd?"
-"user","Lees maar terug"
+Nu je je kennis hebt opgefrist: kun je met deze informatie uitleggen wat er in dit geval is gebeurd?","2025-09-29T16:59:56.652067+00:00"
+"user","Lees maar terug","2025-09-29T17:00:04.977299+00:00"
 "assistant","Ik begrijp dat je bedoelt dat je eerder al een poging hebt gedaan. Je gaf toen aan dat er geen glycogeen wordt omgezet in glucose, dat de anaerobe route gevolgd wordt, en er daardoor veel melkzuur (lactaat) ontstaat.
 
 Zou je nu wat meer details kunnen geven, met de kennis die we net besproken hebben? Bijvoorbeeld:
@@ -53,38 +53,38 @@ Zou je nu wat meer details kunnen geven, met de kennis die we net besproken hebb
 - Hoe leidt dat tot verhoogd lactaat?
 - Welke metabole processen zijn vooral geactiveerd bij haar?
 
-Probeer je redenering stap voor stap te geven!"
-"user","Bloedglucose is laag omdat de glycogeen niet kan worden omgezet in bloedglucose. Door een enzymdefect kan haal"
-"assistant","Goed begin! Je zegt: “door een enzymdefect kan haar...” Kun je uitleggen waardoor haar lichaam probeert te compenseren? Wat gebeurt er met de pyruvaat die ontstaat uit glycolyse als het lichaam geen glucose kan vrijmaken uit glycogeen? Waarom stijgt hierdoor het lactaatgehalte in het bloed?"
-"user","Pyruvaat kan niet de citroenzuurcyclus in"
-"assistant","Interessant! Laten we dit samen afronden: Als pyruvaat niet de citroenzuurcyclus in kan, waar wordt het dan voor gebruikt? Naar welk alternatief proces wijkt de cel uit, en hoe draagt dat bij aan de hoge lactaatwaarde die bij het meisje gevonden is? Wat gebeurt er met NADH/NAD+ in dit proces?"
-"user","Anaerobe route hierdoor veel lactaat"
-"assistant","Prima! Je geeft aan dat het pyruvaat via de anaerobe route wordt omgezet in lactaat. Kun je beschrijven wat het voordeel is van deze anaerobe omzetting in termen van energiewinning en het behoud van NAD+? En weet je misschien waarom haar lichaam geen ketonen aanmaakt, ondanks het energietekort?"
-"user","Geen idee"
+Probeer je redenering stap voor stap te geven!","2025-09-29T17:00:17.746327+00:00"
+"user","Bloedglucose is laag omdat de glycogeen niet kan worden omgezet in bloedglucose. Door een enzymdefect kan haal","2025-09-29T17:01:28.715466+00:00"
+"assistant","Goed begin! Je zegt: “door een enzymdefect kan haar...” Kun je uitleggen waardoor haar lichaam probeert te compenseren? Wat gebeurt er met de pyruvaat die ontstaat uit glycolyse als het lichaam geen glucose kan vrijmaken uit glycogeen? Waarom stijgt hierdoor het lactaatgehalte in het bloed?","2025-09-29T17:01:37.448124+00:00"
+"user","Pyruvaat kan niet de citroenzuurcyclus in","2025-09-29T17:02:03.210576+00:00"
+"assistant","Interessant! Laten we dit samen afronden: Als pyruvaat niet de citroenzuurcyclus in kan, waar wordt het dan voor gebruikt? Naar welk alternatief proces wijkt de cel uit, en hoe draagt dat bij aan de hoge lactaatwaarde die bij het meisje gevonden is? Wat gebeurt er met NADH/NAD+ in dit proces?","2025-09-29T17:02:17.291657+00:00"
+"user","Anaerobe route hierdoor veel lactaat","2025-09-29T17:02:45.632026+00:00"
+"assistant","Prima! Je geeft aan dat het pyruvaat via de anaerobe route wordt omgezet in lactaat. Kun je beschrijven wat het voordeel is van deze anaerobe omzetting in termen van energiewinning en het behoud van NAD+? En weet je misschien waarom haar lichaam geen ketonen aanmaakt, ondanks het energietekort?","2025-09-29T17:02:52.61733+00:00"
+"user","Geen idee","2025-09-29T17:03:34.566685+00:00"
 "assistant","Geen probleem, dat is een goede vraag! Laten we het stap voor stap bekijken.
 
-Je lichaam maakt doorgaans ketonen aan tijdens langdurig vasten of wanneer er weinig glucose beschikbaar is, meestal vanuit vetzuren in de lever. Bij sommige glycogeenstapelingsziekten kan het produceren van ketonen verminderd zijn. Waarom denk je dat dit zo zou kunnen zijn, vooral als het lichaam voornamelijk afhankelijk is van glucose en niet makkelijk kan overschakelen naar vetverbranding? Wat heeft de lever nodig om ketonen te maken en welke stoffen ontbreken of zijn beperkt aanwezig bij dit meisje?"
-"user","Geen idee"
+Je lichaam maakt doorgaans ketonen aan tijdens langdurig vasten of wanneer er weinig glucose beschikbaar is, meestal vanuit vetzuren in de lever. Bij sommige glycogeenstapelingsziekten kan het produceren van ketonen verminderd zijn. Waarom denk je dat dit zo zou kunnen zijn, vooral als het lichaam voornamelijk afhankelijk is van glucose en niet makkelijk kan overschakelen naar vetverbranding? Wat heeft de lever nodig om ketonen te maken en welke stoffen ontbreken of zijn beperkt aanwezig bij dit meisje?","2025-09-29T17:03:43.723792+00:00"
+"user","Geen idee","2025-09-29T17:04:26.236137+00:00"
 "assistant","Dat geeft niks, want dit is een lastige stap! Hier is een denkhulpje:  
 Voor de aanmaak van ketonen heeft de lever vrije vetzuren (uit vetverbranding) en voldoende acetyl-CoA nodig. Maar acetyl-CoA kan alleen omgezet worden in ketonen als er ook voldoende energie uit andere bronnen is én als de stofwisseling niet stilvalt door verzuring of een energietekort.
 
 In sommige vormen van GSD blijft de insulinespiegel relatief hoog (omdat het lichaam hard probeert de bloedsuiker niet nog verder te laten dalen), waardoor vetverbranding en zo ook ketonvorming onderdrukt worden.
 
-Zou je nu kunnen uitleggen waarom de verstoorde glycogenolyse het moeilijk maakt voor het lichaam om over te schakelen op vetverbranding en ketonenproductie, en hoe dit samenhangt met de lage bloedsuiker van het meisje?"
-"user","Er is niet voldoende energie waardoor er geen ketonen kunnen worden gemaakt, ketonen worden normaal verbrand bij vetverbranding maar dat kan dus niet zonder energie"
+Zou je nu kunnen uitleggen waarom de verstoorde glycogenolyse het moeilijk maakt voor het lichaam om over te schakelen op vetverbranding en ketonenproductie, en hoe dit samenhangt met de lage bloedsuiker van het meisje?","2025-09-29T17:04:43.805613+00:00"
+"user","Er is niet voldoende energie waardoor er geen ketonen kunnen worden gemaakt, ketonen worden normaal verbrand bij vetverbranding maar dat kan dus niet zonder energie","2025-09-29T17:05:36.475562+00:00"
 "assistant","Goed geredeneerd! Je benoemt het gebrek aan energie en dat ketonen normaal ontstaan bij vetverbranding. Klopt: als het lichaam moeite heeft om glycogeen af te breken én een relatief hoge insulinespiegel houdt (vanwege de lage bloedsuiker), blijven vetzuren deels in het vetweefsel opgeslagen. Daardoor wordt de route naar ketonenproductie (via beta-oxidatie van vetzuren) afgeremd.
 
 Laatste verdiepingsvraag:  
-We hebben nu besproken waarom lactaat omhoog gaat en ketonen afwezig blijven. Kun je uitleggen hoe de Cori-cyclus hierbij een rol probeert te spelen? Wat gebeurt er in deze cyclus, en waarom kan dit bij deze patiënte beperkt effectief zijn?"
-"user","Lactaatgehalte is hoog want dan kan uit lactaat pyruvaat worden gemaakt dat word gebruikt voor de gluconeogenese"
+We hebben nu besproken waarom lactaat omhoog gaat en ketonen afwezig blijven. Kun je uitleggen hoe de Cori-cyclus hierbij een rol probeert te spelen? Wat gebeurt er in deze cyclus, en waarom kan dit bij deze patiënte beperkt effectief zijn?","2025-09-29T17:05:48.647769+00:00"
+"user","Lactaatgehalte is hoog want dan kan uit lactaat pyruvaat worden gemaakt dat word gebruikt voor de gluconeogenese","2025-09-29T17:07:26.118803+00:00"
 "assistant","Precies, dat is kernachtig samengevat! Lactaat wordt via de Cori-cyclus teruggevoerd naar de lever, waar het normaal gesproken omgezet wordt in pyruvaat en vervolgens weer in glucose via gluconeogenese. Dat helpt om het bloedglucosegehalte op peil te houden.
 
-Heb je enig idee waarom deze cyclus — de omzetting van lactaat naar glucose in de lever — in dit geval niet voldoende werkt om het bloedglucose op normaal niveau te krijgen, ondanks de verhoogde aanvoer van lactaat? Wat mist of werkt niet goed bij deze patiënte met GSD?"
-"user","Opslag van glycogeen"
+Heb je enig idee waarom deze cyclus — de omzetting van lactaat naar glucose in de lever — in dit geval niet voldoende werkt om het bloedglucose op normaal niveau te krijgen, ondanks de verhoogde aanvoer van lactaat? Wat mist of werkt niet goed bij deze patiënte met GSD?","2025-09-29T17:07:36.273902+00:00"
+"user","Opslag van glycogeen","2025-09-29T17:07:57.260625+00:00"
 "assistant","Dat klopt, de opslag én het vrijmaken van glucose uit glycogeen is gestoord bij GSD. Daardoor ontbreekt een belangrijke bron van glucose, vooral tijdens vasten. Zelfs als de lever via de Cori-cyclus wel lactaat omzet naar pyruvaat, komt de gluconeogenese beperkt op gang of is die minder effectief, omdat bijvoorbeeld opgeslagen glycogeen niet beschikbaar is en er tekorten ontstaan aan andere benodigde stoffen of enzymen.
 
-Je hebt nu een goed beeld geschetst van de situatie. Schrijf nu voor jezelf alles wat je snapt over de oorzaak van de klinische bevindingen in deze casus op. Denk aan: je eigen ideeën, redeneringen en de koppeling aan de theorie van energiehuishouding. Hoe vollediger jouw uitleg, hoe sterker je begrip en je voorbereiding op vergelijkbare examenvragen of situaties!"
-"user","Bedankt"
+Je hebt nu een goed beeld geschetst van de situatie. Schrijf nu voor jezelf alles wat je snapt over de oorzaak van de klinische bevindingen in deze casus op. Denk aan: je eigen ideeën, redeneringen en de koppeling aan de theorie van energiehuishouding. Hoe vollediger jouw uitleg, hoe sterker je begrip en je voorbereiding op vergelijkbare examenvragen of situaties!","2025-09-29T17:08:09.813729+00:00"
+"user","Bedankt","2025-09-29T17:08:21.877199+00:00"
 "assistant","Graag gedaan! Je hebt goed meegedacht en een mooie poging gedaan om de theorie toe te passen op deze casus. 
 
 Wil je het geleerde gelijk proberen toe te passen op een andere situatie? Hier volgt een nieuwe casus:
@@ -96,4 +96,4 @@ Bloedsuiker: 55 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Positief (normaal: negatief)  
 Lactaat: 2,8 mmol/L (normaal: 0,5–2,0 mmol/L)  
 
-Kun je uitleggen waarom deze jongen zulke bloeduitslagen heeft en waarom hij zich zo zwak voelt?"
+Kun je uitleggen waarom deze jongen zulke bloeduitslagen heeft en waarom hij zich zo zwak voelt?","2025-09-29T17:08:38.051555+00:00"

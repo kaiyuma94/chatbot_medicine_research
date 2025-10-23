@@ -1,5 +1,5 @@
-"role","content"
-"user","Hallo"
+"role","content","created_at"
+"user","Hallo","2025-09-29T17:16:15.296314+00:00"
 "assistant","Hier is een casus om het onderwerp van energiemetabolisme te bespreken:
 
 ###VIGNETTE 1###
@@ -11,33 +11,33 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal negatief)  
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)  
 
-Kun je uitleggen wat er in deze casus gebeurt?"
-"user","Ze heeft een hypoglycemie, en een metabole acidose"
+Kun je uitleggen wat er in deze casus gebeurt?","2025-09-29T17:16:42.747321+00:00"
+"user","Ze heeft een hypoglycemie, en een metabole acidose","2025-09-29T17:17:31.556245+00:00"
 "assistant","Goede poging! Voordat we verdergaan, laten we even een stapje terug doen en samen de bijbehorende kennis ophalen. Dit helpt om straks dieper te analyseren wat er gebeurt. Heb je op dit moment vragen of onduidelijkheden over de basisprocessen van energiemetabolisme? 
 
 Misschien kunnen we samen kort herhalen:
-Weet je wat glycolyse is? Of wil je dat ik daar iets over uitleg?"
-"user","De glycolyse is dat je uit glucose, pyruvaat maakt en netto 2 ATP krijgt"
+Weet je wat glycolyse is? Of wil je dat ik daar iets over uitleg?","2025-09-29T17:17:42.131756+00:00"
+"user","De glycolyse is dat je uit glucose, pyruvaat maakt en netto 2 ATP krijgt","2025-09-29T17:18:23.480097+00:00"
 "assistant","Klopt! Glycolyse vindt plaats in het cytoplasma van de cel, en zet één glucosemolecuul om in twee pyruvaatmoleculen, waarbij netto 2 ATP en 2 NADH worden gevormd.
 
-Misschien kunnen we nu ook andere belangrijke paden kort noemen. Wat weet je van glycogenolyse? Kan je uitleggen wat het is en waarom het belangrijk is voor het reguleren van het bloedglucosegehalte?"
-"user","De glycogenolyse is dat je uit glycogeen, glucose maakt. Als je na langere tijd niet eten glucose wilt hebben, dan gebruik je de glycogeen voorraad om glucose aan te maken"
+Misschien kunnen we nu ook andere belangrijke paden kort noemen. Wat weet je van glycogenolyse? Kan je uitleggen wat het is en waarom het belangrijk is voor het reguleren van het bloedglucosegehalte?","2025-09-29T17:18:55.733683+00:00"
+"user","De glycogenolyse is dat je uit glycogeen, glucose maakt. Als je na langere tijd niet eten glucose wilt hebben, dan gebruik je de glycogeen voorraad om glucose aan te maken","2025-09-29T17:19:59.045083+00:00"
 "assistant","Precies! Glycogenolyse zorgt ervoor dat opgeslagen glycogeen wordt afgebroken tot vrij glucose, vooral in de lever, zodat het bloedglucose op peil blijft tussen maaltijden.
 
-Nog een stapje verder: weet je ook wat er gebeurt als de glycogeenvoorraad op is, of als het lichaam die glucose niet meer uit glycogeen kan maken? Welke andere metabole routes kan het lichaam dan gebruiken om aan energie te komen?"
-"user","Via vetzuuroxidatie of aminozuren afbraak"
+Nog een stapje verder: weet je ook wat er gebeurt als de glycogeenvoorraad op is, of als het lichaam die glucose niet meer uit glycogeen kan maken? Welke andere metabole routes kan het lichaam dan gebruiken om aan energie te komen?","2025-09-29T17:20:06.686412+00:00"
+"user","Via vetzuuroxidatie of aminozuren afbraak","2025-09-29T17:20:58.411624+00:00"
 "assistant","Goed! Het lichaam kan inderdaad overschakelen naar alternatieve energiebronnen zoals vetzuuroxidatie (waarbij ketonen gevormd kunnen worden) en het afbreken van aminozuren voor gluconeogenese. 
 
-Nu je dit hebt benoemd; kun je kort beschrijven wat gluconeogenese inhoudt, en op welke momenten het lichaam daar veel gebruik van maakt?"
-"user","Het is dat je glucose aanmaakt van pyruvaat die wordt gevormd uit glycerol en aminozuren. Je maakt er veel gebruik van als je een lange tijd geen glucose hebt ingenomen en je glycogeenvoorraad minder wordt"
-"user","Het is dat je glucose aanmaakt van pyruvaat die wordt gevormd uit glycerol en aminozuren. Je maakt er veel gebruik van als je een lange tijd geen glucose hebt ingenomen en je glycogeenvoorraad minder wordt"
+Nu je dit hebt benoemd; kun je kort beschrijven wat gluconeogenese inhoudt, en op welke momenten het lichaam daar veel gebruik van maakt?","2025-09-29T17:21:05.344546+00:00"
+"user","Het is dat je glucose aanmaakt van pyruvaat die wordt gevormd uit glycerol en aminozuren. Je maakt er veel gebruik van als je een lange tijd geen glucose hebt ingenomen en je glycogeenvoorraad minder wordt","2025-09-29T17:22:33.39524+00:00"
+"user","Het is dat je glucose aanmaakt van pyruvaat die wordt gevormd uit glycerol en aminozuren. Je maakt er veel gebruik van als je een lange tijd geen glucose hebt ingenomen en je glycogeenvoorraad minder wordt","2025-09-29T17:25:07.435695+00:00"
 "assistant","Dat heb je inderdaad al goed benoemd voor gluconeogenese! Maar ik vroeg nu ook even specifiek naar het verschil tussen aerobe en anaerobe energieproductie én naar de Cori-cyclus. Kun je daar iets over vertellen? Bijvoorbeeld:  
 - Wat gebeurt er met pyruvaat tijdens aerobe omstandigheden?  
 - En wat gebeurt er tijdens anaerobe omstandigheden?  
 - En waar past de Cori-cyclus hierin?  
 
-Kun je daar kort iets over uitleggen?"
-"user","- tijdens aerobe omstandigheden kan je van pyruvaat, acetyl-CoA maken. Deze wordt gebruikt voor de citroenzuurcyclus. - tijdens anaerobe omstandigheden wordt er uit pyruvaat, lactaat gevormd. De cor-cyclus zorgt ervoor dat er steeds NAD+ weer vrijkomt zodat het niet opraakt en de glycolyse opnieuw kan beginnen"
+Kun je daar kort iets over uitleggen?","2025-09-29T17:25:20.538105+00:00"
+"user","- tijdens aerobe omstandigheden kan je van pyruvaat, acetyl-CoA maken. Deze wordt gebruikt voor de citroenzuurcyclus. - tijdens anaerobe omstandigheden wordt er uit pyruvaat, lactaat gevormd. De cor-cyclus zorgt ervoor dat er steeds NAD+ weer vrijkomt zodat het niet opraakt en de glycolyse opnieuw kan beginnen","2025-09-29T17:27:33.633883+00:00"
 "assistant","Ja, netjes uitgelegd! Tijdens aerobe omstandigheden wordt pyruvaat inderdaad omgezet in acetyl-CoA, dat de citroenzuurcyclus ingaat voor verdere energieopwekking — dit levert veel meer ATP op. Onder anaerobe omstandigheden wordt pyruvaat omgezet in lactaat, waardoor NAD+ terug wordt gevormd en de glycolyse kan doorgaan, al levert dit veel minder ATP op.
 
 De Cori-cyclus verbindt de spier (waar lactaat ontstaat bij anaerobe glycolyse) en de lever (die uit lactaat weer glucose kan maken via gluconeogenese).
@@ -52,33 +52,33 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal negatief)
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun je nu met wat je zojuist hebt herhaald uitleggen wat er in deze casus gebeurt?"
-"user","Er kan geen glucose worden gemaakt uit glycogeen, daardoor heeft ze een hyperglycemie. Ze heeft meer lactaat, doordat het energie wilt krijgen door anaerobe glycolyse. Daarnaast is haar buik opgezwollen door de opstapeling van glycogeen."
+Kun je nu met wat je zojuist hebt herhaald uitleggen wat er in deze casus gebeurt?","2025-09-29T17:27:58.464857+00:00"
+"user","Er kan geen glucose worden gemaakt uit glycogeen, daardoor heeft ze een hyperglycemie. Ze heeft meer lactaat, doordat het energie wilt krijgen door anaerobe glycolyse. Daarnaast is haar buik opgezwollen door de opstapeling van glycogeen.","2025-09-29T17:29:56.618714+00:00"
 "assistant","Je redenatie is bijna goed, maar let op: je zegt ""hyperglycemie"", terwijl haar bloedglucose juist te laag is (hypoglycemie). Heb je hier misschien verwarring?
 
 Laten we het stap voor stap doornemen:
 - Waarom is Sofia’s bloedglucose laag, ondanks dat ze glycogeen in haar lever heeft?
 - En wat verklaart haar verhoogde lactaatwaarden?
 
-Kun je deze twee punten nog iets verder uitwerken met wat je weet van de stofwisseling?"
-"user","Ze kan uit glycogeen geen glucose maken, waardoor er minder glucose in het bloed zit. ik weet niet waarom de anaerobe glycolyse wordt gebruikt en niet de aerobe."
+Kun je deze twee punten nog iets verder uitwerken met wat je weet van de stofwisseling?","2025-09-29T17:30:05.683527+00:00"
+"user","Ze kan uit glycogeen geen glucose maken, waardoor er minder glucose in het bloed zit. ik weet niet waarom de anaerobe glycolyse wordt gebruikt en niet de aerobe.","2025-09-29T17:31:06.54005+00:00"
 "assistant","Goede observatie! Je zegt dat ze geen glucose uit glycogeen kan maken, waardoor haar bloedglucose laag blijft. Dat klopt.
 
 Je vraagt waarom er zoveel anaerobe glycolyse is ten opzichte van aerobe. Denk eens na: wat gebeurt er met de pyruvaat en NADH die ontstaan bij glycolyse als deze niet verder kunnen worden verwerkt via de citroenzuurcyclus (bijvoorbeeld doordat bepaalde stoffen ontbreken)? En wat gebeurt er dan met de energieproductie en eindproducten?
 
-Hoe denkt het lichaam dit tekort aan directe energie (ATP) op te lossen als glucose schaars is en de citroenzuurcyclus minder actief is?"
-"user","Dan moet het inderdaad via anaerobe glycolyse, maar hoe kon ik weten dat de citroenzuurcyclus minder actief is bij haar?"
+Hoe denkt het lichaam dit tekort aan directe energie (ATP) op te lossen als glucose schaars is en de citroenzuurcyclus minder actief is?","2025-09-29T17:31:18.290147+00:00"
+"user","Dan moet het inderdaad via anaerobe glycolyse, maar hoe kon ik weten dat de citroenzuurcyclus minder actief is bij haar?","2025-09-29T17:32:04.433826+00:00"
 "assistant","Goede vraag! Denk aan wat er aan de hand is bij GSD: ondanks dat er glycogeen ís, kan het lichaam daar niet goed glucose van maken — dus weinig glucose beschikbaar voor de cel. 
 
 Bij een tekort aan glucose krijgen cellen moeite om genoeg pyruvaat te leveren voor de citroenzuurcyclus, en bovendien zijn andere substraten (zoals acetyl-CoA door vetverbranding) ook beperkt bruikbaar in bepaalde weefsels. Hierdoor draait de citroenzuurcyclus op een lager pitje, zeker in snel delende/weinig zuurstofrijke weefsels zoals spieren bij inspanning. 
 
 Het lichaam leunt dan meer op glycolyse — maar als glycolyse versneld draait zonder voldoende zuurstof of citroenzuurcyclusactiviteit, stapelt pyruvaat op en wordt omgezet in lactaat om NAD+ te regenereren. Dit leidt tot hoge lactaatwaarden.
 
-Zie je nu hoe het tekort aan glucose — en het daardoor inschakelen van anaerobe glycolyse — juist voorkomt uit het falen om glucose vrij te maken uit glycogeen? Wil je proberen het mechanisme nog eens samen te vatten?"
-"user","stop"
-"user","stop"
-"assistant","Prima, ik stop met reageren. Als je later verder wilt gaan, ben ik hier om te helpen!"
-"user","Kan je de verbeterpunten enzo geven"
+Zie je nu hoe het tekort aan glucose — en het daardoor inschakelen van anaerobe glycolyse — juist voorkomt uit het falen om glucose vrij te maken uit glycogeen? Wil je proberen het mechanisme nog eens samen te vatten?","2025-09-29T17:32:21.338191+00:00"
+"user","stop","2025-09-29T17:32:39.938171+00:00"
+"user","stop","2025-09-29T17:34:05.563536+00:00"
+"assistant","Prima, ik stop met reageren. Als je later verder wilt gaan, ben ik hier om te helpen!","2025-09-29T17:34:09.591711+00:00"
+"user","Kan je de verbeterpunten enzo geven","2025-09-29T17:34:37.140862+00:00"
 "assistant","Omdat je stop zei, ga ik niet verder het leerproces begeleiden of vragen stellen, maar ik kan je wél kort feedback geven over je aanpak tot nu toe:
 
 **Sterke punten:**  
@@ -96,4 +96,4 @@ Zie je nu hoe het tekort aan glucose — en het daardoor inschakelen van anaerob
 **Tip:**  
 Herhaal regelmatig de grote lijnen van de energiestromen (van voeding naar opslag, van opslag naar gebruik) en welke routes aan- of uitgezet worden bij ziekte of vasten.
 
-Mocht je verder willen oefenen of meer uitleg willen over specifieke punten, dan hoor ik het graag!"
+Mocht je verder willen oefenen of meer uitleg willen over specifieke punten, dan hoor ik het graag!","2025-09-29T17:35:38.798473+00:00"

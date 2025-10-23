@@ -1,5 +1,5 @@
-"role","content"
-"user","ik ben klaar om te beginnen"
+"role","content","created_at"
+"user","ik ben klaar om te beginnen","2025-09-29T15:02:40.493934+00:00"
 "assistant","###VIGNETTE 1###
 Het lichaam slaat glucose op in de vorm van glycogeen, voornamelijk in de lever en spieren, om te gebruiken wanneer energie nodig is—vooral tussen maaltijden of tijdens inspanning. 
 Bij Glycogeen Stofwisselingsziekten (GSD’s) is dit proces verstoord door een erfelijk enzymtekort. Hierdoor heeft het lichaam moeite om normale bloedglucosewaarden te behouden, vooral tijdens vasten. Om dit te compenseren worden andere metabole routes geactiveerd. Echter, bij GSD zijn alternatieve paden, zoals de Cori-cyclus, 
@@ -8,34 +8,34 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)
 Lactaat: 4.2 mmol/L (normaal: 0.5–2.0 mmol/L)
 
-**Kun je uitleggen wat er in deze casus is gebeurd?**"
-"user","in deze casus is de lactaat gehalte flink verhoogd, dit komt doordat ze een enzymtekort heeft"
+**Kun je uitleggen wat er in deze casus is gebeurd?**","2025-09-29T15:02:56.904297+00:00"
+"user","in deze casus is de lactaat gehalte flink verhoogd, dit komt doordat ze een enzymtekort heeft","2025-09-29T15:04:49.287769+00:00"
 "assistant","Goede poging! Voordat we verdergaan, laten we een stap terugnemen en samen de basiskennis herhalen die hiermee te maken heeft. Zo wordt het makkelijker om straks het volledige plaatje te begrijpen. Zijn er op dit moment al vragen of onduidelijkheden bij jou over de casus of het onderwerp?
 
-Zo niet, kun je me dan vertellen wat je weet over glycolyse, of wil je liever iets anders bespreken zoals glycogenolyse of aerobe/anaerobe stofwisseling?"
-"user","de glycolyse is dat glucose wordt omgezet in pryuvate en dit levert netto 2 ATP op"
+Zo niet, kun je me dan vertellen wat je weet over glycolyse, of wil je liever iets anders bespreken zoals glycogenolyse of aerobe/anaerobe stofwisseling?","2025-09-29T15:04:57.41063+00:00"
+"user","de glycolyse is dat glucose wordt omgezet in pryuvate en dit levert netto 2 ATP op","2025-09-29T15:05:53.320008+00:00"
 "assistant","Heel goed! Glycolyse is inderdaad het proces waarbij glucose wordt omgezet in pyruvaat, en dat levert netto 2 ATP en 2 NADH op per glucosemolecuul. Dit proces vindt plaats in het cytoplasma van de cel.
 
-Wil je ook nog kort uitleggen wat er met pyruvaat gebeurt in aerobe versus anaerobe omstandigheden? Of wil je liever eerst stil staan bij een andere stap, zoals glycogenolyse of de functie van NADH?"
-"user","het pyruvaat wordt omgezet tot lactaat zodat NAD beschikbaar blijft en de glycolyse door kan gaan"
+Wil je ook nog kort uitleggen wat er met pyruvaat gebeurt in aerobe versus anaerobe omstandigheden? Of wil je liever eerst stil staan bij een andere stap, zoals glycogenolyse of de functie van NADH?","2025-09-29T15:06:30.296598+00:00"
+"user","het pyruvaat wordt omgezet tot lactaat zodat NAD beschikbaar blijft en de glycolyse door kan gaan","2025-09-29T15:07:40.681839+00:00"
 "assistant","Precies! Onder anaerobe omstandigheden (als er geen zuurstof is of als de mitochondriale werking verstoord is), wordt pyruvaat omgezet in lactaat door het enzym lactaatdehydrogenase. Hierdoor wordt NAD⁺ geregenereerd en kan de glycolyse blijven doorgaan.
 
-Zullen we nu kort de aerobe route bespreken? Wat gebeurt er met pyruvaat als er wél zuurstof en goedwerkende mitochondriën aanwezig zijn?"
-"user","Als er wèl zuurstof aanwezig is dan weet ik niet wat er geburt"
+Zullen we nu kort de aerobe route bespreken? Wat gebeurt er met pyruvaat als er wél zuurstof en goedwerkende mitochondriën aanwezig zijn?","2025-09-29T15:07:50.796756+00:00"
+"user","Als er wèl zuurstof aanwezig is dan weet ik niet wat er geburt","2025-09-29T15:08:42.436508+00:00"
 "assistant","Geen probleem, dat is heel normaal in het begin! Laten we samen kijken: bij voldoende zuurstof en goedwerkende mitochondriën wordt pyruvaat actief getransporteerd naar de mitochondriën. Daar wordt pyruvaat omgezet in acetyl-CoA door het enzym pyruvaatdehydrogenase. 
 
 Acetyl-CoA gaat vervolgens de citroenzuurcyclus (ook wel Krebscyclus genoemd) in. Hierbij komen elektronen vrij die via NADH/FADH2 naar de elektronentransportketen gaan. Uiteindelijk resulteert dit, samen met zuurstof als uiteindelijke elektronenacceptor, in veel meer ATP dan bij alleen glycolyse.
 
-Is dat duidelijk? Of wil je hierover nog iets verduidelijkt hebben voordat we verdergaan?"
-"user","nee duidelijk"
-"assistant","Mooi, goed uitgelegd en fijn dat het duidelijk is! Zijn er nog andere onderdelen die je wilt herhalen, bijvoorbeeld over glycogenolyse (de afbraak van glycogeen naar glucose) of hoe het lichaam omgaat met lage glucosewaarden? Of zullen we deze basiskennis verder toepassen op de casus?"
-"user","ja de glycogenolyse"
+Is dat duidelijk? Of wil je hierover nog iets verduidelijkt hebben voordat we verdergaan?","2025-09-29T15:09:00.000106+00:00"
+"user","nee duidelijk","2025-09-29T15:09:17.511238+00:00"
+"assistant","Mooi, goed uitgelegd en fijn dat het duidelijk is! Zijn er nog andere onderdelen die je wilt herhalen, bijvoorbeeld over glycogenolyse (de afbraak van glycogeen naar glucose) of hoe het lichaam omgaat met lage glucosewaarden? Of zullen we deze basiskennis verder toepassen op de casus?","2025-09-29T15:09:26.692479+00:00"
+"user","ja de glycogenolyse","2025-09-29T15:09:37.242366+00:00"
 "assistant","Mooi dat je daar verder op wilt ingaan! Glycogenolyse is het proces waarbij glycogeen (de opgeslagen vorm van glucose in lever en spier) wordt afgebroken tot glucose-1-fosfaat, dat vervolgens omgezet kan worden in glucose-6-fosfaat. In de lever kan glucose-6-fosfaat verder worden omgezet naar vrij glucose, zodat het de bloedbaan in kan om de bloedglucose te handhaven, vooral tussen maaltijden of tijdens vasten.
 
 Let op: spiercellen ontbreken het enzym glucose-6-fosfatase, dus daar kan het eindproduct van glycogenolyse niet als vrije glucose aan het bloed worden afgegeven; spieren gebruiken het zelf voor energie.
 
-Helpt deze uitleg? Of wil je nog toelichting op een onderdeel van glycogenolyse of glycogeensynthese?"
-"user","ja deze uitleg is duidelijk"
+Helpt deze uitleg? Of wil je nog toelichting op een onderdeel van glycogenolyse of glycogeensynthese?","2025-09-29T15:09:54.82106+00:00"
+"user","ja deze uitleg is duidelijk","2025-09-29T15:10:35.083857+00:00"
 "assistant","Prima, fijn dat het duidelijk is! Laten we nu de kennis die je zojuist hebt opgefrist, toepassen op de casus.
 
 ###VIGNETTE 1###
@@ -46,37 +46,37 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)
 Lactaat: 4.2 mmol/L (normaal: 0.5–2.0 mmol/L)
 
-Nu kun je met de kennis die je net hebt herhaald uitleggen wat er in deze casus gebeurt?"
-"user","in deze casus is er onvoldoende zuurstof aanwezig, omdat het lactaat gehalte heel hoog en dus er veel pyruvaat wordt omgezet in lactaat"
+Nu kun je met de kennis die je net hebt herhaald uitleggen wat er in deze casus gebeurt?","2025-09-29T15:10:52.325486+00:00"
+"user","in deze casus is er onvoldoende zuurstof aanwezig, omdat het lactaat gehalte heel hoog en dus er veel pyruvaat wordt omgezet in lactaat","2025-09-29T15:12:07.860252+00:00"
 "assistant","Je redeneert logisch dat een verhoogd lactaatgehalte vaak gezien wordt bij onvoldoende zuurstof, maar in deze casus is er niet per se een zuurstoftekort. Heb je overwogen dat het probleem elders in de energievoorziening kan liggen, bijvoorbeeld in de beschikbaarheid van glucose of de werking van glycogeenafbraak?
 
-Als je bedenkt dat glycogenolyse niet goed verloopt door het enzymtekort, wat gebeurt er dan met de energievraag van het lichaam en hoe kan het lichaam dit (beperkt) opvangen? Wat doet het lichaam als snelle glucosetoevoer ontbreekt?"
-"user","glycogeen wordt niet goed afgebroken in deze casus"
+Als je bedenkt dat glycogenolyse niet goed verloopt door het enzymtekort, wat gebeurt er dan met de energievraag van het lichaam en hoe kan het lichaam dit (beperkt) opvangen? Wat doet het lichaam als snelle glucosetoevoer ontbreekt?","2025-09-29T15:12:20.123089+00:00"
+"user","glycogeen wordt niet goed afgebroken in deze casus","2025-09-29T15:13:13.458647+00:00"
 "assistant","Precies, dat klopt! Door het enzymtekort bij GSD kan het opgeslagen glycogeen niet (voldoende) worden afgebroken, vooral in de lever. Hierdoor is er minder glucose beschikbaar voor het lichaam, wat leidt tot een lage bloedglucosewaarde.
 
-Nu een vervolgvraag: als er door dit tekort aan glucose onvoldoende energie beschikbaar is, welke metabole route probeert het lichaam dan in te schakelen om toch in de energiebehoefte te voorzien? En wat zijn de beperkingen hiervan?"
-"user","dan schakelt het lichaam naar de gluconeogenese"
+Nu een vervolgvraag: als er door dit tekort aan glucose onvoldoende energie beschikbaar is, welke metabole route probeert het lichaam dan in te schakelen om toch in de energiebehoefte te voorzien? En wat zijn de beperkingen hiervan?","2025-09-29T15:13:25.456723+00:00"
+"user","dan schakelt het lichaam naar de gluconeogenese","2025-09-29T15:14:37.281706+00:00"
 "assistant","Juist! Het lichaam probeert via gluconeogenese alsnog glucose te maken uit andere stoffen, zoals lactaat, aminozuren en glycerol.
 
-Heb je een idee waarom in deze casus toch het lactaat zo hoog blijft, terwijl gluconeogenese actief zou moeten zijn? Wat gaat er mis in die alternatieve route?"
-"user","in de gluconeogenese wordt hier lactaat niet omgezet en hoopt op"
+Heb je een idee waarom in deze casus toch het lactaat zo hoog blijft, terwijl gluconeogenese actief zou moeten zijn? Wat gaat er mis in die alternatieve route?","2025-09-29T15:14:46.538704+00:00"
+"user","in de gluconeogenese wordt hier lactaat niet omgezet en hoopt op","2025-09-29T15:15:25.524478+00:00"
 "assistant","Goed geredeneerd! Dus in deze patiënt met GSD, werkt een deel van de gluconeogenese niet goed waardoor lactaat zich ophoopt. Hierdoor blijft het lactaatgehalte stijgen.
 
-Voordat we verdergaan—waarom is het voor het lichaam belangrijk om voldoende NAD⁺ beschikbaar te hebben bij deze metabole routes? Kun je uitleggen hoe de omzetting van pyruvaat naar lactaat hierbij een rol speelt?"
-"user","het is belangrijk om voldoende NAD+ beschikbaar te hebben zodat de glycolyse door kan gaan. door de omzetting van pyruvaat naar lactaat wordt het NAD+ geregenereerd"
+Voordat we verdergaan—waarom is het voor het lichaam belangrijk om voldoende NAD⁺ beschikbaar te hebben bij deze metabole routes? Kun je uitleggen hoe de omzetting van pyruvaat naar lactaat hierbij een rol speelt?","2025-09-29T15:15:34.881176+00:00"
+"user","het is belangrijk om voldoende NAD+ beschikbaar te hebben zodat de glycolyse door kan gaan. door de omzetting van pyruvaat naar lactaat wordt het NAD+ geregenereerd","2025-09-29T15:16:47.282365+00:00"
 "assistant","Helemaal juist! Door pyruvaat om te zetten naar lactaat wordt NAD⁺ teruggewonnen, waardoor de glycolyse kan doorgaan en er (een kleine hoeveelheid) ATP geproduceerd blijft worden, zelfs bij een tekort aan glucose uit glycogeen of bij blokkades verderop in de stofwisseling.
 
-Wil je nu ook zelf uitleggen wat de rol is van de Cori-cyclus in deze situatie, en waarom deze bij de patiënt mogelijk niet voldoende werkt?"
-"user","wat de is cori-cyclus?"
-"user","er wordt in deze casus veel te veel lactaat gevormd door de cori-cyclus"
+Wil je nu ook zelf uitleggen wat de rol is van de Cori-cyclus in deze situatie, en waarom deze bij de patiënt mogelijk niet voldoende werkt?","2025-09-29T15:16:55.59286+00:00"
+"user","wat de is cori-cyclus?","2025-09-29T15:17:16.166308+00:00"
+"user","er wordt in deze casus veel te veel lactaat gevormd door de cori-cyclus","2025-09-29T15:20:29.93722+00:00"
 "assistant","Je zit in de goede richting: er wordt inderdaad veel lactaat gevormd omdat de spieren (en ook andere weefsels) door het tekort aan glucose hun energie vooral uit anaerobe glycolyse moeten halen. Maar… Heb je ook bedacht wat er in de lever gebeurt met dat lactaat? 
 
-Als de gluconeogenese in de lever door de enzymdefecten bij GSD niet goed werkt, wat gebeurt er dan met al dat lactaat dat via de Cori-cyclus aankomt? Kun je dit uitleggen?"
-"user","dit stapelt zich op in de lever"
+Als de gluconeogenese in de lever door de enzymdefecten bij GSD niet goed werkt, wat gebeurt er dan met al dat lactaat dat via de Cori-cyclus aankomt? Kun je dit uitleggen?","2025-09-29T15:20:40.241196+00:00"
+"user","dit stapelt zich op in de lever","2025-09-29T15:20:57.922332+00:00"
 "assistant","Precies! Het lactaat wordt aangevoerd naar de lever, maar kan daar door het enzymtekort niet goed worden omgezet in glucose (een stap in de gluconeogenese werkt onvoldoende). Daardoor stapelt het lactaat zich op in het bloed (en dus ook in de lever). Dit verklaart het hoge lactaatgehalte.
 
-Wil je nu proberen samen te vatten hoe alles samenhangt in de casus—van het enzymtekort tot de lage bloedglucose, het hoge lactaat, en de rol van alternatieve energiebanen? Dat is een mooie oefening om alle stappen nog eens helder te krijgen!"
-"user","in deze casus is het lactaatgehalte abnormaal hoog en de bloedglucose laag. de glycogenolyse verloopt niet goed door het enzymtekort en wordt het glycogeen niet voldoende afgebroken. hierdoor is er minder glucose beschikbaar, wat leidt tot een lage bloedglucosewaarde. Hierdoor probeert het lichaam via gluconeogenese alsnog glucose te maken uit andere stoffen, zoals lactaat, aminozuren en glycerol, maar het lactaat blijft hoog doordat het niet kan worden omgezet in glucose want deze stap van de gluconeogene werkt onvoldoende. Daardoor stapelt het lactaat op in het bloed en in de lever."
+Wil je nu proberen samen te vatten hoe alles samenhangt in de casus—van het enzymtekort tot de lage bloedglucose, het hoge lactaat, en de rol van alternatieve energiebanen? Dat is een mooie oefening om alle stappen nog eens helder te krijgen!","2025-09-29T15:21:11.481127+00:00"
+"user","in deze casus is het lactaatgehalte abnormaal hoog en de bloedglucose laag. de glycogenolyse verloopt niet goed door het enzymtekort en wordt het glycogeen niet voldoende afgebroken. hierdoor is er minder glucose beschikbaar, wat leidt tot een lage bloedglucosewaarde. Hierdoor probeert het lichaam via gluconeogenese alsnog glucose te maken uit andere stoffen, zoals lactaat, aminozuren en glycerol, maar het lactaat blijft hoog doordat het niet kan worden omgezet in glucose want deze stap van de gluconeogene werkt onvoldoende. Daardoor stapelt het lactaat op in het bloed en in de lever.","2025-09-29T15:25:46.75195+00:00"
 "assistant","###VIGNETTE 1###  
 Het lichaam slaat glucose op in de vorm van glycogeen, voornamelijk in de lever en spieren, om te gebruiken wanneer energie nodig is—vooral tussen maaltijden of tijdens inspanning.  
 Bij Glycogeen Stofwisselingsziekten (GSD’s) is dit proces verstoord door een erfelijk enzymtekort. Hierdoor heeft het lichaam moeite om normale bloedglucosewaarden te behouden, vooral tijdens vasten. Om dit te compenseren worden andere metabole routes geactiveerd. Echter, bij GSD zijn alternatieve paden, zoals de Cori-cyclus,  
@@ -85,8 +85,8 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)  
 Lactaat: 4.2 mmol/L (normaal: 0.5–2.0 mmol/L)  
 
-**Hoe begrijp je nu de oorzaken achter de klinische bevindingen in deze casus? Schrijf alles wat in je opkomt op—je ideeën, je redenering, en je koppelingen met wat je geleerd hebt. Hoe vollediger je bent, hoe meer je eruit haalt!**"
-"user","het meisje heeft GSD en de alternatieve paden zijn bijvoorbeeld de cori cyclus. de bloedglucose is erg laag en hierdoor kon ik beredeneren dat het glycogeen niet voldoende wordt afgebroken en hierdoor is er minder glucose beschikbaar. het lactaat gehalte  van het meisje is erg hoog en hierdoor werkt de cori cyclus niet goed want de gluconeogenese werkt een deel niet nameljk het omzetten van lactaat in glucose en hierdoor is het gehalte hoog"
+**Hoe begrijp je nu de oorzaken achter de klinische bevindingen in deze casus? Schrijf alles wat in je opkomt op—je ideeën, je redenering, en je koppelingen met wat je geleerd hebt. Hoe vollediger je bent, hoe meer je eruit haalt!**","2025-09-29T15:26:05.083669+00:00"
+"user","het meisje heeft GSD en de alternatieve paden zijn bijvoorbeeld de cori cyclus. de bloedglucose is erg laag en hierdoor kon ik beredeneren dat het glycogeen niet voldoende wordt afgebroken en hierdoor is er minder glucose beschikbaar. het lactaat gehalte  van het meisje is erg hoog en hierdoor werkt de cori cyclus niet goed want de gluconeogenese werkt een deel niet nameljk het omzetten van lactaat in glucose en hierdoor is het gehalte hoog","2025-09-29T15:29:04.677435+00:00"
 "assistant","Nu gaan we je kennis toepassen op een nieuwe situatie!
 
 ###VIGNETTE 2###
@@ -96,4 +96,4 @@ Bloedglucose: 55 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Positief (normaal: negatief)  
 Lactaat: 2.8 mmol/L (normaal: 0.5–2.0 mmol/L)  
 
-**Kun je uitleggen wat deze testresultaten van de jongen verklaren, en waarom hij zich zo zwak voelt?**"
+**Kun je uitleggen wat deze testresultaten van de jongen verklaren, en waarom hij zich zo zwak voelt?**","2025-09-29T15:29:19.661799+00:00"

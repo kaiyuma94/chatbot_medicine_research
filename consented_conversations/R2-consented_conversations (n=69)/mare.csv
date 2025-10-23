@@ -1,7 +1,7 @@
-"role","content"
-"user","ik ben klaar om te beginnen"
-"user","ik ben klaar om te beginnen"
-"user","ik ben klaar om te beginnen"
+"role","content","created_at"
+"user","ik ben klaar om te beginnen","2025-09-29T15:02:35.043298+00:00"
+"user","ik ben klaar om te beginnen","2025-09-29T15:03:40.87846+00:00"
+"user","ik ben klaar om te beginnen","2025-09-29T15:04:04.912474+00:00"
 "assistant","Prima, zullen we dan direct starten met de casus?
 
 ###VIGNETTE 1###
@@ -12,26 +12,26 @@ Een meisje van 3 jaar met GSD komt met haar moeder bij de dokter omdat ze erg pr
 - Bloedketonen: negatief (normaal: negatief)
 - Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun je uitleggen wat er in dit geval is gebeurd?"
-"user","ik heb nog niet veel geleerd dus ik weet niet waar ik moet beginnen bij deze casus"
+Kun je uitleggen wat er in dit geval is gebeurd?","2025-09-29T15:04:23.12479+00:00"
+"user","ik heb nog niet veel geleerd dus ik weet niet waar ik moet beginnen bij deze casus","2025-09-29T15:05:18.016141+00:00"
 "assistant","Geen probleem, dat is precies waarvoor we deze oefening doen! Goed dat je aangeeft waar je staat. Laten we samen eerst even teruggaan naar de basis van energiemetabolisme.  
 
 Kun je me vertellen wat je al weet over het proces van glycolyse? Of is dat nog onbekend terrein voor je? 
 
-Als je liever met een ander onderwerp begint, bijvoorbeeld glycogeenafbraak (glycogenolyse) of de rol van de lever bij het reguleren van de bloedsuikerspiegel, mag je dat ook zeggen! Wat lijkt je het handigst om mee te starten?"
-"user","misschien de verschillende cyclussen op een rijtje zetten?"
+Als je liever met een ander onderwerp begint, bijvoorbeeld glycogeenafbraak (glycogenolyse) of de rol van de lever bij het reguleren van de bloedsuikerspiegel, mag je dat ook zeggen! Wat lijkt je het handigst om mee te starten?","2025-09-29T15:05:28.080295+00:00"
+"user","misschien de verschillende cyclussen op een rijtje zetten?","2025-09-29T15:05:44.827132+00:00"
 "assistant","Dat is een goed idee! Het overzicht houden is belangrijk in stofwisseling. Kun je zelf al een paar van de belangrijkste metabole cyclussen of routes noemen die betrokken zijn bij de energievoorziening van het lichaam? Denk bijvoorbeeld aan wat er met glucose gebeurt zodra het in een cel komt of hoe het lichaam energie haalt als er geen glucose meer beschikbaar is.
 
-Noem er eens een paar, dan vul ik zo nodig aan!"
-"user","glycolyse, glycogenese, glyconeogenese"
+Noem er eens een paar, dan vul ik zo nodig aan!","2025-09-29T15:05:56.021984+00:00"
+"user","glycolyse, glycogenese, glyconeogenese","2025-09-29T15:06:16.119359+00:00"
 "assistant","Mooi, die heb je goed op een rijtje gezet!  
 - Glycolyse  
 - Glycogenese  
 - Gluconeogenese (ik denk dat je die bedoelt?)  
 
 Wil je proberen uit te leggen waar deze processen plaatsvinden en wat hun belangrijkste functie is? Bijvoorbeeld: waar gebeurt glycolyse meestal in de cel? Wat levert het het lichaam op?  
-Probeer het eens kort voor elk proces!"
-"user","bij glycolyse wordt glucose omgezet in glycogeen en bij glycogenese andersom? en bij gluconeogenese wordt nieuwe glucose gemaakt"
+Probeer het eens kort voor elk proces!","2025-09-29T15:06:24.022967+00:00"
+"user","bij glycolyse wordt glucose omgezet in glycogeen en bij glycogenese andersom? en bij gluconeogenese wordt nieuwe glucose gemaakt","2025-09-29T15:07:16.601983+00:00"
 "assistant","Je zit er al goed dicht bij! Er zijn wel wat kleine verwarringen in de omschrijvingen.  
 Misschien helpt het als we ze per stuk bekijken:
 
@@ -39,49 +39,49 @@ Misschien helpt het als we ze per stuk bekijken:
 - **Glycogenese:** Hierbij wordt glycogeen gevormd, maar waaruit ontstaat glycogeen precies?  
 - **Gluconeogenese:** Hier heb je goed gezien dat er ""nieuwe"" glucose wordt aangemaakt! Weet je of daar alleen glucose uit wordt gemaakt, of zijn er ook nog startstoffen nodig?  
 
-Wil je deze drie processen zo nog eens kort proberen te formuleren, met bovenstaande vragen in het achterhoofd?"
-"user","bij glycolyse wordt glucose afgebroken waarbij ATP vrijkomt of nodig is toch?"
+Wil je deze drie processen zo nog eens kort proberen te formuleren, met bovenstaande vragen in het achterhoofd?","2025-09-29T15:07:27.659805+00:00"
+"user","bij glycolyse wordt glucose afgebroken waarbij ATP vrijkomt of nodig is toch?","2025-09-29T15:08:09.773383+00:00"
 "assistant","Dat klopt! Glycolyse is het proces waarbij glucose wordt afgebroken tot twee moleculen pyruvaat, en dat levert inderdaad energie op in de vorm van ATP. 
 
-Weet je in welk deel van de cel glycolyse plaatsvindt? En kun je ook aangeven welke andere energiedragers (behalve ATP) er ontstaan bij glycolyse?"
-"user","in de mitochondriën?"
+Weet je in welk deel van de cel glycolyse plaatsvindt? En kun je ook aangeven welke andere energiedragers (behalve ATP) er ontstaan bij glycolyse?","2025-09-29T15:08:18.707241+00:00"
+"user","in de mitochondriën?","2025-09-29T15:08:30.203957+00:00"
 "assistant","Dat is een logische gok, want veel energieprocessen vinden daar plaats. Maar klopt dat voor glycolyse? 
 
 Denk eens aan waar in de cel glucose als eerste beschikbaar komt nadat het uit het bloed komt: direct in de mitochondriën, of eerst ergens anders?
 
-Als je twijfelt, bedenk dan wat typisch is voor mitochondriën (waaronder de citroenzuurcyclus), en wat juist in het cytoplasma van de cel gebeurt. Wat denk je nu?"
-"user","cytoplasma"
+Als je twijfelt, bedenk dan wat typisch is voor mitochondriën (waaronder de citroenzuurcyclus), en wat juist in het cytoplasma van de cel gebeurt. Wat denk je nu?","2025-09-29T15:08:45.576412+00:00"
+"user","cytoplasma","2025-09-29T15:08:57.675602+00:00"
 "assistant","Precies, goed gedaan! Glycolyse vindt plaats in het cytoplasma van de cel.
 
-Wil je nu ook nog proberen te benoemen welke energiedragers (naast ATP) bij glycolyse gevormd worden? Denk bijvoorbeeld aan moleculen die belangrijk zijn voor de elektronenoverdracht in verdere stofwisselingsprocessen."
-"user","NADH?"
+Wil je nu ook nog proberen te benoemen welke energiedragers (naast ATP) bij glycolyse gevormd worden? Denk bijvoorbeeld aan moleculen die belangrijk zijn voor de elektronenoverdracht in verdere stofwisselingsprocessen.","2025-09-29T15:09:06.329148+00:00"
+"user","NADH?","2025-09-29T15:09:31.486667+00:00"
 "assistant","Dat klopt helemaal! Tijdens glycolyse wordt naast ATP ook NADH gevormd. 
 
 Wil je nu zelf proberen kort uit te leggen:
 - Wat ATP en NADH voor rol spelen in het energiemetabolisme?
 - Waarom die NADH belangrijk is voor de volgende stappen van de energieproductie?
 
-Kun je een poging doen?"
-"user","ATP en NADH zorgen voor het aansturen van spieren?"
+Kun je een poging doen?","2025-09-29T15:09:41.387351+00:00"
+"user","ATP en NADH zorgen voor het aansturen van spieren?","2025-09-29T15:10:22.654685+00:00"
 "assistant","Je zit qua idee in de goede richting: beide moleculen leveren energie, maar hun rol is net iets technischer.  
 - **ATP** kun je zien als de directe energiebron voor celprocessen, zoals spiersamentrekking.
 - **NADH** bevat ""opgeslagen"" energie in de vorm van elektronen (reducerend vermogen).  
 NADH kan zelf niet direct spiercontracties aansturen, maar wordt gebruikt in een volgende stap om meer ATP te maken.
 
-Kun je bedenken wat er met NADH gebeurt ná de glycolyse, bijvoorbeeld als er wel genoeg zuurstof is? Misschien weet je nog een volgende route in de cel die dan plaatsvindt?"
-"user","waarschijnlijk omgezet in ATP, maar ik weet niet met welke stappen"
+Kun je bedenken wat er met NADH gebeurt ná de glycolyse, bijvoorbeeld als er wel genoeg zuurstof is? Misschien weet je nog een volgende route in de cel die dan plaatsvindt?","2025-09-29T15:10:33.744131+00:00"
+"user","waarschijnlijk omgezet in ATP, maar ik weet niet met welke stappen","2025-09-29T15:11:06.788433+00:00"
 "assistant","Goed gedacht! NADH wordt inderdaad uiteindelijk gebruikt om meer ATP te maken.  
 De stap die daarbij belangrijk is, is de zogenaamde oxidatieve fosforylering (""oxidative phosphorylation"") in de mitochondriën.
 
 Voordat NADH daar gebruikt wordt, moet pyruvaat (het eindproduct van glycolyse) eerst een andere cyclus of proces in—herinner je je welke?  
-Het is een centrale cyclus voor de energieproductie in het mitochondrion. Kun je de naam noemen? Zo niet, kun je proberen te omschrijven wat je ervan weet?"
-"user","geen ide"
+Het is een centrale cyclus voor de energieproductie in het mitochondrion. Kun je de naam noemen? Zo niet, kun je proberen te omschrijven wat je ervan weet?","2025-09-29T15:11:17.398956+00:00"
+"user","geen ide","2025-09-29T15:12:36.919167+00:00"
 "assistant","Geen probleem! Dat is een lastige, zeker als het nieuw voor je is.
 
 De cyclus waar ik op doelde is de **citroenzuurcyclus**, ook wel bekend als de **Krebs-cyclus** of **TCA-cyclus**. Deze vindt plaats in het mitochondrion en speelt een centrale rol in de verbranding van pyruvaat (en andere brandstoffen) om NADH en FADH2 te maken. Deze moleculen leveren hun elektronen vervolgens af aan de “elektronentransportketen”, die ATP vormt in de mitochondriën via oxidatieve fosforylering.
 
-Zijn er nu nog dingen die je wilt weten over deze processen, of wil je samenvatten wat we tot nu toe besproken hebben? Zo ja, probeer eens in je eigen woorden uit te leggen hoe glucose wordt omgezet tot energie. Zo nee, dan kunnen we verdergaan!"
-"user","bij glycolyse in het cytoplasma komen ATP en NADH vrij waarvan ATP gebruikt wordt om spieren aan te sturen, terwijl NADH eerst via oxidatieve fosfolyering en citroenzuurcyclus moet worden omgezet in ATP"
+Zijn er nu nog dingen die je wilt weten over deze processen, of wil je samenvatten wat we tot nu toe besproken hebben? Zo ja, probeer eens in je eigen woorden uit te leggen hoe glucose wordt omgezet tot energie. Zo nee, dan kunnen we verdergaan!","2025-09-29T15:12:49.475948+00:00"
+"user","bij glycolyse in het cytoplasma komen ATP en NADH vrij waarvan ATP gebruikt wordt om spieren aan te sturen, terwijl NADH eerst via oxidatieve fosfolyering en citroenzuurcyclus moet worden omgezet in ATP","2025-09-29T15:14:12.991554+00:00"
 "assistant","Goed samengevat! Je zit al dicht bij een kloppende beschrijving.  
 Misschien nog een kleine correctie en aanvulling:  
 
@@ -89,19 +89,19 @@ Misschien nog een kleine correctie en aanvulling:
 - Het pyruvaat uit glycolyse gaat het mitochondrion in en wordt daar via de citroenzuurcyclus verder afgebroken. Hierbij ontstaan nóg meer NADH (en FADH2).
 - Deze NADH en FADH2 leveren hun elektronen af aan de elektronentransportketen, waar via oxidatieve fosforylering veel ATP wordt gemaakt.
 
-Wil je verder nog wat weten over de anaerobe route? Of heb je nu genoeg basis voor een volgende stap?"
-"user","waar vindt dan die oxidatieve fosforylering aan de elektronentransportketen plaats?"
+Wil je verder nog wat weten over de anaerobe route? Of heb je nu genoeg basis voor een volgende stap?","2025-09-29T15:14:34.79049+00:00"
+"user","waar vindt dan die oxidatieve fosforylering aan de elektronentransportketen plaats?","2025-09-29T15:15:25.427636+00:00"
 "assistant","Goede vraag! Denk nog even aan de delen van het mitochondrion: er is een buitenmembraan, een binnenmembraan, en daartussen een smalle ruimte.  
 
-Weet je in welk deel van het mitochondrion de elektronentransportketen zich bevindt, en waar vervolgens de ATP-productie bij oxidatieve fosforylering plaatsvindt? Wat denk je?"
-"user","tussen die 2 membranen?"
+Weet je in welk deel van het mitochondrion de elektronentransportketen zich bevindt, en waar vervolgens de ATP-productie bij oxidatieve fosforylering plaatsvindt? Wat denk je?","2025-09-29T15:15:36.249646+00:00"
+"user","tussen die 2 membranen?","2025-09-29T15:15:55.763413+00:00"
 "assistant","Dat is al heel dicht in de buurt! Je pakt het juist op.  
 De **elektronentransportketen** zelf zit vast aan het **binnenmembraan** van het mitochondrion. Terwijl de elektronen door deze keten gaan, worden protonen (“waterstof-ionen”) gepompt van de matrix naar de ruimte tussen de binnenmembraan en buitenmembraan (de intermembranaire ruimte).
 
 Het verschil in protonen over het binnenmembraan levert een **protonengradiënt** op. Via het enzym ATP-synthase, weer in het binnenmembraan, stromen de protonen terug de matrix in—en bij deze terugstroom wordt ATP gevormd.
 
-Heeft dit jouw vraag beantwoord, of wil je verduidelijken? Of heb je vragen over wát er precies met die protonengradiënt gedaan wordt?"
-"user","kun je dan nu eens de cyclussen die we tot nu toe hebben besproken samenvatten met de naam, wat de input en output is en waar het plaatsvindt?"
+Heeft dit jouw vraag beantwoord, of wil je verduidelijken? Of heb je vragen over wát er precies met die protonengradiënt gedaan wordt?","2025-09-29T15:16:07.961653+00:00"
+"user","kun je dan nu eens de cyclussen die we tot nu toe hebben besproken samenvatten met de naam, wat de input en output is en waar het plaatsvindt?","2025-09-29T15:17:15.520327+00:00"
 "assistant","Prima vraag! Dat is een sterk overzicht om verder op te bouwen.  
 Wil je zelf alvast een poging doen—al is het beknopt—voor glycolyse, de citroenzuurcyclus, en de oxidatieve fosforylering? Benoem per proces:
 - Naam  
@@ -109,8 +109,8 @@ Wil je zelf alvast een poging doen—al is het beknopt—voor glycolyse, de citr
 - Input (wat gaat erin?)
 - Output (wat komt eruit?)
 
-Als je niet alles weet, vul ik daarna graag aan! Geef maar aan wat je weet."
-"user","glycolyse, in het cytoplasma, de input is glucose en de output is ATP, NADH en pyruvaat. citroenzuurcyclus,  in het mitochondrion, input is pyruvaat en output is NADH en FADH2. oxidatieve fosforylering, in de intermembranaire ruimte, input is NADH en FADH2 en de output is ATP"
+Als je niet alles weet, vul ik daarna graag aan! Geef maar aan wat je weet.","2025-09-29T15:17:27.942638+00:00"
+"user","glycolyse, in het cytoplasma, de input is glucose en de output is ATP, NADH en pyruvaat. citroenzuurcyclus,  in het mitochondrion, input is pyruvaat en output is NADH en FADH2. oxidatieve fosforylering, in de intermembranaire ruimte, input is NADH en FADH2 en de output is ATP","2025-09-29T15:20:57.09839+00:00"
 "assistant","Heel goed! Je hebt het overzicht al behoorlijk goed in de vingers. Zal ik samen met jou de details aanvullen waar dat nodig is? Laten we per proces even kijken:
 
 - **Glycolyse**  
@@ -131,8 +131,8 @@ Als je niet alles weet, vul ik daarna graag aan! Geef maar aan wat je weet."
   - Output: veel ATP, H2O  
   (De reactie zelf gebeurt aan het binnenmembraan; de protonengradiënt wordt opgebouwd tussen matrx en intermembranaire ruimte.)
 
-Wil je nu verder naar de processen als anaerobe glycolyse of bijvoorbeeld gluconeogenese en glycogenolyse? Of voel je je comfortabel om deze kennis op de casus toe te passen?"
-"user","nee het lijkt me nu goed om naar het volgende stukje kennis te gaan die ik nodig heb voor het oplossen van de casus"
+Wil je nu verder naar de processen als anaerobe glycolyse of bijvoorbeeld gluconeogenese en glycogenolyse? Of voel je je comfortabel om deze kennis op de casus toe te passen?","2025-09-29T15:21:15.403347+00:00"
+"user","nee het lijkt me nu goed om naar het volgende stukje kennis te gaan die ik nodig heb voor het oplossen van de casus","2025-09-29T15:22:31.684865+00:00"
 "assistant","Mooi, je hebt de basisprocessen goed op een rijtje! We maken nog even het overzicht compleet voor de belangrijkste processen rond glucosemetabolisme die belangrijk zijn voor de casus:
 
 **Glycogenolyse:**  
@@ -149,8 +149,8 @@ Wil je nu verder naar de processen als anaerobe glycolyse of bijvoorbeeld glucon
 - Wanneer er weinig zuurstof is of bij verstoring van verdergaande processen, wordt pyruvaat omgezet in lactaat.
 - Dit gebeurt bijvoorbeeld in actieve spieren of als de lever zelf pyruvaat niet kan verwerken.
 
-Heb je vragen over deze drie processen, of wil je er eentje verder uitdiepen voor we teruggaan naar de casus?"
-"user","nog een snelle vraag voordat we hiermee verder gaan, in welke cellen vonden de vorige 3 processen plaats?"
+Heb je vragen over deze drie processen, of wil je er eentje verder uitdiepen voor we teruggaan naar de casus?","2025-09-29T15:22:50.063717+00:00"
+"user","nog een snelle vraag voordat we hiermee verder gaan, in welke cellen vonden de vorige 3 processen plaats?","2025-09-29T15:23:47.14145+00:00"
 "assistant","Goede vraag! Dat is belangrijk voor het snappen van de stofwisseling in verschillende organen.
 
 - **Glycogenolyse**  
@@ -164,8 +164,8 @@ Heb je vragen over deze drie processen, of wil je er eentje verder uitdiepen voo
 - **Anaerobe glycolyse**  
   - Kan in (bijna) alle lichaamscellen plaatsvinden, maar vooral belangrijk in spiercellen (tijdens hoge inspanning) en in rode bloedcellen (die geen mitochondriën hebben, dus altijd anaeroob werken).
 
-Wil je ergens verder op ingaan, of zullen we nu de casus weer oppakken?"
-"user","nee ik bedoel die daarvoor, glycolyse, citroenzuurcyclus en oxidatieve fosforylering"
+Wil je ergens verder op ingaan, of zullen we nu de casus weer oppakken?","2025-09-29T15:24:01.764654+00:00"
+"user","nee ik bedoel die daarvoor, glycolyse, citroenzuurcyclus en oxidatieve fosforylering","2025-09-29T15:24:24.22911+00:00"
 "assistant","Goede verduidelijking! Hier komt het overzicht:
 
 - **Glycolyse:**  
@@ -180,37 +180,37 @@ Wil je ergens verder op ingaan, of zullen we nu de casus weer oppakken?"
   - Eveneens in de mitochondriën, precies op het binnenmembraan.  
   - Dus alleen mogelijk in cellen mét mitochondriën.
 
-Helpt dit overzicht je verder? Ben je klaar om de casus zelf te analyseren met je kennis van deze processen?"
-"user","ja nu kunnen we door naar de 3 nieuwe processen"
+Helpt dit overzicht je verder? Ben je klaar om de casus zelf te analyseren met je kennis van deze processen?","2025-09-29T15:24:36.821307+00:00"
+"user","ja nu kunnen we door naar de 3 nieuwe processen","2025-09-29T15:25:06.33575+00:00"
 "assistant","Prima, dan herhaal ik kort de drie nieuwe processen die belangrijk zijn voor de casusanalyse:
 
 - **Glycogenolyse:** glycogeenafbraak tot glucose-6-fosfaat (en uiteindelijk glucose), in lever en spieren.
 - **Gluconeogenese:** aanmaak van glucose uit niet-koolhydraatbronnen, vooral in de lever.
 - **Anaerobe glycolyse (lactaatvorming):** omzetting van pyruvaat in lactaat, met name als zuurstof of mitochondriale functies beperkt zijn.
 
-Wil je eerst zelf proberen uit te leggen wat het doel is van glycogenolyse en waarom juist in de lever deze route zo belangrijk is voor de bloedglucosespiegel?"
-"user","ik weet het niet"
+Wil je eerst zelf proberen uit te leggen wat het doel is van glycogenolyse en waarom juist in de lever deze route zo belangrijk is voor de bloedglucosespiegel?","2025-09-29T15:25:18.391169+00:00"
+"user","ik weet het niet","2025-09-29T15:25:40.370049+00:00"
 "assistant","Geen probleem! Denk even na over de taak van de lever in het lichaam. De lever slaat veel glycogeen op — maar waarom juist daar? 
 
 Stel: er zit veel glucose opgeslagen in de lever als glycogeen. Wat gebeurt er als je een tijdje niet hebt gegeten? Wat zou dan het voordeel zijn als de lever haar opgeslagen glucose kan afbreken en in het bloed afgeven?  
 
-Probeer het antwoord aan de hand van deze vragen, wat denk je?"
-"user","als je een tijdje niet eet, zakt je suikerspiegel in je bloed en als je dan in je lever glycogeen kan afbreken tot uiteindelijk glucose, stijgt deze spiegel weer"
+Probeer het antwoord aan de hand van deze vragen, wat denk je?","2025-09-29T15:25:51.81677+00:00"
+"user","als je een tijdje niet eet, zakt je suikerspiegel in je bloed en als je dan in je lever glycogeen kan afbreken tot uiteindelijk glucose, stijgt deze spiegel weer","2025-09-29T15:27:40.987659+00:00"
 "assistant","Precies, dat heb je goed verwoord!  
 De lever breekt bij vasten (of tussen maaltijden) via glycogenolyse haar opgeslagen glycogeen af en geeft de gevormde glucose af aan het bloed, zodat je bloedsuikerspiegel op peil blijft. Dit is vooral belangrijk voor organen die altijd glucose nodig hebben, zoals hersenen en rode bloedcellen.
 
-Zullen we nu kort ingaan op gluconeogenese—wanneer dat proces belangrijk wordt en uit welke stoffen het lichaam dan glucose maakt? Wat denk je: wanneer is alleen glycogenolyse niet meer voldoende?"
-"user","als er te weinig glycogeen in je lever zit of je lichaam op een of andere manier glycogenolyse niet meer kan doen"
+Zullen we nu kort ingaan op gluconeogenese—wanneer dat proces belangrijk wordt en uit welke stoffen het lichaam dan glucose maakt? Wat denk je: wanneer is alleen glycogenolyse niet meer voldoende?","2025-09-29T15:27:50.090618+00:00"
+"user","als er te weinig glycogeen in je lever zit of je lichaam op een of andere manier glycogenolyse niet meer kan doen","2025-09-29T15:28:43.656534+00:00"
 "assistant","Dat klopt! Als de glycogeenvoorraad op is (bij langdurig vasten, intensief sporten, of bij ziekte) of als het lichaam om wat voor reden dan ook geen glycogenolyse kan doen (zoals bij de casus met een enzymdefect), dan moet het lichaam glucose op een andere manier maken: via **gluconeogenese**.
 
-Weet je welke stoffen het lichaam gebruikt als ‘brandstof’ of uitgangsstof voor gluconeogenese? Denk bijvoorbeeld aan restproducten van andere processen, of afbraak van voedingsstoffen. Probeer ze eens te noemen!"
-"user","pyruvaat?"
+Weet je welke stoffen het lichaam gebruikt als ‘brandstof’ of uitgangsstof voor gluconeogenese? Denk bijvoorbeeld aan restproducten van andere processen, of afbraak van voedingsstoffen. Probeer ze eens te noemen!","2025-09-29T15:28:53.615432+00:00"
+"user","pyruvaat?","2025-09-29T15:29:16.650007+00:00"
 "assistant","Heel goed, pyruvaat is inderdaad een belangrijke uitgangsstof voor gluconeogenese!
 
 Er zijn nog meer bronnen/stoffen die gebruikt kunnen worden als startpunt voor gluconeogenese. Kun je denken aan andere afvalstoffen uit andere energieprocessen, of bepaalde voedingsstoffen waaruit het lichaam glucose kan maken? 
 
-Kleine hint: denk aan wat er vrijkomt bij de afbraak van eiwitten en vetten, en aan wat spieren produceren tijdens inspanning… Wat komt er nog meer in je op?"
-"user","koolhydraten"
+Kleine hint: denk aan wat er vrijkomt bij de afbraak van eiwitten en vetten, en aan wat spieren produceren tijdens inspanning… Wat komt er nog meer in je op?","2025-09-29T15:29:25.957238+00:00"
+"user","koolhydraten","2025-09-29T15:29:59.388631+00:00"
 "assistant","Koolhydraten zijn inderdaad bronnen van glucose, maar gluconeogenese draait juist om het maken van glucose uit niet-koolhydraatbronnen als er weinig directe koolhydraten aanwezig zijn.
 
 Misschien helpt het als ik je nog een stukje verder leid:
@@ -218,10 +218,10 @@ Misschien helpt het als ik je nog een stukje verder leid:
 - En wat ontstaat er bij de afbraak van **vetten**?
 - Wat maak je veel aan als je spieren hard werken en er weinig zuurstof is?
 
-Kun je proberen deze stoffen te benoemen als mogelijke bronnen voor gluconeogenese?"
-"user","lactaat"
+Kun je proberen deze stoffen te benoemen als mogelijke bronnen voor gluconeogenese?","2025-09-29T15:30:09.078237+00:00"
+"user","lactaat","2025-09-29T15:30:22.507814+00:00"
 "assistant","Heel goed! **Lactaat** is inderdaad zo’n stof: tijdens flinke inspanning of beperkte zuurstof wordt veel lactaat gevormd uit pyruvaat door anaerobe glycolyse in de spieren. De lever kan dat lactaat weer omzetten in glucose via gluconeogenese.
 
 Er zijn nog twee belangrijke groepen startstoffen voor gluconeogenese.  
 - Eén daarvan komt vrij bij de afbraak van eiwitten — weet je welke dat zijn?  
-- En uit vetafbraak ontstaat naast vetzuren nog een klein molecuul dat gebruikt kan worden voor gluconeogenese. Kun je beide proberen te noemen?"
+- En uit vetafbraak ontstaat naast vetzuren nog een klein molecuul dat gebruikt kan worden voor gluconeogenese. Kun je beide proberen te noemen?","2025-09-29T15:30:32.155606+00:00"

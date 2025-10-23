@@ -1,5 +1,5 @@
-"role","content"
-"user","Hoi"
+"role","content","created_at"
+"user","Hoi","2025-09-29T16:00:08.61293+00:00"
 "assistant","###VIGNETTE 1###
 Het lichaam slaat glucose op als glycogeen, vooral in de lever en spieren, om te gebruiken wanneer er energie nodig is – vooral tussen maaltijden of tijdens inspanning. 
 Bij Glycogeenstapelingsziekten (GSD’s) is dit proces verstoord door erfelijke enzymdeficiënties. Hierdoor heeft het lichaam moeite om de normale bloedglucosespiegel te behouden, vooral tijdens vasten. Ter compensatie activeert het andere metabole routes. Echter, bij GSD’s zijn alternatieve paden, zoals de Cori-cyclus, minder doeltreffend.
@@ -8,37 +8,37 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun je uitleggen wat er in dit geval is gebeurd?"
-"user","Het lukt niet om glucose om te zetten tot pyrodruivenzuur door een enzymdefect, waardoor er in plaats daarvan lactaat ontstaat"
+Kun je uitleggen wat er in dit geval is gebeurd?","2025-09-29T16:00:25.765766+00:00"
+"user","Het lukt niet om glucose om te zetten tot pyrodruivenzuur door een enzymdefect, waardoor er in plaats daarvan lactaat ontstaat","2025-09-29T16:02:14.945229+00:00"
 "assistant","Goede poging! Je suggereert dat er een probleem is met het omzetten van glucose naar pyrodruivenzuur (pyruvaat) en dat daardoor lactaat ontstaat. Voordat we verdergaan, is het goed even samen de basiskennis op te frissen zodat we zeker weten dat je fundament sterk is. Heb je tot zover vragen of onduidelijkheden? 
 
 Laten we samen even kort terugblikken:  
-Kun je uitleggen wat glycolyse precies is en wat de input en output daarvan zijn?"
-"user","in de glycolyse wordt glucose omgezet in pyruvaat"
+Kun je uitleggen wat glycolyse precies is en wat de input en output daarvan zijn?","2025-09-29T16:02:25.019543+00:00"
+"user","in de glycolyse wordt glucose omgezet in pyruvaat","2025-09-29T16:02:51.158637+00:00"
 "assistant","Klopt! In de glycolyse wordt glucose omgezet in pyruvaat. 
 
-Weet je ook wat er verder uit glycolyse komt qua energiemoleculen, zoals NADH of ATP? En waar in de cel vindt glycolyse plaats?"
-"user","het vindt plaats in het cytosol en kost 2 atp en levert 4 atp, ook levert het 4 nadh"
+Weet je ook wat er verder uit glycolyse komt qua energiemoleculen, zoals NADH of ATP? En waar in de cel vindt glycolyse plaats?","2025-09-29T16:02:57.609764+00:00"
+"user","het vindt plaats in het cytosol en kost 2 atp en levert 4 atp, ook levert het 4 nadh","2025-09-29T16:03:24.358542+00:00"
 "assistant","Goed dat je noemt dat glycolyse in het cytosol plaatsvindt! Je hebt grotendeels gelijk over ATP: glycolyse kost eerst 2 ATP en levert uiteindelijk 4 ATP op, waardoor het netto 2 ATP oplevert.
 
 Over de NADH: glycolyse levert in totaal 2 NADH-moleculen op per 1 glucose (weet je waar deze NADH normaal naartoe gaan als er voldoende zuurstof is?). 
 
 Zullen we, voordat we teruggaan naar de casus, ook even kort stilstaan bij wat er met pyruvaat gebeurt na glycolyse, afhankelijk van of er wel of geen zuurstof aanwezig is? 
 
-Wat gebeurt er met pyruvaat bij voldoende zuurstof, en wat bij een tekort aan zuurstof?"
+Wat gebeurt er met pyruvaat bij voldoende zuurstof, en wat bij een tekort aan zuurstof?","2025-09-29T16:04:03.581873+00:00"
 "user","NADH wordt getransporteerd naar het mitochondrium om daar H+ af te leveren voor de oxidatieve fosforylering. 
 Na de glycolyse wordt pyruvaat de citroenzuurcyclus ingestuurd in het mitochondrium
-Bij voldoende zuurstof wordt het omgezet tot citroenzuur via de koppeling aan het enzym acetyl co a"
+Bij voldoende zuurstof wordt het omgezet tot citroenzuur via de koppeling aan het enzym acetyl co a","2025-09-29T16:05:54.352011+00:00"
 "assistant","Mooi uitgelegd! Dus:
 - NADH brengt zijn elektronen naar het mitochondrium voor oxidatieve fosforylering (de elektronentransportketen). 
 - Pyruvaat wordt, als er voldoende zuurstof is, omgezet in acetyl-CoA en kan daarna de citroenzuurcyclus in, ook binnen het mitochondrium.
 
-Even om zeker te zijn: weet je wat er met pyruvaat gebeurt als er géén zuurstof beschikbaar is? Wat wordt daar dan van gemaakt, en waarom vindt dat plaats?"
-"user","dan wordt er dus lactaat gevormd, zodat de elektronendragers weer beschikbaar zijn"
+Even om zeker te zijn: weet je wat er met pyruvaat gebeurt als er géén zuurstof beschikbaar is? Wat wordt daar dan van gemaakt, en waarom vindt dat plaats?","2025-09-29T16:06:06.308567+00:00"
+"user","dan wordt er dus lactaat gevormd, zodat de elektronendragers weer beschikbaar zijn","2025-09-29T16:06:42.106514+00:00"
 "assistant","Precies! In afwezigheid van zuurstof wordt pyruvaat omgezet in lactaat. Dit gebeurt zodat NADH weer geoxideerd kan worden tot NAD+, waardoor glycolyse door kan blijven gaan en er in ieder geval wat ATP wordt gevormd.
 
-Denk je nu dat je deze basis goed op een rijtje hebt, of wil je nog iets verduidelijken over deze stappen? Zo niet, dan kunnen we verdergaan met het toepassen van deze kennis op het vignet!"
-"user","Laten we doorgaan"
+Denk je nu dat je deze basis goed op een rijtje hebt, of wil je nog iets verduidelijken over deze stappen? Zo niet, dan kunnen we verdergaan met het toepassen van deze kennis op het vignet!","2025-09-29T16:07:19.075244+00:00"
+"user","Laten we doorgaan","2025-09-29T16:07:23.714855+00:00"
 "assistant","###VIGNETTE 1###
 Het lichaam slaat glucose op als glycogeen, vooral in de lever en spieren, om te gebruiken wanneer er energie nodig is – vooral tussen maaltijden of tijdens inspanning. 
 Bij Glycogeenstapelingsziekten (GSD’s) is dit proces verstoord door erfelijke enzymdeficiënties. Hierdoor heeft het lichaam moeite om de normale bloedglucosespiegel te behouden, vooral tijdens vasten. Ter compensatie activeert het andere metabole routes. Echter, bij GSD’s zijn alternatieve paden, zoals de Cori-cyclus, minder doeltreffend.
@@ -47,8 +47,8 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Nu we de basis herhaald hebben: Kun je nu opnieuw uitleggen wat er bij dit meisje gebeurt, met de kennis die je net hebt opgefrist?"
-"user","Het lichaam heeft moeite met glucose vorming vanuit de glycogeenvoorraad in de lever, hierdoor stapelt glycogeen en wordt de lever groter"
+Nu we de basis herhaald hebben: Kun je nu opnieuw uitleggen wat er bij dit meisje gebeurt, met de kennis die je net hebt opgefrist?","2025-09-29T16:07:41.984702+00:00"
+"user","Het lichaam heeft moeite met glucose vorming vanuit de glycogeenvoorraad in de lever, hierdoor stapelt glycogeen en wordt de lever groter","2025-09-29T16:08:34.044709+00:00"
 "assistant","Goed, je benoemt dat het lichaam moeite heeft met de afbraak van glycogeen en dat hierdoor glycogeen zich ophoopt in de lever (waardoor deze groter wordt). Dat klopt en is een belangrijk gevolg van GSD!
 
 Maar laten we het verder uitdiepen:  
@@ -56,32 +56,32 @@ Maar laten we het verder uitdiepen:
 - Kun je verklaren waarom haar lactaat verhoogd is?  
 - En wat zou je verwachten dat er gebeurt met de alternatieve energievoorziening, zoals ketonvorming of het gebruiken van andere substraten?
 
-Kun je daar je redenering verder op toepassen?"
-"user","ik heb ulp nodig"
+Kun je daar je redenering verder op toepassen?","2025-09-29T16:08:45.804496+00:00"
+"user","ik heb ulp nodig","2025-09-29T16:09:24.585064+00:00"
 "assistant","Geen probleem, laten we het samen stap voor stap ontrafelen!
 
 Je hebt gezegd: het lichaam kan glycogeen onvoldoende afbreken. Je weet nu dat normaal het lichaam bij vasten glycogeen omzet in glucose (glycogenolyse) om het bloedglucosegehalte op peil te houden.
 
 Wat gebeurt er met het bloedglucosegehalte als deze route blokkeert?  
-En als glucose schaars is, welke processen neemt het lichaam dan als ‘noodmaatregel’ over om toch nog energie voor met name de hersenen en andere weefsels te leveren? Kun je enkele van die routes noemen?"
-"user","glucose daalt, vetten worden gebruikt voor energietoevoer"
+En als glucose schaars is, welke processen neemt het lichaam dan als ‘noodmaatregel’ over om toch nog energie voor met name de hersenen en andere weefsels te leveren? Kun je enkele van die routes noemen?","2025-09-29T16:09:35.413478+00:00"
+"user","glucose daalt, vetten worden gebruikt voor energietoevoer","2025-09-29T16:10:04.066077+00:00"
 "assistant","Goed! Inderdaad, als glycogeen niet afgebroken kan worden, daalt het bloedglucosegehalte (hypoglykemie). Dan probeert het lichaam over te schakelen op vetten (en ketonlichamen) voor energie, vooral tijdens langere perioden zonder eten.
 
 In haar bloed zijn echter geen ketonen te vinden.  
 - Wat zegt het ontbreken van ketonen over de alternatieve energievoorziening in haar situatie?
 - En wat gebeurt er als haar cellen wél dringend energie nodig hebben, maar ze geen glucose of vetten goed kan gebruiken?
-- Kun je nog bedenken waarom dan haar lactaat zou stijgen? Wat zegt dat over welk pad er “overuren” maakt?"
+- Kun je nog bedenken waarom dan haar lactaat zou stijgen? Wat zegt dat over welk pad er “overuren” maakt?","2025-09-29T16:10:16.25049+00:00"
 "user","de alternatieve energievoorziening wordt niet ingezet, 
-glycolyse maakt overuren"
+glycolyse maakt overuren","2025-09-29T16:11:11.027756+00:00"
 "assistant","Precies, je zit op het goede spoor!  
 De alternatieve route via vetverbranding en ketonvorming werkt onvoldoende of wordt niet effectief ingezet, waardoor het lichaam afhankelijk blijft van glycolyse voor een beetje energielevering.
 
-Als glycolyse “overuren” draait, maar er onvoldoende mogelijkheid is om pyruvaat volledig in de mitochondriën te verwerken (bijvoorbeeld door gebrek aan alternatieve substraten en remming van andere routes), dan ontstaat er een opstapeling van pyruvaat. Weet je nog wat er met een overschot aan pyruvaat gebeurt onder deze omstandigheden? Waarom stijgt dan het lactaatgehalte in het bloed?"
-"user","bij een overshvot aan pyruvaat wordt het omgezet in lactaat"
+Als glycolyse “overuren” draait, maar er onvoldoende mogelijkheid is om pyruvaat volledig in de mitochondriën te verwerken (bijvoorbeeld door gebrek aan alternatieve substraten en remming van andere routes), dan ontstaat er een opstapeling van pyruvaat. Weet je nog wat er met een overschot aan pyruvaat gebeurt onder deze omstandigheden? Waarom stijgt dan het lactaatgehalte in het bloed?","2025-09-29T16:11:20.677653+00:00"
+"user","bij een overshvot aan pyruvaat wordt het omgezet in lactaat","2025-09-29T16:11:39.764618+00:00"
 "assistant","Juist! Als er veel pyruvaat is en het niet verder de citroenzuurcyclus in kan (bijvoorbeeld door tekort aan alternatieve substraten of onvoldoende mitochondriale verwerking), wordt het omgezet in lactaat. Zo blijft NAD+ beschikbaar voor voortzetting van glycolyse en kunnen de cellen in elk geval een beetje ATP blijven produceren.
 
-Je hebt nu bijna alles benoemd! Ben je klaar voor een samenvattende eindvraag over deze casus, of wil je nog iets verder toelichten?"
-"user","ik ben er klaar voor"
+Je hebt nu bijna alles benoemd! Ben je klaar voor een samenvattende eindvraag over deze casus, of wil je nog iets verder toelichten?","2025-09-29T16:11:51.083601+00:00"
+"user","ik ben er klaar voor","2025-09-29T16:12:11.112234+00:00"
 "assistant","###VIGNETTE 1###
 Het lichaam slaat glucose op als glycogeen, vooral in de lever en spieren, om te gebruiken wanneer er energie nodig is – vooral tussen maaltijden of tijdens inspanning. 
 Bij Glycogeenstapelingsziekten (GSD’s) is dit proces verstoord door erfelijke enzymdeficiënties. Hierdoor heeft het lichaam moeite om de normale bloedglucosespiegel te behouden, vooral tijdens vasten. Ter compensatie activeert het andere metabole routes. Echter, bij GSD’s zijn alternatieve paden, zoals de Cori-cyclus, minder doeltreffend.
@@ -90,8 +90,8 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-**Hoe begrijp je nu de oorzaken achter de klinische bevindingen in deze casus? Schrijf alles zo volledig mogelijk op — je ideeën, redeneer-stappen, en linken met wat je geleerd hebt. Hoe vollediger je uitleg, hoe meer je je begrip verdiept, jezelf voorbereidt op toetsen, en je vermogen versterkt om straks een glycogeenstapelingsziekte te herkennen!**"
-"user","Dit meisje heeft problemen bij het omzetten van glycogeen naar glucose via de lever. Normaal gesproken zou het lichaam bij periode van vasten dan doorgaan op een andere manier van energie voorziening namelijk het verbranden van vetten"
+**Hoe begrijp je nu de oorzaken achter de klinische bevindingen in deze casus? Schrijf alles zo volledig mogelijk op — je ideeën, redeneer-stappen, en linken met wat je geleerd hebt. Hoe vollediger je uitleg, hoe meer je je begrip verdiept, jezelf voorbereidt op toetsen, en je vermogen versterkt om straks een glycogeenstapelingsziekte te herkennen!**","2025-09-29T16:12:32.364316+00:00"
+"user","Dit meisje heeft problemen bij het omzetten van glycogeen naar glucose via de lever. Normaal gesproken zou het lichaam bij periode van vasten dan doorgaan op een andere manier van energie voorziening namelijk het verbranden van vetten","2025-09-29T16:13:24.64159+00:00"
 "assistant","###VIGNETTE 2###
 Het menselijk lichaam is afhankelijk van een constante aanvoer van glucose voor energie, vooral voor de hersenen en rode bloedcellen. Als voedselinname stopt, moet het lichaam zich aanpassen om het energieniveau te behouden. Deze aanpassing omvat een verschuiving in metabole routes. Aanvankelijk worden glycogeenvoorraden gebruikt. Naarmate het vasten langer dan 24 uur duurt, worden andere processen geactiveerd.
 Een 13-jarige gezonde jongen wordt erg zwak gevonden nadat hij vier dagen heeft meegedaan aan een “vastenchallenge” met collega’s. Tijdens deze periode heeft hij alleen water gedronken. Zijn bloedonderzoek toont:
@@ -99,31 +99,31 @@ Bloedglucose: 55 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Positief (normaal: negatief)
 Lactaat: 2,8 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun je uitleggen waarom de bloedwaarden van deze jongen zo zijn, en waarom hij zich zo zwak voelt?"
-"user","Doordat de jongen door zijn glucose voorraad heen is, dit wil zeggen, de omzetting van glycogeen naar glucose om de bloedsuikerpsiegel op peil te houden, is het lichaam overgeschakeld naar het verbranden van vetten > dit zorgt voor de productie van ketonlichamen in het bloed, en ook de vorming van het lactaat"
+Kun je uitleggen waarom de bloedwaarden van deze jongen zo zijn, en waarom hij zich zo zwak voelt?","2025-09-29T16:13:39.877671+00:00"
+"user","Doordat de jongen door zijn glucose voorraad heen is, dit wil zeggen, de omzetting van glycogeen naar glucose om de bloedsuikerpsiegel op peil te houden, is het lichaam overgeschakeld naar het verbranden van vetten > dit zorgt voor de productie van ketonlichamen in het bloed, en ook de vorming van het lactaat","2025-09-29T16:16:08.327321+00:00"
 "assistant","Goed geredeneerd! Je benoemt terecht dat de glycogeenvoorraad op is, waardoor het lichaam overschakelt naar vetverbranding en hierdoor ketonen aanmaakt.
 
-Kun je nu uitleggen waarom het lactaat toch verhoogd is, ondanks dat hij vooral vetten als energiebron gebruikt? Welke processen dragen hieraan bij, en waarom blijft er toch behoefte aan glycolyse en lactaatvorming bij langer vasten?"
-"user","omdat er altijd weefsels zijn die anaerobe verbranding gebruiken"
+Kun je nu uitleggen waarom het lactaat toch verhoogd is, ondanks dat hij vooral vetten als energiebron gebruikt? Welke processen dragen hieraan bij, en waarom blijft er toch behoefte aan glycolyse en lactaatvorming bij langer vasten?","2025-09-29T16:16:16.628454+00:00"
+"user","omdat er altijd weefsels zijn die anaerobe verbranding gebruiken","2025-09-29T16:19:13.008795+00:00"
 "assistant","Precies! Sommige weefsels, zoals de rode bloedcellen en delen van de hersenen, zijn altijd afhankelijk van anaerobe glycolyse en vormen dus continu lactaat, zelfs tijdens langdurig vasten. Ook sommige spieren kunnen bij hoge belasting tijdelijk extra lactaat produceren.
 
-Hoe werken de Cori-cyclus en gluconeogenese samen om met dit lactaat om te gaan tijdens langdurig vasten? Kun je uitleggen waarom deze cycli op dit moment zo belangrijk zijn voor het energiemetabolisme van de jongen?"
-"user","nee, ik weet niet wat de cori cyclus is"
+Hoe werken de Cori-cyclus en gluconeogenese samen om met dit lactaat om te gaan tijdens langdurig vasten? Kun je uitleggen waarom deze cycli op dit moment zo belangrijk zijn voor het energiemetabolisme van de jongen?","2025-09-29T16:19:24.66128+00:00"
+"user","nee, ik weet niet wat de cori cyclus is","2025-09-29T16:19:57.804531+00:00"
 "assistant","Geen probleem, laten we het samen uitzoeken!
 
 De Cori-cyclus speelt zich af tussen spiercellen (of andere weefsels die veel lactaat vormen) en de lever.  
-Kun je bedenken wat er gebeurt met het lactaat dat bijvoorbeeld door de spieren wordt geproduceerd? Waar gaat het naartoe en wat zou het lichaam ermee doen als het bloedglucose laag is?"
-"user","lactaat wordt teruggevormd naar glucose"
+Kun je bedenken wat er gebeurt met het lactaat dat bijvoorbeeld door de spieren wordt geproduceerd? Waar gaat het naartoe en wat zou het lichaam ermee doen als het bloedglucose laag is?","2025-09-29T16:20:07.004094+00:00"
+"user","lactaat wordt teruggevormd naar glucose","2025-09-29T16:21:29.112866+00:00"
 "assistant","Dat klopt! Het lactaat dat door bijvoorbeeld spiercellen wordt geproduceerd, wordt via het bloed naar de lever getransporteerd. In de lever wordt lactaat omgezet terug naar glucose (door gluconeogenese). Deze glucose kan dan weer terug naar de spieren of andere weefsels om daar als energiebron te dienen—dit is de Cori-cyclus.
 
-Waarom is deze cyclus vooral belangrijk tijdens langdurig vasten, zoals bij de jongen in het vignet? Wat voorkomt het bij hem?"
-"user","weet ik niet"
+Waarom is deze cyclus vooral belangrijk tijdens langdurig vasten, zoals bij de jongen in het vignet? Wat voorkomt het bij hem?","2025-09-29T16:21:39.094615+00:00"
+"user","weet ik niet","2025-09-29T16:24:35.319981+00:00"
 "assistant","Goede vraag! Denk aan het volgende: tijdens langdurig vasten worden glycogeenreserves uitgeput, maar sommige cellen (zoals rode bloedcellen) kunnen alleen glucose gebruiken en blijven daarom lactaat maken. De lever kan van dat lactaat weer glucose maken, zodat deze cellen toch kunnen blijven functioneren, ook als je niet eet.
 
 Dus: De Cori-cyclus voorkomt bij deze jongen dat zijn bloedglucose helemaal opraakt en zorgt ervoor dat zijn hersenen en andere weefsels die afhankelijk zijn van glucose, tóch wat energie blijven krijgen, zelfs als zijn glycogeen helemaal op is.
 
-Wil je dit nog verder bespreken, of heb je voldoende inzicht in deze begrippen? Zo niet, wil je dan zelf nog iets verhelderen voordat we afronden?"
-"user","mag ik feedback"
+Wil je dit nog verder bespreken, of heb je voldoende inzicht in deze begrippen? Zo niet, wil je dan zelf nog iets verhelderen voordat we afronden?","2025-09-29T16:24:47.189904+00:00"
+"user","mag ik feedback","2025-09-29T16:25:04.704112+00:00"
 "assistant","Natuurlijk! Hier is je feedback:
 
 Je hebt goed gereageerd op de vragen over de basis van glycolyse, het belang van NADH en de verschillende routes die pyruvaat kan nemen afhankelijk van zuurstofaanwezigheid. Je wist dat glycogeen belangrijk is als snelle glucosebron en had scherp door waarom het opraken van glycogeen leidt tot een beroep op vetverbranding en alternatieve routes. Bij moeilijke vragen durfde je om hulp te vragen – dat is heel waardevol voor leren!
@@ -137,4 +137,4 @@ Let op bij:
 
 Over het geheel laat je zien dat je de grote lijnen begrijpt én je eigen kennisgrenzen herkent. Dat is super belangrijk in je leerproces! Blijf vooral kritisch doorvragen, dan komt het helemaal goed.
 
-Heb je nog vragen, of wil je ergens verder op oefenen?"
+Heb je nog vragen, of wil je ergens verder op oefenen?","2025-09-29T16:25:46.634172+00:00"

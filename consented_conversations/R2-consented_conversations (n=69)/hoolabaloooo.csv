@@ -1,5 +1,5 @@
-"role","content"
-"user","ik ben er klaar voor"
+"role","content","created_at"
+"user","ik ben er klaar voor","2025-09-29T16:12:48.860207+00:00"
 "assistant","Mooi, laten we beginnen!
 
 ###VIGNETTE 1###
@@ -10,9 +10,9 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal negatief)  
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun je uitleggen wat er in dit geval is gebeurd?"
-"user","ze heeft waarschijnlijk weinig gegeten en haar lichaam gebruikt andere manieren om aan energie te komen. Dit kun je zien aan de lage bloedglucose en het hoge lactaat"
-"user","ik ben er klaar voor"
+Kun je uitleggen wat er in dit geval is gebeurd?","2025-09-29T16:13:04.859774+00:00"
+"user","ze heeft waarschijnlijk weinig gegeten en haar lichaam gebruikt andere manieren om aan energie te komen. Dit kun je zien aan de lage bloedglucose en het hoge lactaat","2025-09-29T16:14:56.29441+00:00"
+"user","ik ben er klaar voor","2025-09-29T16:17:03.162586+00:00"
 "assistant","Hier is de klinische situatie die we samen gaan analyseren:
 
 ###VIGNETTE 1###
@@ -23,35 +23,35 @@ Bloedsuiker: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)  
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)  
 
-Kun je uitleggen wat er is gebeurd in deze casus?"
-"user","het glycogeen in haar lichaam stapelt zich op omdat het niet afgebroken kan worden wat haar vergrote lever verklaart. Glycogeen wordt dus niet afgebroken tot glucose waardoor haar bloedsuiker lager is dan normaal"
+Kun je uitleggen wat er is gebeurd in deze casus?","2025-09-29T16:17:20.800498+00:00"
+"user","het glycogeen in haar lichaam stapelt zich op omdat het niet afgebroken kan worden wat haar vergrote lever verklaart. Glycogeen wordt dus niet afgebroken tot glucose waardoor haar bloedsuiker lager is dan normaal","2025-09-29T16:18:14.22717+00:00"
 "assistant","Goed geprobeerd! Je pakt hier al heel belangrijke elementen op, zoals de stapeling van glycogeen en het effect op de bloedsuiker. 
 
 Voordat we verdergaan, laten we samen even terugblikken op de relevante basiskennis. Zo kunnen we de casus straks nog beter analyseren. Heb je op dit moment vragen of onduidelijkheden over de basis van energiehuishouding, bijvoorbeeld over wat glycogenolyse is of hoe glucose normaal gesproken wordt vrijgemaakt uit glycogeen? 
 
-Of kun je kort uitleggen wat glycolyse is?"
-"user","Glycolyse is een proces in het lichaam waarbij glycose wordt afgebroken tot pyrovaat"
+Of kun je kort uitleggen wat glycolyse is?","2025-09-29T16:18:23.590866+00:00"
+"user","Glycolyse is een proces in het lichaam waarbij glycose wordt afgebroken tot pyrovaat","2025-09-29T16:19:51.100492+00:00"
 "assistant","Dat klopt! Glycolyse is inderdaad het proces waarbij glucose in het cytoplasma van de cel wordt afgebroken tot pyruvaat, met de productie van een beetje ATP en NADH. 
 
-Weet je ook wat er met pyruvaat kan gebeuren nadat het is gevormd? Wat gebeurt er met pyruvaat onder aërobe en anaërobe omstandigheden?"
-"user","Pyruvaat onder aerobe omstandigheden wordt omgezet naar meer ATP dan onder anaerobe omstandigheden"
+Weet je ook wat er met pyruvaat kan gebeuren nadat het is gevormd? Wat gebeurt er met pyruvaat onder aërobe en anaërobe omstandigheden?","2025-09-29T16:19:59.856182+00:00"
+"user","Pyruvaat onder aerobe omstandigheden wordt omgezet naar meer ATP dan onder anaerobe omstandigheden","2025-09-29T16:20:56.897172+00:00"
 "assistant","Dat is juist! Je geeft goed het verschil aan: onder aërobe omstandigheden wordt pyruvaat in de mitochondriën verder verwerkt via de citroenzuurcyclus (Krebs-cyclus) en de oxidatieve fosforylering, wat veel ATP oplevert.
 
-Kun je omschrijven wat er met pyruvaat gebeurt onder anaërobe omstandigheden, wanneer er (bijvoorbeeld in spieren tijdens zware inspanning) weinig zuurstof beschikbaar is?"
-"user","dan komt het in de melkzuurcyclus waardoor je veel lactaat in de spieren krijgt dacht ik"
+Kun je omschrijven wat er met pyruvaat gebeurt onder anaërobe omstandigheden, wanneer er (bijvoorbeeld in spieren tijdens zware inspanning) weinig zuurstof beschikbaar is?","2025-09-29T16:21:04.784757+00:00"
+"user","dan komt het in de melkzuurcyclus waardoor je veel lactaat in de spieren krijgt dacht ik","2025-09-29T16:21:42.642664+00:00"
 "assistant","Precies! Onder anaërobe omstandigheden wordt pyruvaat omgezet in lactaat (melkzuur) via de melkzuurfermentatie, vaak de Cori-cyclus genoemd. Hierdoor ontstaat er lactaat in de spieren (en in andere weefsels zonder voldoende zuurstof), wat vervolgens via het bloed naar de lever wordt getransporteerd.
 
-Nu een vervolgvraag: weet je hoe het lichaam normaal gesproken probeert de bloedsuikers op peil te houden als je langere tijd niet eet? Welke processen treden in werking nadat de eerste energievoorraden (bijvoorbeeld glucose uit de maaltijd) op zijn?"
-"user","Dan wordt er opgeslagen glucose in je vet gebruikt om je bloedsuiker op pijl te houden"
+Nu een vervolgvraag: weet je hoe het lichaam normaal gesproken probeert de bloedsuikers op peil te houden als je langere tijd niet eet? Welke processen treden in werking nadat de eerste energievoorraden (bijvoorbeeld glucose uit de maaltijd) op zijn?","2025-09-29T16:21:53.263211+00:00"
+"user","Dan wordt er opgeslagen glucose in je vet gebruikt om je bloedsuiker op pijl te houden","2025-09-29T16:22:25.942557+00:00"
 "assistant","Je zit op het goede spoor, maar opgeslagen glucose bevindt zich vooral als glycogeen in lever en spieren, en niet in vet. Vet wordt op een andere manier voor energie gebruikt.  
-Kun je uitleggen hoe het lichaam opgeslagen glycogeen gebruikt voor de bloedsuikerspiegel? En wat gebeurt er als ook de glycogeenvoorraden opraken? Wat doet het lichaam dan om toch aan glucose te komen?"
-"user","als de glycogeen voorraden opraken gaat het lichaam dat ergens anders vandaan proberen te halen, zoals uit de spieren"
+Kun je uitleggen hoe het lichaam opgeslagen glycogeen gebruikt voor de bloedsuikerspiegel? En wat gebeurt er als ook de glycogeenvoorraden opraken? Wat doet het lichaam dan om toch aan glucose te komen?","2025-09-29T16:22:35.8435+00:00"
+"user","als de glycogeen voorraden opraken gaat het lichaam dat ergens anders vandaan proberen te halen, zoals uit de spieren","2025-09-29T16:25:52.573337+00:00"
 "assistant","Inderdaad! Op het moment dat de glycogeenvoorraden (vooral in de lever) uitgeput raken, moet het lichaam andere bronnen benutten om voldoende glucose te produceren voor weefsels zoals hersenen en rode bloedcellen.
 
 Daarbij zet het lichaam onder andere spiereiwitten om. De aminozuren uit deze eiwitten kunnen via het proces van gluconeogenese omgezet worden in glucose, voornamelijk in de lever. Daarnaast kan het lichaam vetten afbreken tot vetzuren en glycerol, waarbij vooral glycerol kan bijdragen aan gluconeogenese.
 
-Heb je nog vragen over deze processen of voel je je nu klaar om weer terug te keren naar de casus met deze kennis?"
-"user","ik ben er klaar voor"
+Heb je nog vragen over deze processen of voel je je nu klaar om weer terug te keren naar de casus met deze kennis?","2025-09-29T16:26:07.9829+00:00"
+"user","ik ben er klaar voor","2025-09-29T16:26:28.563003+00:00"
 "assistant","Mooi! Hier is nogmaals de casus:
 
 ###VIGNETTE 1###
@@ -62,14 +62,14 @@ Bloedsuiker: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)  
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)  
 
-Kun je nu met de kennis die we net hebben besproken uitleggen wat er in dit geval gebeurt?"
-"user","Ze heeft waarschijnlijk een tijdje gevast. Hierdoor is haar glycogeen voorraad opgeraakt. Haar lichaam probeerde dit te compenseren dmv de Cori cyclus, die waarschijnlijk ook is opgeraakt. Hierdoor is haar bloedglucose laag en haar lactaat hoog, dit is een product van de Cori cyclus"
+Kun je nu met de kennis die we net hebben besproken uitleggen wat er in dit geval gebeurt?","2025-09-29T16:26:45.845878+00:00"
+"user","Ze heeft waarschijnlijk een tijdje gevast. Hierdoor is haar glycogeen voorraad opgeraakt. Haar lichaam probeerde dit te compenseren dmv de Cori cyclus, die waarschijnlijk ook is opgeraakt. Hierdoor is haar bloedglucose laag en haar lactaat hoog, dit is een product van de Cori cyclus","2025-09-29T16:28:52.780181+00:00"
 "assistant","Je bent erg goed op weg! Je noemt terecht de rol van de Cori-cyclus en de stapeling van lactaat. Laten we samen de details nog verder uitpluizen:
 
-Waarom is bij GSD de Cori-cyclus (of eigenlijk gluconeogenese) niet voldoende in staat om de bloedsuiker te herstellen, ondanks dat lactaat wordt geproduceerd? Wat denk je dat er precies misgaat in dat alternatieve pad?"
-"user","het gaat niet snel genoeg"
+Waarom is bij GSD de Cori-cyclus (of eigenlijk gluconeogenese) niet voldoende in staat om de bloedsuiker te herstellen, ondanks dat lactaat wordt geproduceerd? Wat denk je dat er precies misgaat in dat alternatieve pad?","2025-09-29T16:29:02.015313+00:00"
+"user","het gaat niet snel genoeg","2025-09-29T16:29:13.481879+00:00"
 "assistant","Dat speelt zeker mee. Vaak is het inderdaad zo dat alternatieve routes zoals gluconeogenese en de Cori-cyclus het tempo van glucosevoorziening niet kunnen bijhouden als glycogenolyse ontbreekt.
 
 Maar er is nog iets opvallends: bij sommige typen GSD werkt ook een deel van de gluconeogenese of het laatste enzym waarbij glucose wordt vrijgemaakt uit het eindproduct niet goed. Daardoor kan het geproduceerde glucose-6-fosfaat niet altijd omgezet worden naar vrije glucose, waardoor glucose in de levercel blijft ""vastzitten.""
 
-Heb je nagedacht over waarom ketonen niet worden aangemaakt bij dit meisje, terwijl je dat bij vasten normaal wel ziet? Wat is daarvoor een mogelijke verklaring?"
+Heb je nagedacht over waarom ketonen niet worden aangemaakt bij dit meisje, terwijl je dat bij vasten normaal wel ziet? Wat is daarvoor een mogelijke verklaring?","2025-09-29T16:29:25.25171+00:00"

@@ -1,5 +1,5 @@
-"role","content"
-"user","hoi!"
+"role","content","created_at"
+"user","hoi!","2025-09-29T16:01:13.518976+00:00"
 "assistant","Hallo! 
 
 Laten we direct beginnen met een klinisch voorbeeld rondom energiemetabolisme. Hier volgt de casus:
@@ -12,30 +12,30 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun jij uitleggen wat er in dit geval gebeurt?"
-"user","Het is lastig om aan glucose te komen voor haart"
+Kun jij uitleggen wat er in dit geval gebeurt?","2025-09-29T16:01:30.992662+00:00"
+"user","Het is lastig om aan glucose te komen voor haart","2025-09-29T16:02:25.226632+00:00"
 "assistant","Goed geprobeerd! Inderdaad, het meisje heeft moeite om voldoende glucose beschikbaar te krijgen. Voordat we verdergaan, is het een goed moment om samen even stil te staan bij de onderliggende theorie, zodat de basiskennis weer fris is. Heb je tot nu toe vragen of dingen waar je over twijfelt?
 
 Zo niet, kun je me dan uitleggen wat je al weet over de volgende begrippen:
 - Wat is glycolyse?
 - Wat gebeurt er bij glycogenolyse?
 
-Laat maar weten waarmee je wilt starten, dan pakken we het samen stap voor stap aan!"
-"user","De glycolyse is de omzetting van glucose naar 2 pyruvaat in het cytosol. Hierbij wordt 2 ATP gevormd netto. De glycogenolyse is de omzetting van glycogeen naar glucose in de lever"
+Laat maar weten waarmee je wilt starten, dan pakken we het samen stap voor stap aan!","2025-09-29T16:02:35.988397+00:00"
+"user","De glycolyse is de omzetting van glucose naar 2 pyruvaat in het cytosol. Hierbij wordt 2 ATP gevormd netto. De glycogenolyse is de omzetting van glycogeen naar glucose in de lever","2025-09-29T16:03:16.488566+00:00"
 "assistant","Mooi uitgelegd! Je beschrijft dat glycolyse inderdaad glucose afbreekt tot pyruvaat met productie van een beetje ATP, en dat glycogenolyse gereedstaande glycogeenmoleculen omzet in glucose, wat vooral in de lever voorkomt.
 
-Wil je ook kort benoemen wat er na de glycolyse met pyruvaat gebeurt — en wat het verschil is als er wel of geen zuurstof aanwezig is? Of wil je daar eerst nog iets over vragen?"
-"user","Als er geen zuurstof aanwezig is, wordt pyruvaat omgezet in lactaat. Hierbij komt ook een H+ vrij en kan NAD opnieuw de glycolyse in. Ook kan lactaat omgezet worden tot glucose. Dit is waarschijnlijk wat er ook geprobeerd wordt bij de patiënt"
+Wil je ook kort benoemen wat er na de glycolyse met pyruvaat gebeurt — en wat het verschil is als er wel of geen zuurstof aanwezig is? Of wil je daar eerst nog iets over vragen?","2025-09-29T16:03:25.80044+00:00"
+"user","Als er geen zuurstof aanwezig is, wordt pyruvaat omgezet in lactaat. Hierbij komt ook een H+ vrij en kan NAD opnieuw de glycolyse in. Ook kan lactaat omgezet worden tot glucose. Dit is waarschijnlijk wat er ook geprobeerd wordt bij de patiënt","2025-09-29T16:04:13.298655+00:00"
 "assistant","Dat klopt inderdaad! Je benoemt heel goed dat bij een tekort aan zuurstof (of als mitochondriën minder actief zijn), pyruvaat in lactaat wordt omgezet, zodat NAD+ weer beschikbaar komt voor glycolyse. Ook geef je aan dat lactaat in principe weer kan worden omgezet naar glucose, via gluconeogenese.
 
-Voordat we verdergaan: weet je waar in de cel de citroenzuurcyclus en de oxidatieve fosforylatie plaatsvinden, en waarom dat belangrijk is voor energieproductie? Of is hier iets waar je een toelichting bij wilt?"
-"user","Deze 2 cycli vinden plaats in de mitochondriën, in het intermembraan om precies te zijn"
+Voordat we verdergaan: weet je waar in de cel de citroenzuurcyclus en de oxidatieve fosforylatie plaatsvinden, en waarom dat belangrijk is voor energieproductie? Of is hier iets waar je een toelichting bij wilt?","2025-09-29T16:04:22.871872+00:00"
+"user","Deze 2 cycli vinden plaats in de mitochondriën, in het intermembraan om precies te zijn","2025-09-29T16:04:51.357184+00:00"
 "assistant","Goed, je zit op het juiste spoor: beide processen vinden inderdaad in de mitochondriën plaats! Wat betreft de locatie:
 - De citroenzuurcyclus (Krebs-cyclus) vindt plaats in de matrix van de mitochondriën.
 - De oxidatieve fosforylering, oftewel het elektronentransport en de ATP-productie via de chemiosmotische gradiënt, vindt plaats in de binnenmembraan van de mitochondriën.
 
-Wil je nog even kort uitleggen waarom juist deze locatie belangrijk is voor de efficiency van deze processen? Of zullen we verdergaan naar het toepassen van deze kennis op het eerdere klinische voorbeeld?"
-"user","Nee ik hoef geen uitleg meer!"
+Wil je nog even kort uitleggen waarom juist deze locatie belangrijk is voor de efficiency van deze processen? Of zullen we verdergaan naar het toepassen van deze kennis op het eerdere klinische voorbeeld?","2025-09-29T16:05:04.340196+00:00"
+"user","Nee ik hoef geen uitleg meer!","2025-09-29T16:05:13.768119+00:00"
 "assistant","Prima! Dan pakken we de casus er weer bij:
 
 ###VIGNETTE 1###
@@ -46,8 +46,8 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun je nu met de kennis die je net hebt opgefrist uitleggen wat er in deze casus gebeurt? Probeer dit zo volledig mogelijk te doen aan de hand van wat je weet over energiemetabolisme en de rol van alternatieve paden zoals de Cori-cyclus."
-"user","Kun je de cori cyclus nog even kort toepassen, dan geef ik daarna antwoord op de casus"
+Kun je nu met de kennis die je net hebt opgefrist uitleggen wat er in deze casus gebeurt? Probeer dit zo volledig mogelijk te doen aan de hand van wat je weet over energiemetabolisme en de rol van alternatieve paden zoals de Cori-cyclus.","2025-09-29T16:05:34.535497+00:00"
+"user","Kun je de cori cyclus nog even kort toepassen, dan geef ik daarna antwoord op de casus","2025-09-29T16:05:57.653573+00:00"
 "assistant","Natuurlijk! De Cori-cyclus is een belangrijk alternatief pad voor het lichaam om tijdens anaerobe omstandigheden (of wanneer glucose schaars is) energie te blijven leveren.
 
 In het kort werkt het zo:
@@ -56,21 +56,21 @@ In het kort werkt het zo:
 - In de lever wordt lactaat weer omgezet tot pyruvaat en vervolgens via gluconeogenese naar glucose.
 - Die nieuwe glucose kan dan weer door de spieren gebruikt worden als brandstof.
 
-Kun je nu toepassen hoe deze cyclus een rol speelt in de casus van het meisje met GSD, en wat het effect daarvan is op haar bloedwaarden?"
-"user","Kun je uitleggen wat de cori-cyclus is kort?"
+Kun je nu toepassen hoe deze cyclus een rol speelt in de casus van het meisje met GSD, en wat het effect daarvan is op haar bloedwaarden?","2025-09-29T16:06:09.668232+00:00"
+"user","Kun je uitleggen wat de cori-cyclus is kort?","2025-09-29T16:06:22.1484+00:00"
 "assistant","Jazeker, heel kort uitgelegd:
 
 De Cori-cyclus is een kringloop waarbij spieren tijdens anaerobe (zuurstofarme) omstandigheden glucose omzetten in lactaat, dat vervolgens via het bloed naar de lever gaat. In de lever wordt lactaat omgezet in glucose, dat daarna terug naar de spieren gaat.
 
-Is dat duidelijk zo? Laat gerust weten als je het nog korter of met een ander voorbeeld wilt! Denk je aan de hand van deze uitleg de casus verder te kunnen verklaren?"
-"user","Ja, de lever is vergroot omdat de glycogenolyse niet goed werkt, waardoor het glycogeen in de lever wordt opgeslagen en er weinig glucose is in het bloed. Het lichaam gaat proberen het lactaat in de spieren naar de lever te brengen via de cori-cyclus, om vervolgens via gluconeogenese in de lever omgezet te worden tot glucose waardoor de bloedsuikerspiegel stijgt"
-"user","hallo?"
+Is dat duidelijk zo? Laat gerust weten als je het nog korter of met een ander voorbeeld wilt! Denk je aan de hand van deze uitleg de casus verder te kunnen verklaren?","2025-09-29T16:06:32.437514+00:00"
+"user","Ja, de lever is vergroot omdat de glycogenolyse niet goed werkt, waardoor het glycogeen in de lever wordt opgeslagen en er weinig glucose is in het bloed. Het lichaam gaat proberen het lactaat in de spieren naar de lever te brengen via de cori-cyclus, om vervolgens via gluconeogenese in de lever omgezet te worden tot glucose waardoor de bloedsuikerspiegel stijgt","2025-09-29T16:08:49.793699+00:00"
+"user","hallo?","2025-09-29T16:09:53.177383+00:00"
 "assistant","Ik ben er hoor! Wil je je poging wagen om de vorige vraag te beantwoorden, of heb je ergens hulp bij nodig? Hier nog even de vraag om op verder te denken:
 
 **Waarom is het lactaat verhoogd bij dit meisje, ondanks dat de Cori-cyclus actief is? Wat zijn de beperkingen van deze route bij GSD?**
 
-Of wil je eerst nog meer informatie of verduidelijking?"
-"user","ik snap dit niet, kun je het antwoord geven?"
+Of wil je eerst nog meer informatie of verduidelijking?","2025-09-29T16:10:02.257912+00:00"
+"user","ik snap dit niet, kun je het antwoord geven?","2025-09-29T16:10:26.292668+00:00"
 "assistant","Dat is begrijpelijk! In plaats van het antwoord direct te geven, probeer ik je te helpen het zelf te beredeneren. Laten we het samen stap voor stap afpellen:
 
 - Je hebt al benoemd dat het lichaam bij GSD afhankelijker wordt van alternatieve routes om glucose te maken, zoals de Cori-cyclus.
@@ -80,12 +80,12 @@ Of wil je eerst nog meer informatie of verduidelijking?"
 **Nu mijn vraag aan jou:**  
 Als er in de lever bij GSD ook een enzymdeficiëntie zit, waardoor belangrijke stappen in de gluconeogenese of glycogenolyse niet goed werken, wat denk je dan dat er met het lactaat gebeurt in de lever? Kan het goed worden omgezet, of hoopt het zich ergens op? Wat zou dat betekenen voor het lactaat in het bloed?
 
-Probeer je redenering eens af te maken!"
-"user","Dit lactaat hoopt op in de leverf"
+Probeer je redenering eens af te maken!","2025-09-29T16:10:40.277291+00:00"
+"user","Dit lactaat hoopt op in de leverf","2025-09-29T16:11:29.423386+00:00"
 "assistant","Precies, dat is een belangrijke stap in het begrijpen van dit proces! Omdat de lever door het enzymprobleem in GSD het aangevoerde lactaat niet goed kan omzetten in glucose, blijft het lactaat zich ophopen — zowel in de lever als in het bloed.
 
-Kun je nu bedenken waarom haar bloedsuikerspiegel ondanks deze inspanningen zo laag blijft? Wat betekent dit voor de energievoorziening aan haar organen?"
-"user","Dat de organen te weinig energie krijgen om dit op te lossen"
+Kun je nu bedenken waarom haar bloedsuikerspiegel ondanks deze inspanningen zo laag blijft? Wat betekent dit voor de energievoorziening aan haar organen?","2025-09-29T16:11:38.58824+00:00"
+"user","Dat de organen te weinig energie krijgen om dit op te lossen","2025-09-29T16:12:00.326913+00:00"
 "assistant","Helemaal juist! Door het probleem met glycogenolyse én de beperkte effectiviteit van de Cori-cyclus (door ophoping van lactaat), blijft de bloedglucose erg laag. Organen, en vooral het brein dat afhankelijk is van glucose, krijgen daardoor onvoldoende energie, wat leidt tot klachten zoals prikkelbaarheid.
 
 Je hebt nu de kern van deze casus goed te pakken! 
@@ -93,8 +93,8 @@ Je hebt nu de kern van deze casus goed te pakken!
 Wil je nu de gevraagde **samenvatting** geven?
 **“Hoe begrijp je nu de oorzaken achter de klinische bevindingen in deze casus? Schrijf alles op wat je kunt bedenken — met uitleg en verbanden met je kennis van het energiemetabolisme.”**
 
-Hoe uitgebreider je uitleg, hoe beter je het jezelf aanleert!"
-"user","Oke, het meisje heeft al GSD, wat ervoor zorgt dat de glycogenolyse niet werkt. Dit betekent dat de glycogeen in de lever niet omgezet kan worden tot glucose. Dit heeft tot gevolg dat er een lage bloedsuikerspiegel is. Om deze reden probeert het lichaam gebruik te maken van andere mechanismen om de bloedsuikerspiegel weer op normaalwaarde te krijgen. Een mechanisme hiervan is de Cori-cyclus, waarbij pyruvaat wordt omgezet tot lactaat in de spieren, om vervolgens dit lactaat weer om te zetten in glucose in de lever door middel van gluconeogenese. Dit proces kost veel energie, wat er niet is, dus de lactaat wordt ook niet meer goed afgebroken en dit verklaart de hoge lactaat waarde in het bloed."
+Hoe uitgebreider je uitleg, hoe beter je het jezelf aanleert!","2025-09-29T16:12:11.807623+00:00"
+"user","Oke, het meisje heeft al GSD, wat ervoor zorgt dat de glycogenolyse niet werkt. Dit betekent dat de glycogeen in de lever niet omgezet kan worden tot glucose. Dit heeft tot gevolg dat er een lage bloedsuikerspiegel is. Om deze reden probeert het lichaam gebruik te maken van andere mechanismen om de bloedsuikerspiegel weer op normaalwaarde te krijgen. Een mechanisme hiervan is de Cori-cyclus, waarbij pyruvaat wordt omgezet tot lactaat in de spieren, om vervolgens dit lactaat weer om te zetten in glucose in de lever door middel van gluconeogenese. Dit proces kost veel energie, wat er niet is, dus de lactaat wordt ook niet meer goed afgebroken en dit verklaart de hoge lactaat waarde in het bloed.","2025-09-29T16:14:49.786326+00:00"
 "assistant","Goed werk! Je hebt de belangrijkste stappen in het energiemetabolisme en de gevolgen van GSD helder en logisch uitgelegd.
 
 Laten we nu kijken of je deze kennis kunt toepassen in een andere situatie:
@@ -106,17 +106,17 @@ Bloedglucose: 55 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Positief (normaal: negatief)
 Lactaat: 2,8 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun je uitleggen waardoor de testuitslagen van de jongen verklaard kunnen worden, en waarom hij zich zo zwak voelt?"
-"user","De bloedsuikerspiegel is laag, omdat het lichaam bijna door alle glucose voorraden heen is, zowel de glycogenolyse als gluconeogenese zijn bijna uitgeput. Omdat de hersenen nog wel kunnen werken op ketonlichamen, worden deze uit nood aangemaakt en ingezet om toch nog de hersenen aan energie te laten komen. De lactaat is iets hoger dan normaal omdat net als bij de vorige casus weer de cori-cyclus wordt ingezet om aan glucose te komen door lactaat te vormen in de spieren en vervolgens weer om te zetten in glucose in de lever."
+Kun je uitleggen waardoor de testuitslagen van de jongen verklaard kunnen worden, en waarom hij zich zo zwak voelt?","2025-09-29T16:15:08.44133+00:00"
+"user","De bloedsuikerspiegel is laag, omdat het lichaam bijna door alle glucose voorraden heen is, zowel de glycogenolyse als gluconeogenese zijn bijna uitgeput. Omdat de hersenen nog wel kunnen werken op ketonlichamen, worden deze uit nood aangemaakt en ingezet om toch nog de hersenen aan energie te laten komen. De lactaat is iets hoger dan normaal omdat net als bij de vorige casus weer de cori-cyclus wordt ingezet om aan glucose te komen door lactaat te vormen in de spieren en vervolgens weer om te zetten in glucose in de lever.","2025-09-29T16:17:04.631276+00:00"
 "assistant","Keurig uitgelegd! Je benoemt dat tijdens langdurig vasten zowel glycogenolyse als gluconeogenese belangrijk zijn, en dat de voorraden uiteindelijk opraken. Je koppelt de vorming en het gebruik van ketonlichamen als alternatieve energiebron voor de hersenen goed aan deze situatie. Ook zie je de rol van de Cori-cyclus bij de licht verhoogde lactaatwaarde.
 
 Je laat hiermee zien dat je de grote lijnen én de details van energiemetabolisme begrijpt, en de link kunt leggen naar verschillende klinische scenario’s.
 
 Mocht je nog twijfels hebben, stel ze gerust. Zo niet, dan: complimenten! Je hebt de onderlinge samenhang van metabole routes goed doorgrond. Blijf vooral oefenen met het verklaren van klachten op basis van energiemetabolisme — dit zal je in je verdere studie én als arts echt helpen!
 
-Goed bezig, ga zo door!"
-"user","Thanks maatje"
-"assistant","Graag gedaan! Goed gewerkt vandaag. Als je nog meer wilt oefenen of vragen hebt over (energie)metabolisme of andere onderwerpen, weet je me te vinden. Succes met studeren!"
+Goed bezig, ga zo door!","2025-09-29T16:17:23.180771+00:00"
+"user","Thanks maatje","2025-09-29T16:17:32.911848+00:00"
+"assistant","Graag gedaan! Goed gewerkt vandaag. Als je nog meer wilt oefenen of vragen hebt over (energie)metabolisme of andere onderwerpen, weet je me te vinden. Succes met studeren!","2025-09-29T16:17:39.196912+00:00"
 "assistant","**Identificeer de leercontext en rollen**  
 De dialoog betreft een online, begeleide leersessie in medische basiswetenschappen (waarschijnlijk geneeskunde of biomedische wetenschappen), gericht op het begrijpen en uitleggen van klinische casussen rondom energiemetabolisme. De gebruiker is een student die kennis en inzicht oefent en toepast op basis van casuïstiek; de assistant fungeert als tutor en begeleidt het leerproces interactief.  
 Het doel van deze feedback is de student te helpen effectiever en zelfstandiger kernbegrippen te verwerken, uitleg te structureren, en dieper verbanden te leggen tussen theorie en praktijk.
@@ -147,4 +147,4 @@ Het doel van deze feedback is de student te helpen effectiever en zelfstandiger 
    *Hoe te implementeren*: Noteer bij elke labparameter in een casus in één zin de afwijking en geef duidelijke uitleg over het mechanisme dat daarvoor verantwoordelijk is, bijvoorbeeld: “Er zijn geen ketonen ondanks hypoglycemie omdat …”.
 
 **Forward-looking guidance**  
-In de volgende sessie kun je je richten op het zelfstandig redeneren en het uitgebreider en specifieker structureren van je antwoorden. Oefen met het benoemen van álle relevante metabole routes en hun consequenties, zodat je nog completer leert klinische casussen te verklaren."
+In de volgende sessie kun je je richten op het zelfstandig redeneren en het uitgebreider en specifieker structureren van je antwoorden. Oefen met het benoemen van álle relevante metabole routes en hun consequenties, zodat je nog completer leert klinische casussen te verklaren.","2025-09-29T16:18:30.647+00:00"

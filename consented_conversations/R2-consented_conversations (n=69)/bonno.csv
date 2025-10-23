@@ -1,5 +1,5 @@
-"role","content"
-"user","Ik ben klaar om te beginnen"
+"role","content","created_at"
+"user","Ik ben klaar om te beginnen","2025-09-29T16:19:16.499902+00:00"
 "assistant","Hier is de casus waarmee we gaan starten:
 
 ###VIGNETTE 1###
@@ -10,15 +10,15 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal negatief)  
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-**Vraag:** Kun je uitleggen wat er in dit geval gebeurt?"
-"user","Nee"
+**Vraag:** Kun je uitleggen wat er in dit geval gebeurt?","2025-09-29T16:19:32.85652+00:00"
+"user","Nee","2025-09-29T16:22:37.294699+00:00"
 "assistant","Dat is niet erg! Laten we samen de basiskennis even doornemen voordat we verder gaan met de casus. Zo krijg je meer houvast.
 
 Heb je specifieke vragen of verwarring over energiehuishouding in cellen, of wil je dat ik een bepaald begrip uitleg? Bijvoorbeeld:  
 - Weet je wat glycolyse inhoudt?
 - Of wil je eerst iets horen over de rol van glycogeen in het lichaam?
-Laat het weten!"
-"user","Ja doe dat"
+Laat het weten!","2025-09-29T16:22:46.297229+00:00"
+"user","Ja doe dat","2025-09-29T16:23:08.041768+00:00"
 "assistant","Prima, we beginnen kort bij glycogeen:
 
 Glycogeen is de opslagvorm van glucose in het lichaam, vooral aanwezig in lever en spieren. Wanneer het lichaam energie nodig heeft tussen maaltijden of tijdens fysieke inspanning, wordt glycogeen afgebroken tot glucose—dit proces heet glycogenolyse. Die glucose kan vervolgens gebruikt worden in de cellen voor energieproductie.
@@ -27,4 +27,4 @@ De afbraak van glucose voor energie vindt plaats via glycolyse. Glycolyse zet gl
 - Onder aerobe omstandigheden (met voldoende zuurstof) in de mitochondriën (citroenzuurcyclus en oxidatieve fosforylatie).
 - Onder anaerobe omstandigheden (zuurstoftekort of snel energie nodig), via omzetting tot lactaat.
 
-Heb je vragen over dit tot nu toe? Of wil je dat ik iets specifieks verder uitleg?"
+Heb je vragen over dit tot nu toe? Of wil je dat ik iets specifieks verder uitleg?","2025-09-29T16:23:22.235073+00:00"

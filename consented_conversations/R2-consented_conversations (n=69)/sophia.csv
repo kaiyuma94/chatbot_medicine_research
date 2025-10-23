@@ -1,6 +1,6 @@
-"role","content"
-"user","hi"
-"user","hey"
+"role","content","created_at"
+"user","hi","2025-09-29T15:59:19.20153+00:00"
+"user","hey","2025-09-29T15:59:39.755571+00:00"
 "assistant","Hier volgt een klinische casus om ons onderwerp van energiemetabolisme te verkennen:
 
 ###VIGNETTE 1###
@@ -11,28 +11,28 @@ Een 3-jarig meisje komt bij haar arts omdat ze erg prikkelbaar is en haar buik o
 - Bloedketonen: Negatief 
 - Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun je uitleggen wat er in dit geval gebeurd is?"
-"user","haar lichaam kan het glycogeen niet verwerken dus het stapelt zich alleen maar op"
+Kun je uitleggen wat er in dit geval gebeurd is?","2025-09-29T15:59:57.104119+00:00"
+"user","haar lichaam kan het glycogeen niet verwerken dus het stapelt zich alleen maar op","2025-09-29T16:00:36.911955+00:00"
 "assistant","Mooi begin van je redenering! Je benoemt dat het glycogeen zich ophoopt doordat het lichaam het niet kan verwerken. Laten we een stapje terug doen om alle relevante basiskennis samen op te frissen, zodat we dit straks nog beter kunnen analyseren. 
 
 Heb je specifieke vragen of onduidelijkheden over hoe glycogeen normaal gesproken wordt afgebroken, of over andere onderdelen van energiemetabolisme zoals glycolyse of de citroenzuurcyclus? 
 
-Misschien goed om even te checken: kun je kort uitleggen wat glycolyse is?"
-"user","glycolyse is een proces waarbij je energie verkrijgt samen met pyruvaat"
-"assistant","Goed! Je geeft aan dat bij glycolyse energie wordt gemaakt en pyruvaat wordt gevormd. Dat is inderdaad de kern. Kun je ook aangeven waar in de cel glycolyse plaatsvindt, en wat precies de belangrijkste begin- en eindproducten zijn? Denk bijvoorbeeld: wat gaat er in de glycolyse, en wat komt eruit (behalve energie en pyruvaat)?"
-"user","in het cytoplasma, begintproduct is glucose en dus eindproducten ATP en NADH"
+Misschien goed om even te checken: kun je kort uitleggen wat glycolyse is?","2025-09-29T16:00:47.372859+00:00"
+"user","glycolyse is een proces waarbij je energie verkrijgt samen met pyruvaat","2025-09-29T16:01:14.358125+00:00"
+"assistant","Goed! Je geeft aan dat bij glycolyse energie wordt gemaakt en pyruvaat wordt gevormd. Dat is inderdaad de kern. Kun je ook aangeven waar in de cel glycolyse plaatsvindt, en wat precies de belangrijkste begin- en eindproducten zijn? Denk bijvoorbeeld: wat gaat er in de glycolyse, en wat komt eruit (behalve energie en pyruvaat)?","2025-09-29T16:01:21.613095+00:00"
+"user","in het cytoplasma, begintproduct is glucose en dus eindproducten ATP en NADH","2025-09-29T16:02:01.57055+00:00"
 "assistant","Heel goed! Glycolyse vindt plaats in het cytoplasma, begint met glucose, en levert inderdaad ATP, NADH en pyruvaat op.
 
-Zullen we het ook even kort hebben over glycogenolyse? Dat is het proces dat direct van belang is bij deze casus. Wat weet je van glycogenolyse en waar vindt dit plaats?"
-"user","Glucose wordt gevormd uit glycogeen. Dit wordt gestimuleerd door adrenaline en glucagon. ik gok dat dit zich plaatsvindt in de lever"
+Zullen we het ook even kort hebben over glycogenolyse? Dat is het proces dat direct van belang is bij deze casus. Wat weet je van glycogenolyse en waar vindt dit plaats?","2025-09-29T16:02:08.924099+00:00"
+"user","Glucose wordt gevormd uit glycogeen. Dit wordt gestimuleerd door adrenaline en glucagon. ik gok dat dit zich plaatsvindt in de lever","2025-09-29T16:02:39.045437+00:00"
 "assistant","Dat klopt grotendeels! Glycogenolyse is inderdaad het proces waarbij glycogeen wordt omgezet tot glucose, onder invloed van hormonen als adrenaline en glucagon—vooral in de lever, maar ook in mindere mate in spieren.
 
-Om de basis nog verder rond te maken: duik je nog even mee naar de rol van redoxreacties en de mitochondriën? Heb je een idee waarom NADH belangrijk is voor energievorming, en wat er na glycolyse met pyruvaat gebeurt als er voldoende zuurstof is? Of wil je daarover eerst een vraag stellen?"
-"user","omdat die NADH een H kan afstaan die weer gebruikt kan worden bij ATP-ase bij het oxidatieve fosforylering, daarbij heb je dus wel zuurstof nodig"
+Om de basis nog verder rond te maken: duik je nog even mee naar de rol van redoxreacties en de mitochondriën? Heb je een idee waarom NADH belangrijk is voor energievorming, en wat er na glycolyse met pyruvaat gebeurt als er voldoende zuurstof is? Of wil je daarover eerst een vraag stellen?","2025-09-29T16:03:01.114639+00:00"
+"user","omdat die NADH een H kan afstaan die weer gebruikt kan worden bij ATP-ase bij het oxidatieve fosforylering, daarbij heb je dus wel zuurstof nodig","2025-09-29T16:03:45.169337+00:00"
 "assistant","Precies! NADH draagt elektronen (en H+) over aan de elektronentransportketen in de mitochondriën, waar uiteindelijk via oxidatieve fosforylering ATP wordt geproduceerd—en inderdaad, daarvoor is zuurstof nodig als eindelektronenacceptor.
 
-Voordat we teruggaan naar de casus: zijn er nog vragen over het verschil tussen aerobe en anaerobe afbraak van glucose, of denk je dat je dat helder hebt?"
-"user","bij de ene is er wel zuurstof en bij de andere niet toch?"
+Voordat we teruggaan naar de casus: zijn er nog vragen over het verschil tussen aerobe en anaerobe afbraak van glucose, of denk je dat je dat helder hebt?","2025-09-29T16:03:53.393654+00:00"
+"user","bij de ene is er wel zuurstof en bij de andere niet toch?","2025-09-29T16:04:07.557256+00:00"
 "assistant","Klopt, dat is het basisverschil! Bij aerobe afbraak is er wel zuurstof, en kan het pyruvaat in de mitochondriën verder worden verwerkt in de citroenzuurcyclus en de elektronentransportketen, waardoor veel ATP ontstaat. Bij anaerobe omstandigheden (dus zonder voldoende zuurstof) wordt pyruvaat omgezet in lactaat in het cytoplasma, wat minder ATP oplevert.
 
 Mooi, volgens mij heb je nu het fundament goed op een rij! Zullen we deze kennis toepassen op het oorspronkelijke verhaal van het meisje?
@@ -45,32 +45,32 @@ Een 3-jarig meisje komt bij haar arts omdat ze erg prikkelbaar is en haar buik o
 - Bloedketonen: Negatief 
 - Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun je nu met de kennis die je net hebt besproken uitleggen wat er in dit geval is gebeurd?"
-"user","zij heeft dus last van het niet werken van de Glycogenolyse, waardoor de glyocgeen niet kan worden omgezet in glucose, waardoor het glycogeen zich opstapelt in bijvoorbeeld de leber *verklaart de groote ervan* en ze is ook meer geprikkeld want ze heeft geen extra glucose back up die ze kan gebruiken als ze moe is of zich wilt inspannen"
+Kun je nu met de kennis die je net hebt besproken uitleggen wat er in dit geval is gebeurd?","2025-09-29T16:04:30.713572+00:00"
+"user","zij heeft dus last van het niet werken van de Glycogenolyse, waardoor de glyocgeen niet kan worden omgezet in glucose, waardoor het glycogeen zich opstapelt in bijvoorbeeld de leber *verklaart de groote ervan* en ze is ook meer geprikkeld want ze heeft geen extra glucose back up die ze kan gebruiken als ze moe is of zich wilt inspannen","2025-09-29T16:06:02.998442+00:00"
 "assistant","Je legt al een belangrijke oorzaak bloot: het niet goed kunnen afbreken van glycogeen tot glucose, wat zorgt voor stapeling in de lever en een tekort aan beschikbare glucose.
 
-Laten we nog iets verder nadenken. Haar bloedglucose is inderdaad laag—maar haar lactaat is juist verhoogd. Wat denk je dat dit zegt over hoe haar lichaam alsnog probeert aan energie te komen? En waarom zijn er géén ketonen gemeten, denk je? Graag je redenatie uitwerken!"
-"user","haar lichaam probeert nu de cyclus te doen waar je geen zuurstof voor nodig hebt, deze is wel snel maar niet effectief. Hier komt telkens een klein beetje energie bij vrij maar eindigt in veel lactaat en veel vrije H+jes die zorgen voor verzuring"
+Laten we nog iets verder nadenken. Haar bloedglucose is inderdaad laag—maar haar lactaat is juist verhoogd. Wat denk je dat dit zegt over hoe haar lichaam alsnog probeert aan energie te komen? En waarom zijn er géén ketonen gemeten, denk je? Graag je redenatie uitwerken!","2025-09-29T16:06:15.939772+00:00"
+"user","haar lichaam probeert nu de cyclus te doen waar je geen zuurstof voor nodig hebt, deze is wel snel maar niet effectief. Hier komt telkens een klein beetje energie bij vrij maar eindigt in veel lactaat en veel vrije H+jes die zorgen voor verzuring","2025-09-29T16:07:19.047262+00:00"
 "assistant","Mooie redenering! Je koppelt goed dat haar lichaam overstapt op anaerobe glycolyse, waarbij pyruvaat wordt omgezet in lactaat omdat die route snel, maar minder efficiënt is en leidt tot ophoping van lactaat en verzuring.
 
-Nu even doorredeneren: je zegt dat deze route geen zuurstof nodig heeft. Maar waarom zijn er dan geen ketonen aanwezig in haar bloed? Welke alternatieve energiebron had je misschien verwacht bij langdurig lage glucose, en waarom wordt die blijkbaar niet gebruikt? Kun je jouw gedachte hierover aanvullen?"
-"user","Een keton is een chemische stof die het lichaam produceert bij vetverbranding als alternatieve energiebron. IK had als alternatieve energie bron misschien wel Gluconeogenese verwacht, maar er is weinig pyruvaat en glucolyse"
+Nu even doorredeneren: je zegt dat deze route geen zuurstof nodig heeft. Maar waarom zijn er dan geen ketonen aanwezig in haar bloed? Welke alternatieve energiebron had je misschien verwacht bij langdurig lage glucose, en waarom wordt die blijkbaar niet gebruikt? Kun je jouw gedachte hierover aanvullen?","2025-09-29T16:07:29.48493+00:00"
+"user","Een keton is een chemische stof die het lichaam produceert bij vetverbranding als alternatieve energiebron. IK had als alternatieve energie bron misschien wel Gluconeogenese verwacht, maar er is weinig pyruvaat en glucolyse","2025-09-29T16:08:52.946691+00:00"
 "assistant","Je zit in de juiste richting: ketonen ontstaan inderdaad bij vetverbranding, vooral als alternatief als glucose schaars is. Nog een kleine aanvulling: pyruvaat uit glycolyse is er in deze situatie juist relatief veel, maar het wordt omgezet in lactaat door het tekort aan glucose en de verstoorde glycogeenafbraak.
 
-Nu is de vraag: waarom start het lichaam hier geen of nauwelijks ketogenese, dus vetverbranding? Denk je dat er een specifiek mechanisme of signaal is waardoor vetverbranding en ketonproductie juist in deze situatie niet goed op gang komen? Wil je jouw antwoord nog aanvullen of aanpassen?"
-"user","ze heeft geen energie meer over voor de vetverbranding"
+Nu is de vraag: waarom start het lichaam hier geen of nauwelijks ketogenese, dus vetverbranding? Denk je dat er een specifiek mechanisme of signaal is waardoor vetverbranding en ketonproductie juist in deze situatie niet goed op gang komen? Wil je jouw antwoord nog aanvullen of aanpassen?","2025-09-29T16:09:02.522272+00:00"
+"user","ze heeft geen energie meer over voor de vetverbranding","2025-09-29T16:09:13.087577+00:00"
 "assistant","Interessante gedachte! Inderdaad vraagt vetverbranding en de productie van ketonen om bepaalde voorwaarden, waaronder een goed functionerende gluconeogenese (de aanmaak van nieuwe glucose). 
 
-Maar: kan het zijn dat de ophoping van bepaalde stoffen (zoals veel lactaat of specifieke tussenproducten uit de glycolyse) de ketonvorming in de weg zit? Of dat een gebrek aan glucosestroom in het bloed andere hormoonniveaus (zoals insuline of glucagon) beïnvloedt, waardoor vetverbranding minder goed op gang komt? Kun je dit mechanisme nog scherper proberen te benoemen? Wat weet je over de regulatie van ketonvorming?"
-"user","beide kunnen van impact zijn. Ik heb verder weinig verstand van de ketonvorming"
+Maar: kan het zijn dat de ophoping van bepaalde stoffen (zoals veel lactaat of specifieke tussenproducten uit de glycolyse) de ketonvorming in de weg zit? Of dat een gebrek aan glucosestroom in het bloed andere hormoonniveaus (zoals insuline of glucagon) beïnvloedt, waardoor vetverbranding minder goed op gang komt? Kun je dit mechanisme nog scherper proberen te benoemen? Wat weet je over de regulatie van ketonvorming?","2025-09-29T16:09:40.595878+00:00"
+"user","beide kunnen van impact zijn. Ik heb verder weinig verstand van de ketonvorming","2025-09-29T16:10:03.267122+00:00"
 "assistant","Mooi dat je beide opties overweegt! Je bent al een heel eind in je redenatie. Het is goed om te weten dat ketonvorming (ketogenese) vooral op gang komt als het lichaam langdurig weinig glucose heeft, de insulinespiegel erg laag is, en vetzuurafbraak gestimuleerd wordt. Bij sommige glycogeenstapelingsziekten werkt gluconeogenese echter óók niet goed, of worden er zoveel tussenproducten (zoals lactaat) gevormd dat deze processen elkaar beïnvloeden. Daardoor wordt vetverbranding en daarmee ketonvorming onderdrukt, ondanks het lage glucose.
 
-Wil je misschien nog iets specifieks weten over lactaatvorming of de Cori-cyclus? Of zullen we alles wat je nu weet toepassen in een compleet antwoord op de casus?"
-"user","in dit geval is er dus veel lactaat vorming omdat er geen zuurstof is"
+Wil je misschien nog iets specifieks weten over lactaatvorming of de Cori-cyclus? Of zullen we alles wat je nu weet toepassen in een compleet antwoord op de casus?","2025-09-29T16:10:15.416655+00:00"
+"user","in dit geval is er dus veel lactaat vorming omdat er geen zuurstof is","2025-09-29T16:10:34.022195+00:00"
 "assistant","Je bent dichtbij: bij deze patiënt met een glycogeenstapelingsziekte ontstaat de ophoping van lactaat niet zozeer doordat er geen zuurstof is, maar omdat de lever geen glucose uit glycogeen kan maken. Hierdoor blijft het lichaam snel glucose omzetten naar lactaat via anaërobe glycolyse, zelfs als er wél zuurstof is. 
 
-Wil je nog even proberen te verwoorden wat het gevolg is van deze verstoring in de Cori-cyclus en waarom lactaat dan blijft stijgen? Of weet je al hoe de Cori-cyclus normaal gesproken werkt?"
-"user","normaal kan het lactaat weer om worden gezet naar pyrucaat en dan naar glucose, maar dat kan dus nu niet dus dat stapelt zich ook op"
+Wil je nog even proberen te verwoorden wat het gevolg is van deze verstoring in de Cori-cyclus en waarom lactaat dan blijft stijgen? Of weet je al hoe de Cori-cyclus normaal gesproken werkt?","2025-09-29T16:10:43.451875+00:00"
+"user","normaal kan het lactaat weer om worden gezet naar pyrucaat en dan naar glucose, maar dat kan dus nu niet dus dat stapelt zich ook op","2025-09-29T16:11:39.353663+00:00"
 "assistant","Precies! Je hebt nu goed samengevat wat er gebeurt: normaal zou lactaat via de Cori-cyclus in de lever weer omgezet worden naar glucose (gluconeogenese), maar bij een glycogeenstapelingsziekte werkt die omzetting niet goed, waardoor lactaat zich ophoopt.
 
 Hiermee dek je nu de belangrijkste punten van wat er misgaat in de casus! 
@@ -78,8 +78,8 @@ Hiermee dek je nu de belangrijkste punten van wat er misgaat in de casus!
 **Laatste stap voor deze casus:**
 Kun je nu alles wat je hierboven besproken hebt samenbrengen in één samenhangende uitleg?
 
-**Schrijf zo volledig mogelijk je verklaring bij deze casus op: alle gevonden uitslagen, je redenatie en de link naar het energiemetabolisme. Hoe vollediger je bent, hoe beter je het onthoudt én traint voor examen & praktijk!**"
-"user","Normaal gesproken wordt glucose omgezet in glycogeen en visa versa, alleen nu kan dat niet aangezien zij daar niet de goede eiwitten voor heeft. Hierdoor kan de Cori-cyclus zich niet afmaken en verzamelt het lactaat zich waardoor ze verzuring kan ervaren. Er zijn ook geen ketonen want ze heeft weinig energie en het ketonen proces wordt verstoord door de verhoogde lactaat. Het glycogeen wat dus nergens heen kan stapelt zich op in de lever en in de spieren"
+**Schrijf zo volledig mogelijk je verklaring bij deze casus op: alle gevonden uitslagen, je redenatie en de link naar het energiemetabolisme. Hoe vollediger je bent, hoe beter je het onthoudt én traint voor examen & praktijk!**","2025-09-29T16:11:55.392174+00:00"
+"user","Normaal gesproken wordt glucose omgezet in glycogeen en visa versa, alleen nu kan dat niet aangezien zij daar niet de goede eiwitten voor heeft. Hierdoor kan de Cori-cyclus zich niet afmaken en verzamelt het lactaat zich waardoor ze verzuring kan ervaren. Er zijn ook geen ketonen want ze heeft weinig energie en het ketonen proces wordt verstoord door de verhoogde lactaat. Het glycogeen wat dus nergens heen kan stapelt zich op in de lever en in de spieren","2025-09-29T16:13:38.7038+00:00"
 "assistant","Heel goed uitgewerkt! Je koppelt de bloeduitslagen en symptomen aan het onderliggend probleem in het energiemetabolisme. Mooi uitgelegd dat de glycogeenafbraak niet werkt, waardoor glucose uit glycogeen ontbreekt, de Cori-cyclus vastloopt, en zowel lactaatstapeling als leververgroting optreedt. Je benoemt terecht dat ketogenese belemmerd wordt door de metabole situatie.
 
 Laten we jouw kennis nu testen in een andere situatie:
@@ -91,23 +91,23 @@ Een 13-jarige gezonde jongen wordt erg zwak aangetroffen nadat hij aan een ""vas
 - Bloedketonen: Positief 
 - Lactaat: 2,8 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun jij uitleggen waarom de jongen deze bloeduitslagen heeft en zich zo zwak voelt?"
-"user","Zijn bloedglucose is heel laag, er zijn wel ketonen aangemaakt (vetverbranding) dit is ook logisch, want doordat hij niet at kwam er geen glucose bij en werd er dus weinig energie gemaakt. Doordat er geen glucose was kon er ook weinig glycolyse plaatsvinden en om dan toch nog energie te verkrijgen werd er gebruik gemaakt van de anaerobe glycolyse, het nadeel van dat is is dat er veel lactaat komt"
+Kun jij uitleggen waarom de jongen deze bloeduitslagen heeft en zich zo zwak voelt?","2025-09-29T16:13:59.030455+00:00"
+"user","Zijn bloedglucose is heel laag, er zijn wel ketonen aangemaakt (vetverbranding) dit is ook logisch, want doordat hij niet at kwam er geen glucose bij en werd er dus weinig energie gemaakt. Doordat er geen glucose was kon er ook weinig glycolyse plaatsvinden en om dan toch nog energie te verkrijgen werd er gebruik gemaakt van de anaerobe glycolyse, het nadeel van dat is is dat er veel lactaat komt","2025-09-29T16:16:05.266674+00:00"
 "assistant","Je hebt al heel goed de kern te pakken! Het lichaam is inderdaad overgestapt op andere wegen om energie te maken—vetverbranding en ketonvorming—om het tekort aan glucose op te vangen.
 
 Mag ik je uitdagen om iets dieper in te gaan op twee dingen?
 1. Waarom blijven de hersenen functioneren ondanks de lage glucose, en welke rol spelen ketonen hierin?
 2. Is het echt zo dat anaerobe glycolyse in deze situatie de voornaamste bron is van energie en lactaat, of zie je hierin nog een verschil met de casus van het meisje?
 
-Kun je deze redenatie proberen af te maken? Wat gebeurt er anders in deze jongen dan bij het meisje in de vorige casus?"
-"user","1. de ketonen maken gebruikt van het opgeslagen glycogeen, dit kan weer worden omgezet in glucose waardoor er wel energie is om bijvoorbeeld de hersenen draaiende te houden."
+Kun je deze redenatie proberen af te maken? Wat gebeurt er anders in deze jongen dan bij het meisje in de vorige casus?","2025-09-29T16:16:17.700419+00:00"
+"user","1. de ketonen maken gebruikt van het opgeslagen glycogeen, dit kan weer worden omgezet in glucose waardoor er wel energie is om bijvoorbeeld de hersenen draaiende te houden.","2025-09-29T16:16:51.330953+00:00"
 "assistant","Interessante poging! Je haalt een aantal begrippen door elkaar, wat begrijpelijk is gezien de complexiteit. Zullen we het samen stap voor stap nalopen?
 
 De hersenen kunnen inderdaad ketonen gebruiken als alternatieve energiebron, maar ketonen ontstaan niet uit glycogeen. 
 Heb je bedacht waar ketonen precies vandaan komen, en welk substraat juist in deze situatie als energieleverancier fungeert wanneer het glycogeen op is?
 
-Wil je het antwoord daarop eens proberen?"
-"user","ik zeg ook niet dat ketonen uit glycogeen ontstaan, kan je het opnieuw lezen"
+Wil je het antwoord daarop eens proberen?","2025-09-29T16:17:00.73909+00:00"
+"user","ik zeg ook niet dat ketonen uit glycogeen ontstaan, kan je het opnieuw lezen","2025-09-29T16:17:23.767698+00:00"
 "assistant","Fijn dat je dat aangeeft, laten we het samen nog eens helder formuleren!
 
 Je zei: “de ketonen maken gebruikt van het opgeslagen glycogeen, dit kan weer worden omgezet in glucose waardoor er wel energie is om bijvoorbeeld de hersenen draaiende te houden.”
@@ -116,16 +116,16 @@ Misschien kun je nog een keer specifieker aangeven:
 - Waaruit worden ketonen precies gevormd zodra het glycogeen opraakt?
 - Hoe helpt dit, samen met gluconeogenese, om het energiemetabolisme tijdens langdurig vasten te ondersteunen? 
 
-Kun je dit eens proberen uit te leggen?"
-"user","Ketonen worden gevormd wanneer het lichaam als alternatieve energiebron vetten begint te verbranden, omdat er te weinig glucose (suiker) beschikbaar is. Als vetten verbranden zijn er meer stoffen diegebruikt kunnen worden. Gluconeogenese kan daarbij ook helpen want die maakt glucose uit aminozuren, glycerol en pyruvaat"
+Kun je dit eens proberen uit te leggen?","2025-09-29T16:17:34.399686+00:00"
+"user","Ketonen worden gevormd wanneer het lichaam als alternatieve energiebron vetten begint te verbranden, omdat er te weinig glucose (suiker) beschikbaar is. Als vetten verbranden zijn er meer stoffen diegebruikt kunnen worden. Gluconeogenese kan daarbij ook helpen want die maakt glucose uit aminozuren, glycerol en pyruvaat","2025-09-29T16:19:12.474706+00:00"
 "assistant","Heel goed! Je benoemt nu duidelijk dat ketonen ontstaan uit de vetverbranding wanneer de glucosevoorraden opraken. Je koppelt daar terecht de gluconeogenese aan, die van niet-koolhydraatbronnen (zoals aminozuren, glycerol en pyruvaat) nieuwe glucose maakt—bruikbaar, bijvoorbeeld, voor hersenen en rode bloedcellen.
 
 Laten we die tweede vraag afronden:  
-Waarom is bij deze jongen de productie van lactaat verhoogd, maar minder extreem dan in de vorige casus? En is anaerobe glycolyse hier de hoofdbron van energie, of speelt er nog een andere pathway een hoofdrol? Wat denk je?"
-"user","deze jongen heeft reserves die hij kan gebruiken en het meisje uit de vorige casus kon dat niet doen"
+Waarom is bij deze jongen de productie van lactaat verhoogd, maar minder extreem dan in de vorige casus? En is anaerobe glycolyse hier de hoofdbron van energie, of speelt er nog een andere pathway een hoofdrol? Wat denk je?","2025-09-29T16:19:23.901235+00:00"
+"user","deze jongen heeft reserves die hij kan gebruiken en het meisje uit de vorige casus kon dat niet doen","2025-09-29T16:20:03.454213+00:00"
 "assistant","Dat is een mooie observatie! Inderdaad, de jongen heeft werkende metabole routes: zijn lever kan glycogeen afbreken (al zijn de voorraden na 4 dagen op), vetten verbranden (en dus ketonen maken) én gluconeogenese uitvoeren. Hierdoor ontstaan ketonen en slechts milde lactaatstijging, omdat de meeste energie via de aerobe route uit vetzuuroxidatie en ketogenese komt—dus er is minder afhankelijkheid van anaerobe glycolyse dan bij het meisje, waardoor er minder lactaat is.
 
 Goed gedaan! Je lijkt deze stof goed onder de knie te krijgen.
 
 **Laatste feedback:**  
-Je redeneert logisch van het energiemetabolisme bij normale én pathologische situaties. Je weet het verschil tussen de metabole routes bij een gezonde jongen in langdurig vasten en een meisje met een glycogeenstapelingsziekte duidelijk te verwoorden. Blijf zo oefenen met zelf uitleggen: zo onthoud je het het beste! Als je wilt kun je altijd verder oefenen met andere casussen of onderwerpen uit het energiemetabolisme. Succes!"
+Je redeneert logisch van het energiemetabolisme bij normale én pathologische situaties. Je weet het verschil tussen de metabole routes bij een gezonde jongen in langdurig vasten en een meisje met een glycogeenstapelingsziekte duidelijk te verwoorden. Blijf zo oefenen met zelf uitleggen: zo onthoud je het het beste! Als je wilt kun je altijd verder oefenen met andere casussen of onderwerpen uit het energiemetabolisme. Succes!","2025-09-29T16:20:20.474015+00:00"

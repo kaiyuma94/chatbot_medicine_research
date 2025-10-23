@@ -1,5 +1,5 @@
-"role","content"
-"user","halloo zullen we beginnnen"
+"role","content","created_at"
+"user","halloo zullen we beginnnen","2025-09-29T20:24:22.673667+00:00"
 "assistant","Natuurlijk! Laten we beginnen.
 
 ###VIGNETTE 1###
@@ -9,14 +9,14 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: negatief (normaal: negatief)
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun jij uitleggen wat er in dit geval is gebeurd?"
-"user","ze heeft hypoglykemie nu want ze heeft geen glycogeen voorraad om extra glucose te geven, dus dan piekt en daalt de glucose waarde snel"
+Kun jij uitleggen wat er in dit geval is gebeurd?","2025-09-29T20:24:38.796013+00:00"
+"user","ze heeft hypoglykemie nu want ze heeft geen glycogeen voorraad om extra glucose te geven, dus dan piekt en daalt de glucose waarde snel","2025-09-29T20:29:23.130628+00:00"
 "assistant","Goed geprobeerd! Je benoemt inderdaad dat het meisje hypoglykemie heeft en dat dit samenhangt met een probleem in de glycogeenvoorraad of -afbraak.
 
 Voordat we verdergaan met de casus, laten we even stilstaan bij de achtergrondkennis die hierbij hoort. Zo kun je de onderliggende processen beter begrijpen en kun je zo’n casus in de toekomst makkelijker analyseren.
 
-Heb je op dit moment nog vragen of dingen waar je over twijfelt bij dit onderwerp? Of zou je kort kunnen samenvatten wat je weet over bijvoorbeeld glycolyse, glycogenolyse of het verschil tussen aerobe en anaerobe energieproductie?"
-"user","glycolyse is glucose afbraak tot pyruvaat. de tweede is glycogeen afbraak tot glucose. aeroob is met 02 en anaeroob zonder, aeoob vindt plaats in mitochondrien en de ander niet. dan wordt pyruvaat lactaat"
+Heb je op dit moment nog vragen of dingen waar je over twijfelt bij dit onderwerp? Of zou je kort kunnen samenvatten wat je weet over bijvoorbeeld glycolyse, glycogenolyse of het verschil tussen aerobe en anaerobe energieproductie?","2025-09-29T20:29:33.830977+00:00"
+"user","glycolyse is glucose afbraak tot pyruvaat. de tweede is glycogeen afbraak tot glucose. aeroob is met 02 en anaeroob zonder, aeoob vindt plaats in mitochondrien en de ander niet. dan wordt pyruvaat lactaat","2025-09-29T20:30:55.541546+00:00"
 "assistant","Mooie samenvatting! Je noemt de hoofdpunten goed:
 
 - Glycolyse breekt glucose af tot pyruvaat.
@@ -24,16 +24,16 @@ Heb je op dit moment nog vragen of dingen waar je over twijfelt bij dit onderwer
 - Aerobe processen gebruiken zuurstof en vinden plaats in de mitochondriën.
 - Anaeroob vindt plaats in het cytosol, waarbij pyruvaat omgezet wordt in lactaat.
 
-Wil je hier nog iets aanvullen of heb je ergens vragen over, bijvoorbeeld over de citroenzuurcyclus of de rol van NADH/FADH2 bij oxidatieve fosforylering? Of is het helder en kunnen we de kennis toepassen op de casus?"
-"user","kun je de nadh en fadh2 uitleggen  het is beetje vaag voor mij."
+Wil je hier nog iets aanvullen of heb je ergens vragen over, bijvoorbeeld over de citroenzuurcyclus of de rol van NADH/FADH2 bij oxidatieve fosforylering? Of is het helder en kunnen we de kennis toepassen op de casus?","2025-09-29T20:31:06.197831+00:00"
+"user","kun je de nadh en fadh2 uitleggen  het is beetje vaag voor mij.","2025-09-29T20:31:43.092957+00:00"
 "assistant","Goede vraag! Kort uitgelegd: zowel NADH als FADH2 zijn “elektronendragers”. Ze ontstaan tijdens verschillende stappen van de energieproductie, zoals de glycolyse en de citroenzuurcyclus.
 
 Ze nemen elektronen (en dus energie) op uit deze reacties en brengen die vervolgens naar de mitochondriën, waar ze hun elektronen afgeven aan de elektronen-transportketen (ETC) in het binnenste mitochondriale membraan.
 
 Hierdoor wordt er een protonengradiënt opgebouwd, die uiteindelijk wordt gebruikt om ATP te maken via oxidatieve fosforylering.
 
-Helpt deze uitleg? Of wil je weten bij welke stap NADH en FADH2 precies gevormd worden?"
-"user","ja dankje, zullen we verder bij casus"
+Helpt deze uitleg? Of wil je weten bij welke stap NADH en FADH2 precies gevormd worden?","2025-09-29T20:31:55.924699+00:00"
+"user","ja dankje, zullen we verder bij casus","2025-09-29T20:32:25.170301+00:00"
 "assistant","Natuurlijk, mooi dat het duidelijker is!
 
 Hier is de casus opnieuw:
@@ -45,8 +45,8 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: negatief (normaal: negatief)
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Nu je de basiskennis hebt opgefrist: kun je uitleggen wat er met deze patiënte gebeurt, met wat je nu weet over energie­metabolisme?"
-"user","ze ervaart hypoglykemie en ze heeft veel lactaat, wat betekent dat er een anaerobe stofwisseling is"
+Nu je de basiskennis hebt opgefrist: kun je uitleggen wat er met deze patiënte gebeurt, met wat je nu weet over energie­metabolisme?","2025-09-29T20:32:45.978511+00:00"
+"user","ze ervaart hypoglykemie en ze heeft veel lactaat, wat betekent dat er een anaerobe stofwisseling is","2025-09-29T20:33:33.875959+00:00"
 "assistant","Goed begin! Je ziet dat de hypoglykemie samenvalt met een verhoogde lactaatspiegel, wat inderdaad wijst op meer anaerobe metabolisme. Wil je jouw uitleg nog wat aanvullen?
 
 Bijvoorbeeld:
@@ -54,4 +54,4 @@ Bijvoorbeeld:
 - En hoe kan het dat de bloedglucose toch zo laag blijft, ook al zijn er andere routes?
 - Wat gebeurt er normaal gesproken met pyruvaat als er voldoende zuurstof (en mitochondriën) zijn?
 
-Wat denk je: kunnen deze vragen helpen jouw verklaring verder aan te vullen?"
+Wat denk je: kunnen deze vragen helpen jouw verklaring verder aan te vullen?","2025-09-29T20:33:44.631663+00:00"

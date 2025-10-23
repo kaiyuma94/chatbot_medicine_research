@@ -1,5 +1,5 @@
-"role","content"
-"user","Goedenavond"
+"role","content","created_at"
+"user","Goedenavond","2025-09-29T16:12:35.753104+00:00"
 "assistant","Goedenavond! 
 
 Hier volgt een casus om ons onderwerp te introduceren:
@@ -16,26 +16,26 @@ Een 3-jarig meisje met GSD komt bij de dokter omdat ze erg prikkelbaar is en haa
 
 ---
 
-Kun je uitleggen wat er in deze casus is gebeurd?"
-"user","Het lichaam heeft nu niet genoeg suikers dus gaat het met de pyrodruivenzuur verder met anaerobe processen, waardoor er vele meer lactaat in het lichaam zit"
+Kun je uitleggen wat er in deze casus is gebeurd?","2025-09-29T16:12:58.707393+00:00"
+"user","Het lichaam heeft nu niet genoeg suikers dus gaat het met de pyrodruivenzuur verder met anaerobe processen, waardoor er vele meer lactaat in het lichaam zit","2025-09-29T16:16:52.670578+00:00"
 "assistant","Goed geprobeerd! Je benoemt al dat het lichaam door een tekort aan suiker (glucose) op alternatieve manieren energie moet maken en dat dit leidt tot meer lactaatproductie.
 
 Laten we even een stapje terug doen en samen wat basiskennis herhalen voordat we verder dieper op het geval inzoomen. Zo kunnen we straks nog beter analyseren wat er precies gebeurt bij deze patiënte. Heb je vragen of onduidelijkheden tot nu toe?
 
-Zo niet, mag ik je vragen: weet je wat glycolyse is, of kun je kort uitleggen wat daar met glucose gebeurt?"
-"user","Glycose wordt met veel enzymen veranderd in 2 pyrodruivenzuur"
+Zo niet, mag ik je vragen: weet je wat glycolyse is, of kun je kort uitleggen wat daar met glucose gebeurt?","2025-09-29T16:17:07.335655+00:00"
+"user","Glycose wordt met veel enzymen veranderd in 2 pyrodruivenzuur","2025-09-29T16:17:42.16647+00:00"
 "assistant","Klopt! Glycolyse is het proces waarbij één glucosemolecuul, via meerdere enzymatische stappen, wordt omgezet in twee pyrodruivenzuur (pyruvaat) moleculen. Hierbij komt een beetje ATP en NADH vrij.
 
-Wil je ook kort benoemen wat er normaal met pyruvaat gebeurt als er genoeg zuurstof (O₂) in de cel aanwezig is, en wat er gebeurt als er onvoldoende zuurstof beschikbaar is?"
-"user","Dan gaat het verder naar de citroenzuurcyclus en wordt het eerst acetyl-coA en dan gaat het verder meer atp maken, als er niet genoeg zuurstof is gaat het een anaerobe reactie en dat creëert dan meer lactate en ook NAD"
+Wil je ook kort benoemen wat er normaal met pyruvaat gebeurt als er genoeg zuurstof (O₂) in de cel aanwezig is, en wat er gebeurt als er onvoldoende zuurstof beschikbaar is?","2025-09-29T16:18:02.123473+00:00"
+"user","Dan gaat het verder naar de citroenzuurcyclus en wordt het eerst acetyl-coA en dan gaat het verder meer atp maken, als er niet genoeg zuurstof is gaat het een anaerobe reactie en dat creëert dan meer lactate en ook NAD","2025-09-29T16:20:18.742026+00:00"
 "assistant","Heel goed! Je legt al mooi uit dat pyruvaat in aanwezigheid van zuurstof via acetyl-CoA de citroenzuurcyclus (Krebs-cyclus) in gaat en dat er dan veel meer ATP gevormd kan worden. Ook geef je aan dat bij een tekort aan zuurstof (of als de aerobe route geblokkeerd is), pyruvaat wordt omgezet in lactaat en dat daarbij NAD⁺ wordt geregenereerd.
 
-Nog een vraag: weet je wat glycogenolyse is en welke rol het speelt in het op peil houden van de bloedglucose?"
-"user","Glycogenolyse is het afbraak van glycogen naar suikers waardoor er weer suiker vrijkomt in het bloed"
+Nog een vraag: weet je wat glycogenolyse is en welke rol het speelt in het op peil houden van de bloedglucose?","2025-09-29T16:20:30.02806+00:00"
+"user","Glycogenolyse is het afbraak van glycogen naar suikers waardoor er weer suiker vrijkomt in het bloed","2025-09-29T16:22:00.373815+00:00"
 "assistant","Precies, dat is helemaal correct! Glycogenolyse zorgt voor de afbraak van glycogeen tot glucose, zodat het lichaam tussen maaltijden snel weer glucose aan het bloed kan toevoegen.
 
-Voor we verder gaan: heb je vragen over glycolyse, glycogenolyse, of over het verschil tussen aerobe en anaerobe afbraak van glucose? Of zal ik kort iets vertellen over de rol van de Cori-cyclus bij het verwerken van lactaat?"
-"user","Nee"
+Voor we verder gaan: heb je vragen over glycolyse, glycogenolyse, of over het verschil tussen aerobe en anaerobe afbraak van glucose? Of zal ik kort iets vertellen over de rol van de Cori-cyclus bij het verwerken van lactaat?","2025-09-29T16:22:09.013404+00:00"
+"user","Nee","2025-09-29T16:22:17.214471+00:00"
 "assistant","Prima! Laten we dan verder gaan met het toepassen van deze kennis op de casus.
 
 Hier is de casus opnieuw:
@@ -52,21 +52,21 @@ Een 3-jarig meisje met GSD komt bij de dokter omdat ze erg prikkelbaar is en haa
 
 ---
 
-Kun je nu met de kennis die je net hebt herhaald uitleggen wat er in deze casus gebeurt?"
-"user","Het lichaam kan geen glycogelyse doen omdat het niet die enzym heeft om het te doen waardoor de bloed glucose niveau veel te laag is voor het lichaam, en om nog een beetje energie te maken probeert het lichaam nog wat energie te maken met anaerobe reactie"
+Kun je nu met de kennis die je net hebt herhaald uitleggen wat er in deze casus gebeurt?","2025-09-29T16:22:36.122347+00:00"
+"user","Het lichaam kan geen glycogelyse doen omdat het niet die enzym heeft om het te doen waardoor de bloed glucose niveau veel te laag is voor het lichaam, en om nog een beetje energie te maken probeert het lichaam nog wat energie te maken met anaerobe reactie","2025-09-29T16:24:42.342707+00:00"
 "assistant","Goed uitgelegd! Je benoemt dat het lichaam door een enzymdefect geen glycogenolyse kan uitvoeren, waardoor de bloedglucose te laag blijft. En dat het lichaam dan via anaerobe processen als alternatief energie probeert te maken.
 
-Waarom denk je dat juist het lactaat zo sterk verhoogd raakt bij deze patiënt? Kun je je uitleg hier nog iets verder aanvullen met wat er met het gevormde pyruvaat gebeurt als glycogenolyse niet lukt en glucosevoorraad erg laag is?"
-"user","Het gevormde pyruvaat kan niet meer omgezet worden om meer energie te maken dus het lichaam gaat pyruvaat omzetten in lactaat vandaar ook de hoge waardes"
+Waarom denk je dat juist het lactaat zo sterk verhoogd raakt bij deze patiënt? Kun je je uitleg hier nog iets verder aanvullen met wat er met het gevormde pyruvaat gebeurt als glycogenolyse niet lukt en glucosevoorraad erg laag is?","2025-09-29T16:24:53.929002+00:00"
+"user","Het gevormde pyruvaat kan niet meer omgezet worden om meer energie te maken dus het lichaam gaat pyruvaat omzetten in lactaat vandaar ook de hoge waardes","2025-09-29T16:26:14.516327+00:00"
 "assistant","Mooi beredeneerd, dat klopt! Door gebrek aan glucose en (indirect) onvoldoende aanvoer van pyruvaat voor de citroenzuurcyclus (en/of omdat de energiebehoefte op andere manieren niet wordt gehaald), wordt het pyruvaat omgezet in lactaat. Hierdoor zie je zo’n duidelijke verhoging van het lactaat in het bloed.
 
 Om nog wat dieper te kijken:  
-Welke alternatieve routes probeert het lichaam hier verder te activeren om toch aan glucose of energie te komen? En waarom zijn deze alternatieven ook beperkt in deze situatie?"
-"user","Het zou vetten gebrand kunnen hebben, maar dat is nu niet aan de hand want er zitten niet voldoende ketonen in het lichaam"
+Welke alternatieve routes probeert het lichaam hier verder te activeren om toch aan glucose of energie te komen? En waarom zijn deze alternatieven ook beperkt in deze situatie?","2025-09-29T16:26:24.599565+00:00"
+"user","Het zou vetten gebrand kunnen hebben, maar dat is nu niet aan de hand want er zitten niet voldoende ketonen in het lichaam","2025-09-29T16:27:42.19478+00:00"
 "assistant","Goede observatie! Je merkt terecht op dat het lichaam bij langere periodes van energietekort vetten kan gaan verbranden (vetzuuroxidatie), waarbij ketonen gevormd worden. Maar in deze casus zijn ketonen níet verhoogd.
 
-Kun je bedenken wat dat zegt over de werking van alternatieve energiepaden, zoals gluconeogenese, en waarom deze bij een GSD minder goed werken? Wat heeft het lichaam daarvoor nodig, en welke verbinding met lactaat is hier belangrijk?"
-"user","Bij gluconeogenese wordt er energie gebruikt om een koolhydraat naar suiker te veranderen en om die energie te maken gebruikt het de anaerobe reactie om energie te maken"
+Kun je bedenken wat dat zegt over de werking van alternatieve energiepaden, zoals gluconeogenese, en waarom deze bij een GSD minder goed werken? Wat heeft het lichaam daarvoor nodig, en welke verbinding met lactaat is hier belangrijk?","2025-09-29T16:27:52.345515+00:00"
+"user","Bij gluconeogenese wordt er energie gebruikt om een koolhydraat naar suiker te veranderen en om die energie te maken gebruikt het de anaerobe reactie om energie te maken","2025-09-29T16:29:14.334687+00:00"
 "assistant","Je hebt het goed dat gluconeogenese (de aanmaak van nieuwe glucose) juist energie kost, in plaats van oplevert! En inderdaad, voor die energie is ATP nodig, wat in dit geval vooral via anaerobe afbraak van glucose (glycolyse naar lactaat) gemaakt wordt. 
 
-Maar kun je bedenken waarom gluconeogenese in deze situatie niet goed genoeg werkt, ondanks dat lactaat beschikbaar is? Wat is er bij een GSD precies mis met de koppeling tussen lactaat (dat via de Cori-cyclus uit de spieren komt) en het opnieuw vormen van glucose in de lever?"
+Maar kun je bedenken waarom gluconeogenese in deze situatie niet goed genoeg werkt, ondanks dat lactaat beschikbaar is? Wat is er bij een GSD precies mis met de koppeling tussen lactaat (dat via de Cori-cyclus uit de spieren komt) en het opnieuw vormen van glucose in de lever?","2025-09-29T16:29:25.258074+00:00"

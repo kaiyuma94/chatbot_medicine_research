@@ -1,5 +1,5 @@
-"role","content"
-"user","Ik ben klaar om te beginnen"
+"role","content","created_at"
+"user","Ik ben klaar om te beginnen","2025-09-29T16:16:29.54353+00:00"
 "assistant","Mooi! Hier is de eerste casus om mee te starten:
 
 ###VIGNETTE 1###
@@ -10,8 +10,8 @@ Een meisje van 3 jaar met GSD komt bij de arts omdat ze erg prikkelbaar is en ee
 - Bloedketonen: Negatief (normaal negatief)
 - Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun jij uitleggen wat er in deze casus gebeurt?"
-"user","Ik ben klaar om te beginnen"
+Kun jij uitleggen wat er in deze casus gebeurt?","2025-09-29T16:16:53.097183+00:00"
+"user","Ik ben klaar om te beginnen","2025-09-29T16:17:02.06287+00:00"
 "assistant","Helemaal goed! Hier volgt nogmaals de casus:
 
 Het lichaam slaat glucose op in de vorm van glycogeen, vooral in de lever en spieren, om te gebruiken als er energie nodig is—vooral tussen maaltijden door of tijdens inspanning.  
@@ -21,8 +21,8 @@ Een meisje van 3 jaar met GSD komt bij de arts omdat ze erg prikkelbaar is en ee
 - Bloedketonen: Negatief (normaal negatief)
 - Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun jij uitleggen wat er in deze casus gebeurt?"
-"user","Ik ben klaar om te beginnen"
+Kun jij uitleggen wat er in deze casus gebeurt?","2025-09-29T16:17:19.345107+00:00"
+"user","Ik ben klaar om te beginnen","2025-09-29T16:17:34.177248+00:00"
 "assistant","Prima, we gaan van start! Hier volgt de casus nogmaals:
 
 Het lichaam slaat glucose op in de vorm van glycogeen, vooral in de lever en spieren, om te gebruiken als er energie nodig is—vooral tussen maaltijden door of tijdens inspanning.  
@@ -32,30 +32,30 @@ Een meisje van 3 jaar met GSD komt bij de arts omdat ze erg prikkelbaar is en ee
 - Bloedketonen: Negatief (normaal negatief)
 - Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun jij uitleggen wat er in deze casus gebeurt?"
-"user","Ze heeft een te lage bloedsuikerspiegel en een te hoge lactaatspiegel omdat de glycogeen die opgeslagen is in haar lever niet omgezet kan worden in glucose"
+Kun jij uitleggen wat er in deze casus gebeurt?","2025-09-29T16:17:50.616135+00:00"
+"user","Ze heeft een te lage bloedsuikerspiegel en een te hoge lactaatspiegel omdat de glycogeen die opgeslagen is in haar lever niet omgezet kan worden in glucose","2025-09-29T16:19:45.853064+00:00"
 "assistant","Goede poging! Voordat we verder gaan, laten we even een stap terug doen en samen wat basiskennis ophalen. Dat helpt om straks nog beter te snappen wat er aan de hand is in deze casus. Heb je op dit moment ergens vragen of onduidelijkheden over?
 
-Om te beginnen: wat weet je van glycolyse? Of wil je liever herhalen hoe glycogeenafbraak (glycogenolyse) normaal gesproken verloopt? Je mag het zelf kiezen of eventueel zelf een vraag stellen!"
-"user","Ja"
+Om te beginnen: wat weet je van glycolyse? Of wil je liever herhalen hoe glycogeenafbraak (glycogenolyse) normaal gesproken verloopt? Je mag het zelf kiezen of eventueel zelf een vraag stellen!","2025-09-29T16:19:53.891161+00:00"
+"user","Ja","2025-09-29T16:20:25.647209+00:00"
 "assistant","Prima! Waar zou je graag mee willen beginnen: een korte herhaling van glycolyse, van glycogenolyse, of heb je een andere vraag over dit onderwerp?
 
-Laat vooral weten waar je behoefte aan hebt, of vertel wat je al weet over bijvoorbeeld glycolyse. Zo bouwen we samen je kennis op!"
-"user","begin maar met de glycolyse"
+Laat vooral weten waar je behoefte aan hebt, of vertel wat je al weet over bijvoorbeeld glycolyse. Zo bouwen we samen je kennis op!","2025-09-29T16:20:31.781669+00:00"
+"user","begin maar met de glycolyse","2025-09-29T16:20:45.368996+00:00"
 "assistant","Goed idee! Even kort en overzichtelijk:
 
 Glycolyse is het proces waarbij één molecuul glucose wordt afgebroken tot twee moleculen pyruvaat, met als opbrengst een kleine hoeveelheid ATP en NADH. Dit proces vindt plaats in het cytoplasma van de cel.
 
-Weet je welke hoofdproducten er vrijkomen (denk aan ATP, NADH, pyruvaat)? En wat heb je nodig als ""input"" voor de glycolyse? Wil je dat eens proberen op te sommen?"
-"user","er ontstaan 2 pyruvaat moleculen, ATP en nog iets"
+Weet je welke hoofdproducten er vrijkomen (denk aan ATP, NADH, pyruvaat)? En wat heb je nodig als ""input"" voor de glycolyse? Wil je dat eens proberen op te sommen?","2025-09-29T16:20:55.106706+00:00"
+"user","er ontstaan 2 pyruvaat moleculen, ATP en nog iets","2025-09-29T16:22:23.095576+00:00"
 "assistant","Heel goed! Je noemt al pyruvaat en ATP. Er ontstaat inderdaad ook ""nog iets"". Heb je misschien een idee welke energie-dragende molecule (behalve ATP) ontstaat bij glycolyse? 
 
-En weet je hoeveel ATP glycolyse netto oplevert per glucosemolecuul?"
-"user","CO2?"
+En weet je hoeveel ATP glycolyse netto oplevert per glucosemolecuul?","2025-09-29T16:22:30.479737+00:00"
+"user","CO2?","2025-09-29T16:22:36.362373+00:00"
 "assistant","Goede poging! Maar bij glycolyse zelf ontstaat er géén CO₂. Heb je enig idee in welke fase van de energiehuishouding wél CO₂ gevormd wordt?
 
-En als je nog eens nadenkt: naast ATP ontstaat er bij glycolyse nog een gereduceerd co-enzym dat belangrijk is voor de volgende stappen in de stofwisseling. Weet je welke dat is? Misschien herken je het aan de afkorting NADH?"
-"user","melkzuur?"
+En als je nog eens nadenkt: naast ATP ontstaat er bij glycolyse nog een gereduceerd co-enzym dat belangrijk is voor de volgende stappen in de stofwisseling. Weet je welke dat is? Misschien herken je het aan de afkorting NADH?","2025-09-29T16:22:44.948644+00:00"
+"user","melkzuur?","2025-09-29T16:23:04.210555+00:00"
 "assistant","Dat is een begrijpelijke gedachte! Melkzuur (lactaat) kan inderdaad gevormd worden, maar pas als pyruvaat – het eindproduct van glycolyse – verder wordt omgezet wanneer er weinig zuurstof is (anaeroob). 
 
 Tijdens de glycolyse zelf ontstaat dus:
@@ -63,22 +63,22 @@ Tijdens de glycolyse zelf ontstaat dus:
 - 2 (netto) ATP
 - 2 NADH
 
-Dus NADH is het co-enzym dat ik bedoelde. Is dat duidelijk nu? Zou je kort kunnen omschrijven wat het verschil is tussen glycolyse onder aerobe en anaerobe omstandigheden?"
-"user","Ja, glycolyse onder aerobe omstandigheden dan is het in aanwezigheid met zuurstof, anaerobe omstandigheden, dan is er geen zuurstof"
+Dus NADH is het co-enzym dat ik bedoelde. Is dat duidelijk nu? Zou je kort kunnen omschrijven wat het verschil is tussen glycolyse onder aerobe en anaerobe omstandigheden?","2025-09-29T16:23:15.393156+00:00"
+"user","Ja, glycolyse onder aerobe omstandigheden dan is het in aanwezigheid met zuurstof, anaerobe omstandigheden, dan is er geen zuurstof","2025-09-29T16:23:53.001094+00:00"
 "assistant","Precies, dat klopt!  
-Wil je proberen uit te leggen wat er dan met pyruvaat en NADH gebeurt bij aerobe omstandigheden, en wat er gebeurt onder anaerobe omstandigheden? Wat doen de cellen met deze stoffen in beide gevallen?"
-"user","onder aerobe omstandigheden ontstaat er CoA-acetaat en nog iets en gaat dat de citroenzuurcyclus in, wanneer het anaeroob is gebeurt er iets waardoor er melkzuur ontstaat ipv ATP"
+Wil je proberen uit te leggen wat er dan met pyruvaat en NADH gebeurt bij aerobe omstandigheden, en wat er gebeurt onder anaerobe omstandigheden? Wat doen de cellen met deze stoffen in beide gevallen?","2025-09-29T16:23:58.359629+00:00"
+"user","onder aerobe omstandigheden ontstaat er CoA-acetaat en nog iets en gaat dat de citroenzuurcyclus in, wanneer het anaeroob is gebeurt er iets waardoor er melkzuur ontstaat ipv ATP","2025-09-29T16:25:00.113683+00:00"
 "assistant","Je bent op de goede weg! Laat me je redenering aanvullen: bij voldoende zuurstof (aeroob) wordt pyruvaat omgezet in acetyl-CoA, en dat gaat de citroenzuurcyclus (Krebs-cyclus) in. Daarbij wordt NADH gebruikt in de mitochondriën voor de productie van veel ATP via oxidatieve fosforylering.
 
 Bij weinig zuurstof (anaeroob) wordt pyruvaat omgezet in lactaat (melkzuur), en op die manier wordt NADH weer omgezet in NAD+, zodat glycolyse kan doorgaan. Er wordt dan veel minder ATP gevormd, alleen uit glycolyse.
 
-Wil je nog kort benoemen waar in de cel glycolyse, de citroenzuurcyclus en oxidatieve fosforylering plaatsvinden? En weet je ook waarom het belangrijk is dat NAD+ wordt geregenereerd bij anaerobe glycolyse?"
-"user","glycolyse in het cytosol en citroenzuurcyclus in de matrix en oxidatieve fosforylering erbuiten"
+Wil je nog kort benoemen waar in de cel glycolyse, de citroenzuurcyclus en oxidatieve fosforylering plaatsvinden? En weet je ook waarom het belangrijk is dat NAD+ wordt geregenereerd bij anaerobe glycolyse?","2025-09-29T16:25:15.091099+00:00"
+"user","glycolyse in het cytosol en citroenzuurcyclus in de matrix en oxidatieve fosforylering erbuiten","2025-09-29T16:26:19.66452+00:00"
 "assistant","Heel goed! Glycolyse vindt inderdaad plaats in het cytosol en de citroenzuurcyclus in de mitochondriale matrix. Oxidatieve fosforylering vindt plaats in het binnenmembraan van de mitochondriën, ofwel aan het binnenste membraanoppervlak.
 
-Wil je nog kort uitleggen waarom NAD+ regeneratie zo belangrijk is bij anaerobe glycolyse? Waarom kan glycolyse niet doorgaan als NAD+ opraakt?"
-"user","Geen idee"
-"user","Kan je het me uitleggen?"
+Wil je nog kort uitleggen waarom NAD+ regeneratie zo belangrijk is bij anaerobe glycolyse? Waarom kan glycolyse niet doorgaan als NAD+ opraakt?","2025-09-29T16:26:27.545712+00:00"
+"user","Geen idee","2025-09-29T16:26:36.192834+00:00"
+"user","Kan je het me uitleggen?","2025-09-29T16:28:53.576575+00:00"
 "assistant","Zeker! Stel je voor:  
 Tijdens glycolyse (de afbraak van glucose naar pyruvaat) gebruikt het lichaam het molecuul NAD+ om elektronen op te vangen. NAD+ wordt daardoor NADH. Je hebt continu NAD+ nodig, anders stopt glycolyse.
 
@@ -90,4 +90,4 @@ Dus:
 - Zonder NAD+ stopt glycolyse helemaal, net als een lopende band zonder nieuwe bakjes.
 - Door pyruvaat om te zetten naar lactaat wordt NAD+ weer aangevuld.
 
-Wil je dit nog verder verduidelijkt hebben, of klinkt dit nu logisch?"
+Wil je dit nog verder verduidelijkt hebben, of klinkt dit nu logisch?","2025-09-29T16:29:14.949208+00:00"

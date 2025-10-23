@@ -1,5 +1,5 @@
-"role","content"
-"user","ik ben er klaar voor"
+"role","content","created_at"
+"user","ik ben er klaar voor","2025-09-29T16:12:21.697647+00:00"
 "assistant","###VIGNETTE 1###
 Het lichaam slaat glucose op als glycogeen, vooral in de lever en spieren, om het te gebruiken wanneer energie nodig is—vooral tussen maaltijden of tijdens inspanning. 
 Bij Glycogeenstapelingsziekten (GSD’s) is dit proces gestoord door een erfelijk enzymdefect. Hierdoor kan het lichaam moeilijk een normale bloedglucosewaarde handhaven, vooral tijdens vasten. Om te compenseren activeert het alternatieve metabole routes. Maar bij GSD's zijn alternatieven, zoals de Cori-cyclus, beperkt effectief. 
@@ -8,28 +8,28 @@ Bloedglucose: 45 mg/dL (norm: 70–110 mg/dL)
 Bloedketonen: negatief (normaal negatief)
 Lactaat: 4,2 mmol/L (norm: 0,5–2,0 mmol/L)
 
-**Kun je uitleggen wat er in dit geval is gebeurd?**"
-"user","de glycogeen in de lever stapelt op (vandaar opzwelling en vergrote lever) en word niet omgezet naar glucose waardoor de bloedglucose waarde lager is dan de norm en gaat het lichaam over naar anaerobe assimilaties (ontstaat lactaat door) waardoor de lactaat verhoogd is"
+**Kun je uitleggen wat er in dit geval is gebeurd?**","2025-09-29T16:12:37.273814+00:00"
+"user","de glycogeen in de lever stapelt op (vandaar opzwelling en vergrote lever) en word niet omgezet naar glucose waardoor de bloedglucose waarde lager is dan de norm en gaat het lichaam over naar anaerobe assimilaties (ontstaat lactaat door) waardoor de lactaat verhoogd is","2025-09-29T16:14:13.333744+00:00"
 "assistant","Goede poging! Je hebt al een aantal belangrijke punten genoemd. Voordat we verdergaan, laten we even samen terugkijken naar de basis van energie metabolisme – dit legt een goede fundering voor onze analyse straks. Heb je vragen of onduidelijkheden tot nu toe? Zijn er onderdelen van glycogenolyse, glycolyse, of bijvoorbeeld het verschil tussen anaeroob en aeroob metabolisme waar je meer uitleg over wilt? 
 
-Zo niet, kun je mij uitleggen wat je weet over glycolyse?"
-"user","glycolyse is het omzetten van glucose naar pyrodruivenzuur"
+Zo niet, kun je mij uitleggen wat je weet over glycolyse?","2025-09-29T16:14:26.003574+00:00"
+"user","glycolyse is het omzetten van glucose naar pyrodruivenzuur","2025-09-29T16:15:13.403377+00:00"
 "assistant","Dat klopt! Glycolyse is inderdaad het proces waarbij glucose wordt omgezet in pyrodruivenzuur (ook wel pyruvaat genoemd). Dit proces vindt plaats in het cytoplasma van de cel.
 
-Kun je nog vertellen of er tijdens glycolyse energie of andere stoffen worden gevormd? Wat zijn de producten van glycolyse behalve pyruvaat?"
-"user","er word 2 netto atp gevormd en verder weet ik het niet uit mijn hoofd"
+Kun je nog vertellen of er tijdens glycolyse energie of andere stoffen worden gevormd? Wat zijn de producten van glycolyse behalve pyruvaat?","2025-09-29T16:15:20.066763+00:00"
+"user","er word 2 netto atp gevormd en verder weet ik het niet uit mijn hoofd","2025-09-29T16:15:52.586351+00:00"
 "assistant","Goed dat je de netto 2 ATP benoemt! Naast ATP wordt er bij glycolyse ook NADH gevormd. NADH speelt een belangrijke rol als elektronendrager in het celmetabolisme.
 
-Nu even een korte check: weet je wat er verder gebeurt met pyruvaat als er wél voldoende zuurstof aanwezig is? Oftewel: kun jij het verschil uitleggen tussen de route van pyruvaat bij aerobe en anaerobe omstandigheden?"
-"user","bij aerobe (dus met zuurstof) gaat het pyruvaat door naar het citroencyclus"
+Nu even een korte check: weet je wat er verder gebeurt met pyruvaat als er wél voldoende zuurstof aanwezig is? Oftewel: kun jij het verschil uitleggen tussen de route van pyruvaat bij aerobe en anaerobe omstandigheden?","2025-09-29T16:16:04.548216+00:00"
+"user","bij aerobe (dus met zuurstof) gaat het pyruvaat door naar het citroencyclus","2025-09-29T16:16:31.279247+00:00"
 "assistant","Precies, bij aanwezigheid van zuurstof wordt pyruvaat omgezet in acetyl-CoA en gaat het de citroenzuurcyclus (Krebs-cyclus) in, wat plaatsvindt in de mitochondriën. Hieruit komen meer energierijke moleculen als NADH en FADH2 voort, die weer gebruikt worden voor de oxidatieve fosforylering waar veel ATP wordt gemaakt.
 
-En weet je wat er met pyruvaat gebeurt als er géén zuurstof aanwezig is? Wat is dan het uiteindelijke product?"
-"user","dan vind er gisting of het vormen van melkzuur/lactaat plaats"
+En weet je wat er met pyruvaat gebeurt als er géén zuurstof aanwezig is? Wat is dan het uiteindelijke product?","2025-09-29T16:16:41.040053+00:00"
+"user","dan vind er gisting of het vormen van melkzuur/lactaat plaats","2025-09-29T16:17:06.967102+00:00"
 "assistant","Helemaal goed! Zonder zuurstof wordt pyruvaat omgezet in lactaat (melkzuur), zodat NAD+ geregenereerd kan worden. Dit proces noemen we anaerobe glycolyse, en dankzij deze regeneratie kan de glycolyse blijven doorgaan, zelfs zonder zuurstof.
 
-Laatste vraagje voor deze kennisreview: Kun je kort aangeven wat glycogenolyse inhoudt en wat het belang ervan is voor de bloedsuikerspiegel, zeker tussen de maaltijden door?"
-"user","glycogenolyse houdt in het omzetten van glycose naar glycogeen zodat het kan bewaard worden in de lever (en andere plekken) dit zorgt ervoor dat er een voorraadt is van glucose zodat je niet constant hoeft te blijven eten (voorraad glucose omdat glycogeen weer omgezet kan worden naar glucose)"
+Laatste vraagje voor deze kennisreview: Kun je kort aangeven wat glycogenolyse inhoudt en wat het belang ervan is voor de bloedsuikerspiegel, zeker tussen de maaltijden door?","2025-09-29T16:17:24.923814+00:00"
+"user","glycogenolyse houdt in het omzetten van glycose naar glycogeen zodat het kan bewaard worden in de lever (en andere plekken) dit zorgt ervoor dat er een voorraadt is van glucose zodat je niet constant hoeft te blijven eten (voorraad glucose omdat glycogeen weer omgezet kan worden naar glucose)","2025-09-29T16:18:56.549441+00:00"
 "assistant","Je zit in de buurt! Glycogenolyse betekent juist het afbreken van glycogeen tot glucose (en niet het vormen van glycogeen uit glucose, dat is glycogenese). Door glycogenolyse kan het lichaam, vooral tussen maaltijden door, snel glucose vrijmaken uit de glycogeenvoorraad in de lever en spieren om de bloedglucosewaarde op peil te houden.
 
 Nu denk ik dat we de kern goed hebben opgefrist! Laten we deze kennis toepassen op het klinische geval.
@@ -42,16 +42,16 @@ Bloedglucose: 45 mg/dL (norm: 70–110 mg/dL)
 Bloedketonen: negatief (normaal negatief)
 Lactaat: 4,2 mmol/L (norm: 0,5–2,0 mmol/L)
 
-Nu, kun je met de kennis die we net hebben herhaald uitleggen wat er bij dit meisje allemaal gebeurt?"
-"user","bij het meisje vindt er geen glycogenolyse plaats door haar aandoening waardoor de glucose dat is omgezet naar glycogeen niet meer omgezet word naar glucose om te gebruiken. hierdoor stapelt het glycogeen op in de lever. omdat er geen glucose bijkomt daalt het bloedglucose waarde en gaat het lichaam over naar andere vormen van energie maken. hij gaat over naar het vormen van lactaat waardoor dit verhoogt is"
+Nu, kun je met de kennis die we net hebben herhaald uitleggen wat er bij dit meisje allemaal gebeurt?","2025-09-29T16:19:19.543527+00:00"
+"user","bij het meisje vindt er geen glycogenolyse plaats door haar aandoening waardoor de glucose dat is omgezet naar glycogeen niet meer omgezet word naar glucose om te gebruiken. hierdoor stapelt het glycogeen op in de lever. omdat er geen glucose bijkomt daalt het bloedglucose waarde en gaat het lichaam over naar andere vormen van energie maken. hij gaat over naar het vormen van lactaat waardoor dit verhoogt is","2025-09-29T16:21:20.145474+00:00"
 "assistant","Je analyse is al heel goed op weg! Je benoemt het gebrek aan glycogenolyse, de opstapeling van glycogeen in de lever, de daling van de bloedglucose en het toenemen van lactaatproductie door alternatieve energieproductie.
 
 Zullen we dit samen nog een stap verder uitwerken? Bijvoorbeeld:
 - Waarom zou het lichaam in deze situatie niet goed kunnen overschakelen naar vetverbranding (waar ketonen bij horen)? 
 - En hoe speelt de Cori-cyclus een rol bij het omgaan met teveel lactaat? 
 
-Wil je proberen deze stap af te maken, of heb je hulp nodig met één van deze vragen?"
-"user","hulp met beide vragen"
+Wil je proberen deze stap af te maken, of heb je hulp nodig met één van deze vragen?","2025-09-29T16:21:30.576901+00:00"
+"user","hulp met beide vragen","2025-09-29T16:21:48.424945+00:00"
 "assistant","Natuurlijk, laten we ze samen stapsgewijs aanpakken.
 
 1. **Waarom maakt het lichaam hier geen (of nauwelijks) ketonen aan?**
@@ -64,8 +64,8 @@ Wil je proberen deze stap af te maken, of heb je hulp nodig met één van deze v
 
    Kun je uitleggen waarom, als de gluconeogenese in de lever niet werkt, het lactaat dan blijft stijgen in het bloed?
 
-Probeer de stappen aan te vullen!"
-"user","ik weet het niet leg het me uit"
+Probeer de stappen aan te vullen!","2025-09-29T16:22:08.585154+00:00"
+"user","ik weet het niet leg het me uit","2025-09-29T16:23:39.738676+00:00"
 "assistant","Dat is helemaal oké—deze stof is best lastig! Laten we samen stap voor stap kijken:
 
 1. **Ketonvorming**  
@@ -74,12 +74,12 @@ Normaal gesproken, als glucose schaars is, maakt het lichaam energie uit vetzure
 2. **De Cori-cyclus en lactaat**  
 Bij anaerobe glycolyse ontstaat veel lactaat in weefsels die weinig zuurstof hebben (zoals spieren). Normaal gaat dit lactaat naar de lever, waar het via gluconeogenese weer terug omgezet wordt naar glucose. Maar: als die route in de lever niet werkt (zoals bij een GSD), hoopt het lactaat zich op in het bloed.
 
-Wil je proberen (in je eigen woorden) uit te leggen waarom een leverprobleem bij GSD leidt tot een opstapeling van lactaat in het bloed? Wat verhindert daar de normale afvoer van lactaat?"
-"user","de glycogeen die optstapelt in de lever zorgt ervoor dat de lactaat geen ruimte heeft in de lever om daat omgezet te worden"
+Wil je proberen (in je eigen woorden) uit te leggen waarom een leverprobleem bij GSD leidt tot een opstapeling van lactaat in het bloed? Wat verhindert daar de normale afvoer van lactaat?","2025-09-29T16:23:56.328681+00:00"
+"user","de glycogeen die optstapelt in de lever zorgt ervoor dat de lactaat geen ruimte heeft in de lever om daat omgezet te worden","2025-09-29T16:24:46.303624+00:00"
 "assistant","Dat is een creatieve benadering! Je denkt goed na over het effect van opstapeling in de lever. De kern is echter dat bij een bepaalde GSD het enzym óf de routes in de lever niet werken om lactaat om te zetten in glucose. Dus: het lactaat komt wel naar de lever via de Cori-cyclus, maar wordt daar niet afgebroken of omgezet door het enzymdefect of blokkade in de gluconeogenese. Daarom blijft lactaat ophopen in het bloed.
 
-Wil je proberen deze uitleg in je eigen woorden te formuleren? Waarom stijgt lactaat als de gluconeogenese via de Cori-cyclus niet functioneert?"
-"user","omdat het lactaat niet omgezet word stapelt het op in de bloed"
+Wil je proberen deze uitleg in je eigen woorden te formuleren? Waarom stijgt lactaat als de gluconeogenese via de Cori-cyclus niet functioneert?","2025-09-29T16:24:58.498369+00:00"
+"user","omdat het lactaat niet omgezet word stapelt het op in de bloed","2025-09-29T16:25:16.981158+00:00"
 "assistant","Precies, dat klopt! Als de gluconeogenese in de lever niet goed werkt (door het enzymdefect bij GSD), kan lactaat niet meer omgezet worden in glucose. Hierdoor blijft het lactaat in het bloed en hoopt zich op.
 
 Nu je dit begrijpt, laten we afronden met een oefenvraag:
@@ -92,8 +92,8 @@ Bloedglucose: 45 mg/dL (norm: 70–110 mg/dL)
 Bloedketonen: negatief (normaal negatief)
 Lactaat: 4,2 mmol/L (norm: 0,5–2,0 mmol/L)
 
-**Hoe begrijp jij nu de oorzaken achter deze klinische bevindingen? Schrijf alles op wat je kunt bedenken — je ideeën, redeneringen en de verbanden met wat je geleerd hebt. Hoe vollediger, hoe beter!**"
-"user","alles wat ik eerder heb gezegd is alles dat ik kan bedenken"
+**Hoe begrijp jij nu de oorzaken achter deze klinische bevindingen? Schrijf alles op wat je kunt bedenken — je ideeën, redeneringen en de verbanden met wat je geleerd hebt. Hoe vollediger, hoe beter!**","2025-09-29T16:25:37.745803+00:00"
+"user","alles wat ik eerder heb gezegd is alles dat ik kan bedenken","2025-09-29T16:26:01.552099+00:00"
 "assistant","Dankjewel voor het delen van je uitleg en je denkstappen! Je hebt goed laten zien hoe je de stof toepast op het klinisch probleem. 
 
 Nu kijken we of je deze kennis kunt toepassen op een nieuwe casus:
@@ -105,15 +105,15 @@ Bloedglucose: 55 mg/dL (norm: 70–110 mg/dL)
 Bloedketonen: positief (normaal negatief)
 Lactaat: 2,8 mmol/L (norm: 0,5–2,0 mmol/L)
 
-Kun je de bloedwaarden van deze jongen uitleggen en waarom hij zich zo zwak voelt?"
-"user","metabole acidose"
+Kun je de bloedwaarden van deze jongen uitleggen en waarom hij zich zo zwak voelt?","2025-09-29T16:26:19.23591+00:00"
+"user","metabole acidose","2025-09-29T16:26:34.756696+00:00"
 "assistant","Interessant dat je metabole acidose noemt! Die term verwijst naar een verzuring van het bloed, meestal gemeten via een verlaagde pH. In dit geval zijn er inderdaad aanwijzingen voor een verhoogd melkzuur (lactaat) en ketonen, wat bij zou kunnen dragen aan een acidose. Maar laten we het nog iets specifieker maken: 
 
 - Wat gebeurt er met de energievoorziening na vier dagen vasten, als de glycogeenvoorraden op zijn?
 - Welke metabole routes zijn dan vooral actief, en welke energiedragers worden er geproduceerd?
 - Waarom ontstaan er ketonen tijdens langdurig vasten?
 
-Probeer een van deze deelvragen te beantwoorden!"
+Probeer een van deze deelvragen te beantwoorden!","2025-09-29T16:26:45.389882+00:00"
 "assistant","**1. Identificeer de leercontext en rollen**  
 Dit betreft een medische bijles of toetsvoorbereiding (tutoring session) gericht op het begrijpen van stofwisselingsprocessen, vooral rond glycogeenstapelingsziekten (GSD) en vasten. De gebruiker is een student geneeskunde of biomedische wetenschappen; de assistent begeleidt, controleert kennis en bevordert klinisch redeneren. Deze feedback heeft als doel het leerproces van de gebruiker te ondersteunen en te verfijnen.
 
@@ -145,4 +145,4 @@ Dit betreft een medische bijles of toetsvoorbereiding (tutoring session) gericht
    **Hoe te implementeren:** Neem een moment om na elk antwoord te overdenken: “Wat heb ik nog niet verklaard?”, of probeer aan te geven wat je denkt dat een vervolgstap kan zijn in het ziekteproces.
 
 **Forward-looking guidance**  
-In het volgende gesprek kun je expliciet proberen elk antwoord op te bouwen uit meerdere stappen (oorzaak-proces-gevolg), en nadenken welke waarden of symptomen nog verder verklaard kunnen worden. Focus daarnaast op helder en volledig uitleggen van processen als reactie op klinische casussen, zelfs als het antwoord niet volledig voelt."
+In het volgende gesprek kun je expliciet proberen elk antwoord op te bouwen uit meerdere stappen (oorzaak-proces-gevolg), en nadenken welke waarden of symptomen nog verder verklaard kunnen worden. Focus daarnaast op helder en volledig uitleggen van processen als reactie op klinische casussen, zelfs als het antwoord niet volledig voelt.","2025-09-29T16:28:50.047+00:00"

@@ -1,5 +1,5 @@
-"role","content"
-"user","begin"
+"role","content","created_at"
+"user","begin","2025-09-29T16:54:39.636527+00:00"
 "assistant","Hier volgt de casus om te starten:
 
 ###VIGNETTE 1###
@@ -10,20 +10,20 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun je uitleggen wat er in dit geval gebeurt?"
-"user","ze moet een dieet volgen"
+Kun je uitleggen wat er in dit geval gebeurt?","2025-09-29T16:54:57.677445+00:00"
+"user","ze moet een dieet volgen","2025-09-29T16:55:08.868433+00:00"
 "assistant","Dat is een interessante gedachte! Inderdaad moeten patiënten met een glycogeenstapelingsziekte vaak hun dieet aanpassen, maar laten we de casus verder onderzoeken: waarom moet dit meisje eigenlijk haar dieet aanpassen? Wat is er mis in de energievoorziening van haar cellen?
 
 Voordat we doorgaan, is het goed om even een stap terug te doen en samen de basis te herhalen. Dit helpt om het vervolg beter te begrijpen! 
 
-Wat weet je van het proces glycogenolyse, oftewel het vrijmaken van glucose uit glycogeen? En heb je al eens gehoord van glycolyse of de functie van de Cori-cyclus? Zijn er thema’s die je nu al lastig vindt?"
-"user","glycolyse wordt niet meer omgezet in glucose, hierdoor zakt de bloedsuikerspiegel heel snel en moet je op bepaalde tijden eten en niet vasten"
+Wat weet je van het proces glycogenolyse, oftewel het vrijmaken van glucose uit glycogeen? En heb je al eens gehoord van glycolyse of de functie van de Cori-cyclus? Zijn er thema’s die je nu al lastig vindt?","2025-09-29T16:55:20.369393+00:00"
+"user","glycolyse wordt niet meer omgezet in glucose, hierdoor zakt de bloedsuikerspiegel heel snel en moet je op bepaalde tijden eten en niet vasten","2025-09-29T16:55:55.587348+00:00"
 "assistant","Je komt al een eind in de goede richting! Je zegt dat glycolyse niet meer wordt omgezet in glucose. Bedoel je misschien dat glycogeen niet goed kan worden omgezet in glucose doordat er een enzymmist is? 
 
 Zullen we kort de begrippen opfrissen?   
 
-Wat gebeurt er normaal als er geen voedsel beschikbaar is en je bloedsuiker daalt? Welke processen zorgt ervoor dat er tóch glucose in het bloed komt? Vind je het lastig om deze processen op te noemen, of weet je hier al iets van?"
-"user","dan wordt glycogeen omgezet in glucose waardoor de bloedsuikerspiegel weer stijgt"
+Wat gebeurt er normaal als er geen voedsel beschikbaar is en je bloedsuiker daalt? Welke processen zorgt ervoor dat er tóch glucose in het bloed komt? Vind je het lastig om deze processen op te noemen, of weet je hier al iets van?","2025-09-29T16:56:14.940876+00:00"
+"user","dan wordt glycogeen omgezet in glucose waardoor de bloedsuikerspiegel weer stijgt","2025-09-29T16:56:39.681916+00:00"
 "assistant","Precies, heel goed! Dus normaal gesproken zorgt **glycogenolyse** ervoor dat glycogeen (de opslagvorm van glucose in lever en spieren) wordt afgebroken tot losse glucosemoleculen, die dan de bloedbaan in kunnen gaan als er even geen voeding is.
 
 Misschien handig om nog even samen te vatten:
@@ -33,8 +33,8 @@ Misschien handig om nog even samen te vatten:
 
 Wil je nu iets meer weten over glycolyse of anaerobe/aerobe verbranding, of voel je je zeker over deze stappen? Geef gerust aan als er bepaalde dingen nog niet helder zijn. 
 
-Als dit duidelijk is, dan stel ik voor dat we doorpakken naar een andere basisvraag: weet je wat er met glucose gebeurt als het een cel binnenkomt? Weet je wat glycolyse precies inhoudt?"
-"user","glucose wordt opgenomen door het bloed. glycolyse is de afbraak van glycogeen naar glucose"
+Als dit duidelijk is, dan stel ik voor dat we doorpakken naar een andere basisvraag: weet je wat er met glucose gebeurt als het een cel binnenkomt? Weet je wat glycolyse precies inhoudt?","2025-09-29T16:56:52.148845+00:00"
+"user","glucose wordt opgenomen door het bloed. glycolyse is de afbraak van glycogeen naar glucose","2025-09-29T16:57:16.733726+00:00"
 "assistant","Goed dat je het probeert! Je haalt nu glycolyse en glycogenolyse een beetje door elkaar, dit is best verwarrend voor veel studenten in het begin.
 
 - **Glycogenolyse**: afbraak van glycogeen tot glucose (in lever en spier).
@@ -42,31 +42,31 @@ Als dit duidelijk is, dan stel ik voor dat we doorpakken naar een andere basisvr
 
 Dus nadat glucose via het bloed bij een cel komt, ondergaat het glycolyse. 
 
-Zou je willen proberen te beschrijven wat er bij glycolyse uit glucose ontstaat, of welke energieproducten dit oplevert? Denk je dat je bijvoorbeeld weet hoeveel ATP of NADH ermee gemaakt wordt? Of wil je liever dat ik dat kort toelicht?"
-"user","2 atp en 2 nadh"
+Zou je willen proberen te beschrijven wat er bij glycolyse uit glucose ontstaat, of welke energieproducten dit oplevert? Denk je dat je bijvoorbeeld weet hoeveel ATP of NADH ermee gemaakt wordt? Of wil je liever dat ik dat kort toelicht?","2025-09-29T16:57:28.379213+00:00"
+"user","2 atp en 2 nadh","2025-09-29T16:57:47.050477+00:00"
 "assistant","Helemaal goed! Tijdens de glycolyse levert één molecuul glucose inderdaad 2 ATP en 2 NADH op (naast 2 pyruvaatmoleculen).
 
-Nu nog een andere basis: weet je wat er vervolgens met pyruvaat (het eindproduct van glycolyse) gebeurt, zowel bij aanwezigheid van zuurstof (“aeroob”) als bij gebrek aan zuurstof (“anaeroob”)? Of zal ik dat kort toelichten?"
-"user","aeroob gaat het de citroenzuurcyclus in en anaeroob wordt het lactaat"
+Nu nog een andere basis: weet je wat er vervolgens met pyruvaat (het eindproduct van glycolyse) gebeurt, zowel bij aanwezigheid van zuurstof (“aeroob”) als bij gebrek aan zuurstof (“anaeroob”)? Of zal ik dat kort toelichten?","2025-09-29T16:57:58.097189+00:00"
+"user","aeroob gaat het de citroenzuurcyclus in en anaeroob wordt het lactaat","2025-09-29T16:58:15.756725+00:00"
 "assistant","Heel goed uitgelegd! Precies:  
 - **Aeroob:** pyruvaat wordt in de mitochondriën verder verwerkt via de citroenzuurcyclus (ook wel Krebs- of TCA-cyclus) en uiteindelijk is dat essentieel voor de vorming van veel ATP door oxidatieve fosforylering.  
 - **Anaeroob:** pyruvaat wordt in het cytoplasma omgezet in lactaat (melkzuur), wat vooral belangrijk is bij zuurstoftekort of wanneer de energiebehoefte tijdelijk heel hoog is.
 
-Nog één korte check: weet je wat er nodig is om glucose uit niet-koolhydraatbronnen te maken, als er langdurig geen voeding is? Hoe heet dat proces en waar vindt het voornamelijk plaats? Of is dat nieuw voor je?"
-"user","weet ik niet"
+Nog één korte check: weet je wat er nodig is om glucose uit niet-koolhydraatbronnen te maken, als er langdurig geen voeding is? Hoe heet dat proces en waar vindt het voornamelijk plaats? Of is dat nieuw voor je?","2025-09-29T16:58:29.231106+00:00"
+"user","weet ik niet","2025-09-29T16:58:40.40981+00:00"
 "assistant","Geen probleem, veel studenten vinden dit lastig! Het proces waarbij glucose wordt gemaakt uit niet-koolhydraatbronnen (zoals aminozuren en lactaat) heet **gluconeogenese**. Dit gebeurt vooral in de lever (en een beetje in de nieren).
 
 Dus als glycogeen op is, kunnen we dankzij gluconeogenese tóch glucose vrijmaken en daarmee bijvoorbeeld onze hersenen van brandstof voorzien.
 
-Wil je hier nog verder op doorvragen, of zal ik nu de verbinding maken met de casus en onze kennis gaan toepassen?"
-"user","ik weet niet wat gluconeogenese"
+Wil je hier nog verder op doorvragen, of zal ik nu de verbinding maken met de casus en onze kennis gaan toepassen?","2025-09-29T16:58:50.469405+00:00"
+"user","ik weet niet wat gluconeogenese","2025-09-29T16:59:36.591734+00:00"
 "assistant","Dat is helemaal niet erg! Laat het me heel kort uitleggen:  
 **Gluconeogenese** is het proces waarbij het lichaam uit andere stoffen dan koolhydraten (bijvoorbeeld uit aminozuren, glycerol of lactaat) toch glucose kan maken. Dit is vooral belangrijk als je langere tijd niet eet, zodat je bloedsuiker toch op peil blijft.
 
 Hierbij worden stapjes 'achteruit' gelopen van de glycolyse route, maar dan in omgekeerde richting — en met behulp van enkele speciale enzymen. Dit gebeurt vooral in de lever.
 
-Is dat duidelijk, of wil je nog iets meer weten over gluconeogenese voordat we verder gaan?"
-"user","duidelijk"
+Is dat duidelijk, of wil je nog iets meer weten over gluconeogenese voordat we verder gaan?","2025-09-29T16:59:49.366888+00:00"
+"user","duidelijk","2025-09-29T16:59:59.980766+00:00"
 "assistant","Mooi, dan gaan we nu de kennis toepassen op de casus!
 
 Hier is de casus opnieuw:
@@ -80,8 +80,8 @@ Bloedketonen: Negatief
 Lactaat: 4,2 mmol/L  
 
 Nu je deze kennis paraat hebt:  
-Kun jij nu uitleggen wat er in dit geval gebeurt? Wat is er aan de hand met haar energiehuishouding, en waarom zijn deze bepalingen afwijkend? Probeer je redenering stap voor stap te verwoorden!"
-"user","glycogeen wordt niet omgezet in glucose, hierdoor is de bloedsuikerspiegel laag en is er een ophoping van glycogeen"
+Kun jij nu uitleggen wat er in dit geval gebeurt? Wat is er aan de hand met haar energiehuishouding, en waarom zijn deze bepalingen afwijkend? Probeer je redenering stap voor stap te verwoorden!","2025-09-29T17:00:15.602165+00:00"
+"user","glycogeen wordt niet omgezet in glucose, hierdoor is de bloedsuikerspiegel laag en is er een ophoping van glycogeen","2025-09-29T17:01:01.293598+00:00"
 "assistant","Goed, je benoemt twee belangrijke punten:
 - Glycogeen wordt niet goed omgezet in glucose.
 - Hierdoor daalt de bloedsuiker en hoopt glycogeen zich op.
@@ -89,8 +89,8 @@ Kun jij nu uitleggen wat er in dit geval gebeurt? Wat is er aan de hand met haar
 Laten we nu proberen wat dieper te graven. Je zegt dat de bloedsuiker laag wordt als glycogenolyse niet werkt. Maar hoe probeert het lichaam dat probleem op te lossen? Welke alternatieve paden worden er geactiveerd als het meisje moet vasten en glycogenolyse niet lukt? 
 
 En kun je bedenken waarom het lactaat verhoogd is?  
-Wat gebeurt er precies in de cel als er te weinig glucose beschikbaar is via glycogenolyse? Probeer dat eens uit te leggen."
-"user","hierdoor wordt er veel pyruvaat gevormd, er is niet genoeg zuurstof om dat allemaal naar de citroenzuurcyclus te doen, dus wordt het omgezet in lactaat"
+Wat gebeurt er precies in de cel als er te weinig glucose beschikbaar is via glycogenolyse? Probeer dat eens uit te leggen.","2025-09-29T17:01:12.875308+00:00"
+"user","hierdoor wordt er veel pyruvaat gevormd, er is niet genoeg zuurstof om dat allemaal naar de citroenzuurcyclus te doen, dus wordt het omgezet in lactaat","2025-09-29T17:01:52.030798+00:00"
 "assistant","Je zit op het juiste spoor qua denkwijze, maar denk even terug aan wat je eerder geleerd hebt: het tekort hier is niet zuurstof, maar glucose uit glycogeen. De cellen moeten nog steeds proberen aan energie te komen. 
 
 Dus, als glycogenolyse niet werkt en er onvoldoende glucose vrijkomt…  
@@ -98,26 +98,26 @@ Dus, als glycogenolyse niet werkt en er onvoldoende glucose vrijkomt…
 2. Er is relatief weinig glucose en veel pyruvaat (door glycolyse van de glucose die er nog wel is).  
 3. Maar omdat de gluconeogenese (in sommige varianten van GSD) en de Cori-cyclus niet goed werken, kan lactaat niet goed worden omgezet in glucose. 
 
-Denk je dat dit verklaart waarom het lactaat zo hoog is in haar bloed? Of hoe zou je dat uitleggen, nu je deze stappen op een rijtje hebt?"
-"user","geen idee"
+Denk je dat dit verklaart waarom het lactaat zo hoog is in haar bloed? Of hoe zou je dat uitleggen, nu je deze stappen op een rijtje hebt?","2025-09-29T17:02:07.680426+00:00"
+"user","geen idee","2025-09-29T17:02:16.989201+00:00"
 "assistant","Dat is helemaal oké! Veel studenten vinden dit een lastig punt.
 
 Hier is een suggestie:  
 Normaal gesproken, als spieren bijvoorbeeld lactaat maken (bij inspanning of een tekort aan energie), stuurt het lichaam dat lactaat via het bloed naar de lever. In de lever wordt lactaat omgezet in glucose via gluconeogenese, in de zogenaamde **Cori-cyclus**. Maar als dit proces niet goed werkt—zoals bij sommige vormen van GSD—dan kan het lactaat niet effectief omgezet worden in glucose. Daardoor stapelt lactaat zich op in het bloed.
 
 Zie je nu hoe het niet goed functioneren van glycogenolyse en gluconeogenese bijdraagt aan het stijgen van het lactaat?  
-Wil je proberen deze gedachtegang zelf te verwoorden, of wil je door naar de volgende stap?"
-"user","volgende stap"
+Wil je proberen deze gedachtegang zelf te verwoorden, of wil je door naar de volgende stap?","2025-09-29T17:02:31.492684+00:00"
+"user","volgende stap","2025-09-29T17:02:50.070932+00:00"
 "assistant","Prima! Nu we dit hebben besproken, richten we ons op wat het lichaam doet als er een tekort aan glucose dreigt door gestoorde glycogenolyse. 
 
 Denk eens na:  
-Welke andere energiebronnen kan het lichaam gebruiken als er weinig glucose beschikbaar is? En wat kun je zeggen over de productie van ketonen in deze situatie? Waarom denk je dat het meisje geen ketonen in haar bloed heeft, ondanks het lage glucosegehalte?"
-"user","vetzuren, die worden omgezet in ketonen,"
+Welke andere energiebronnen kan het lichaam gebruiken als er weinig glucose beschikbaar is? En wat kun je zeggen over de productie van ketonen in deze situatie? Waarom denk je dat het meisje geen ketonen in haar bloed heeft, ondanks het lage glucosegehalte?","2025-09-29T17:02:59.565844+00:00"
+"user","vetzuren, die worden omgezet in ketonen,","2025-09-29T17:03:31.640531+00:00"
 "assistant","Mooie stap! Je beschrijft precies het alternatieve pad: bij langdurig tekort aan glucose worden vetzuren omgezet in ketonen (ketogenese), die als alternatieve energiebron voor bijvoorbeeld de hersenen kunnen dienen.
 
 Maar wat opvalt: bij dit meisje zijn **de ketonen toch negatief**, ondanks dat er een tekort aan glucose is. Kun je bedenken waardoor in haar situatie geen of nauwelijks ketonen worden gevormd?  
-Wat zou het lichaam ervan kunnen weerhouden om goed over te schakelen op vetverbranding en ketonenproductie?"
-"user","geen idee"
+Wat zou het lichaam ervan kunnen weerhouden om goed over te schakelen op vetverbranding en ketonenproductie?","2025-09-29T17:03:44.127213+00:00"
+"user","geen idee","2025-09-29T17:03:59.673126+00:00"
 "assistant","Dat is niet erg! Hier wat houvast:
 
 Normaal gesproken als de bloedsuiker (en insuline) laag zijn, zet het lichaam vetzuren om in ketonen. Maar bij bepaalde vormen van glycogeenstapelingsziekten blijft het lichaam signaleren dat er wél voldoende insuline is, en dat remt de vetverbranding en ketonvorming af. Tegelijk is het lichaam vooral aangewezen op snellere (anaerobe) routes zoals glycolyse en het vormen van lactaat.
@@ -126,8 +126,8 @@ Dus:
 - De productie van ketonen blijft achter, ondanks lage glucose, **vanwege relatief hoge insuline en afwijkende hormoonbalans**.
 - Daardoor mist het kind een alternatieve energiebron voor de hersenen.
 
-Wil je met deze uitleg zelf een poging doen om álle afwijkende waardes (glucose, ketonen, lactaat) in deze casus te verklaren? Of zal ik je verder helpen richting de afsluitende opdracht?"
-"user","afsluitende opdracht"
+Wil je met deze uitleg zelf een poging doen om álle afwijkende waardes (glucose, ketonen, lactaat) in deze casus te verklaren? Of zal ik je verder helpen richting de afsluitende opdracht?","2025-09-29T17:04:15.233232+00:00"
+"user","afsluitende opdracht","2025-09-29T17:04:50.236267+00:00"
 "assistant","Hier komt de afsluitende opdracht met de casus opnieuw:
 
 ###VIGNETTE 1###
@@ -138,7 +138,7 @@ Bloedglucose: 45 mg/dL
 Bloedketonen: Negatief  
 Lactaat: 4,2 mmol/L  
 
-**Hoe begrijp je nu de oorzaken achter de klinische bevindingen en bloeduitslagen in deze casus? Schrijf alles zo gedetailleerd mogelijk op: je ideeën, je redenering en de verbinding met wat je geleerd hebt. Hoe vollediger je dit opschrijft, hoe meer het je helpt om GSD te herkennen, te snappen, en straks te verklaren op een tentamen!**"
+**Hoe begrijp je nu de oorzaken achter de klinische bevindingen en bloeduitslagen in deze casus? Schrijf alles zo gedetailleerd mogelijk op: je ideeën, je redenering en de verbinding met wat je geleerd hebt. Hoe vollediger je dit opschrijft, hoe meer het je helpt om GSD te herkennen, te snappen, en straks te verklaren op een tentamen!**","2025-09-29T17:05:07.583966+00:00"
 "user","Normaal gesproken zorgt **glycogenolyse** ervoor dat glycogeen (de opslagvorm van glucose in lever en spieren) wordt afgebroken tot losse glucosemoleculen, die dan de bloedbaan in kunnen gaan als er even geen voeding is. Nadat glucose via het bloed bij een cel komt, ondergaat het glycolyse. als glycogeen op is, kunnen we dankzij gluconeogenese tóch glucose vrijmaken en daarmee bijvoorbeeld onze hersenen van brandstof voorzien. als glycogenolyse niet werkt en er onvoldoende glucose vrijkomt…  
 1. Proberen de cellen glucose te halen via andere processen, bijvoorbeeld door gluconeogenese of door het omzetten van andere stoffen.  
 2. Er is relatief weinig glucose en veel pyruvaat (door glycolyse van de glucose die er nog wel is).  
@@ -146,7 +146,7 @@ Lactaat: 4,2 mmol/L
 
 Dus:  
 - De productie van ketonen blijft achter, ondanks lage glucose, **vanwege relatief hoge insuline en afwijkende hormoonbalans**.
-- Daardoor mist het kind een alternatieve energiebron voor de hersenen."
+- Daardoor mist het kind een alternatieve energiebron voor de hersenen.","2025-09-29T17:07:51.792203+00:00"
 "assistant","Heel netjes uitgewerkt! Nu gaan we kijken of je je kennis kunt toepassen op een andere situatie.
 
 Hier volgt een nieuwe casus:
@@ -158,4 +158,4 @@ Bloedglucose: 55 mg/dL
 Bloedketonen: Positief  
 Lactaat: 2,8 mmol/L  
 
-**Kun je uitleggen waarom deze jongen zich zo zwak voelt en hoe zijn bloeduitslagen te verklaren zijn?** Probeer je redenering stap voor stap te benoemen!"
+**Kun je uitleggen waarom deze jongen zich zo zwak voelt en hoe zijn bloeduitslagen te verklaren zijn?** Probeer je redenering stap voor stap te benoemen!","2025-09-29T17:08:07.460439+00:00"

@@ -1,8 +1,8 @@
-"role","content"
-"user","nederlands"
-"user","toe nou"
-"assistant","Ik snap dat het lastig kan zijn! Kun je misschien beginnen met te beschrijven wat je denkt dat er mis is met de energiehuishouding bij dit meisje? Wat vertelt bijvoorbeeld de lage bloedglucose ons over haar energiemetabolisme?"
-"user","geef informatie dan"
+"role","content","created_at"
+"user","nederlands","2025-09-29T16:54:19.29385+00:00"
+"user","toe nou","2025-09-29T16:55:29.352079+00:00"
+"assistant","Ik snap dat het lastig kan zijn! Kun je misschien beginnen met te beschrijven wat je denkt dat er mis is met de energiehuishouding bij dit meisje? Wat vertelt bijvoorbeeld de lage bloedglucose ons over haar energiemetabolisme?","2025-09-29T16:55:39.364656+00:00"
+"user","geef informatie dan","2025-09-29T16:56:03.823926+00:00"
 "assistant","Dat is een begrijpelijke vraag! Laten we samen even een stap terug doen om de basiskennis op te frissen voordat we de casus verder gaan analyseren.
 
 We focussen op energie­metabolisme. Hier zijn wat startvragen waarmee je zelf kunt aangeven waar je de meeste behoefte aan hebt:
@@ -10,8 +10,8 @@ We focussen op energie­metabolisme. Hier zijn wat startvragen waarmee je zelf k
 - Kun je uitleggen wat er gebeurt wanneer het lichaam tussen maaltijden door energie nodig heeft?  
 - Weet je wat glycogenolyse betekent?  
 
-Laat gerust weten bij welk proces je wilt beginnen of waar je vragen over hebt!"
-"user","kom maar op"
+Laat gerust weten bij welk proces je wilt beginnen of waar je vragen over hebt!","2025-09-29T16:56:23.29129+00:00"
+"user","kom maar op","2025-09-29T16:56:33.92449+00:00"
 "assistant","###VIGNETTE 1###
 Het lichaam slaat glucose op in de vorm van glycogeen, vooral in de lever en spieren, om te gebruiken wanneer er energie nodig is—vooral tussen maaltijden of tijdens inspanning. 
 Bij Glycogeenstapelingsziekten (GSD’s) is dit proces verstoord door erfelijke enzymdeficiënties. Hierdoor heeft het lichaam moeite om normale bloedglucosewaarden te handhaven, zeker tijdens vasten. Om dit te compenseren, worden andere metabole routes geactiveerd. Toch zijn deze alternatieve routes, zoals de Cori-cyclus, beperkt.
@@ -20,12 +20,12 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: negatief (normaal: negatief)
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun je uitleggen wat er in dit geval is gebeurd?"
-"user","haar suiker is te laag en het lactaat is te hoog, dus er is te weinig zuurstof om alle processen te doen."
+Kun je uitleggen wat er in dit geval is gebeurd?","2025-09-29T16:56:53.669701+00:00"
+"user","haar suiker is te laag en het lactaat is te hoog, dus er is te weinig zuurstof om alle processen te doen.","2025-09-29T16:57:26.127893+00:00"
 "assistant","Goede poging! Voordat we verder gaan, laten we eerst even een stapje terug doen en samen de basiskennis ophalen rondom energiehuishouding. Dat helpt straks bij het analyseren van de casus. Heb je tot nu toe ergens vragen of onduidelijkheden over?
 
-Zo niet, kun je dan kort uitleggen wat je weet over de processen van glycolyse en glycogenolyse? Wat is hun rol, wat zijn hun belangrijkste input en output, en waar in de cel vinden ze plaats?"
-"user","glycolyse is nodig om de citroenzuurcyclus in gang te zetten door middel van 2 pyrovaat, glycogenolyse maakt van glucogeen glucose waardoor de glycolyse in gang kan gaan als je niet hebt gegeten"
+Zo niet, kun je dan kort uitleggen wat je weet over de processen van glycolyse en glycogenolyse? Wat is hun rol, wat zijn hun belangrijkste input en output, en waar in de cel vinden ze plaats?","2025-09-29T16:57:38.376501+00:00"
+"user","glycolyse is nodig om de citroenzuurcyclus in gang te zetten door middel van 2 pyrovaat, glycogenolyse maakt van glucogeen glucose waardoor de glycolyse in gang kan gaan als je niet hebt gegeten","2025-09-29T16:58:45.914729+00:00"
 "assistant","Heel goed! Je raakt al wat kernpunten: glycolyse breekt glucose af tot pyruvaat, en glycogenolyse levert glucose als je niet gegeten hebt.  
 
 Laten we samen dit overzicht nog even ordenen:
@@ -34,20 +34,20 @@ Laten we samen dit overzicht nog even ordenen:
 - Wat gebeurt er met het pyruvaat als er voldoende zuurstof aanwezig is? 
 - En wat gebeurt er als er weinig of geen zuurstof is, bijvoorbeeld bij intensieve inspanning of in bepaalde ziektetoestanden?
 
-Kun je deze vragen proberen te beantwoorden?"
-"user","gebeurd in de mitochondrien, atp, als er voldoende zuurstof is word de pyruvaat omgezet naar acetyl CoA, als er geen zuurstof genoeg is is de glycolyse het eindstation en is er 2 atp gemaakt, maar wordt lactaat en gaat niet verder"
+Kun je deze vragen proberen te beantwoorden?","2025-09-29T16:58:56.236298+00:00"
+"user","gebeurd in de mitochondrien, atp, als er voldoende zuurstof is word de pyruvaat omgezet naar acetyl CoA, als er geen zuurstof genoeg is is de glycolyse het eindstation en is er 2 atp gemaakt, maar wordt lactaat en gaat niet verder","2025-09-29T17:00:26.636688+00:00"
 "assistant","Ik zie waar je naartoe wilt! Een kleine aanvulling: glycolyse vindt plaats in het **cytoplasma** van de cel, niet in de mitochondriën. Het eindproduct is inderdaad pyruvaat, samen met een nettowinst van 2 ATP en 2 NADH. 
 
 Als er voldoende zuurstof is, wordt pyruvaat in het mitochondrion verder omgezet tot acetyl-CoA, en kan het dan de citroenzuurcyclus (Krebs-cyclus) in.  
 Bij zuurstoftekort wordt pyruvaat omgezet in lactaat via de anaerobe route, waarbij NAD+ wordt geregenereerd.
 
-Zullen we nu kort stilstaan bij wat glycogenolyse precies inhoudt? Kun je uitleggen wat glycogenolyse doet en hoe het betrokken is bij het vrijmaken van energie—vooral wanneer je een tijdje niet hebt gegeten?"
-"user","je hebt even niet gegeten en hebt ziek erge honger, glycogeen wat opgeslagen is wordt dan omgezet in glucose"
-"user","je hebt even niet gegeten en hebt ziek erge honger, glycogeen wat opgeslagen is wordt dan omgezet in glucose"
+Zullen we nu kort stilstaan bij wat glycogenolyse precies inhoudt? Kun je uitleggen wat glycogenolyse doet en hoe het betrokken is bij het vrijmaken van energie—vooral wanneer je een tijdje niet hebt gegeten?","2025-09-29T17:00:40.204327+00:00"
+"user","je hebt even niet gegeten en hebt ziek erge honger, glycogeen wat opgeslagen is wordt dan omgezet in glucose","2025-09-29T17:01:28.581684+00:00"
+"user","je hebt even niet gegeten en hebt ziek erge honger, glycogeen wat opgeslagen is wordt dan omgezet in glucose","2025-09-29T17:03:22.494374+00:00"
 "assistant","Je beschrijft het normale proces bij iemand die aan het vasten is: glycogeen wordt afgebroken tot glucose via glycogenolyse. Maar wat gebeurt er in dit meisje met een glycogeenstapelingsziekte, waarbij glycogenolyse niet goed werkt? 
 
-Waarom is haar bloedglucose toch zo laag, ondanks dat ze glycogeen in haar lever heeft liggen? En hoe verklaar je haar verhoogde lactaatwaarde? Heb je daar ideeën over?"
-"user","ze sport veel"
+Waarom is haar bloedglucose toch zo laag, ondanks dat ze glycogeen in haar lever heeft liggen? En hoe verklaar je haar verhoogde lactaatwaarde? Heb je daar ideeën over?","2025-09-29T17:03:31.619023+00:00"
+"user","ze sport veel","2025-09-29T17:03:45.09438+00:00"
 "assistant","Interessante overweging—bij intensief sporten wordt inderdaad sneller lactaat gevormd, maar in deze casus is daar geen sprake van. Het meisje had vooral klachten van prikkelbaarheid, een opgezwollen buik en lage glucose, zonder vermelding van veel activiteit.
 
 Laten we even inzoomen op haar stofwisseling:  
@@ -55,20 +55,20 @@ Laten we even inzoomen op haar stofwisseling:
 - Wat gebeurt er als het lichaam geen glucose kan vrijmaken uit glycogeen, vooral als je niet eet?  
 - Welke alternatieve metabole routes treden dan op de voorgrond, en wat gebeurt er met pyruvaat als glycolyse doorgaat maar de rest stokt?
 
-Kun je deze stappen proberen te benoemen?"
-"user","er is dus te weinig glycogeen opgeslagen, of het glycogeen kan niet worden omgezet in glycose."
+Kun je deze stappen proberen te benoemen?","2025-09-29T17:03:56.632838+00:00"
+"user","er is dus te weinig glycogeen opgeslagen, of het glycogeen kan niet worden omgezet in glycose.","2025-09-29T17:05:02.829474+00:00"
 "assistant","Dat klopt helemaal! Bij een glycogeenstapelingsziekte is er óf te weinig bruikbaar glycogeen óf de enzymen die glycogeen moeten omzetten naar glucose doen het niet goed. Daardoor daalt de bloedglucose snel.
 
 Nu de volgende stap:  
 - Als er geen glucose uit glycogeen komt, blijft het lichaam energie nodig hebben. Glycolyse uit het bloed kan maar even doorgaan.  
 - Dus: het lichaam gebruikt alternatieve mechanismen. Een daarvan is de afbraak van andere stoffen, en een andere is anaerobe glycolyse.
 
-Waarom denk je dat het lactaat zo verhoogd is bij dit meisje? Wat gebeurt er als glycolyse doorgaat, maar pyruvaat niet meegenomen kan worden door de citroenzuurcyclus?"
-"user","pyruvaat wordt niet meegenomen in de citroenzuurcyclus dus dat blijft over en dat stapelt op. hierdoor wordt er veel glycolyse gebeurd omdat NADH+ constant wordt gebruikt en je dus uiteindelijkl heel veel lactaat maakt"
+Waarom denk je dat het lactaat zo verhoogd is bij dit meisje? Wat gebeurt er als glycolyse doorgaat, maar pyruvaat niet meegenomen kan worden door de citroenzuurcyclus?","2025-09-29T17:05:16.254555+00:00"
+"user","pyruvaat wordt niet meegenomen in de citroenzuurcyclus dus dat blijft over en dat stapelt op. hierdoor wordt er veel glycolyse gebeurd omdat NADH+ constant wordt gebruikt en je dus uiteindelijkl heel veel lactaat maakt","2025-09-29T17:06:58.573574+00:00"
 "assistant","Mooi geredeneerd! Je ziet het goed: als pyruvaat niet verder kan in de citroenzuurcyclus (bijvoorbeeld door gebrek aan glucose en gestoord energiemetabolisme), wordt het omgezet in lactaat. Dit houdt glycolyse even gaande (NAD+ wordt zo geregenereerd), maar het veroorzaakt ook een opstapeling van lactaat in het bloed.
 
-Zou je nu kunnen uitleggen wat de rol van de Cori-cyclus is in deze situatie, en waarom die cyclus bij deze patiënt niet optimaal werkt?"
-"user","geen idee"
+Zou je nu kunnen uitleggen wat de rol van de Cori-cyclus is in deze situatie, en waarom die cyclus bij deze patiënt niet optimaal werkt?","2025-09-29T17:07:09.08993+00:00"
+"user","geen idee","2025-09-29T17:07:24.875152+00:00"
 "assistant","Dat is geen probleem! Laten we het samen kort doornemen:
 
 De **Cori-cyclus** zorgt ervoor dat lactaat, dat ontstaat bij anaerobe glycolyse (bijvoorbeeld in spieren of rode bloedcellen), via het bloed naar de lever wordt gebracht. In de lever wordt dit lactaat omgezet in glucose tijdens gluconeogenese. Die glucose kan vervolgens weer worden getransporteerd naar weefsels waar het als energiebron dient.
@@ -87,10 +87,10 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: negatief (normaal: negatief)
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-**Hoe begrijp je nu de oorzaken achter deze klinische bevindingen? Schrijf elk detail op dat je kunt bedenken — je ideeën, redeneringen en alles wat je nu hebt geleerd. Hoe vollediger je uitleg, hoe meer je ervan leert en hoe beter je dit in de toekomst herkent!**"
-"user","aflsuiten"
+**Hoe begrijp je nu de oorzaken achter deze klinische bevindingen? Schrijf elk detail op dat je kunt bedenken — je ideeën, redeneringen en alles wat je nu hebt geleerd. Hoe vollediger je uitleg, hoe meer je ervan leert en hoe beter je dit in de toekomst herkent!**","2025-09-29T17:07:54.13837+00:00"
+"user","aflsuiten","2025-09-29T17:08:48.987513+00:00"
 "assistant","Goed, dan gaan we afronden!
 
 Je hebt vandaag actief meegedacht over complexe stofwisselingsprocessen. Je liet zien wat je al wist, vroeg door wanneer iets onduidelijk was, en bouwde je kennis per stap uit – precies zoals bedoeld bij klinisch redeneren op basis van fysiologie. Je begrijpt nu beter waarom verstoorde glycogenolyse bijdraagt aan een lage bloedglucose, verhoogd lactaat, én waarom alternatieve routes zoals de Cori-cyclus beperkt effectief zijn.
 
-Wil je nog een keer oefenen met een andere casus, of is het zo voldoende voor vandaag? Onthoud: voldoende basiskennis van stofwisseling blijft belangrijk voor klinisch denken en voor je tentamens later. Bedankt voor je inzet!"
+Wil je nog een keer oefenen met een andere casus, of is het zo voldoende voor vandaag? Onthoud: voldoende basiskennis van stofwisseling blijft belangrijk voor klinisch denken en voor je tentamens later. Bedankt voor je inzet!","2025-09-29T17:09:00.591946+00:00"

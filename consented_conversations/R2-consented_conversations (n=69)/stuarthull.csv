@@ -1,5 +1,5 @@
-"role","content"
-"user","ik ben klaar om te beginnen"
+"role","content","created_at"
+"user","ik ben klaar om te beginnen","2025-09-29T16:12:38.382542+00:00"
 "assistant","###VIGNETTE 1###
 Het lichaam slaat glucose op in de vorm van glycogeen, voornamelijk in de lever en spieren, om te gebruiken wanneer energie nodig is—vooral tussen maaltijden of tijdens inspanning. 
 Bij Glycogeenstapelingsziekten (GSD’s) is dit proces verstoord door een erfelijk enzymtekort. Hierdoor kan het lichaam, vooral bij vasten, moeilijk normale bloedglucosewaarden handhaven. Als compensatie probeert het via andere metabole routes toch energie te maken. In GSD zijn alternatieve wegen, zoals de Cori-cyclus, extra actief, maar vaak niet voldoende.
@@ -8,41 +8,41 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Ketonen: Negatief (normaal: negatief)
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun je uitleggen wat er in deze casus gebeurt?"
-"user","de bloedglucose levels zijn niet hoog genoeg door een GSD. omdat de standaard omzetting van glycogeen niet kan plaatsvinden, zoekt het lichaam een andere weg om toch wat glucose in het bloed te krijgen, al is dit bij een normaal dieet nog steeds niet genoeg. omdat het glycogeen niet normaal omgezet kan worden, wordt dit onder andere omgezet in lactaat. Dat verklaart de hoge waarde die je hiervoor ziet"
+Kun je uitleggen wat er in deze casus gebeurt?","2025-09-29T16:12:53.377969+00:00"
+"user","de bloedglucose levels zijn niet hoog genoeg door een GSD. omdat de standaard omzetting van glycogeen niet kan plaatsvinden, zoekt het lichaam een andere weg om toch wat glucose in het bloed te krijgen, al is dit bij een normaal dieet nog steeds niet genoeg. omdat het glycogeen niet normaal omgezet kan worden, wordt dit onder andere omgezet in lactaat. Dat verklaart de hoge waarde die je hiervoor ziet","2025-09-29T16:17:19.204858+00:00"
 "assistant","Goede poging! Voordat we verdergaan, laten we even een stapje terug doen en samen de belangrijkste basiskennis rondom het onderwerp ophalen. Zo wordt je fundament sterker voordat we verder analyseren.
 
 Heb je tot nu toe vragen of onduidelijkheden? Zijn er basisbegrippen rondom energiehuishouding waar je extra uitleg over wilt, zoals glycolyse, glycogenolyse, of de rol van de Cori-cyclus? 
 
-Zo niet, kun je me dan kort uitleggen wat glycolyse precies is en waar het in de cel gebeurt?"
-"user","alleen de Cori cyclus, wat is dat? glycolyse is de omzetting van glucose in pyruvaat. pyruvaat wordt vervolgens gebruikt in de citroenzuurcyclus en daarop volgt dan weer de oxidatieve fosforylering. dit proces is de aerobe dissimilatie. er kan ook slechts anaerobe dissimilatie plaatsvinden, dat is eigenlijk alleen de glycolyse. de glycolyse vindt plaats in het cytosol. de rest van de aerobe dissimilatie vindt plaats in de mitochondriën."
+Zo niet, kun je me dan kort uitleggen wat glycolyse precies is en waar het in de cel gebeurt?","2025-09-29T16:17:29.830089+00:00"
+"user","alleen de Cori cyclus, wat is dat? glycolyse is de omzetting van glucose in pyruvaat. pyruvaat wordt vervolgens gebruikt in de citroenzuurcyclus en daarop volgt dan weer de oxidatieve fosforylering. dit proces is de aerobe dissimilatie. er kan ook slechts anaerobe dissimilatie plaatsvinden, dat is eigenlijk alleen de glycolyse. de glycolyse vindt plaats in het cytosol. de rest van de aerobe dissimilatie vindt plaats in de mitochondriën.","2025-09-29T16:20:10.288441+00:00"
 "assistant","Prima omschreven! Je bent goed op weg met je kennis over glycolyse en de celcompartimenten. En je benoemt al het verschil tussen aerobe en anaerobe dissimilatie.
 
-Je vroeg naar de Cori-cyclus — dat is een mooie vraag! Heb je enig vermoeden hoe die cyclus betrokken is bij het verwerken van lactaat en het op peil houden van de bloedglucose? Wat denk je gebeurt er met lactaat nadat het in het bloed komt?"
-"user","is de Cori-cyclus misschien de omzetting van lactaat in pyruvaat of iets dergelijks?"
+Je vroeg naar de Cori-cyclus — dat is een mooie vraag! Heb je enig vermoeden hoe die cyclus betrokken is bij het verwerken van lactaat en het op peil houden van de bloedglucose? Wat denk je gebeurt er met lactaat nadat het in het bloed komt?","2025-09-29T16:20:19.216855+00:00"
+"user","is de Cori-cyclus misschien de omzetting van lactaat in pyruvaat of iets dergelijks?","2025-09-29T16:20:59.399223+00:00"
 "assistant","Dat zit in de goede richting! Je denkt aan het terugomzetten van lactaat. De Cori-cyclus beschrijft inderdaad een uitwisseling tussen spieren (of andere weefsels) en de lever.
 
 Kun jij het volgende uitleggen of afmaken?  
-Wanneer spieren tijdens anaerobe omstandigheden (weinig zuurstof) glucose omzetten via glycolyse, ontstaat er pyruvaat. Dat wordt omgezet in lactaat. Dit lactaat gaat naar het bloed en bereikt de lever. Wat gebeurt er vervolgens met lactaat in de lever binnen de Cori-cyclus? Kun je daar iets over zeggen?"
-"user","Ik denk dat het lactaat in de lever wordt omgezet. misschien in oxaloacetaat? als dit het niet is, zeg dan maar gewoon wat het moet zijn, want dan weet ik het echt niet"
+Wanneer spieren tijdens anaerobe omstandigheden (weinig zuurstof) glucose omzetten via glycolyse, ontstaat er pyruvaat. Dat wordt omgezet in lactaat. Dit lactaat gaat naar het bloed en bereikt de lever. Wat gebeurt er vervolgens met lactaat in de lever binnen de Cori-cyclus? Kun je daar iets over zeggen?","2025-09-29T16:21:09.813027+00:00"
+"user","Ik denk dat het lactaat in de lever wordt omgezet. misschien in oxaloacetaat? als dit het niet is, zeg dan maar gewoon wat het moet zijn, want dan weet ik het echt niet","2025-09-29T16:22:15.912876+00:00"
 "assistant","Je zit dichtbij, want lactaat wordt inderdaad omgezet in een ander tussenproduct, maar niet direct in oxaloacetaat! Denk aan de volgorde: lactaat uit de spieren komt in de lever en moet “terug” naar glucose. 
 
 Heb je enig idee welk proces in de lever ervoor zorgt dat lactaat kan worden omgezet in glucose? Denk aan de tegenovergestelde route van glycolyse.
 
-Zo niet, kun je proberen op te zoeken hoe dit proces heet, zodat je het daarna nog eens kunt proberen uit te leggen?"
-"user","nouja ik ken wel de gluconeogenese. 1 van de bronnen die hierbij wordt gebruikt voor het nieuw maken van glucose is lactaat"
+Zo niet, kun je proberen op te zoeken hoe dit proces heet, zodat je het daarna nog eens kunt proberen uit te leggen?","2025-09-29T16:22:25.123085+00:00"
+"user","nouja ik ken wel de gluconeogenese. 1 van de bronnen die hierbij wordt gebruikt voor het nieuw maken van glucose is lactaat","2025-09-29T16:23:08.557896+00:00"
 "assistant","Heel goed! Dat klopt helemaal. Gluconeogenese is het proces waarbij de lever (en in mindere mate de nieren) nieuw glucose maakt uit niet-koolhydraat bronnen—en lactaat is daar één van. In de lever wordt lactaat via een omweg inderdaad weer omgezet in glucose.
 
-Is het nu duidelijk wat de Cori-cyclus inhoudt, of zijn er nog onduidelijkheden? Zo niet, voel je je er klaar voor om deze kennis toe te passen op de casus?"
-"user","is de Cori-cyclus dan onderdeel van de gluconeogenese? want dat heb je nog niet zo benoemd"
+Is het nu duidelijk wat de Cori-cyclus inhoudt, of zijn er nog onduidelijkheden? Zo niet, voel je je er klaar voor om deze kennis toe te passen op de casus?","2025-09-29T16:23:19.718811+00:00"
+"user","is de Cori-cyclus dan onderdeel van de gluconeogenese? want dat heb je nog niet zo benoemd","2025-09-29T16:23:52.008995+00:00"
 "assistant","Mooie vraag! De Cori-cyclus en gluconeogenese zijn nauw met elkaar verbonden, maar het zijn niet precies dezelfde processen.
 
 De Cori-cyclus beschrijft het hele proces van het omzetten van glucose in lactaat in de spieren, het transport van lactaat naar de lever, en daar het weer ombouwen tot glucose—wat vervolgens terug kan naar het bloed (en de spieren). 
 
 Gluconeogenese is het specifieke proces ín de lever (of nieren) waarbij van o.a. lactaat nieuw glucose wordt gemaakt. Gluconeogenese is dus een essentieel onderdeel van de Cori-cyclus.
 
-Klinkt dit nu logisch voor je? Of wil je meer verduidelijking? Zo niet, dan kunnen we deze kennis nu gaan toepassen op de casus!"
-"user","nu is alles duidelijk"
+Klinkt dit nu logisch voor je? Of wil je meer verduidelijking? Zo niet, dan kunnen we deze kennis nu gaan toepassen op de casus!","2025-09-29T16:24:06.228425+00:00"
+"user","nu is alles duidelijk","2025-09-29T16:24:49.494072+00:00"
 "assistant","Mooi! Laten we het geleerde toepassen op de casus.
 
 ###VIGNETTE 1###
@@ -52,16 +52,16 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Ketonen: Negatief (normaal: negatief)
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Nu je net de relevante basiskennis hebt opgehaald: kun je met die kennis uitleggen wat er in deze casus is gebeurd?"
-"user","de omzetting van glycogeen naar glucose kan niet plaatsvinden, dus wordt glycogeen omgezet in lactaat"
-"user","de omzetting van glycogeen naar glucose kan niet plaatsvinden, dus wordt glycogeen omgezet in lactaat"
+Nu je net de relevante basiskennis hebt opgehaald: kun je met die kennis uitleggen wat er in deze casus is gebeurd?","2025-09-29T16:25:06.398775+00:00"
+"user","de omzetting van glycogeen naar glucose kan niet plaatsvinden, dus wordt glycogeen omgezet in lactaat","2025-09-29T16:26:05.014419+00:00"
+"user","de omzetting van glycogeen naar glucose kan niet plaatsvinden, dus wordt glycogeen omgezet in lactaat","2025-09-29T16:28:39.188013+00:00"
 "assistant","Bijna! Maar laten we het stap voor stap bekijken.
 
 Je zegt dat glycogeen direct wordt omgezet in lactaat, maar…  
 Is dat echt zo? Of mist er nog een tussenstap of aparte route?
 
-Wat gebeurt er als glycogeen niet afgebroken kan worden? Welke andere bronnen of processen gaan cellen dan gebruiken, vooral als er dringend behoefte aan glucose is? Wat gebeurt er met het pyruvaat uit glycolyse als er te weinig zuurstof of mitochondriale capaciteit is — en welke route zorgt er dan voor ophoping van lactaat? Kun je dit eens proberen te beschrijven, stap voor stap?"
-"user","die reactie kan ik niet volledig zien, nog even opnieuw typen"
+Wat gebeurt er als glycogeen niet afgebroken kan worden? Welke andere bronnen of processen gaan cellen dan gebruiken, vooral als er dringend behoefte aan glucose is? Wat gebeurt er met het pyruvaat uit glycolyse als er te weinig zuurstof of mitochondriale capaciteit is — en welke route zorgt er dan voor ophoping van lactaat? Kun je dit eens proberen te beschrijven, stap voor stap?","2025-09-29T16:28:53.481102+00:00"
+"user","die reactie kan ik niet volledig zien, nog even opnieuw typen","2025-09-29T16:29:15.668995+00:00"
 "assistant","Natuurlijk! Ik zal het opnieuw en gestructureerd formuleren:
 
 Je zegt dat glycogeen direct wordt omgezet in lactaat, maar klopt dat helemaal? Of zijn er nog stappen of een andere route?
@@ -73,4 +73,4 @@ Laten we het stap voor stap bekijken:
 - En wat gebeurt er precies met het pyruvaat dat in glycolyse wordt gevormd, vooral als er een tekort aan zuurstof is of als mitochondriale werking beperkt is? 
 - Op welke manier leidt dit uiteindelijk tot ophoping van lactaat in het bloed?
 
-Wil je proberen deze stappen te beschrijven? Zo kun je beter uitleggen waar die verhoogde lactaatwaarden vandaan komen in deze casus."
+Wil je proberen deze stappen te beschrijven? Zo kun je beter uitleggen waar die verhoogde lactaatwaarden vandaan komen in deze casus.","2025-09-29T16:29:33.768905+00:00"

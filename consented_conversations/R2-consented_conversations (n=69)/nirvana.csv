@@ -1,5 +1,5 @@
-"role","content"
-"user","hello"
+"role","content","created_at"
+"user","hello","2025-09-29T17:15:45.386266+00:00"
 "assistant","###VIGNETTE 1###
 Het lichaam slaat glucose op in de vorm van glycogeen, voornamelijk in de lever en spieren, om te gebruiken wanneer energie nodig is — vooral tussen de maaltijden door of tijdens inspanning. 
 Bij Glycogeenstapelingsziekten (GSD's) is dit proces verstoord door aangeboren enzymtekorten. Hierdoor kan het lichaam de normale bloedglucosewaarden, vooral tijdens vasten, moeilijk handhaven en schakelt het andere metabole routes in. In GSD zijn alternatieve routes, zoals de Cori-cyclus, vaak belangrijk.
@@ -8,44 +8,44 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)
 Lactaat: 4.2 mmol/L (normaal: 0.5–2.0 mmol/L)
 
-Mijn eerste vraag aan jou: Kun je uitleggen wat er in dit geval is gebeurd?"
-"user","haar glucosewaarde kan te laag zijn, doordat haar lichaam het glycogeen niet omzet in glucose. Lactaat kan verhoogd zijn al het glucose wat ze heeft binnen gekregen gelijk om is gezet in lactaat."
+Mijn eerste vraag aan jou: Kun je uitleggen wat er in dit geval is gebeurd?","2025-09-29T17:16:04.422676+00:00"
+"user","haar glucosewaarde kan te laag zijn, doordat haar lichaam het glycogeen niet omzet in glucose. Lactaat kan verhoogd zijn al het glucose wat ze heeft binnen gekregen gelijk om is gezet in lactaat.","2025-09-29T17:18:41.903508+00:00"
 "assistant","Goede poging! Voordat we verdergaan, laten we een stapje terug doen en samen even de basiskennis ophalen die hierbij hoort. Dit helpt je om het verdere klinisch redeneren beter te kunnen uitvoeren. Heb je tot nu toe ergens vragen over, of zijn er dingen onduidelijk?
 
-Om samen te beginnen: Kun je mij kort uitleggen wat glycolyse is? Wat gebeurt er tijdens glycolyse met glucose in onze cellen?"
-"user","tijdens glycolyse wordt glucose omgezet in energie in bijvoorbeeld de vorm van ATP"
+Om samen te beginnen: Kun je mij kort uitleggen wat glycolyse is? Wat gebeurt er tijdens glycolyse met glucose in onze cellen?","2025-09-29T17:18:51.36919+00:00"
+"user","tijdens glycolyse wordt glucose omgezet in energie in bijvoorbeeld de vorm van ATP","2025-09-29T17:19:28.116143+00:00"
 "assistant","Klopt, daar zit je goed! Glycolyse breekt inderdaad glucose af tot kleinere moleculen en levert daarbij een beetje ATP, wat cellen als directe energiebron kunnen gebruiken.
 
-Nu een volgende vraag om je basis te versterken: Weet je ook wat er gebeurt met de producten van glycolyse als er wél voldoende zuurstof (aerobe omstandigheden) aanwezig is? Wat gebeurt er daarna in de cel?"
-"user","dan begint de aerobe dissimilatie"
-"assistant","Precies, dan start de aerobe dissimilatie! Kun je uitleggen wat er dan precies gebeurt? Wat zijn de volgende stappen voor het eindproduct van glycolyse, en in welk deel van de cel vinden die plaats?"
-"user","de citroencylus en oxidatieve fosforylering vinden plaat"
+Nu een volgende vraag om je basis te versterken: Weet je ook wat er gebeurt met de producten van glycolyse als er wél voldoende zuurstof (aerobe omstandigheden) aanwezig is? Wat gebeurt er daarna in de cel?","2025-09-29T17:19:35.375298+00:00"
+"user","dan begint de aerobe dissimilatie","2025-09-29T17:21:29.369448+00:00"
+"assistant","Precies, dan start de aerobe dissimilatie! Kun je uitleggen wat er dan precies gebeurt? Wat zijn de volgende stappen voor het eindproduct van glycolyse, en in welk deel van de cel vinden die plaats?","2025-09-29T17:21:36.046623+00:00"
+"user","de citroencylus en oxidatieve fosforylering vinden plaat","2025-09-29T17:22:20.862952+00:00"
 "assistant","Heel goed! Dus na de glycolyse worden de producten naar de citroenzuurcyclus (ook wel de Krebs- of TCA-cyclus genoemd) gebracht, en daarna naar de oxidatieve fosforylering. Deze processen vinden plaats in de mitochondriën.
 
-Kun je kort benoemen wat het verschil is tussen de hoeveelheid energie die vrijkomt bij glycolyse en bij de volledige aerobe route (citroenzuurcyclus en oxidatieve fosforylering samen)?"
-"user","Bij de volledige aerobe route wordt ook nog energie gebruikt, waardoor er netto minder energie wordt geproduceerd dan bruto"
+Kun je kort benoemen wat het verschil is tussen de hoeveelheid energie die vrijkomt bij glycolyse en bij de volledige aerobe route (citroenzuurcyclus en oxidatieve fosforylering samen)?","2025-09-29T17:22:31.781357+00:00"
+"user","Bij de volledige aerobe route wordt ook nog energie gebruikt, waardoor er netto minder energie wordt geproduceerd dan bruto","2025-09-29T17:23:06.067315+00:00"
 "assistant","Interessante gedachte! Inderdaad, er zijn altijd kleine energiekosten (bijvoorbeeld voor transport van stoffen). Maar denk vooral ook aan het grote verschil tussen de hoeveelheden energie die bij de verschillende stappen vrijkomen:
 
 Bij glycolyse zelf komt er maar weinig ATP vrij (weet je hoeveel ongeveer?). Maar als glucose volledig wordt afgebroken via de citroenzuurcyclus en oxidatieve fosforylering, hoeveel meer ATP levert dat dan ongeveer op per glucosemolecuul? 
 
-Kun je daar een schatting van geven?"
-"user","bij alleen de glycolyse komt 2 ATP vrij. In het grote plaatje komt 34 vrij"
+Kun je daar een schatting van geven?","2025-09-29T17:23:15.578264+00:00"
+"user","bij alleen de glycolyse komt 2 ATP vrij. In het grote plaatje komt 34 vrij","2025-09-29T17:24:12.06387+00:00"
 "assistant","Goed! Je zit in de juiste richting: bij glycolyse 2 ATP netto, en de volledige aerobe afbraak levert inderdaad aanzienlijk meer op—ongeveer 30 tot 32 extra ATP per glucosemolecuul.
 
 Wil je nog iets weten over glycolyse of aerobe metabolisme voordat we verdergaan? Of heb je vragen over de andere processen, zoals glycogenolyse of de Cori-cyclus? 
 
-Als het duidelijk is, pakken we de stof eroverheen: weet je kort wat glycogenolyse is, en waar in het lichaam het vooral plaatsvindt?"
-"user","ik weet niet meer wat glycogenolyse is"
+Als het duidelijk is, pakken we de stof eroverheen: weet je kort wat glycogenolyse is, en waar in het lichaam het vooral plaatsvindt?","2025-09-29T17:24:29.884621+00:00"
+"user","ik weet niet meer wat glycogenolyse is","2025-09-29T17:25:12.619954+00:00"
 "assistant","Geen probleem! Glycogenolyse is het proces waarbij glycogeen (de opslagvorm van glucose) wordt afgebroken tot losse glucosemoleculen, zodat het lichaam daar energie uit kan halen als er geen directe toevoer van glucose is. Dit gebeurt vooral in de lever (om het bloedglucose op peil te houden) en in spieren (voor spierenergie tijdens inspanning).
 
-Zal ik ook kort toelichten wat de Cori-cyclus doet, of is dat nog vers in je geheugen?"
-"user","ja zou je dat ook even uit kunnen leggen?"
+Zal ik ook kort toelichten wat de Cori-cyclus doet, of is dat nog vers in je geheugen?","2025-09-29T17:25:21.099009+00:00"
+"user","ja zou je dat ook even uit kunnen leggen?","2025-09-29T17:26:24.70693+00:00"
 "assistant","Zeker! De Cori-cyclus is een ‘noodroute’ die inspringt als cellen snel energie nodig hebben (bijvoorbeeld in spieren tijdens zware inspanning) en er onvoldoende zuurstof is.
 
 In dat geval zetten de spieren glucose via glycolyse om in pyruvaat, en als er weinig zuurstof is, wordt pyruvaat omgezet in lactaat. Dit lactaat gaat via het bloed naar de lever. De lever kan van lactaat weer glucose maken (gluconeogenese), dat vervolgens weer naar de spieren kan gaan — zo blijft er een kringloop bestaan.
 
-Zijn de stappen en functie van de Cori-cyclus hiermee helder voor je? Geef gerust aan als je ergens op wilt doorvragen of verder wilt uitleggen! Als het duidelijk is, dan gaan we nu samen verder met de casus."
-"user","volgens mij is het wel duidelijk zo!"
+Zijn de stappen en functie van de Cori-cyclus hiermee helder voor je? Geef gerust aan als je ergens op wilt doorvragen of verder wilt uitleggen! Als het duidelijk is, dan gaan we nu samen verder met de casus.","2025-09-29T17:26:39.787989+00:00"
+"user","volgens mij is het wel duidelijk zo!","2025-09-29T17:27:34.246615+00:00"
 "assistant","Mooi! Dan herhalen we nog even de casus voor het toepassen van je kennis:
 
 ###VIGNETTE 1###
@@ -56,20 +56,20 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)
 Lactaat: 4.2 mmol/L (normaal: 0.5–2.0 mmol/L)
 
-Nu je deze kennis hebt opgefrist: kun je – met alles wat je nu weet – uitleggen wat er in dit geval met het meisje gebeurt? Probeer het stap voor stap te onderbouwen."
-"user","Haar lichaam breekt lactaat niet af om glucose vrij te laten komen, waardoor de glucosewaardes te laag worden."
+Nu je deze kennis hebt opgefrist: kun je – met alles wat je nu weet – uitleggen wat er in dit geval met het meisje gebeurt? Probeer het stap voor stap te onderbouwen.","2025-09-29T17:27:52.410241+00:00"
+"user","Haar lichaam breekt lactaat niet af om glucose vrij te laten komen, waardoor de glucosewaardes te laag worden.","2025-09-29T17:29:11.837328+00:00"
 "assistant","Interessante redenering! Je benoemt het stijgen van lactaat en het tekort aan glucose. Maar denk nog eens aan de stap vóór lactaat: waarom raakt haar lichaam zo afhankelijk van alternatieve routes als de Cori-cyclus? Zou het probleem ‘m vooral liggen in de verwerking van lactaat, of aan iets wat daarvoor misgaat?
 
-Wat gebeurt er normaal als het lichaam extra glucose nodig heeft tussen maaltijden door? En wat gaat daar nu mis bij haar? Kun je die stappen nog eens proberen te benoemen?"
-"user","krijgt haar lichaam misschien niet genoeg zuurstof?"
+Wat gebeurt er normaal als het lichaam extra glucose nodig heeft tussen maaltijden door? En wat gaat daar nu mis bij haar? Kun je die stappen nog eens proberen te benoemen?","2025-09-29T17:29:21.598151+00:00"
+"user","krijgt haar lichaam misschien niet genoeg zuurstof?","2025-09-29T17:30:14.394329+00:00"
 "assistant","Goede vraag! Gebrek aan zuurstof (anaerobe omstandigheden) kan inderdaad leiden tot meer lactaatvorming, maar in deze casus is er geen aanwijzing voor zuurstoftekort. Het probleem ligt hier waarschijnlijk elders. 
 
-Denk nog eens aan het proces glycogenolyse dat we eerder bespraken: wat gebeurt er normaal met het glycogeen in de lever als iemand tussen de maaltijden door (of bij vasten) energie nodig heeft? Wat gaat hierin mis bij dit meisje met GSD?"
-"user","normaal wordt glycogeen dan omgezet in glucose, maar bij het meisje met GSD gebeurt dit niet"
+Denk nog eens aan het proces glycogenolyse dat we eerder bespraken: wat gebeurt er normaal met het glycogeen in de lever als iemand tussen de maaltijden door (of bij vasten) energie nodig heeft? Wat gaat hierin mis bij dit meisje met GSD?","2025-09-29T17:30:24.717782+00:00"
+"user","normaal wordt glycogeen dan omgezet in glucose, maar bij het meisje met GSD gebeurt dit niet","2025-09-29T17:31:25.267843+00:00"
 "assistant","Ja, precies! Dus het glycogeen in haar lever kan niet goed worden afgebroken tot glucose door het enzymdefect. 
 
-Omdat haar lichaam geen glucose kan vrijmaken uit glycogeen, moet het op alternatieve manieren proberen om aan energie te komen. Kun je uitleggen welke alternatieve route(s) hierdoor geactiveerd worden, en waarom dat tot een hoog lactaat kan leiden? Probeer de route vanaf glucose via glycolyse richting lactaat te benoemen en het gevolg voor het bloedbeeld uit te leggen."
-"user","Ik snap niet waarom dat voor een te hoog lactaat zorgt"
+Omdat haar lichaam geen glucose kan vrijmaken uit glycogeen, moet het op alternatieve manieren proberen om aan energie te komen. Kun je uitleggen welke alternatieve route(s) hierdoor geactiveerd worden, en waarom dat tot een hoog lactaat kan leiden? Probeer de route vanaf glucose via glycolyse richting lactaat te benoemen en het gevolg voor het bloedbeeld uit te leggen.","2025-09-29T17:31:35.911296+00:00"
+"user","Ik snap niet waarom dat voor een te hoog lactaat zorgt","2025-09-29T17:32:00.018129+00:00"
 "assistant","Heel begrijpelijk dat je dat lastig vindt! Laten we het samen stap voor stap bekijken:
 
 Omdat er te weinig glucose vrijkomt uit glycogeen, zijn de glucosevoorraden in het bloed snel op. Het lichaam probeert toch via andere manieren (zoals anaerobe glycolyse) snelle energie te maken, vooral in weefsels als spier en rode bloedcellen.
@@ -80,14 +80,14 @@ Dus:
 - Door het enzymtekort en daardoor te weinig glycogenolyse, raakt het lichaam afhankelijk van glycolyse.  
 - Veel pyruvaat → veel omzetting naar lactaat → lactaat hoopt zich op in het bloed.
 
-Kun je deze redenering afmaken naar de oorzaak van het hoge lactaat bij dit meisje met GSD? Wat gebeurt er met het lactaat, en waarom “loopt” de Cori-cyclus niet helemaal rond bij haar?"
-"user","Ik moet afronden"
+Kun je deze redenering afmaken naar de oorzaak van het hoge lactaat bij dit meisje met GSD? Wat gebeurt er met het lactaat, en waarom “loopt” de Cori-cyclus niet helemaal rond bij haar?","2025-09-29T17:32:18.113825+00:00"
+"user","Ik moet afronden","2025-09-29T17:32:37.17301+00:00"
 "assistant","Dat is helemaal prima! 
 
 Laatste check voor je afrondt: je hebt de belangrijkste mechanismen vandaag goed besproken en kritisch onderzocht, van glycolyse tot glycogenolyse en de Cori-cyclus. Mooi werk! Denk eraan: het snappen van de onderlinge relaties tussen deze routes helpt je echt bij klinisch denken in de toekomst.
 
-Wil je nog iets kort weten of samenvatten? Zo niet, succes met je verdere studie! Je mag altijd terugkomen met vervolgvragen."
-"user","Ik moet nu echt stoppen helaas"
+Wil je nog iets kort weten of samenvatten? Zo niet, succes met je verdere studie! Je mag altijd terugkomen met vervolgvragen.","2025-09-29T17:32:51.863052+00:00"
+"user","Ik moet nu echt stoppen helaas","2025-09-29T17:33:03.490766+00:00"
 "assistant","Geen probleem, bedankt voor je inzet vandaag! Je hebt al heel veel belangrijke concepten herhaald en doordacht. Blijf zo actief oefenen met uitleggen — dat is de beste manier om deze stof echt te begrijpen.
 
-Succes verder, en je bent altijd welkom als je weer vragen hebt of wilt oefenen!"
+Succes verder, en je bent altijd welkom als je weer vragen hebt of wilt oefenen!","2025-09-29T17:33:10.533982+00:00"

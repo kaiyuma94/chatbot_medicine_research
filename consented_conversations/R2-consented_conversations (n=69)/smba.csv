@@ -1,5 +1,5 @@
-"role","content"
-"user","ik ben klaar om te beginnen"
+"role","content","created_at"
+"user","ik ben klaar om te beginnen","2025-09-29T16:05:20.334687+00:00"
 "assistant","Hier is de eerste casus:
 
 ###VIGNETTE 1###
@@ -11,25 +11,25 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)  
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)  
 
-Kun je uitleggen wat er in dit geval is gebeurd?"
-"user","haar lichaam slaat glucose heel weinig op, en er is veel anaerobe dissimilatie wat voor een hoog lactaatgehalte zorgt"
+Kun je uitleggen wat er in dit geval is gebeurd?","2025-09-29T16:05:43.336443+00:00"
+"user","haar lichaam slaat glucose heel weinig op, en er is veel anaerobe dissimilatie wat voor een hoog lactaatgehalte zorgt","2025-09-29T16:07:43.753525+00:00"
 "assistant","Goede poging! Voordat we verder gaan, laten we even een stap terug nemen en de relevante kennis samen doornemen. Dit versterkt je basis en helpt bij het analyseren van de volgende stappen van de casus. Zijn er bepaalde onderwerpen waar je nu al vragen of onzekerheden over hebt?
 
-Zo niet, kun je mij bijvoorbeeld uitleggen wat glycolyse inhoudt? Of is er een ander onderdeel van energiemetabolisme waar je meer over wilt weten, zoals glycogenolyse of de Cori-cyclus?"
-"user","glycolyse is de afbraak van glucose in pyruvaat, ATP en NADH. Glycogenolyse is de afbraak van glycogeen in glucosemoleculen en de Cori-cyclus is de afbraak van glucose door spieren, waarbij lactaat wordt gevormd"
-"assistant","Mooi, je hebt de kern goed te pakken! Kun je ook benoemen waar in de cel deze processen plaatsvinden? En weet je waarom het lichaam soms kiest voor anaerobe afbraak (tot lactaat) in plaats van volledige verbranding via de citroenzuurcyclus en oxidatieve fosforylatie?"
-"user","In het cytosol van de cel vindt glycolyse plaats. De citroenzuurcyclus en oxidatieve fosforylering in de mitochondriën. De cel kiest voor anaerobe dissimilatie als er geen zuurstof is, tijdens hevige inspanning bijvoorbeeld."
+Zo niet, kun je mij bijvoorbeeld uitleggen wat glycolyse inhoudt? Of is er een ander onderdeel van energiemetabolisme waar je meer over wilt weten, zoals glycogenolyse of de Cori-cyclus?","2025-09-29T16:07:53.091215+00:00"
+"user","glycolyse is de afbraak van glucose in pyruvaat, ATP en NADH. Glycogenolyse is de afbraak van glycogeen in glucosemoleculen en de Cori-cyclus is de afbraak van glucose door spieren, waarbij lactaat wordt gevormd","2025-09-29T16:10:09.777672+00:00"
+"assistant","Mooi, je hebt de kern goed te pakken! Kun je ook benoemen waar in de cel deze processen plaatsvinden? En weet je waarom het lichaam soms kiest voor anaerobe afbraak (tot lactaat) in plaats van volledige verbranding via de citroenzuurcyclus en oxidatieve fosforylatie?","2025-09-29T16:10:39.373012+00:00"
+"user","In het cytosol van de cel vindt glycolyse plaats. De citroenzuurcyclus en oxidatieve fosforylering in de mitochondriën. De cel kiest voor anaerobe dissimilatie als er geen zuurstof is, tijdens hevige inspanning bijvoorbeeld.","2025-09-29T16:12:19.518738+00:00"
 "assistant","Precies! Dat klopt. De locatie en omstandigheden zijn heel belangrijk om te begrijpen hoe energieprocessen verlopen.
 
 Laatste check: Kun je kort uitleggen wat het doel is van de Cori-cyclus – dus wat bereikt het lichaam daarmee?
 
-Als je dat nog weet, dan kunnen we de casus gaan toepassen op deze kennis."
-"user","Energie voor je spieren"
+Als je dat nog weet, dan kunnen we de casus gaan toepassen op deze kennis.","2025-09-29T16:12:25.717054+00:00"
+"user","Energie voor je spieren","2025-09-29T16:13:11.098195+00:00"
 "assistant","Dat is een goed begin! De Cori-cyclus helpt inderdaad de spieren. Mag ik je vragen:  
 Wat gebeurt er met het lactaat dat door de spieren wordt gemaakt tijdens anaerobe glycolyse? En hoe draagt de lever bij in deze cyclus?
 
-Kun je proberen deze stappen te beschrijven?"
-"user","Dat lactaat gaat via het bloed naar de lever, waar het weer wordt omgezet in pyruvaat en gebruikt tijdens de gluconeogenese. Hier wordt glucose weer uit gevormd wat weer terug kan reizen naar de spieren."
+Kun je proberen deze stappen te beschrijven?","2025-09-29T16:13:18.600955+00:00"
+"user","Dat lactaat gaat via het bloed naar de lever, waar het weer wordt omgezet in pyruvaat en gebruikt tijdens de gluconeogenese. Hier wordt glucose weer uit gevormd wat weer terug kan reizen naar de spieren.","2025-09-29T16:14:36.442926+00:00"
 "assistant","Heel mooi uitgelegd! Je beschrijft precies hoe het lactaat in de lever weer als grondstof voor glucose wordt gebruikt via gluconeogenese. Daarmee wordt de kring gesloten tussen spier en lever.
 
 Nu je deze kennis paraat hebt, gaan we terug naar de casus:
@@ -43,32 +43,32 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)  
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)  
 
-Kun je nu met de kennis die we net besproken hebben uitleggen wat er in dit geval gebeurt? Probeer zo volledig mogelijk te redeneren."
-"user","Haar lever is vergroot door de grotere hoeveelheid lactaat dan gewoonlijk, omdat de Cori-cyclus overbelast is."
+Kun je nu met de kennis die we net besproken hebben uitleggen wat er in dit geval gebeurt? Probeer zo volledig mogelijk te redeneren.","2025-09-29T16:14:58.343965+00:00"
+"user","Haar lever is vergroot door de grotere hoeveelheid lactaat dan gewoonlijk, omdat de Cori-cyclus overbelast is.","2025-09-29T16:17:35.640057+00:00"
 "assistant","Je hebt al een belangrijk punt genoemd over de overbelasting van de Cori-cyclus en het verhoogde lactaat. Zullen we samen even stilstaan bij nog een aantal punten? Denk bijvoorbeeld aan:
 
 - Waarom is haar bloedglucose zo laag, ondanks dat de lever glycogeen kan bevatten?
 - En waarom ontbreken ketonen in het bloed?
 
-Wil je die vragen eens proberen te beantwoorden? Dat kan helpen om het hele plaatje rond te krijgen."
-"user","Het glycogeen kan niet worden omgezet in glucose. Ketonen ontbreken omdat er ook nauwelijks vetverbranding is"
+Wil je die vragen eens proberen te beantwoorden? Dat kan helpen om het hele plaatje rond te krijgen.","2025-09-29T16:17:43.499396+00:00"
+"user","Het glycogeen kan niet worden omgezet in glucose. Ketonen ontbreken omdat er ook nauwelijks vetverbranding is","2025-09-29T16:20:50.884561+00:00"
 "assistant","Je zit op het juiste spoor! Je benoemt dat glycogeen niet kan worden omgezet in glucose; daardoor daalt haar bloedglucose. Over de ketonen: je zegt dat er nauwelijks vetverbranding is. Heb je overwogen waarom het lichaam misschien niet overschakelt op vetverbranding en ketonen? Of is er iets aan de hand met de energievoorziening die daarvoor nodig is?
 
-Wat weet je over de rol van insuline, glucose en de beschikbaarheid van vrije vetzuren in deze situatie? Probeer eens te bedenken waarom het lichaam in deze setting vast blijft houden aan het gebruik van glucose."
-"user","Het enzym die de glycogenolyse doet ontbreekt, dus lage bloedglucose."
+Wat weet je over de rol van insuline, glucose en de beschikbaarheid van vrije vetzuren in deze situatie? Probeer eens te bedenken waarom het lichaam in deze setting vast blijft houden aan het gebruik van glucose.","2025-09-29T16:21:00.105379+00:00"
+"user","Het enzym die de glycogenolyse doet ontbreekt, dus lage bloedglucose.","2025-09-29T16:21:28.67224+00:00"
 "assistant","Dat klopt: door het enzymsgebrek werkt glycogenolyse niet of nauwelijks, waardoor er weinig glucose in het bloed terechtkomt.
 
-Kun je nog vertellen waarom het lichaam dan extra afhankelijk wordt van anaerobe glycolyse, en wat het gevolg daarvan is voor het lactaatgehalte? Misschien kun je ook aangeven waarom gluconeogenese hier minder efficiënt is? Probeer de redenering zelf af te maken!"
-"user","hoi"
+Kun je nog vertellen waarom het lichaam dan extra afhankelijk wordt van anaerobe glycolyse, en wat het gevolg daarvan is voor het lactaatgehalte? Misschien kun je ook aangeven waarom gluconeogenese hier minder efficiënt is? Probeer de redenering zelf af te maken!","2025-09-29T16:21:36.636032+00:00"
+"user","hoi","2025-09-29T16:21:38.151038+00:00"
 "assistant","Zullen we weer verdergaan met het analyseren van de casus? Je was goed op weg! 
 
-Wil je alsnog proberen te beschrijven waarom het meisje met GSD extra afhankelijk wordt van anaerobe glycolyse en wat het gevolg daarvan is voor haar lactaatgehalte? Of heb je behoefte aan wat extra uitleg eerst?"
-"user","hoi"
-"assistant","Zullen we verdergaan met het bespreken van energiehuishouding en de casus? Als je wilt stoppen, laat het gerust weten — anders help ik je graag verder met stap-voor-stap uitleg en vragen. Waar wil je mee doorgaan?"
-"user","ben je er nog"
-"assistant","Ja, ik ben er zeker nog! Wil je verdergaan met de uitleg, of heb je een specifieke vraag over de stof of over de casus? Laat maar weten waar je hulp bij wilt!"
-"user","hoi"
-"assistant","Ik ben er! Zullen we verdergaan met het oefenen van de casus en energiehuishouding, of heb je nog specifieke vragen? Laat gerust weten waarmee je verder wilt!"
+Wil je alsnog proberen te beschrijven waarom het meisje met GSD extra afhankelijk wordt van anaerobe glycolyse en wat het gevolg daarvan is voor haar lactaatgehalte? Of heb je behoefte aan wat extra uitleg eerst?","2025-09-29T16:21:45.399011+00:00"
+"user","hoi","2025-09-29T16:22:25.107402+00:00"
+"assistant","Zullen we verdergaan met het bespreken van energiehuishouding en de casus? Als je wilt stoppen, laat het gerust weten — anders help ik je graag verder met stap-voor-stap uitleg en vragen. Waar wil je mee doorgaan?","2025-09-29T16:22:33.763422+00:00"
+"user","ben je er nog","2025-09-29T16:22:43.948406+00:00"
+"assistant","Ja, ik ben er zeker nog! Wil je verdergaan met de uitleg, of heb je een specifieke vraag over de stof of over de casus? Laat maar weten waar je hulp bij wilt!","2025-09-29T16:22:49.354149+00:00"
+"user","hoi","2025-09-29T16:22:55.384084+00:00"
+"assistant","Ik ben er! Zullen we verdergaan met het oefenen van de casus en energiehuishouding, of heb je nog specifieke vragen? Laat gerust weten waarmee je verder wilt!","2025-09-29T16:23:02.417017+00:00"
 "assistant","**1. Learning context and roles**  
 Dit gesprek vindt plaats in een medische onderwijssituatie, waarschijnlijk een één-op-één (online) tutoring of begeleidingssessie over het energiemetabolisme en glycogeenstapelingsziekten (GSD). De gebruiker is een student (vermoedelijk geneeskunde of biomedische wetenschappen) die in interactie met een tutor (AI) klinische metabole casuïstiek probeert te analyseren. Het doel van de feedback is het constructief bevorderen van de leerresultaten van de student, met focus op klinisch redeneren en biochemische context.
 
@@ -104,8 +104,8 @@ Dit gesprek vindt plaats in een medische onderwijssituatie, waarschijnlijk een �
 ---
 
 **Forward-looking guidance**  
-In het volgende gesprek zou je kunnen focussen op het bewust, volledig en stapsgewijs uitwerken van casuïstiek: verbind biochemische processen expliciet aan klinische verschijnselen en labwaarden, en wees niet bang om actief aan te geven waar je hulp of verduidelijking bij nodig hebt. Zo ontwikkel je meer klinisch redeneervermogen én zelfvertrouwen."
-"user","hoi"
+In het volgende gesprek zou je kunnen focussen op het bewust, volledig en stapsgewijs uitwerken van casuïstiek: verbind biochemische processen expliciet aan klinische verschijnselen en labwaarden, en wees niet bang om actief aan te geven waar je hulp of verduidelijking bij nodig hebt. Zo ontwikkel je meer klinisch redeneervermogen én zelfvertrouwen.","2025-09-29T16:23:30.772+00:00"
+"user","hoi","2025-09-29T16:23:54.16198+00:00"
 "assistant","Hier volgt de casus (###VIGNETTE 1###):
 
 Het lichaam slaat glucose op in de vorm van glycogeen, vooral in de lever en spieren, om energie te leveren wanneer dat nodig is—vooral tussen maaltijden of tijdens inspanning. Bij Glycogeenstapelingsziekten (GSD’s) is dit proces verstoord door aangeboren enzymdeficiënties. Hierdoor heeft het lichaam moeite om de normale bloedglucosespiegels te handhaven, vooral tijdens vasten. Om te compenseren worden andere metabole paden geactiveerd. In GSD’s functioneren ook deze alternatieven, zoals de Cori-cyclus, niet optimaal.  
@@ -114,13 +114,13 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)  
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun je uitleggen wat er in dit geval aan de hand is?"
-"user","opgezwollen buik en vergrootte lever: abnormale hoeveelheid lactaat doordat de Cori-cyclus overbelast is. Lage bloedglucose omdat de glycogenolyse niet afgerond kan worden door enzymdeficiënties. Lactaat zo hoog door wat ik net zei, overbelasting Cori-cyclus."
+Kun je uitleggen wat er in dit geval aan de hand is?","2025-09-29T16:24:12.243851+00:00"
+"user","opgezwollen buik en vergrootte lever: abnormale hoeveelheid lactaat doordat de Cori-cyclus overbelast is. Lage bloedglucose omdat de glycogenolyse niet afgerond kan worden door enzymdeficiënties. Lactaat zo hoog door wat ik net zei, overbelasting Cori-cyclus.","2025-09-29T16:26:15.191806+00:00"
 "assistant","Goede poging! Voordat we verdergaan, laten we een stapje terug doen om samen de basiskennis hiervan op te frissen. Dit helpt om straks het vervolg van de casus beter te begrijpen. Heb je op dit moment vragen of dingen die je nog niet helemaal begrijpt?
 
 Zo niet, kunnen we bijvoorbeeld even kort bespreken:  
-Weet je wat glycolyse is, en wat het doel daarvan is? Of zou je wat meer willen weten over glycogenolyse, aerobe of anaerobe stofwisseling? Je mag natuurlijk ook zelf een onderwerp kiezen waar je meer over wilt weten."
-"user","heb dit net al verteld, alle onderwerpen weet ik en snap ik"
+Weet je wat glycolyse is, en wat het doel daarvan is? Of zou je wat meer willen weten over glycogenolyse, aerobe of anaerobe stofwisseling? Je mag natuurlijk ook zelf een onderwerp kiezen waar je meer over wilt weten.","2025-09-29T16:26:26.412913+00:00"
+"user","heb dit net al verteld, alle onderwerpen weet ik en snap ik","2025-09-29T16:26:40.209324+00:00"
 "assistant","Mooi, fijn om te horen dat je je zeker voelt over de basis! Laten we dan weer teruggaan naar de casus.
 
 Hier volgt nogmaals de casus:  
@@ -130,15 +130,15 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)  
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun je nu met de kennis die je net hebt opgefrist uitleggen wat er in dit geval gebeurt? Probeer je redenering zo volledig mogelijk te geven: wat gaat er mis in de energievoorziening, hoe probeert het lichaam te compenseren, en waarom zie je juist deze specifieke bloedwaarden?"
-"user","opgezwollen buik en vergrootte lever: abnormale hoeveelheid lactaat doordat de Cori-cyclus overbelast is. Lage bloedglucose omdat de glycogenolyse niet afgerond kan worden door enzymdeficiënties. Lactaat zo hoog door wat ik net zei, overbelasting Cori-cyclus. Bloedketonen snap ik niet helemaal waarom dat negatief is"
+Kun je nu met de kennis die je net hebt opgefrist uitleggen wat er in dit geval gebeurt? Probeer je redenering zo volledig mogelijk te geven: wat gaat er mis in de energievoorziening, hoe probeert het lichaam te compenseren, en waarom zie je juist deze specifieke bloedwaarden?","2025-09-29T16:27:01.952482+00:00"
+"user","opgezwollen buik en vergrootte lever: abnormale hoeveelheid lactaat doordat de Cori-cyclus overbelast is. Lage bloedglucose omdat de glycogenolyse niet afgerond kan worden door enzymdeficiënties. Lactaat zo hoog door wat ik net zei, overbelasting Cori-cyclus. Bloedketonen snap ik niet helemaal waarom dat negatief is","2025-09-29T16:27:22.81843+00:00"
 "assistant","Goed uitgelegd! Je laat duidelijk zien dat je de koppeling tussen het falen van glycogenolyse, de rol van de Cori-cyclus, en de hoge lactaatspiegel begrijpt. Dat is een sterke basis.
 
 Wat betreft de bloedketonen: Je merkt terecht op dat die negatief zijn en vraagt je af waarom. Denk eens aan het volgende:  
 Als het lichaam lang geen glucose kan vrijmaken uit glycogeen en het overschakelt op alternatieve energiebronnen, welke processen zijn dan meestal verantwoordelijk voor de vorming van ketonen? En onder welke omstandigheden zou de productie van ketonen juist uitblijven, ondanks een lage bloedglucose?  
 
-Denk eens aan de rol van vetzuuroxidatie en de invloed van insuline in deze situatie. Kan je van daaruit een reden bedenken voor de afwezigheid van ketonen in het bloed van dit meisje?"
-"user","Als vet niet afgebroken kan worden zal de productie van ketonen uitblijven. Wat heeft insuline hiermee te maken"
+Denk eens aan de rol van vetzuuroxidatie en de invloed van insuline in deze situatie. Kan je van daaruit een reden bedenken voor de afwezigheid van ketonen in het bloed van dit meisje?","2025-09-29T16:27:37.248882+00:00"
+"user","Als vet niet afgebroken kan worden zal de productie van ketonen uitblijven. Wat heeft insuline hiermee te maken","2025-09-29T16:29:02.194225+00:00"
 "assistant","Goede vraag! Je zegt: “Als vet niet afgebroken kan worden zal de productie van ketonen uitblijven.” Dat klopt: voor ketonvorming is vetzuuroxidatie nodig. 
 
 Nu je vraagt waar insuline hierbij een rol speelt:  
@@ -147,8 +147,8 @@ Wat weet je over het effect van insuline op de vetafbraak (lipolyse) en ketonvor
 - Is insulinespiegel hoog of laag bij dit meisje?  
 - Hoe beïnvloedt dit de beschikbaarheid van vetzuren voor ketonproductie?  
 
-Kun je deze redenering afmaken?"
-"user","Insuline remt vetafbraak, dus dan zal de spiegel hoog zijn"
+Kun je deze redenering afmaken?","2025-09-29T16:29:17.396995+00:00"
+"user","Insuline remt vetafbraak, dus dan zal de spiegel hoog zijn","2025-09-29T16:29:41.962233+00:00"
 "assistant","Dat is een mooie redenering! Je hebt gelijk dat insuline vetafbraak remt. Denk nu nog even na:  
 Bij een gezond persoon gaat een lage bloedglucose (zoals bij vasten) meestal gepaard met een lage insulinespiegel, waardoor vetafbraak en ketonproductie worden gestimuleerd. 
 
@@ -156,8 +156,8 @@ Maar bij dit meisje met GSD:
 Kun je bedenken waarom de insulinespiegel bij haar juist niet zo laag is als je zou verwachten, ondanks de hypoglykemie? Heeft dit misschien te maken met het hoge lactaat of andere metabolieten in haar bloed?  
 Probeer te bedenken hoe de overmaat aan glucose-voorlopers of andere stoffen effect kan hebben op insuline-afgifte of -werking. Welke alternatieven gebruikt haar lichaam om toch aan energie te komen, en houden die de insulineproductie misschien onbedoeld te hoog?
 
-Probeer jouw redenering nog eens aan te vullen."
-"user","aminozuren, eiwitten"
+Probeer jouw redenering nog eens aan te vullen.","2025-09-29T16:29:55.595837+00:00"
+"user","aminozuren, eiwitten","2025-09-29T16:30:32.318856+00:00"
 "assistant","Interessante gedachte! Aminozuren en eiwitten kunnen inderdaad als alternatieve energiebronnen dienen wanneer glucose schaars is.  
 
 Laten we kijken:  
@@ -170,8 +170,8 @@ Misschien helpt het als je nadenkt over deze vragen:
 - Welke stofwisselingsproducten hopen zich op en wat voor effect heeft dat op het lichaam?  
 - En als glycolyse continu doorgaat (met hoge lactaatproductie) en gluconeogenese onvoldoende werkt, kan het lichaam dan wel goed switchen naar vetafbraak en ketonvorming?
 
-Kan je op basis hiervan nog een poging doen om het ontbreken van ketonen verder te verklaren?"
-"user","het lactaat wordt weer omgezet in glucose?"
+Kan je op basis hiervan nog een poging doen om het ontbreken van ketonen verder te verklaren?","2025-09-29T16:30:51.571109+00:00"
+"user","het lactaat wordt weer omgezet in glucose?","2025-09-29T16:31:18.348699+00:00"
 "assistant","**Identificeer de leercontext en rollen**  
 Dit gesprek vindt plaats in een medische tutoringsessie waarin de gebruiker een metabole casus (glycogeenstapelingsziekte bij een jong kind) uit probeert te leggen en te analyseren. Het doel van de feedback is om de analytische en klinisch-redeneervaardigheden van de gebruiker verder te versterken en hun communicatie over pathofysiologische processen te verbeteren.
 
@@ -196,4 +196,4 @@ Dit gesprek vindt plaats in een medische tutoringsessie waarin de gebruiker een 
    *Hoe te implementeren*: Gebruik bij elk antwoord voorbeelden uit de casus (“bij dit meisje leidt de enzymdeficiëntie tot…”) en benoem expliciet hoe elk genoemd proces zich uit in het lab of het klinische beeld.
 
 **Forward-looking guidance**  
-In het volgende gesprek kun je proberen je antwoorden uit te breiden met stapsgewijze redeneringen en steeds expliciet de koppeling maken tussen pathofysiologie en klinische verschijnselen. Focus vooral op het actief tonen van je denkproces, ook als je het even niet zeker weet."
+In het volgende gesprek kun je proberen je antwoorden uit te breiden met stapsgewijze redeneringen en steeds expliciet de koppeling maken tussen pathofysiologie en klinische verschijnselen. Focus vooral op het actief tonen van je denkproces, ook als je het even niet zeker weet.","2025-09-29T16:33:32.433+00:00"

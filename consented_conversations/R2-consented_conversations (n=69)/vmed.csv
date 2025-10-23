@@ -1,7 +1,7 @@
-"role","content"
-"user","laten we beginnen"
-"user","laten we beginnen"
-"user","ik ben klaar om te beginnen"
+"role","content","created_at"
+"user","laten we beginnen","2025-09-29T15:32:38.08166+00:00"
+"user","laten we beginnen","2025-09-29T15:35:31.729629+00:00"
+"user","ik ben klaar om te beginnen","2025-09-29T15:36:04.739335+00:00"
 "assistant","Prima! Hier is het eerste klinische geval nogmaals:
 
 De opslag van glucose in het lichaam gebeurt vooral als glycogeen, voornamelijk in de lever en de spieren. Dit glycogeen kan worden afgebroken wanneer er behoefte is aan energie — bijvoorbeeld tussen de maaltijden door of tijdens inspanning. Bij Glycogeenstapelingsziekten (GSD’s) is deze afbraak door aangeboren enzymtekorten verstoord. Hierdoor heeft het lichaam moeite om een normale bloedsuikerspiegel te handhaven, vooral tijdens vasten. Als compensatie worden andere metabole routes geactiveerd. In GSD’s zijn alternatieve wegen, zoals de Cori-cyclus, vaak extra belast.
@@ -10,37 +10,37 @@ Bloedsuiker: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)  
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun je uitleggen wat er in dit geval is gebeurd?"
-"user","ze heeft een lage bleodsuikerspiegel een vergrootte lever en te veel lactaat opgeslagen, wat inhoudt dat de het pyruvaat niet in de cori-cyclus wordt gebruikt maar net zoals bij de anaerobe assymilatie omgezet in lactaat. dus de glycogeen opslag kan niet meer terug worden omgezet in glucose"
-"user","ze heeft een lage bleodsuikerspiegel een vergrootte lever en te veel lactaat opgeslagen, wat inhoudt dat de het pyruvaat niet in de cori-cyclus wordt gebruikt maar net zoals bij de anaerobe assymilatie omgezet in lactaat. dus de glycogeen opslag kan niet meer terug worden omgezet in glucose"
-"user","ze heeft een lage bleodsuikerspiegel een vergrootte lever en te veel lactaat opgeslagen, wat inhoudt dat de het pyruvaat niet in de cori-cyclus wordt gebruikt maar net zoals bij de anaerobe assymilatie omgezet in lactaat. dus de glycogeen opslag kan niet meer terug worden omgezet in glucose"
-"user","ze heeft een lage bleodsuikerspiegel een vergrootte lever en te veel lactaat opgeslagen, wat inhoudt dat de het pyruvaat niet in de cori-cyclus wordt gebruikt maar net zoals bij de anaerobe assymilatie omgezet in lactaat. dus de glycogeen opslag kan niet meer terug worden omgezet in glucose"
+Kun je uitleggen wat er in dit geval is gebeurd?","2025-09-29T15:36:21.7967+00:00"
+"user","ze heeft een lage bleodsuikerspiegel een vergrootte lever en te veel lactaat opgeslagen, wat inhoudt dat de het pyruvaat niet in de cori-cyclus wordt gebruikt maar net zoals bij de anaerobe assymilatie omgezet in lactaat. dus de glycogeen opslag kan niet meer terug worden omgezet in glucose","2025-09-29T15:40:03.101911+00:00"
+"user","ze heeft een lage bleodsuikerspiegel een vergrootte lever en te veel lactaat opgeslagen, wat inhoudt dat de het pyruvaat niet in de cori-cyclus wordt gebruikt maar net zoals bij de anaerobe assymilatie omgezet in lactaat. dus de glycogeen opslag kan niet meer terug worden omgezet in glucose","2025-09-29T15:40:42.363374+00:00"
+"user","ze heeft een lage bleodsuikerspiegel een vergrootte lever en te veel lactaat opgeslagen, wat inhoudt dat de het pyruvaat niet in de cori-cyclus wordt gebruikt maar net zoals bij de anaerobe assymilatie omgezet in lactaat. dus de glycogeen opslag kan niet meer terug worden omgezet in glucose","2025-09-29T15:41:00.328046+00:00"
+"user","ze heeft een lage bleodsuikerspiegel een vergrootte lever en te veel lactaat opgeslagen, wat inhoudt dat de het pyruvaat niet in de cori-cyclus wordt gebruikt maar net zoals bij de anaerobe assymilatie omgezet in lactaat. dus de glycogeen opslag kan niet meer terug worden omgezet in glucose","2025-09-29T15:41:28.921425+00:00"
 "assistant","Goed dat je probeert te beredeneren hoe de verschillende processen werken! Je noemt pyruvaat, de Cori-cyclus, anaerobe omzetting en glycogeen. Voordat we straks verdergaan met de klinische toepassing, laten we even samen de basiskennis ophalen.
 
 Kun je in je eigen woorden uitleggen wat **glycolyse** is? Of heb je liever dat we eerst kort het verschil bespreken tussen **glycolyse** en **glycogenolyse**?  
-Als je ergens over twijfelt hoor ik het graag!"
-"user","de glycolyse is een proces dat het glcose molecuul omzet in pyruvaat door 10 stappen. in de eerste 5 stappen wordt er atp gebruikt, en in de laatste 5 stappen komt atp vrij"
+Als je ergens over twijfelt hoor ik het graag!","2025-09-29T15:41:41.616425+00:00"
+"user","de glycolyse is een proces dat het glcose molecuul omzet in pyruvaat door 10 stappen. in de eerste 5 stappen wordt er atp gebruikt, en in de laatste 5 stappen komt atp vrij","2025-09-29T15:46:37.013136+00:00"
 "assistant","Mooie samenvatting! Je hebt goed het onderscheid tussen de investeringsfase (ATP gebruikt) en de opbrengstfase (ATP gevormd) benoemd.  
 
 Mag ik je vragen:  
 - Wat zijn de belangrijkste **producten** van glycolyse per glucosemolecuul?
 - En weet je waar in de cel deze glycolyse precies plaatsvindt?
 
-Dit helpt om de volgende stappen in het energiemetabolisme straks goed te begrijpen!"
-"user","het vind in het cytoplasma plaats en de belangrijkste producten weet ik niet"
+Dit helpt om de volgende stappen in het energiemetabolisme straks goed te begrijpen!","2025-09-29T15:46:45.376213+00:00"
+"user","het vind in het cytoplasma plaats en de belangrijkste producten weet ik niet","2025-09-29T15:47:24.435201+00:00"
 "assistant","Heel goed, glycolyse vindt inderdaad plaats in het cytoplasma!
 
 Wat betreft de producten: Kun je je herinneren hoeveel moleculen ATP, NADH en pyruvaat er vrijkomen uit één glucose tijdens glycolyse?  
 Of als dat lastig is: weet je waarvoor NADH belangrijk is in het verdere metabolisme?
 
-En als je wilt, mag je ook eerst kort uitleggen wat NADH is of doet als co-enzym."
-"user","er komen 2 atp en 2 nadh en 2 pyruvaat vrij, waarvoor de nadh precies is weet ik niet"
+En als je wilt, mag je ook eerst kort uitleggen wat NADH is of doet als co-enzym.","2025-09-29T15:47:32.971123+00:00"
+"user","er komen 2 atp en 2 nadh en 2 pyruvaat vrij, waarvoor de nadh precies is weet ik niet","2025-09-29T15:48:09.810317+00:00"
 "assistant","Prima! Je noemt het goed: per glucose ontstaan 2 ATP, 2 NADH en 2 pyruvaat. Goed gedaan.
 
 Wat NADH betreft: het is inderdaad niet altijd meteen duidelijk waar dit voor dient. NADH is in feite een elektronendrager, oftewel het vervoert elektronen (en daarmee energie) door in het metabolisme ergens anders naartoe te gaan.
 
-Weet je misschien in welke metabole route(s) NADH direct een rol speelt bij de productie van meer ATP? Of heb je daar nog uitleg bij nodig?"
-"user","ja daar heb ik nog uitleg bij nodig"
+Weet je misschien in welke metabole route(s) NADH direct een rol speelt bij de productie van meer ATP? Of heb je daar nog uitleg bij nodig?","2025-09-29T15:48:22.003793+00:00"
+"user","ja daar heb ik nog uitleg bij nodig","2025-09-29T15:48:33.114089+00:00"
 "assistant","Geen probleem! Even kort en overzichtelijk:
 
 NADH wordt vooral gebruikt in de **oxidatieve fosforylering** (de laatste stap van de aerobe dissimilatie). In de mitochondriën geven NADH-moleculen hun elektronen af aan de **elektronentransportketen**. Hierdoor ontstaat een protonengradiënt over het binnenmembraan van het mitochondrion, wat uiteindelijk nodig is om veel ATP te maken via het enzym ATP-synthase.
@@ -50,19 +50,19 @@ Samengevat:
 2. Hierdoor wordt een protonengradiënt opgebouwd.
 3. Die gradiënt zorgt voor grootschalige ATP-productie.
 
-Heb je daar nog vragen over, of wil je weten hoe pyruvaat verder verwerkt wordt, bijvoorbeeld in de citroenzuurcyclus?"
-"user","waarvoor dient de nad en nadh in de glycolyse"
+Heb je daar nog vragen over, of wil je weten hoe pyruvaat verder verwerkt wordt, bijvoorbeeld in de citroenzuurcyclus?","2025-09-29T15:48:47.436838+00:00"
+"user","waarvoor dient de nad en nadh in de glycolyse","2025-09-29T15:49:18.237205+00:00"
 "assistant","Goede vraag! NAD+ en NADH spelen in de glycolyse een essentiële rol bij het opnemen en doorgeven van elektronen.
 
 Tijdens een van de laatste stappen in de glycolyse wordt glucose omgezet in pyruvaat. Hierbij wordt NAD+ gereduceerd tot NADH door het opnemen van elektronen en waterstof. NADH draagt deze energierijke elektronen vervolgens verder in de cel.
 
-Stel je voor dat NAD+ als een ""elektronentaxi"" werkt. Wat zou er gebeuren als er geen NAD+ meer beschikbaar is in de glycolyse? Kun je bedenken welk probleem dat zou geven voor het hele proces van energievoorziening?"
-"user","als er geen nad beschikbaar zou zijn dan zou het proces stuk lopen, aangzien de h moleculen ook ergens aan moeten binden om zo verder in het proces te komen"
+Stel je voor dat NAD+ als een ""elektronentaxi"" werkt. Wat zou er gebeuren als er geen NAD+ meer beschikbaar is in de glycolyse? Kun je bedenken welk probleem dat zou geven voor het hele proces van energievoorziening?","2025-09-29T15:49:30.228642+00:00"
+"user","als er geen nad beschikbaar zou zijn dan zou het proces stuk lopen, aangzien de h moleculen ook ergens aan moeten binden om zo verder in het proces te komen","2025-09-29T15:50:30.321986+00:00"
 "assistant","Helemaal juist! Zonder NAD+ kan glycolyse niet verder, want de elektronen (waterstofatomen) moeten inderdaad ergens naartoe. NAD+ is dus essentieel voor het doorgaan van glycolyse.
 
 Kleine vervolgvraag om je begrip verder te testen:  
-Stel dat cellen in het lichaam weinig zuurstof beschikbaar hebben (zoals bij intensieve inspanning of een metabole aandoening) — weet je hoe het lichaam NAD+ kan blijven aanvullen zodat de glycolyse tóch kan doorgaan?"
-"user","dit heeft te maken met het lactaat dat wordt opgebouwd omdat het pyruvaat niet verder kan in de cori-cyclus"
+Stel dat cellen in het lichaam weinig zuurstof beschikbaar hebben (zoals bij intensieve inspanning of een metabole aandoening) — weet je hoe het lichaam NAD+ kan blijven aanvullen zodat de glycolyse tóch kan doorgaan?","2025-09-29T15:50:48.122534+00:00"
+"user","dit heeft te maken met het lactaat dat wordt opgebouwd omdat het pyruvaat niet verder kan in de cori-cyclus","2025-09-29T15:51:31.107733+00:00"
 "assistant","Je zit in de goede richting! Je noemt lactaat en pyruvaat, wat inderdaad belangrijk is bij zuurstoftekort. Maar laten we het nog iets explicieter maken: 
 
 Wanneer er weinig zuurstof is, kan pyruvaat namelijk niet de mitochondriën in voor de citroenzuurcyclus en oxidatieve fosforylering. In plaats daarvan wordt pyruvaat omgezet in lactaat. Hierbij wordt NADH weer geoxideerd tot NAD+, zodat dit NAD+ opnieuw kan worden gebruikt in de glycolyse.
@@ -71,8 +71,8 @@ Dus, door de omzetting van pyruvaat naar lactaat tijdens anaerobe omstandigheden
 
 Weet je nu ook, of wil je samen bespreken:
 - Wat de rol van de **Cori-cyclus** is bij deze verwerking van lactaat?  
-Of is er nog een ander onderdeel van energievoorziening waar je over wilt napraten voor we verdergaan met de casus?"
-"user","de cori-cyclus is waar het pyruvaat heen gaat bij de aerobe"
+Of is er nog een ander onderdeel van energievoorziening waar je over wilt napraten voor we verdergaan met de casus?","2025-09-29T15:51:48.306367+00:00"
+"user","de cori-cyclus is waar het pyruvaat heen gaat bij de aerobe","2025-09-29T15:53:23.822346+00:00"
 "assistant","Je verwart het een beetje met een andere route! Zal ik het kort schetsen zodat je je kennis kunt aanscherpen?
 
 De **Cori-cyclus** beschrijft hoe lactaat (dat in het spierweefsel ontstaat bij anaerobe glycolyse) via het bloed naar de lever wordt getransporteerd. Daar wordt het lactaat weer omgezet in pyruvaat, en vervolgens in glucose (via gluconeogenese). Deze glucose kan dan weer terug naar de spieren om als brandstof te dienen.  
@@ -81,8 +81,8 @@ Dus:
 - **Lactaat via het bloed naar de lever**
 - **In de lever**: Lactaat → pyruvaat → glucose
 
-Kan je aan de hand hiervan uitleggen waarom de Cori-cyclus extra belangrijk wordt als je glycogeenvoorraad niet kunt aanspreken, zoals bij het meisje uit de casus? Of wil je eerst nog iets verduidelijkt hebben over de cyclus zelf?"
-"user","de glucose is dan nog niet omgezet naar glycogeen waar je dan dus niet bij kan en als de lever het weer om kan zetten in glucose kan dit toch worden gebruikt om je bloedspiegel een beetje omhoog te houden"
+Kan je aan de hand hiervan uitleggen waarom de Cori-cyclus extra belangrijk wordt als je glycogeenvoorraad niet kunt aanspreken, zoals bij het meisje uit de casus? Of wil je eerst nog iets verduidelijkt hebben over de cyclus zelf?","2025-09-29T15:53:38.742584+00:00"
+"user","de glucose is dan nog niet omgezet naar glycogeen waar je dan dus niet bij kan en als de lever het weer om kan zetten in glucose kan dit toch worden gebruikt om je bloedspiegel een beetje omhoog te houden","2025-09-29T15:55:26.63102+00:00"
 "assistant","Precies, je bent goed op weg met je redenering! Glucose kan via de Cori-cyclus inderdaad weer worden teruggegeven aan het bloed, zodat andere weefsels het kunnen gebruiken als energiebron, zeker als directe glycogeenafbraak niet mogelijk is.
 
 Goed, laten we nu je kennis toepassen op het casusvoorbeeld:
@@ -94,8 +94,8 @@ Bloedsuiker: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)  
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Nu je de kennis hebt opgefrist: Kun je uitleggen wat er in dit geval gebeurt met wat je net hebt geleerd? Wat zie je nu als belangrijkste processen die opvallen in deze situatie?"
-"user","de bloedsuiker is laag wat komt doordat de glucose die ze binnen krijgt wordt omgezet in glycogeen waar ze bij het vasten niet bij kan. wat niet wordt omgezet is bij de glycolyse van glucose naar pyruvaat omgezet en dit wordt dan in lactaat verandert wat je dan uiteindelijk in je lever weer om kan zetten in glucose"
+Nu je de kennis hebt opgefrist: Kun je uitleggen wat er in dit geval gebeurt met wat je net hebt geleerd? Wat zie je nu als belangrijkste processen die opvallen in deze situatie?","2025-09-29T15:55:48.438677+00:00"
+"user","de bloedsuiker is laag wat komt doordat de glucose die ze binnen krijgt wordt omgezet in glycogeen waar ze bij het vasten niet bij kan. wat niet wordt omgezet is bij de glycolyse van glucose naar pyruvaat omgezet en dit wordt dan in lactaat verandert wat je dan uiteindelijk in je lever weer om kan zetten in glucose","2025-09-29T15:58:53.625372+00:00"
 "assistant","Goed, je zet al een mooie redeneerlijn op! Je benoemt zowel het probleem met de glycogeenafbraak als de alternatieve route via lactaat.
 
 Laten we die aspecten verder verduidelijken voor een compleet plaatje:
@@ -104,14 +104,14 @@ Laten we die aspecten verder verduidelijken voor een compleet plaatje:
 - Dan geef je aan: “...en dit wordt dan in lactaat veranderd dat je uiteindelijk in de lever weer om kan zetten in glucose.” Mooi, dat is de Cori-cyclus.
 
 Nu een verdiepende vraag voor je zelf-explanatie:  
-Waarom zie je bij dit meisje een verhoogd lactaat in het bloed? En waarom zijn er geen ketonen aanwezig, terwijl het lichaam in een soort vasten-toestand is? Wat zegt dat over haar energiemetabolisme? Probeer stap voor stap te beredeneren!"
-"user","ketonen heeft te maken met de vetopslag volgensmij en deze worden dan niet aangesproken, pas veel later, als je langer aan het vasten bent"
+Waarom zie je bij dit meisje een verhoogd lactaat in het bloed? En waarom zijn er geen ketonen aanwezig, terwijl het lichaam in een soort vasten-toestand is? Wat zegt dat over haar energiemetabolisme? Probeer stap voor stap te beredeneren!","2025-09-29T15:59:13.112265+00:00"
+"user","ketonen heeft te maken met de vetopslag volgensmij en deze worden dan niet aangesproken, pas veel later, als je langer aan het vasten bent","2025-09-29T16:00:37.19166+00:00"
 "assistant","Dat is een logische gedachte! Je koppelt ketonen goed aan vetverbranding — die ontstaan inderdaad vooral uit vetzuren als brandstofbron bij langdurig vasten.
 
 Een vervolgvraag om je verder te laten nadenken:
 Als je glycogeen niet kunt afbreken door haar ziekte, zou je denken dat haar lichaam vetzuren zou gaan gebruiken voor energie, toch? Maar ze maakt nauwelijks ketonen aan.  
-Zou je kunnen bedenken waarom haar lichaam in deze situatie moeite heeft om te schakelen naar vetverbranding/ketogenese? Of wat daar een metabole belemmering voor kan zijn? Heb je daar misschien al ideeën over?"
-"user","nee"
+Zou je kunnen bedenken waarom haar lichaam in deze situatie moeite heeft om te schakelen naar vetverbranding/ketogenese? Of wat daar een metabole belemmering voor kan zijn? Heb je daar misschien al ideeën over?","2025-09-29T16:00:52.083205+00:00"
+"user","nee","2025-09-29T16:00:59.522905+00:00"
 "assistant","Dat is helemaal niet erg! Hier een suggestie om je te helpen denken:
 
 Denk eraan dat bij langdurig vasten normaal gesproken het lichaam overschakelt op vetzuuroxidatie en ketonvorming om energie voor vooral de hersenen te leveren. Maar bij sommige GSD’s (zoals type I) ontstaat er zoveel lactaat en pyruvaat, dat deze stoffen in de lever eigenlijk de productie van acetyl-CoA (en dus ketonlichamen) kunnen remmen. Bovendien is de gluconeogenese in de lever beperkt door het enzymdefect, waardoor ook vetzuuroxidatie niet goed leidt tot ketonproductie.
@@ -120,7 +120,7 @@ Misschien helpt deze gedachte:
 Wat gebeurt er als heel veel pyruvaat (en dus lactaat) zich ophoopt in de lever? Denk aan de metabolische 'filevorming'.  
 Kan de lever dan normale energieproductieroutes goed uitvoeren? En wat denk je dat er gebeurt met de productie van ATP en de aanmaak van alternatieve brandstoffen zoals ketonen?
 
-Probeer daarop eens verder te redeneren."
+Probeer daarop eens verder te redeneren.","2025-09-29T16:01:16.735525+00:00"
 "assistant","**1. Identified Learning Context and Roles**  
 Deze interactie lijkt op een tutoriënde (bijles/supervisie) sessie in de medische biochemie, gericht op het verdiepen van kennis over energiemetabolisme, glycolyse, glycogeenstapelingsziekten (GSD’s), en metabole routes bij pathologie. Doel van deze feedback is om de student (user) constructief te ondersteunen in zijn/haar begripsvorming, klinisch redeneren en communicatie rond deze metabole casus.
 
@@ -163,4 +163,4 @@ Deze interactie lijkt op een tutoriënde (bijles/supervisie) sessie in de medisc
 ---
 
 **Forward-looking guidance**  
-In het volgende gesprek is het zinvol om antwoorden verder te structureren en bewuster te reflecteren op waar je vastloopt, zodat je meer eigenaarschap neemt over je leerproces. Focus op precisie en durf kennisleemtes te benoemen én actief te verkennen."
+In het volgende gesprek is het zinvol om antwoorden verder te structureren en bewuster te reflecteren op waar je vastloopt, zodat je meer eigenaarschap neemt over je leerproces. Focus op precisie en durf kennisleemtes te benoemen én actief te verkennen.","2025-09-29T16:03:16.432+00:00"

@@ -1,0 +1,53 @@
+"role","content","created_at"
+"user","laten we beginnen","2025-09-29T16:54:36.422939+00:00"
+"assistant","Hier is de casus waarmee we gaan starten:
+
+###VIGNETTE 1###
+Het lichaam slaat glucose op als glycogeen, vooral in de lever en spieren, voor momenten dat er energie nodig is — met name tussen maaltijden of tijdens inspanning. 
+Bij Glycogeenstapelingsziekten (GSD's) is dit proces verstoord door aangeboren enzymdeficiënties. Hierdoor heeft het lichaam moeite om normale bloedglucosewaarden op peil te houden, zeker tijdens vasten. Als compensatie activeert het andere metabole routes. In GSD’s zijn de alternatieve paden, zoals de Cori-cyclus, 
+Een 3-jarig meisje met GSD bezoekt haar arts omdat ze erg prikkelbaar is en haar buik opgezwollen lijkt. Haar lever is vergroot, en bloedonderzoek laat het volgende zien:
+Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
+Bloedketonen: Negatief (normaal: negatief)
+Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
+
+Kun je uitleggen wat er in dit geval is gebeurd?","2025-09-29T16:54:52.377961+00:00"
+"user","Verhoging van de anearobe glycolyse","2025-09-29T17:05:38.699319+00:00"
+"assistant","Goed, je noemt een verhoging van de anaerobe glycolyse. Interessant dat je dat direct verbindt aan wat er misgaat in deze casus! 
+
+Voordat we verdergaan, laten we een stapje terug doen en de basiskennis samen kort doorlopen — dat helpt om straks de puzzel volledig te leggen. Heb je tot nu toe vragen of dingen die niet duidelijk zijn? 
+
+Zo niet, kun je me vertellen wat je weet over glycolyse? Wat gebeurt er globaal tijdens glycolyse, en wat zijn normaal gesproken de belangrijkste producten?","2025-09-29T17:05:48.278101+00:00"
+"user","glycolyse is een stap in het proces van de citroenzuurcyclus waarbij pyruvaat wort gevormd","2025-09-29T17:06:24.760964+00:00"
+"assistant","Mooi, je laat zien dat je weet dat glycolyse leidt tot de vorming van pyruvaat, en dat dit deel is van het grotere plaatje van energieproductie!
+
+Is het je duidelijk waar in de cel glycolyse plaatsvindt, en of dit zuurstof nodig heeft? En kun je kort aangeven wat de belangrijkste energierijke producten zijn van glycolyse? 
+
+Laat gerust weten als je wilt dat ik je hierbij help.","2025-09-29T17:06:34.15233+00:00"
+"user","in het cytoplasma en nee het heeft geen zuurstof nodig , ATP","2025-09-29T17:07:05.891735+00:00"
+"assistant","Goed gedaan! Glycolyse vindt inderdaad plaats in het cytoplasma en er is geen zuurstof voor nodig. Je noemt ATP als belangrijk product, dat klopt. Er komen er ook nog wat andere producten vrij tijdens glycolyse. Weet je welke dat zijn, naast ATP en pyruvaat? 
+
+En wat gebeurt er eigenlijk met het pyruvaat als er wél zuurstof beschikbaar is – en wat als zuurstof juist níet beschikbaar is?","2025-09-29T17:07:17.415643+00:00"
+"user","NADH en FADH,H","2025-09-29T17:07:28.261257+00:00"
+"assistant","Bijna goed! Tijdens glycolyse wordt inderdaad NADH gevormd, maar FADH2 niet; FADH2 wordt later, bij de citroenzuurcyclus, gemaakt. 
+
+Nog even over je tweede vraag: wat gebeurt er met pyruvaat?
+- Als er genoeg zuurstof is, wordt pyruvaat omgezet zodat het de citroenzuurcyclus in kan. 
+- Als er geen zuurstof is, wordt pyruvaat in iets anders omgezet.
+
+Kun jij benoemen wat er met pyruvaat gebeurt als er **geen** zuurstof beschikbaar is? Welk metaboliet ontstaat er dan?","2025-09-29T17:07:37.992434+00:00"
+"user","lactaat","2025-09-29T17:07:49.164142+00:00"
+"assistant","Precies, heel goed! Zonder zuurstof wordt pyruvaat omgezet in lactaat. Op deze manier kan NAD+ worden geregenereerd zodat glycolyse kan doorgaan — belangrijk wanneer de cellen snel energie willen maken, maar geen zuurstof beschikbaar is.
+
+Goed, volgens mij heb je hiermee de basis van glycolyse scherp. Wil je dat we nu al kort glycogenolyse bespreken, of voel je je daar voldoende zeker over? En zijn er nog andere processen waar je graag kort op wilt terugpakken voordat we teruggaan naar de casus?","2025-09-29T17:07:59.08276+00:00"
+"user","nee hoor dat kan ik aan","2025-09-29T17:08:24.451156+00:00"
+"assistant","Mooi! Dan gaan we nu terug naar de casus en passen we jouw kennis toe:
+
+###VIGNETTE 1###
+Het lichaam slaat glucose op als glycogeen, vooral in de lever en spieren, voor momenten dat er energie nodig is — met name tussen maaltijden of tijdens inspanning. 
+Bij Glycogeenstapelingsziekten (GSD's) is dit proces verstoord door aangeboren enzymdeficiënties. Hierdoor heeft het lichaam moeite om normale bloedglucosewaarden op peil te houden, zeker tijdens vasten. Als compensatie activeert het andere metabole routes. In GSD’s zijn de alternatieve paden, zoals de Cori-cyclus, 
+Een 3-jarig meisje met GSD bezoekt haar arts omdat ze erg prikkelbaar is en haar buik opgezwollen lijkt. Haar lever is vergroot, en bloedonderzoek laat het volgende zien:
+Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
+Bloedketonen: Negatief (normaal: negatief)
+Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
+
+Nu je de basis weer scherp hebt: kun je met deze kennis uitleggen wat er precies is gebeurd in dit geval?","2025-09-29T17:08:42.314479+00:00"

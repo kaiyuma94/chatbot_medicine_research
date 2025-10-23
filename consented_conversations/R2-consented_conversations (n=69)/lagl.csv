@@ -1,5 +1,5 @@
-"role","content"
-"user","Ik ben klaar om te beginnen"
+"role","content","created_at"
+"user","Ik ben klaar om te beginnen","2025-09-29T15:34:27.90905+00:00"
 "assistant","Mooi, laten we starten!
 
 Hier is de eerste casus:
@@ -12,45 +12,45 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: negatief (normaal: negatief)
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun jij uitleggen wat er in dit geval gebeurd is?"
-"user","Er is een verlaagd bloedglucose en verhoogd lactaat. Dit houd in dat er waarschijnlijk een deffect in het hypoglyse en gluconeogenese"
+Kun jij uitleggen wat er in dit geval gebeurd is?","2025-09-29T15:34:44.275525+00:00"
+"user","Er is een verlaagd bloedglucose en verhoogd lactaat. Dit houd in dat er waarschijnlijk een deffect in het hypoglyse en gluconeogenese","2025-09-29T15:38:43.834216+00:00"
 "assistant","Goed geprobeerd! Voordat we verder gaan met deze casus, laten we even een stapje terug doen en samen wat basiskennis ophalen. Zo versterken we het begrip rondom de processen waar je zojuist naar verwijst. Heb je vragen of onzekerheden tot nu toe?
 
-Zo niet, kun je mij dan kort uitleggen wat glycolyse inhoudt? Wat gebeurt er tijdens dit proces en waar in de cel speelt het zich af?"
-"user","Glycolyse is de afbraak van glucose naar glycogeen"
+Zo niet, kun je mij dan kort uitleggen wat glycolyse inhoudt? Wat gebeurt er tijdens dit proces en waar in de cel speelt het zich af?","2025-09-29T15:38:52.202732+00:00"
+"user","Glycolyse is de afbraak van glucose naar glycogeen","2025-09-29T15:39:22.767623+00:00"
 "assistant","Bijna goed, maar let even op: glycolyse is niet de afbraak van glucose naar glycogeen, maar iets anders. Weet je nog wát er van glucose wordt gemaakt bij glycolyse — en wat levert het op qua energie en tussenproducten?
 
-Wil je het nog eens proberen? Wat gebeurt er precies met een glucosemolecuul tijdens de glycolyse?"
-"user","glucose word afgebroken tot pyruvaat in dit proces. Hierbij ontstaat ATP"
+Wil je het nog eens proberen? Wat gebeurt er precies met een glucosemolecuul tijdens de glycolyse?","2025-09-29T15:39:30.259505+00:00"
+"user","glucose word afgebroken tot pyruvaat in dit proces. Hierbij ontstaat ATP","2025-09-29T15:40:33.882905+00:00"
 "assistant","Heel goed! Inderdaad, tijdens de glycolyse wordt één glucosemolecuul in het cytoplasma afgebroken tot twee moleculen pyruvaat, waarbij er ook ATP geproduceerd wordt.
 
-Om het nog iets verder te specificeren: weet je welke andere belangrijke energie-drager wordt gevormd naast ATP? Bijvoorbeeld een molecuul dat elektronen kan dragen richting de mitochondriën?"
-"user","Het molecuul wat elektronen kan dragen richting de mitochondrien dat is acetylCoA"
-"assistant","Dat is een logische gedachte, maar nog niet helemaal juist. Acetyl-CoA ontstaat inderdaad later, maar bij de glycolyse wordt er eerst een andere elektronendrager gevormd. Kun je bedenken welke dat is? Denk aan een co-enzym dat elektronen tijdelijk opvangt tijdens de afbraak van glucose in het cytoplasma. Weet je welke ik bedoel?"
-"user","NADH en FADN zijn de elektronen dragers in dit proces. OOk heb je nog de oxidatieve fosyolering en de citroenzuurcyclus"
+Om het nog iets verder te specificeren: weet je welke andere belangrijke energie-drager wordt gevormd naast ATP? Bijvoorbeeld een molecuul dat elektronen kan dragen richting de mitochondriën?","2025-09-29T15:40:41.661527+00:00"
+"user","Het molecuul wat elektronen kan dragen richting de mitochondrien dat is acetylCoA","2025-09-29T15:41:40.080259+00:00"
+"assistant","Dat is een logische gedachte, maar nog niet helemaal juist. Acetyl-CoA ontstaat inderdaad later, maar bij de glycolyse wordt er eerst een andere elektronendrager gevormd. Kun je bedenken welke dat is? Denk aan een co-enzym dat elektronen tijdelijk opvangt tijdens de afbraak van glucose in het cytoplasma. Weet je welke ik bedoel?","2025-09-29T15:42:12.411844+00:00"
+"user","NADH en FADN zijn de elektronen dragers in dit proces. OOk heb je nog de oxidatieve fosyolering en de citroenzuurcyclus","2025-09-29T15:43:55.859776+00:00"
 "assistant","Mooi! NADH is inderdaad de belangrijkste elektronendrager die tijdens de glycolyse wordt gevormd. FADH₂ speelt vooral een rol in de citroenzuurcyclus, niet in de glycolyse zelf.
 
-Je noemt nu ook de citroenzuurcyclus en oxidatieve fosforylering. Kun je kort uitleggen wat de citroenzuurcyclus doet en waar deze plaatsvindt in de cel?"
-"user","De citroenzuurcyclus vind plaats in de mitochondrien. Het zorgt voor de omzetting voor energie"
-"assistant","Klopt, de citroenzuurcyclus vindt inderdaad plaats in de mitochondriën. Kun je aanvullen welke belangrijke tussenproducten of energiedragers er tijdens deze cyclus ontstaan? En hoe dragen deze bij aan de energieproductie in de cel? Probeer dit eens te benoemen."
-"user","De citroenzuurcyclus begint met acetyl-CoA. De cyclus zelf is dient niet tot veel aanmaak van ATP, maar meer als tussenproducten, die later zorgen voor de vorming van veel ATP tijdens de oxydatieve fosfyolering. Belangrijke tussenproducten die ontstaat zijn NHDA, FADH2 en ATP. Deze dragen bij aan de energieproductie in de oxydatieve fosfyiolering. Waarbij door middel van elektronen transport er ATP gevormd word"
+Je noemt nu ook de citroenzuurcyclus en oxidatieve fosforylering. Kun je kort uitleggen wat de citroenzuurcyclus doet en waar deze plaatsvindt in de cel?","2025-09-29T15:44:04.173961+00:00"
+"user","De citroenzuurcyclus vind plaats in de mitochondrien. Het zorgt voor de omzetting voor energie","2025-09-29T15:47:02.280768+00:00"
+"assistant","Klopt, de citroenzuurcyclus vindt inderdaad plaats in de mitochondriën. Kun je aanvullen welke belangrijke tussenproducten of energiedragers er tijdens deze cyclus ontstaan? En hoe dragen deze bij aan de energieproductie in de cel? Probeer dit eens te benoemen.","2025-09-29T15:47:08.904947+00:00"
+"user","De citroenzuurcyclus begint met acetyl-CoA. De cyclus zelf is dient niet tot veel aanmaak van ATP, maar meer als tussenproducten, die later zorgen voor de vorming van veel ATP tijdens de oxydatieve fosfyolering. Belangrijke tussenproducten die ontstaat zijn NHDA, FADH2 en ATP. Deze dragen bij aan de energieproductie in de oxydatieve fosfyiolering. Waarbij door middel van elektronen transport er ATP gevormd word","2025-09-29T15:51:15.556931+00:00"
 "assistant","Precies, goed uitgelegd! De citroenzuurcyclus levert inderdaad vooral NADH en FADH₂, en deze moleculen spelen een centrale rol in de volgende stap: de oxidatieve fosforylering. 
 
-Nog één stapje: Kun je kort uitleggen wat er gebeurt bij oxidatieve fosforylering? Denk aan waar het plaatsvindt, wat er gebeurt met de elektronen van NADH en FADH₂, en hoe dat uiteindelijk leidt tot de vorming van ATP?"
-"user","De elektronen van NADH en FADH2 worden geleid in het binnenmembraan. Door protonen geleiden deze elektronen door het binnenmembraan. De energie die vrijkomt tijdens dit proces word gebruik om een phospoor te koppelen aan ADP, wat dus ATP opleverd en uiteindelijk energie"
+Nog één stapje: Kun je kort uitleggen wat er gebeurt bij oxidatieve fosforylering? Denk aan waar het plaatsvindt, wat er gebeurt met de elektronen van NADH en FADH₂, en hoe dat uiteindelijk leidt tot de vorming van ATP?","2025-09-29T15:51:26.800109+00:00"
+"user","De elektronen van NADH en FADH2 worden geleid in het binnenmembraan. Door protonen geleiden deze elektronen door het binnenmembraan. De energie die vrijkomt tijdens dit proces word gebruik om een phospoor te koppelen aan ADP, wat dus ATP opleverd en uiteindelijk energie","2025-09-29T15:54:20.166831+00:00"
 "assistant","Ja, goed verwoord! De elektronen van NADH en FADH₂ worden via het elektronentransportketen overgedragen aan zuurstof in het binnenmembraan van het mitochondrion. Daarbij wordt een protonengradiënt opgebouwd, en deze drijft de productie van ATP aan door ATP-synthase.
 
 Je hebt de hoofdlijnen van de (aeroob) energiemetabolisme-processen mooi samengevat.
 
-Voordat we de casus verder gaan uitpluizen, vraag ik me af of je nog kort kunt uitleggen wat er gebeurt wanneer er géén zuurstof beschikbaar is in het lichaam—dus tijdens anaerobe glycolyse? Bijvoorbeeld: wat gebeurt er met pyruvaat, en wat heeft dat voor gevolgen voor NADH en energieproductie?"
-"user","Tijdens een anearobe glycolyse word het pyruvaat afgebroken tot lactaat of melkzuur hoe je het wilt noemen. De gevolgen die dat hebben voor NADH en de energieproductie is dat ze het gaat halen uit opgeslagen vetten in plaats van uit de voeding"
+Voordat we de casus verder gaan uitpluizen, vraag ik me af of je nog kort kunt uitleggen wat er gebeurt wanneer er géén zuurstof beschikbaar is in het lichaam—dus tijdens anaerobe glycolyse? Bijvoorbeeld: wat gebeurt er met pyruvaat, en wat heeft dat voor gevolgen voor NADH en energieproductie?","2025-09-29T15:54:32.011257+00:00"
+"user","Tijdens een anearobe glycolyse word het pyruvaat afgebroken tot lactaat of melkzuur hoe je het wilt noemen. De gevolgen die dat hebben voor NADH en de energieproductie is dat ze het gaat halen uit opgeslagen vetten in plaats van uit de voeding","2025-09-29T15:56:06.561307+00:00"
 "assistant","Goed! Je beschrijft correct dat pyruvaat in afwezigheid van zuurstof wordt omgezet in lactaat (melkzuur) tijdens anaerobe glycolyse. Dit proces zorgt ervoor dat NADH weer wordt omgezet in NAD⁺, zodat glycolyse kan doorgaan, ondanks een tekort aan zuurstof.
 
 Nog heel even checken:  
 Waar in de cel vindt deze lactaatvorming precies plaats? En hoe efficiënt is deze route qua ATP-productie vergeleken met de aerobe route?
 
-Als je dit nog kort kunt benoemen, dan kunnen we al deze kennis straks op de casus toepassen!"
-"user","Lactaatvorming vind plaats in de cytosol. Deze route is veel minder effiecient in vergelijking met de ATP-productie. Want nu heb je de afbraak van opgeslagen stoffen ipv nieuwe voedingstoffen"
+Als je dit nog kort kunt benoemen, dan kunnen we al deze kennis straks op de casus toepassen!","2025-09-29T15:56:16.203297+00:00"
+"user","Lactaatvorming vind plaats in de cytosol. Deze route is veel minder effiecient in vergelijking met de ATP-productie. Want nu heb je de afbraak van opgeslagen stoffen ipv nieuwe voedingstoffen","2025-09-29T15:57:32.628115+00:00"
 "assistant","Helemaal correct! Lactaatvorming gebeurt inderdaad in het cytosol, en de ATP-opbrengst uit anaerobe glycolyse is aanzienlijk lager dan die van de aerobe route. Mooi samengevat.
 
 Nu je deze basiskennis paraat hebt, gaan we terug naar de casus:
@@ -63,13 +63,13 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: negatief (normaal: negatief)
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Nu je alles hebt herhaald: Kun je uitleggen wat er in dit geval met je nieuwe kennis gebeurt?"
-"user","De lever is vergroot door de opstapeling van glycogeen. Wat er in dit geval gebeurt is dat je een verhoging van het lactaat kan zien, omdat het lichaam overgaat op anearobe afbraak van het pyruvaat."
+Nu je alles hebt herhaald: Kun je uitleggen wat er in dit geval met je nieuwe kennis gebeurt?","2025-09-29T15:57:54.209077+00:00"
+"user","De lever is vergroot door de opstapeling van glycogeen. Wat er in dit geval gebeurt is dat je een verhoging van het lactaat kan zien, omdat het lichaam overgaat op anearobe afbraak van het pyruvaat.","2025-09-29T16:00:17.754365+00:00"
 "assistant","Dat is een mooie start! Je geeft aan dat de lever vergroot raakt door glycogeenopstapeling, en dat het lichaam overstapt op anaerobe afbraak waardoor lactaat stijgt.
 
-Zou je nog iets verder kunnen redeneren waarom het bloedglucose zo laag is, ondanks dat er wél glycogeen in de lever zit opgeslagen? Wat gaat er mis in de normale energietoevoer, en welke metabole paden proberen dit op te vangen?"
-"user","Wat er mis gaat in de normale energietoevoer is dat er niet genoeg glucose aanwezig is om deze af te breken en dan door middel van de citroenzuurcylus en de oxydatieve fosforylering tot ATP om te zetten. Het bloedglucose is zo laag omdat er geen glycogeen kan worden omgezet in glucose"
+Zou je nog iets verder kunnen redeneren waarom het bloedglucose zo laag is, ondanks dat er wél glycogeen in de lever zit opgeslagen? Wat gaat er mis in de normale energietoevoer, en welke metabole paden proberen dit op te vangen?","2025-09-29T16:00:28.960241+00:00"
+"user","Wat er mis gaat in de normale energietoevoer is dat er niet genoeg glucose aanwezig is om deze af te breken en dan door middel van de citroenzuurcylus en de oxydatieve fosforylering tot ATP om te zetten. Het bloedglucose is zo laag omdat er geen glycogeen kan worden omgezet in glucose","2025-09-29T16:02:52.501823+00:00"
 "assistant","Precies, je bent op de goede weg! Er is wél glycogeen in de lever, maar door het enzymdefect bij GSD kan het niet worden afgebroken tot glucose (glycogenolyse werkt niet goed). Daardoor daalt de bloedglucose ondanks de volle glycogeenvoorraad.
 
 Nu een vervolgvraag:  
-Als het lichaam geen glucose uit glycogeen kan vrijmaken, probeert het via andere wegen toch aan glucose te komen. Welke alternatieve metabole paden worden dan geactiveerd—en wat zijn de beperkingen daarvan in deze situatie? Wil je dat verder uitleggen?"
+Als het lichaam geen glucose uit glycogeen kan vrijmaken, probeert het via andere wegen toch aan glucose te komen. Welke alternatieve metabole paden worden dan geactiveerd—en wat zijn de beperkingen daarvan in deze situatie? Wil je dat verder uitleggen?","2025-09-29T16:03:07.65273+00:00"

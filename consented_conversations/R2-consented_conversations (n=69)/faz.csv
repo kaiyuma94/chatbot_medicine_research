@@ -1,5 +1,5 @@
-"role","content"
-"user","hi"
+"role","content","created_at"
+"user","hi","2025-09-29T16:13:17.684522+00:00"
 "assistant","Hier is de eerste casus om ons onderwerp te verduidelijken: 
 
 ###VIGNETTE 1###
@@ -11,32 +11,32 @@ Een meisje van 3 jaar met GSD komt bij de arts omdat ze erg prikkelbaar is en ha
 - Bloedketonen: Negatief (normaal: negatief)
 - Lactaat: 4,2 mmol/L (normaal: 0,5–2,0)
 
-Kun je uitleggen wat er in deze casus gebeurt?"
-"user","het meisje kan geen aerobe dissimilatie doen en een groot deel van de pyruvaten wordt omgezet in lactaat"
+Kun je uitleggen wat er in deze casus gebeurt?","2025-09-29T16:13:34.635391+00:00"
+"user","het meisje kan geen aerobe dissimilatie doen en een groot deel van de pyruvaten wordt omgezet in lactaat","2025-09-29T16:15:22.421116+00:00"
 "assistant","Goede poging! Voordat we verdergaan, laten we even een stap terugnemen en samen de basiskennis kort doornemen. Zo kunnen we straks beter analyseren wat er precies aan de hand is in deze casus. 
 
 Heb je tot nu toe vragen of dingen die je niet helemaal begrijpt? 
 
-Zo niet: Kun je in je eigen woorden uitleggen wat glycolyse precies is en wat de belangrijkste input en output zijn?"
-"user","glycolyse is het omzetten van glucose in 2 pyruvaat. doel is ATP afbreken"
+Zo niet: Kun je in je eigen woorden uitleggen wat glycolyse precies is en wat de belangrijkste input en output zijn?","2025-09-29T16:15:31.009322+00:00"
+"user","glycolyse is het omzetten van glucose in 2 pyruvaat. doel is ATP afbreken","2025-09-29T16:16:47.155841+00:00"
 "assistant","Dat is een goed begin! Je noemt dat glucose wordt omgezet in 2 pyruvaat, en dat er ATP wordt afgebroken. Heb je er ook aan gedacht dat er bij glycolyse juist ATP wordt gevormd, in plaats van afgebroken? Glycolyse levert namelijk energie op.
 
-Weet je ook hoeveel ATP en NADH netto worden gevormd tijdens glycolyse? En waar in de cel vindt deze omzetting plaats? Probeer dat eens te benoemen."
-"user","2, en het vindt plaats inde cytoplasma"
+Weet je ook hoeveel ATP en NADH netto worden gevormd tijdens glycolyse? En waar in de cel vindt deze omzetting plaats? Probeer dat eens te benoemen.","2025-09-29T16:16:55.830697+00:00"
+"user","2, en het vindt plaats inde cytoplasma","2025-09-29T16:17:16.861219+00:00"
 "assistant","Dat klopt! Er ontstaan netto 2 ATP en 2 NADH per glucosemolecuul, en dit proces gebeurt in het cytoplasma van de cel.
 
-Zullen we nu kort doornemen wat er ná de glycolyse met pyruvaat kan gebeuren, afhankelijk van de aanwezigheid van zuurstof? Wat gebeurt er met pyruvaat bij aerobe omstandigheden en wat bij anaerobe omstandigheden?"
-"user","bij aeroob gaat de pruvaat de citroenzuurcyclus in, en zonder vormt het lactaat"
+Zullen we nu kort doornemen wat er ná de glycolyse met pyruvaat kan gebeuren, afhankelijk van de aanwezigheid van zuurstof? Wat gebeurt er met pyruvaat bij aerobe omstandigheden en wat bij anaerobe omstandigheden?","2025-09-29T16:17:24.634657+00:00"
+"user","bij aeroob gaat de pruvaat de citroenzuurcyclus in, en zonder vormt het lactaat","2025-09-29T16:19:44.245197+00:00"
 "assistant","Precies! Pyruvaat wordt bij genoeg zuurstof in de mitochondriën verder afgebroken via de citroenzuurcyclus (Krebs-cyclus), en bij zuurstofgebrek wordt het omgezet in lactaat.
 
-Wil je ook kort uitleggen wat de rol van NADH is in deze processen, en waarom het lichaam bij anaerobe omstandigheden pyruvaat omzet in lactaat?"
-"user","nadh zorgt ervoor dat de glycolyse door kan gaan, het wordt omgezet in lactaat doordat je geen acetcyl coa kan vormen zonder zuurstof"
+Wil je ook kort uitleggen wat de rol van NADH is in deze processen, en waarom het lichaam bij anaerobe omstandigheden pyruvaat omzet in lactaat?","2025-09-29T16:19:53.801674+00:00"
+"user","nadh zorgt ervoor dat de glycolyse door kan gaan, het wordt omgezet in lactaat doordat je geen acetcyl coa kan vormen zonder zuurstof","2025-09-29T16:20:59.65595+00:00"
 "assistant","Dat klopt grotendeels! NADH is inderdaad belangrijk: het geeft zijn elektronen af in de mitochondriën tijdens de aerobe dissimilatie (oxidatieve fosforylering), waardoor er meer ATP gevormd kan worden. Maar als er geen zuurstof is, kan NADH zijn elektronen niet meer kwijt via de normale route, waardoor glycolyse zou stoppen.
 
 Door pyruvaat om te zetten in lactaat, kan NAD+ opnieuw gevormd worden, waardoor de glycolyse tóch door kan blijven gaan, ondanks het ontbreken van zuurstof. Zo blijft er nog wat ATP beschikbaar via anaerobe glycolyse. 
 
-Voordat we deze kennis koppelen aan de casus, is er nog een aspect belangrijk: weet je wat glycogenolyse is? En welke rol glycogeen speelt in het op peil houden van bloedglucose?"
-"user","het was het afbreken van glycogeen tot glucose"
+Voordat we deze kennis koppelen aan de casus, is er nog een aspect belangrijk: weet je wat glycogenolyse is? En welke rol glycogeen speelt in het op peil houden van bloedglucose?","2025-09-29T16:21:13.609569+00:00"
+"user","het was het afbreken van glycogeen tot glucose","2025-09-29T16:21:39.423985+00:00"
 "assistant","Helemaal goed! Glycogenolyse is dus het proces waarbij glycogeen wordt afgebroken tot glucose, wat essentieel is om de bloedglucose op peil te houden tussen de maaltijden door of tijdens inspanning.
 
 Met deze kennis op zak: zullen we nu terugkeren naar de casus en samen verbanden leggen?
@@ -52,27 +52,27 @@ Een meisje van 3 jaar met GSD komt bij de arts omdat ze erg prikkelbaar is en ha
 - Bloedketonen: Negatief (normaal: negatief)
 - Lactaat: 4,2 mmol/L (normaal: 0,5–2,0)
 
-Nu je de kennis hebt opgefrist: kun je uitleggen wat er bij dit meisje gebeurt, gezien haar bloedwaarden en de uitleg over energy metabolism?"
-"user","zij kan glycogeen niet goed afbreken, en zij heeft veels te veel lactaat in haar bloed, ik denk dus dat er geen aerobe dissimilatie plaatsvindt bij haar"
+Nu je de kennis hebt opgefrist: kun je uitleggen wat er bij dit meisje gebeurt, gezien haar bloedwaarden en de uitleg over energy metabolism?","2025-09-29T16:22:00.141901+00:00"
+"user","zij kan glycogeen niet goed afbreken, en zij heeft veels te veel lactaat in haar bloed, ik denk dus dat er geen aerobe dissimilatie plaatsvindt bij haar","2025-09-29T16:23:16.760808+00:00"
 "assistant","Je bedoelt dat haar lichaam glycogeen niet goed kan afbreken, waardoor ze niet genoeg glucose kan krijgen uit glycogeen, klopt dat?
 
 Wat betreft de hoge lactaatwaarde: je suggereert dat er geen aerobe dissimilatie plaatsvindt, maar heeft ze daadwerkelijk geen zuurstof, of is het misschien een ander probleem? Denk bijvoorbeeld aan wat er gebeurt als er veel pyruvaat is door glycolyse, maar de rest van de glucosevoorziening niet goed werkt.
 
-Kun je uitleggen waarom haar bloedglucose zo laag is, ondanks dat ze glycogeen in haar lever heeft opgeslagen? Wat gebeurt er precies op cellulair niveau?"
-"user","ja dat klopt, en de enzymen die betrokken zijn bij het afbreken van glycigeen doen het niet goed, en daarom heeft zij een lage glucose spiegel"
-"user","klopt dat"
+Kun je uitleggen waarom haar bloedglucose zo laag is, ondanks dat ze glycogeen in haar lever heeft opgeslagen? Wat gebeurt er precies op cellulair niveau?","2025-09-29T16:23:26.556206+00:00"
+"user","ja dat klopt, en de enzymen die betrokken zijn bij het afbreken van glycigeen doen het niet goed, en daarom heeft zij een lage glucose spiegel","2025-09-29T16:24:31.281133+00:00"
+"user","klopt dat","2025-09-29T16:25:37.423212+00:00"
 "assistant","Ja, je redenatie klopt! Door het enzymtekort bij deze Glycogen Storage Disease kan het opgeslagen glycogeen niet effectief worden afgebroken tot glucose. Hierdoor kan het lichaam tijdens vasten of tussen maaltijden de glucosevoorraad niet aanvullen, wat leidt tot een lage bloedglucose (hypoglykemie).
 
-Goed gedaan! Om het nog completer te maken: kun je nu ook uitleggen waarom haar lactaat verhoogd is en waarom ze geen ketonen in haar bloed heeft? Wat gebeurt er met pyruvaat en vetverbranding in deze situatie?"
-"user","de pryruvaat wordt omgezet in lactaat en gaat niet naar de citroenzuurcyclus, bij vetverbranding is dat ook het geval"
+Goed gedaan! Om het nog completer te maken: kun je nu ook uitleggen waarom haar lactaat verhoogd is en waarom ze geen ketonen in haar bloed heeft? Wat gebeurt er met pyruvaat en vetverbranding in deze situatie?","2025-09-29T16:25:48.345991+00:00"
+"user","de pryruvaat wordt omgezet in lactaat en gaat niet naar de citroenzuurcyclus, bij vetverbranding is dat ook het geval","2025-09-29T16:26:43.22909+00:00"
 "assistant","Je brengt een belangrijk punt naar voren! Pyruvaat wordt inderdaad in verhoogde mate omgezet in lactaat, vooral wanneer de glucosevoorziening laag is en alternatieve routes geactiveerd worden. Je zegt dat dit “ook bij vetverbranding het geval is."" Heb je er al bij stilgestaan dat vetverbranding juist een andere route is, waarbij ketonen ontstaan?
 
-Heb je een idee waarom haar bloed juist geen ketonen bevat, ondanks het tekort aan glucose? Denk ook aan de rol van insuline en glucagon in de stimulering van vetverbranding en ketonvorming. Waarom denkt het lichaam van dit meisje niet over op ketonproductie als alternatieve energie?"
-"user","doordat bij vorming van lactaat er nog steeds atp wordt geproduceerd maar in vele mindere mate"
+Heb je een idee waarom haar bloed juist geen ketonen bevat, ondanks het tekort aan glucose? Denk ook aan de rol van insuline en glucagon in de stimulering van vetverbranding en ketonvorming. Waarom denkt het lichaam van dit meisje niet over op ketonproductie als alternatieve energie?","2025-09-29T16:27:25.048608+00:00"
+"user","doordat bij vorming van lactaat er nog steeds atp wordt geproduceerd maar in vele mindere mate","2025-09-29T16:28:05.65375+00:00"
 "assistant","Inderdaad, bij de omzetting van pyruvaat naar lactaat (anaerobe glycolyse) wordt er nog wat ATP geproduceerd, maar veel minder efficiënt dan bij de volledige aerobe afbraak van glucose.
 
-Weet je ook waarom er bij dit meisje géén ketonen worden gevormd? Hint: Het heeft te maken met de hoeveelheid beschikbare glucose, de afwezigheid van vetzuuroxidatie, en hormoonbalans. Wat gebeurt er normaal gesproken qua ketonen als het lichaam langdurig te weinig glucose heeft? Waarom ontstaat dat in dit geval niet of minder goed?"
-"user","er is geen vetzuuroxidatie doordta zij nog wel wat glucose in haar bloed heeft, en daarom worden er geen ketonen gevormd"
+Weet je ook waarom er bij dit meisje géén ketonen worden gevormd? Hint: Het heeft te maken met de hoeveelheid beschikbare glucose, de afwezigheid van vetzuuroxidatie, en hormoonbalans. Wat gebeurt er normaal gesproken qua ketonen als het lichaam langdurig te weinig glucose heeft? Waarom ontstaat dat in dit geval niet of minder goed?","2025-09-29T16:28:17.39212+00:00"
+"user","er is geen vetzuuroxidatie doordta zij nog wel wat glucose in haar bloed heeft, en daarom worden er geen ketonen gevormd","2025-09-29T16:30:03.729645+00:00"
 "assistant","Heel goed! Omdat er nog steeds een (zij het lage) hoeveelheid glucose in het bloed is, blijft insuline aanwezig en wordt vetzuuroxidatie (en dus ketonvorming) geremd. Het lichaam ‘kiest’ dus voor glucosegebruik en lactaatvorming via glycolyse, en schakelt niet goed over naar vetverbranding en ketonen.
 
 We hebben alle klinische bevindingen nu verklaard! Je kunt je kennis nogmaals oefenen door een volledige uitleg te geven.
@@ -86,7 +86,7 @@ Een meisje van 3 jaar met GSD komt bij de arts omdat ze erg prikkelbaar is en ha
 - Bloedketonen: Negatief (normaal: negatief)
 - Lactaat: 4,2 mmol/L (normaal: 0,5–2,0)
 
-**Hoe begrijp je nu de oorzaken achter de klinische bevindingen in deze casus? Schrijf alles wat je kunt bedenken — je ideeën, redeneringen en de relaties met wat je hebt geleerd. Hoe completer je uitleg, hoe meer je ervan leert!**"
+**Hoe begrijp je nu de oorzaken achter de klinische bevindingen in deze casus? Schrijf alles wat je kunt bedenken — je ideeën, redeneringen en de relaties met wat je hebt geleerd. Hoe completer je uitleg, hoe meer je ervan leert!**","2025-09-29T16:30:26.674583+00:00"
 "assistant","**1. Learning Context and Roles**  
 • This interaction takes place in a tutoring or coaching session focused on metabolic biochemistry, particularly glycogen storage diseases (GSDs) using a clinical vignette.  
 • The purpose of this feedback is to help the user (student/learner) improve their understanding and explanation of complex biochemical concepts in response to clinical data.
@@ -120,4 +120,4 @@ Een meisje van 3 jaar met GSD komt bij de arts omdat ze erg prikkelbaar is en ha
 ---
 
 **Forward-looking guidance**  
-In the next session, focus on elaborating your reasoning in full sentences and strive to integrate hormonal regulation and biochemical pathways in your explanations. This will support more comprehensive, clinically relevant answers."
+In the next session, focus on elaborating your reasoning in full sentences and strive to integrate hormonal regulation and biochemical pathways in your explanations. This will support more comprehensive, clinically relevant answers.","2025-09-29T16:34:44.98+00:00"

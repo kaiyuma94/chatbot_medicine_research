@@ -1,5 +1,5 @@
-"role","content"
-"user","Hoi"
+"role","content","created_at"
+"user","Hoi","2025-09-29T17:15:44.590653+00:00"
 "assistant","###VIGNETTE 1###
 Het lichaam slaat glucose op in de vorm van glycogeen, vooral in de lever en spieren, om te gebruiken wanneer energie nodig is—vooral tussen maaltijden of tijdens inspanning. 
 Bij Glycogeenstapelingsziekten (GSD's) is dit proces verstoord door erfelijke enzymdeficiënties. Hierdoor kan het lichaam normale bloedglucosewaarden niet handhaven, vooral tijdens vasten. Om dit te compenseren, activeert het andere metabole routes. Maar bij GSD zijn alternatieve routes, zoals de Cori-cyclus, niet altijd efficiënt.
@@ -8,23 +8,23 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)
 Lactaat: 4.2 mmol/L (normaal: 0.5–2.0 mmol/L)
 
-Kun je uitleggen wat er in dit geval is gebeurd?"
-"user","Glycogeen stapelt zich op in de lever, omdat Glucose-6-fosfaat niet naar glucose omgezet kan worden omdat het enzym defect is."
+Kun je uitleggen wat er in dit geval is gebeurd?","2025-09-29T17:16:04.119529+00:00"
+"user","Glycogeen stapelt zich op in de lever, omdat Glucose-6-fosfaat niet naar glucose omgezet kan worden omdat het enzym defect is.","2025-09-29T17:18:16.282396+00:00"
 "assistant","Goede poging! Voordat we verder ingaan op de details, laten we even een stapje terug nemen en de onderliggende kennis samen ophalen. Dit helpt om straks makkelijker te analyseren wat er in het lichaam gebeurt.
 
-Heb je op dit moment al vragen of onduidelijkheden? Of wil je dat ik kort samenvat wat bijvoorbeeld glycolyse, glycogenolyse of de rol van de Cori-cyclus inhoudt? Je mag ook aangeven wat je al weet!"
-"user","Glycolyse is de omzetting van glucose naar 2 keer pyruvaat. Dit levert 2 ATP, 2 NADH en 2 pyruvaat op. Glycogenolyse is de afbraak van glycogeen naar glucose moleculen."
-"user","Glycolyse is de omzetting van glucose naar 2 keer pyruvaat. Dit levert 2 ATP, 2 NADH en 2 pyruvaat op. Glycogenolyse is de afbraak van glycogeen naar glucose moleculen."
+Heb je op dit moment al vragen of onduidelijkheden? Of wil je dat ik kort samenvat wat bijvoorbeeld glycolyse, glycogenolyse of de rol van de Cori-cyclus inhoudt? Je mag ook aangeven wat je al weet!","2025-09-29T17:18:27.128207+00:00"
+"user","Glycolyse is de omzetting van glucose naar 2 keer pyruvaat. Dit levert 2 ATP, 2 NADH en 2 pyruvaat op. Glycogenolyse is de afbraak van glycogeen naar glucose moleculen.","2025-09-29T17:19:51.185486+00:00"
+"user","Glycolyse is de omzetting van glucose naar 2 keer pyruvaat. Dit levert 2 ATP, 2 NADH en 2 pyruvaat op. Glycogenolyse is de afbraak van glycogeen naar glucose moleculen.","2025-09-29T17:21:17.733906+00:00"
 "assistant","Dat is helemaal goed! Je hebt de kern van glycolyse en glycogenolyse nu scherp. Als je wilt, kunnen we het ook kort hebben over wat er met pyruvaat gebeurt ná de glycolyse, of over de rol van de Cori-cyclus als glucose schaars is en lactaat gevormd wordt. Zijn er zaken waarover je twijfelt of die je graag wilt opfrissen voordat we de casus weer toepassen? 
 
-Of wil je door naar het toepassen van deze kennis op het beschreven meisje met GSD?"
-"user","Het pyruvaat word na de glycol's omgezet naar acetyl CoA. Acetyl CoA gaat dan de citroenzuur cyclus in."
+Of wil je door naar het toepassen van deze kennis op het beschreven meisje met GSD?","2025-09-29T17:21:27.808723+00:00"
+"user","Het pyruvaat word na de glycol's omgezet naar acetyl CoA. Acetyl CoA gaat dan de citroenzuur cyclus in.","2025-09-29T17:24:10.247135+00:00"
 "assistant","Heel goed! Je beschrijft dat pyruvaat na de glycolyse wordt omgezet in acetyl-CoA, dat daarna de citroenzuurcyclus (ook wel Krebs-cyclus of TCA-cyclus genoemd) binnengaat. In deze cyclus worden NADH en FADH2 gemaakt, die vervolgens hun elektronen afgeven aan de electronentransportketen in de mitochondriën—cruciaal voor de synthese van ATP door oxidatieve fosforylering.
 
-Wil je nog iets weten over wat het verschil is tussen aerobe en anaerobe afbraak van glucose? Of heb je het gevoel dat je genoeg kennis hebt om terug te keren naar de casus en te bekijken wat er bij het meisje gebeurt?"
-"user","Pyruvaat dat is geproduceerd uit glycose word omgezet in acetyl coat. Acetyl coach gaat dan de citroenzuur cyclus in."
-"assistant","Klopt, dat is een belangrijk onderdeel van het aerobe energiemetabolisme! Even een kleine aanvulling: pyruvaat kan ook een andere route volgen, vooral wanneer er geen zuurstof is of wanneer er iets mis is met de aerobe routes. Weet je wat er gebeurt met pyruvaat in een anaërobe (zuurstofarme) situatie, zoals in spieren tijdens intensieve inspanning, of als de cellen geen toegang hebben tot de citroenzuurcyclus? En ken je de functie van de Cori-cyclus in dat geval?"
-"user","In de cori cycle word pyruvaat omgezet in lactaat door behulp van het enzym lactaathydrogenase. Dit gebeurt in de spieren bij onvoldoende zuurstof. Het lactaat komt dan vrij in het bloed. Wanneer het lactaat uit het bloed in de lever gaat word lactaat weer omgezet naar pyruvaat. Dan word pyruvaat omgezet naar glucose door gluconeogenese en dan gaat glucose weer het bloed in. Daarna nemen de Spieren het glucose op."
+Wil je nog iets weten over wat het verschil is tussen aerobe en anaerobe afbraak van glucose? Of heb je het gevoel dat je genoeg kennis hebt om terug te keren naar de casus en te bekijken wat er bij het meisje gebeurt?","2025-09-29T17:24:22.403813+00:00"
+"user","Pyruvaat dat is geproduceerd uit glycose word omgezet in acetyl coat. Acetyl coach gaat dan de citroenzuur cyclus in.","2025-09-29T17:25:10.996368+00:00"
+"assistant","Klopt, dat is een belangrijk onderdeel van het aerobe energiemetabolisme! Even een kleine aanvulling: pyruvaat kan ook een andere route volgen, vooral wanneer er geen zuurstof is of wanneer er iets mis is met de aerobe routes. Weet je wat er gebeurt met pyruvaat in een anaërobe (zuurstofarme) situatie, zoals in spieren tijdens intensieve inspanning, of als de cellen geen toegang hebben tot de citroenzuurcyclus? En ken je de functie van de Cori-cyclus in dat geval?","2025-09-29T17:25:21.354763+00:00"
+"user","In de cori cycle word pyruvaat omgezet in lactaat door behulp van het enzym lactaathydrogenase. Dit gebeurt in de spieren bij onvoldoende zuurstof. Het lactaat komt dan vrij in het bloed. Wanneer het lactaat uit het bloed in de lever gaat word lactaat weer omgezet naar pyruvaat. Dan word pyruvaat omgezet naar glucose door gluconeogenese en dan gaat glucose weer het bloed in. Daarna nemen de Spieren het glucose op.","2025-09-29T17:28:44.508957+00:00"
 "assistant","Heel knap uitgelegd! Je vat de Cori-cyclus duidelijk samen: pyruvaat wordt in de spieren omgezet in lactaat, dat naar de lever gaat, waar het vervolgens weer terug wordt omgezet naar pyruvaat en tot glucose via gluconeogenese. Deze glucose gaat dan weer richting spier, zodat de cyclus rond kan gaan.
 
 Nu je de kernprocessen helder hebt, kunnen we deze kennis toepassen op de casus:
@@ -37,12 +37,12 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)
 Lactaat: 4.2 mmol/L (normaal: 0.5–2.0 mmol/L)
 
-Kun je nu met de kennis die je zojuist hebt herhaald uitleggen wat er in dit geval gebeurt?"
-"user","Het lage bloedglucose ontstaan doordat het lichaam glucose-6-fosfaat niet kan omzetten naar glucose omdat het enzym G6Pase defect is."
+Kun je nu met de kennis die je zojuist hebt herhaald uitleggen wat er in dit geval gebeurt?","2025-09-29T17:29:06.550974+00:00"
+"user","Het lage bloedglucose ontstaan doordat het lichaam glucose-6-fosfaat niet kan omzetten naar glucose omdat het enzym G6Pase defect is.","2025-09-29T17:31:22.89132+00:00"
 "assistant","Goed, dat is een belangrijk begin! Je noemt het defect in glucose-6-fosfatase—daardoor kan glucose-6-fosfaat niet worden omgezet in vrije glucose en blijft de bloedglucose te laag.
 
 Maar er zijn nog andere labwaarden te verklaren: 
 - Waarom is het lactaat verhoogd?
 - En waarom zijn de ketonen juist niet verhoogd?
 
-Kun je aan de hand van wat je weet over de Cori-cyclus, gluconeogenese en alternatieve energie-opwekking deze observaties verklaren? Wat gebeurt er met pyruvaat en met vetzuurverbranding in deze situatie?"
+Kun je aan de hand van wat je weet over de Cori-cyclus, gluconeogenese en alternatieve energie-opwekking deze observaties verklaren? Wat gebeurt er met pyruvaat en met vetzuurverbranding in deze situatie?","2025-09-29T17:31:35.389183+00:00"

@@ -1,5 +1,5 @@
-"role","content"
-"user","laten we beginnen!"
+"role","content","created_at"
+"user","laten we beginnen!","2025-09-29T16:04:56.99512+00:00"
 "assistant","Hier is ###VIGNETTE 1### ter contextualisatie van het onderwerp energiemetabolisme:  
 
 De opslag van glucose gebeurt in het lichaam als glycogeen, vooral in lever en spieren, voor momenten waarop energie nodig is – zoals tussen maaltijden of tijdens inspanning. Bij Glycogeenstapelingsziekten (GSD, glycogen storage diseases) is deze opslag of mobilisatie verstoord door een erfelijk enzymdefect. Het gevolg: het lichaam kan de bloedglucose niet normaal op peil houden, vooral tijdens vasten. Dan probeert het lichaam via alternatieve metabole routes het tekort aan te vullen. Toch zijn deze alternatieve processen, zoals de Cori-cyclus, vaak onvoldoende.  
@@ -9,14 +9,14 @@ Een 3-jarig meisje komt met GSD op controle. Ze is erg prikkelbaar en haar buik 
 - Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)  
 
 Mijn eerste vraag:  
-Kun je uitleggen wat er in deze casus is gebeurd?"
-"user","er is teveel glycogeen opgeslagen in de lever, daarom is deze vergroot. Dit kan vervolgens niet afgebroken worden omdat het juiste enzym daarvoor mist. Dit resulteert in een te lage waarde van glucose"
+Kun je uitleggen wat er in deze casus is gebeurd?","2025-09-29T16:05:14.690996+00:00"
+"user","er is teveel glycogeen opgeslagen in de lever, daarom is deze vergroot. Dit kan vervolgens niet afgebroken worden omdat het juiste enzym daarvoor mist. Dit resulteert in een te lage waarde van glucose","2025-09-29T16:06:56.233871+00:00"
 "assistant","Goede poging! Je beschrijft al dat er te veel glycogeen is opgeslagen door een tekort aan een enzym, en dat hierdoor de bloedglucose te laag wordt. 
 
 Voordat we verdergaan met het analyseren van de casus, laten we kort samen de relevante basiskennis ophalen. Dat helpt om straks de volgende stappen beter te begrijpen. Heb je vragen of verwarring over deze stof tot nu toe?
 
-Zo niet, kun je mij vertellen wat je weet over glycolyse? Wat gebeurt er in deze route en waar vindt die plaats in de cel?"
-"user","de glycolyse is de omzetting van glycogeen naar glucose, glycogeen wordt afgebroken en vervolgens omgezet naar glucose. Deze vindt plaats in het mitochondrion"
+Zo niet, kun je mij vertellen wat je weet over glycolyse? Wat gebeurt er in deze route en waar vindt die plaats in de cel?","2025-09-29T16:07:05.861972+00:00"
+"user","de glycolyse is de omzetting van glycogeen naar glucose, glycogeen wordt afgebroken en vervolgens omgezet naar glucose. Deze vindt plaats in het mitochondrion","2025-09-29T16:07:59.173565+00:00"
 "assistant","Je hebt alvast een link gelegd naar de rol van glycogeen, maar de glycolyse is nét iets anders.  
 Laat me het iets anders formuleren voor je: glycolyse is het proces waarbij **glucose** (niet glycogeen) wordt afgebroken om energie te leveren. Hierbij wordt glucose omgezet tot pyruvaat, met als nevenproducten ATP en NADH.  
 Glycogeenafbraak—dus het omzetten van glycogeen naar glucose-6-fosfaat—heet glycogenolyse.
@@ -25,28 +25,28 @@ Misschien kun je het zo aanvullen:
 - Waar in de cel vindt glycolyse eigenlijk plaats?  
 - En in welke organen is glycogenolyse vooral belangrijk?
 
-Als dit duidelijk is, kunnen we het straks verder toepassen op de casus! Wil je eerst nog iets vragen of verder toelichten?"
-"user","glycolyse vindt plaats in het mitochondrium van de cel. Glycogenolyse is vooral belangrijk in de lever"
+Als dit duidelijk is, kunnen we het straks verder toepassen op de casus! Wil je eerst nog iets vragen of verder toelichten?","2025-09-29T16:08:12.410603+00:00"
+"user","glycolyse vindt plaats in het mitochondrium van de cel. Glycogenolyse is vooral belangrijk in de lever","2025-09-29T16:09:18.284636+00:00"
 "assistant","Je zit erg dicht bij het juiste antwoord! Glycogenolyse vindt inderdaad vooral plaats in de lever — heel goed. Wat betreft glycolyse: zou je nog eens willen overwegen waar in de cel glycolyse precies plaatsvindt? Tip: is het in het mitochondrium, of juist elders?
 
-En weet je welke organen naast de lever nog belangrijk zijn voor glycogenolyse? Probeer dit eens te bedenken!"
-"user","glycolyse vindt plaats in de celkern? Naast de lever zijn ook de spieren belangrijk voor glycogenolyse"
+En weet je welke organen naast de lever nog belangrijk zijn voor glycogenolyse? Probeer dit eens te bedenken!","2025-09-29T16:09:27.142097+00:00"
+"user","glycolyse vindt plaats in de celkern? Naast de lever zijn ook de spieren belangrijk voor glycogenolyse","2025-09-29T16:10:01.521445+00:00"
 "assistant","Goed, je noemt spieren als belangrijk orgaan voor glycogenolyse — dat klopt! Zowel lever als spiercellen kunnen glycogeen afbreken, maar de lever kan de vrijgekomen glucose afgeven aan het bloed.
 
 Wat betreft glycolyse: de celkern is niet de plek waar dit gebeurt. Denk aan het andere grote ‘compartiment’ in de cel waar veel stofwisselingsprocessen plaatsvinden, buiten de organellen om. Weet je waar ik op doel?
 
-Wil je het nog eens proberen?"
-"user","extracellulaire ruimte"
+Wil je het nog eens proberen?","2025-09-29T16:10:10.246689+00:00"
+"user","extracellulaire ruimte","2025-09-29T16:10:27.03515+00:00"
 "assistant","Dat is een creatieve poging! Maar denk eraan: de extracellulaire ruimte is eigenlijk alles **buiten** de cel, terwijl glycolyse een proces is dat **binnen** de cel plaatsvindt. 
 
 Binnen de cel heb je verschillende onderdelen: organellen zoals het mitochondrium en de celkern, maar ook het vloeibare gedeelte waar veel stofwisselingsreacties plaatsvinden. Dit wordt vaak het “cytoplasma” genoemd. 
 
-Kun je hierop reageren? Wat gebeurt er dus in het cytoplasma met betrekking tot glycolyse?"
-"user","de afbraak van glucose tot pyruvaat vindt plaats in het cytoplasme"
+Kun je hierop reageren? Wat gebeurt er dus in het cytoplasma met betrekking tot glycolyse?","2025-09-29T16:10:37.13682+00:00"
+"user","de afbraak van glucose tot pyruvaat vindt plaats in het cytoplasme","2025-09-29T16:11:03.385329+00:00"
 "assistant","Precies! Glycolyse, ofwel de stap-voor-stap afbraak van glucose tot pyruvaat met opbrengst van ATP en NADH, vindt plaats in het cytoplasma van de cel.
 
-Nu je deze basis kent: wil je nog iets navragen over glycolyse, glycogenolyse of hun rol in de energievoorziening van cellen? Of zullen we deze kennis gaan toepassen op de casus?"
-"user","toepassen"
+Nu je deze basis kent: wil je nog iets navragen over glycolyse, glycogenolyse of hun rol in de energievoorziening van cellen? Of zullen we deze kennis gaan toepassen op de casus?","2025-09-29T16:11:12.858611+00:00"
+"user","toepassen","2025-09-29T16:11:15.425137+00:00"
 "assistant","Hier is weer de casus (###VIGNETTE 1###):
 
 De opslag van glucose gebeurt in het lichaam als glycogeen, vooral in lever en spieren, voor momenten waarop energie nodig is – zoals tussen maaltijden of tijdens inspanning. Bij Glycogeenstapelingsziekten (GSD, glycogen storage diseases) is deze opslag of mobilisatie verstoord door een erfelijk enzymdefect. Het gevolg: het lichaam kan de bloedglucose niet normaal op peil houden, vooral tijdens vasten. Dan probeert het lichaam via alternatieve metabole routes het tekort aan te vullen. Toch zijn deze alternatieve processen, zoals de Cori-cyclus, vaak onvoldoende.  
@@ -56,8 +56,8 @@ Een 3-jarig meisje komt met GSD op controle. Ze is erg prikkelbaar en haar buik 
 - Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)  
 
 Nu de kennis is opgefrist:  
-Kun je nu uitleggen wat er in deze casus is gebeurd met de kennis die je zojuist hebt opgehaald?"
-"user","de glycolyse gaat fout, aangezien dit geen ATP oplevert probeert het lichaam dan anaerobe verbranding via de Cori-cyclus. Maar dit levert lactaat op, dit is de reden voor de verhoogde lactaat waarde"
+Kun je nu uitleggen wat er in deze casus is gebeurd met de kennis die je zojuist hebt opgehaald?","2025-09-29T16:11:33.051441+00:00"
+"user","de glycolyse gaat fout, aangezien dit geen ATP oplevert probeert het lichaam dan anaerobe verbranding via de Cori-cyclus. Maar dit levert lactaat op, dit is de reden voor de verhoogde lactaat waarde","2025-09-29T16:13:08.757128+00:00"
 "assistant","Je zit op het goede spoor door te benoemen dat het lichaam naar alternatieve mechanismen grijpt als de normale energiewinning niet lukt. Laten we het iets specifieker ontleden:
 
 Je zegt dat glycolyse ‘fout gaat’. Heb je overwogen wat er gebeurt met de stap vóór glycolyse, namelijk de glycogenolyse?  
@@ -66,46 +66,46 @@ En: er wordt wel degelijk ATP geproduceerd via glycolyse, juist ook onder anaero
 Kun je je uitleg nog aanvullen?  
 - Waarom is de glucosewaarde bij dit meisje zo laag ondanks een volle lever met glycogeen?  
 - Wat gebeurt er met pyruvaat als glucose schaars is en glycogenolyse niet werkt?  
-Probeer deze vragen eens te beantwoorden!"
-"user","glycogeen kan niet omgezet worden naar glucose. Die tweede vraag heb ik geen antwoord op"
+Probeer deze vragen eens te beantwoorden!","2025-09-29T16:13:20.650171+00:00"
+"user","glycogeen kan niet omgezet worden naar glucose. Die tweede vraag heb ik geen antwoord op","2025-09-29T16:14:03.251411+00:00"
 "assistant","Dat klopt: glycogeen kan door het enzymtekort niet worden omgezet naar glucose, waardoor de bloedglucose laag blijft ondanks dat er veel glycogeen in de lever zit.
 
 Over die tweede vraag: normaal gesproken wordt pyruvaat (het eindproduct van glycolyse) in cellen omgezet, afhankelijk van de zuurstof beschikbaarheid. Met voldoende zuurstof (aeroob), wordt pyruvaat verder verwerkt in de mitochondriën (citroenzuurcyclus), en uiteindelijk volledig afgebroken voor maximale energie. Maar als er een tekort aan glucose is – of bepaalde enzymen ontbreken – en het lichaam stress ervaart, dan verloopt het net iets anders.
 
-Heb je enig idee wat er gebeurt met pyruvaat tijdens **anaerobe** metabolisme, zoals bij een tekort aan glucose of gebrek aan werking van de citroenzuurcyclus? Wat wordt er dan van pyruvaat gemaakt?"
-"user","dan wordt van pyruvaat lactaat gemaakt"
+Heb je enig idee wat er gebeurt met pyruvaat tijdens **anaerobe** metabolisme, zoals bij een tekort aan glucose of gebrek aan werking van de citroenzuurcyclus? Wat wordt er dan van pyruvaat gemaakt?","2025-09-29T16:14:17.244275+00:00"
+"user","dan wordt van pyruvaat lactaat gemaakt","2025-09-29T16:14:32.312416+00:00"
 "assistant","Precies! Bij anaerobe omstandigheden (of als de aërobe route beperkt is), wordt pyruvaat door het enzym lactaatdehydrogenase omgezet in lactaat. Dit verklaart de verhoogde lactaatwaarde bij het meisje. 
 
 Nu een vervolgvraag:  
-Wat probeert het lichaam—ondanks de verstoorde glycogenolyse—in gang te zetten om toch aan glucose te komen wanneer het vast? Kun je uitleggen welke alternatieve stofwisselingsroutes hierbij een rol spelen?"
-"user","lipolyse"
+Wat probeert het lichaam—ondanks de verstoorde glycogenolyse—in gang te zetten om toch aan glucose te komen wanneer het vast? Kun je uitleggen welke alternatieve stofwisselingsroutes hierbij een rol spelen?","2025-09-29T16:14:41.984431+00:00"
+"user","lipolyse","2025-09-29T16:15:12.018132+00:00"
 "assistant","Goede gedachte! Lipolyse (afbraak van vetten) is inderdaad één van de alternatieven voor energievoorziening tijdens vasten. Maar bij deze jonge patiënt zien we géén ketonen in het bloed, wat je wel zou verwachten als vetafbraak (en ketosis) prominent zou zijn.
 
-Zijn er naast lipolyse nog andere routes waarmee het lichaam bij een tekort aan glucose probeert nieuwe glucose te maken? Denk aan processen die in de lever plaatsvinden waarbij niet-koolhydraatbronnen worden omgezet naar glucose. Hoe heet deze route?"
-"user","gluconeogenese"
+Zijn er naast lipolyse nog andere routes waarmee het lichaam bij een tekort aan glucose probeert nieuwe glucose te maken? Denk aan processen die in de lever plaatsvinden waarbij niet-koolhydraatbronnen worden omgezet naar glucose. Hoe heet deze route?","2025-09-29T16:15:22.29677+00:00"
+"user","gluconeogenese","2025-09-29T16:15:35.387417+00:00"
 "assistant","Juist, gluconeogenese! Het lichaam maakt via deze route uit bouwstenen zoals lactaat, aminozuren en glycerol weer nieuw glucose—vooral in de lever.
 
 Nu even checken van jouw inzicht:  
 - Waarom is gluconeogenese in patiënten met GSD vaak beperkt, ondanks dat het lichaam deze route nodig heeft?  
 - En hoe hangt dat samen met de verhoogde lactaatspiegel die je ziet bij dit meisje?
 
-Probeer dit eens uit te leggen!"
-"user","geen idee"
+Probeer dit eens uit te leggen!","2025-09-29T16:15:46.549801+00:00"
+"user","geen idee","2025-09-29T16:16:11.495766+00:00"
 "assistant","Dat is niet erg — het is best complex! Ik zal je op weg helpen:
 
 In sommige vormen van GSD ontbreekt een enzym dat nodig is om glycogeen om te zetten in glucose-6-fosfaat, of om glucose-6-fosfaat vervolgens om te zetten in vrije glucose. Dit laatste enzym (glucose-6-fosfatase) is ook nodig in de laatste stap van gluconeogenese. Daardoor kan de lever het gevormde glucose niet vrijgeven aan het bloed. Dus ook al loopt gluconeogenese, de glucose kan niet “uit” de lever komen.  
 Omdat pyruvaat niet efficiënt doorgaat naar glucose, wordt het massaal omgezet tot lactaat—vandaar een hoge lactaatspiegel.
 
 Nu jij:  
-Kun je deze uitleg nog eens samenvatten met je eigen woorden? Wat gebeurt er met de gluconeogenese en het lactaat in dit geval?"
-"user","tijdens gluconeogenese, wordt er hetzelfde enzym gebruikt dit bij mensen met GSD ontbreekt."
+Kun je deze uitleg nog eens samenvatten met je eigen woorden? Wat gebeurt er met de gluconeogenese en het lactaat in dit geval?","2025-09-29T16:16:26.112382+00:00"
+"user","tijdens gluconeogenese, wordt er hetzelfde enzym gebruikt dit bij mensen met GSD ontbreekt.","2025-09-29T16:17:18.002974+00:00"
 "assistant","Precies! Zowel bij glycogenolyse als bij gluconeogenese is er een stap waarbij glucose-6-fosfaat moet worden omgezet naar vrij glucose. Het enzym dat daarvoor nodig is (glucose-6-fosfatase) ontbreekt bij sommige vormen van GSD. Hierdoor kan de lever geen glucose aan het bloed afgeven – ook al probeert het lichaam dat wel via gluconeogenese.
 
 Omdat deze stap ontbreekt, wordt pyruvaat niet efficiënt omgezet naar glucose en hoopt lactaat zich op.
 
 Goed samengevat! Laten we het afronden:
 
-Hoe begrijp je nu de oorzaken achter de klinische bevindingen in deze casus? Schrijf zo volledig mogelijk uit wat er speelt — wat je ziet, welk mechanisme erachter zit, en hoe dit samenhangt met de stofwisselingsroutes die we besproken hebben."
+Hoe begrijp je nu de oorzaken achter de klinische bevindingen in deze casus? Schrijf zo volledig mogelijk uit wat er speelt — wat je ziet, welk mechanisme erachter zit, en hoe dit samenhangt met de stofwisselingsroutes die we besproken hebben.","2025-09-29T16:17:30.955821+00:00"
 "assistant","**1. Learning Context and Roles**  
 Dit was een gesimuleerde medische leersituatie, vergelijkbaar met een begeleid tutoring- of werkcollegegesprek tussen student (user) en docent/begeleider (assistant), gericht op het verdiepen van kennis over het energiemetabolisme aan de hand van een casus (GSD: glycogeenstapelingsziekte). Dit feedbackrapport heeft als doel de gebruiker te ondersteunen in het verbeteren van kennisverwerking, redeneren en communicatie rondom complexe metabole thema’s.
 
@@ -137,8 +137,8 @@ Dit was een gesimuleerde medische leersituatie, vergelijkbaar met een begeleid t
    *Hoe te implementeren*: Eindig na elke grote uitleg of vraag kort met: “Ik denk dit omdat...” of “Ik ben hier niet zeker van want...”, en vraag eventueel om gericht opheldering.
 
 **Forward-looking guidance**  
-In de volgende sessie kun je vooral oefenen met het helder, stap-voor-stap verwoorden van complexe metabole processen: benoem niet alleen ‘wat’, maar ook ‘waarom’ en ‘waar’ iets gebeurt, en laat hierbij zien hoe je eerdere feedback toepast. Probeer bij onzekerheid of fouten altijd kort te benoemen wat je lastig vindt, zodat feedback nóg meer op maat kan zijn."
-"user","heb je feedback"
+In de volgende sessie kun je vooral oefenen met het helder, stap-voor-stap verwoorden van complexe metabole processen: benoem niet alleen ‘wat’, maar ook ‘waarom’ en ‘waar’ iets gebeurt, en laat hierbij zien hoe je eerdere feedback toepast. Probeer bij onzekerheid of fouten altijd kort te benoemen wat je lastig vindt, zodat feedback nóg meer op maat kan zijn.","2025-09-29T16:17:58.175+00:00"
+"user","heb je feedback","2025-09-29T16:18:58.186279+00:00"
 "assistant","Dankjewel voor je antwoord! Je hebt goed doorredeneerd en mooie stappen gemaakt in je uitleg. Je begreep dat door het enzymtekort zowel de glycogenolyse als de gluconeogenese niet volledig werken, waardoor de bloedglucose laag blijft. Je herkende het belang van alternatieve energieprocessen en dat het eindproduct, lactaat, zich ophoopt omdat pyruvaat niet richting glucose kan. Ook begreep je het verschil tussen lever en spieren voor glycogeenafbraak, en kon je het concept van glycolyse goed plaatsen.
 
 Wat kan nog sterker? Let op de precieze locatie van processen in de cel (zoals glycolyse in het cytoplasma) en probeer altijd te bedenken of het genoemde alternatief (zoals lipolyse) daadwerkelijk actief is, gezien de labwaarden (ketonen negatief).
@@ -153,4 +153,4 @@ Een gezonde jongen (13 jaar) wordt erg zwak gevonden na vier dagen meedoen aan e
 - Bloedketonen: positief  
 - Lactaat: 2,8 mmol/L (normaal: 0,5–2,0 mmol/L)  
 
-Kun je uitleggen wat deze uitslagen betekenen en waarom de jongen zich zo zwak voelt?"
+Kun je uitleggen wat deze uitslagen betekenen en waarom de jongen zich zo zwak voelt?","2025-09-29T16:19:24.116743+00:00"

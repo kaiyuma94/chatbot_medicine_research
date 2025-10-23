@@ -1,5 +1,5 @@
-"role","content"
-"user","we kunnen beginnen"
+"role","content","created_at"
+"user","we kunnen beginnen","2025-09-29T16:09:10.851528+00:00"
 "assistant","Prima! Hier is de eerste casus om ons gesprek te starten:
 
 ###VIGNETTE 1###
@@ -10,24 +10,24 @@ Een 3-jarig meisje met GSD komt bij de arts omdat ze erg prikkelbaar is en een o
 - Bloedketonen: Negatief (normaal: negatief)
 - Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun je uitleggen wat er in deze casus aan de hand is?"
-"user","lactaat is verhoogd, bloedglucose is verlaagd dus ik denk dat er sprake is van GSD"
+Kun je uitleggen wat er in deze casus aan de hand is?","2025-09-29T16:09:26.938045+00:00"
+"user","lactaat is verhoogd, bloedglucose is verlaagd dus ik denk dat er sprake is van GSD","2025-09-29T16:11:39.870523+00:00"
 "assistant","Goed begin! Je herkent de afwijkende waarden en koppelt die juist aan een Glycogen Storage Disease (GSD). 
 
 Voordat we verder gaan met het analyseren van het geval, laten we even een stap terugdoen om de basiskennis op te frissen die nodig is om deze casus goed te begrijpen. Zo kunnen we straks makkelijker verbanden leggen tussen theorie en praktijk.  
 
-Heb je op dit punt zelf vragen of onduidelijkheden over energie-stofwisselingsprocessen? Zo niet, kun je me vertellen wat je weet over één van deze begrippen: glycolyse, glycogenolyse, of anaerobe energievoorziening? Je mag zelf een onderwerp kiezen om kort toe te lichten."
+Heb je op dit punt zelf vragen of onduidelijkheden over energie-stofwisselingsprocessen? Zo niet, kun je me vertellen wat je weet over één van deze begrippen: glycolyse, glycogenolyse, of anaerobe energievoorziening? Je mag zelf een onderwerp kiezen om kort toe te lichten.","2025-09-29T16:11:53.123473+00:00"
 "user","glycolyse is de omzetting van glucose naar glycogeen 
 glycogenolyse is de omzetting van glyogee. naar glucose
-anaerobe energievoorziening is de omzetting van glucose naar melkzuur, dit gebeurt wanneer er niet voldoende zuursto si"
+anaerobe energievoorziening is de omzetting van glucose naar melkzuur, dit gebeurt wanneer er niet voldoende zuursto si","2025-09-29T16:13:09.253032+00:00"
 "assistant","Mooi dat je al een duidelijk idee hebt! Laten we samen een paar details scherpstellen:
 
 - Glycolyse is eigenlijk het proces waarbij **glucose wordt omgezet in pyruvaat**, en daarbij wordt energie (ATP) en NADH gevormd. Glycolyse vindt plaats in het cytoplasma van de cel.
 - Glycogenolyse is inderdaad de afbraak van **glycogeen naar glucose(fosfaat)**, wat het lichaam helpt om snel glucose vrij te maken als brandstofbron.
 - Bij anaerobe energievoorziening wordt, wanneer er onvoldoende zuurstof is, pyruvaat omgezet in **lactaat (melkzuur)**. Dit gebeurt bijvoorbeeld bij intensieve inspanning of een stoornis in de energievoorziening.
 
-Helder tot nu toe? Zijn er nog onderdelen waarvan je graag iets meer wilt weten, zoals de locatie van deze processen in de cel, de opbrengst van ATP, of het belang van redoxreacties? Of zullen we verder gaan?"
-"user","nee ik snap het wel"
+Helder tot nu toe? Zijn er nog onderdelen waarvan je graag iets meer wilt weten, zoals de locatie van deze processen in de cel, de opbrengst van ATP, of het belang van redoxreacties? Of zullen we verder gaan?","2025-09-29T16:13:26.804411+00:00"
+"user","nee ik snap het wel","2025-09-29T16:13:38.99049+00:00"
 "assistant","Goed om te horen! Nu je de basis weer scherp hebt, laten we de casus opnieuw bekijken en jouw kennis toepassen:
 
 Hier nogmaals de casus:
@@ -38,39 +38,39 @@ Een 3-jarig meisje met GSD komt bij de arts omdat ze erg prikkelbaar is en een o
 - Bloedketonen: Negatief (normaal: negatief)
 - Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Nu je je kennis hebt opgefrist: Kun je uitleggen wat er in dit geval gebeurt, met gebruik van de besproken stofwisselingsprocessen?"
-"user","glycogenolyse werkt niet goed"
+Nu je je kennis hebt opgefrist: Kun je uitleggen wat er in dit geval gebeurt, met gebruik van de besproken stofwisselingsprocessen?","2025-09-29T16:13:56.456732+00:00"
+"user","glycogenolyse werkt niet goed","2025-09-29T16:14:46.605844+00:00"
 "assistant","Inderdaad, bij GSD werkt glycogenolyse niet goed, waardoor het lichaam niet efficiënt glycogeen kan afbreken tot glucose.
 
-Kun je een stap verder denken? Wat betekent dit tekort aan glucose voor andere energieproducerende processen in het lichaam? En waarom zou het lactaat dan verhoogd zijn?"
-"user","hierdoor is de bloedsuikerspiegel te laag, maar het lactaat is te hoog omdat de anaerobe glycolyse wordt ingezet waardoor er veel melkzuur vrijkomt"
+Kun je een stap verder denken? Wat betekent dit tekort aan glucose voor andere energieproducerende processen in het lichaam? En waarom zou het lactaat dan verhoogd zijn?","2025-09-29T16:14:53.380375+00:00"
+"user","hierdoor is de bloedsuikerspiegel te laag, maar het lactaat is te hoog omdat de anaerobe glycolyse wordt ingezet waardoor er veel melkzuur vrijkomt","2025-09-29T16:15:19.439337+00:00"
 "assistant","Precies, daar zit je goed! Omdat glycogenolyse niet functioneert, is er te weinig glucose beschikbaar uit glycogeen. Daardoor is er een lage bloedsuikerspiegel. 
 
-Je zegt dat door anaerobe glycolyse het lactaat stijgt. Kun je uitleggen waarom het lichaam juist deze route inschakelt, en waarom dat tot ophoping van lactaat leidt bij dit meisje? Wat gebeurt er met het pyruvaat in deze situatie?"
-"user","nou het lichaam heeft toch energie nodig en als er niet genoeg glucose is, breek je het af tot pyruvaat waardoor je de anaerobe glycolyse ingaan"
+Je zegt dat door anaerobe glycolyse het lactaat stijgt. Kun je uitleggen waarom het lichaam juist deze route inschakelt, en waarom dat tot ophoping van lactaat leidt bij dit meisje? Wat gebeurt er met het pyruvaat in deze situatie?","2025-09-29T16:15:27.196406+00:00"
+"user","nou het lichaam heeft toch energie nodig en als er niet genoeg glucose is, breek je het af tot pyruvaat waardoor je de anaerobe glycolyse ingaan","2025-09-29T16:16:40.976402+00:00"
 "assistant","Je zit op het juiste spoor: het lichaam heeft energie nodig en probeert die uit de beschikbare glucose te halen, zeker als de bloedsuiker laag is. Glycolyse blijft doorgaan omdat cellen energie nodig hebben.
 
 Even een kleine aanvulling: ook als er weinig glucose beschikbaar is, wordt het beetje glucose dat er is wél omgezet via glycolyse. Als het lichaam niet goed kan overgaan op andere routes (zoals gluconeogenese of vetverbranding), wordt pyruvaat omgezet in lactaat omdat de citroenzuurcyclus en oxidatieve fosforylering (die zuurstof en andere substraten vragen) niet optimaal kunnen functioneren in deze setting.  
 
-Kun jij uitleggen waarom de ketonen negatief zijn, ondanks dat er te weinig glucose is? Wat zegt dat over het gebruik van vetzuren in dit geval?"
-"user","de vetzuren worden gebruikt als reserve, ketonen worden niet gebruikt omdat die niet zijn gevormd door acetyl coa"
+Kun jij uitleggen waarom de ketonen negatief zijn, ondanks dat er te weinig glucose is? Wat zegt dat over het gebruik van vetzuren in dit geval?","2025-09-29T16:16:55.156347+00:00"
+"user","de vetzuren worden gebruikt als reserve, ketonen worden niet gebruikt omdat die niet zijn gevormd door acetyl coa","2025-09-29T16:18:12.854469+00:00"
 "assistant","Je zit in de juiste richting qua denkwijze: als er weinig glucose is, gaat het lichaam normaal gesproken over op alternatieve brandstoffen zoals vetzuren (waarbij ketonen worden gevormd uit acetyl-CoA). Maar in deze casus zijn de ketonen negatief gebleven.
 
 Misschien helpt deze hint je verder: bij sommige vormen van GSD kan de lever door een gebrek aan energie (uit glycolyse en glycogenolyse) niet goed vetzuren afbreken tot acetyl-CoA voor ketogenese, omdat daarvoor ook een minimale aanvoer van oxaalacetaat en NADH nodig is.
 
-Wil je proberen deze gedachtegang af te maken? Waarom kan de lever in deze patiënt niet voldoende ketonen aanmaken? Wat is er precies mis met de energievoorziening op celniveau bij GSD?"
-"user","je hebt weinig glucose, hierdoor heb je weinig pyruvaat en dus weinig acetylcoa. zonder acetylcoa kan je geen ketonen aanmaken."
+Wil je proberen deze gedachtegang af te maken? Waarom kan de lever in deze patiënt niet voldoende ketonen aanmaken? Wat is er precies mis met de energievoorziening op celniveau bij GSD?","2025-09-29T16:18:26.452036+00:00"
+"user","je hebt weinig glucose, hierdoor heb je weinig pyruvaat en dus weinig acetylcoa. zonder acetylcoa kan je geen ketonen aanmaken.","2025-09-29T16:19:06.613469+00:00"
 "assistant","Dat is goed geredeneerd, maar laten we het nog iets nauwkeuriger bekijken:  
 Bij weinig glucose is er inderdaad weinig pyruvaat, maar het lichaam kan wel vetzuren afbreken tot acetyl-CoA. Toch komen die acetyl-CoA's niet verder. Voor de citroenzuurcyclus is namelijk oxaalacetaat nodig (dat onder andere uit pyruvaat gevormd wordt). Omdat de gluconeogenese en de Cori-cyclus niet goed werken in GSD, raakt de voorraad oxaalacetaat op. Hierdoor kan acetyl-CoA niet verwerkt worden in de citroenzuurcyclus en stapelt het zich op. Normaal gesproken zou dit leiden tot ketonvorming, maar sommige GSD-types hebben ook een defect in het acetyleringsproces of energieproductie in de lever.
 
 Dus: de lever kan óf geen acetyl-CoA genereren uit vetzuren, of er is niet genoeg ""ruilmiddel"" (zoals oxaalacetaat) en ATP in de lever om deze om te zetten in ketonen. Daarom zijn de ketonen negatief.
 
-Wil je nu proberen om het hele verhaal van deze casus logisch op een rij te zetten? Schrijf zo compleet mogelijk op waardoor de bloedwaarden en klachten van het meisje verklaard kunnen worden! (Hoe vollediger, hoe beter voor je inzicht en voorbereiding!)"
-"user","wil jij het op een rij zetten"
+Wil je nu proberen om het hele verhaal van deze casus logisch op een rij te zetten? Schrijf zo compleet mogelijk op waardoor de bloedwaarden en klachten van het meisje verklaard kunnen worden! (Hoe vollediger, hoe beter voor je inzicht en voorbereiding!)","2025-09-29T16:19:24.096339+00:00"
+"user","wil jij het op een rij zetten","2025-09-29T16:19:35.027587+00:00"
 "assistant","Dat snap ik, maar zoals we eerder hebben afgesproken ben ik er juist om je te begeleiden bij het zelf uitleggen van de casus! Het helpt je veel meer als je het eerst zelf probeert. Gebruik gerust korte zinnen; het hoeft niet perfect te zijn. 
 
 Dus nogmaals:
 
 Kun je nu, met alles wat we besproken hebben, zo uitgebreid mogelijk opschrijven waardoor de bloedwaarden (lage bloedglucose, hoge lactaat, negatieve ketonen) én de klachten van het meisje te verklaren zijn? Probeer stap voor stap uit te leggen welke metabole routes betrokken zijn en waar de problemen zitten. 
 
-Ik moedig je aan: probeer het echt eens!"
+Ik moedig je aan: probeer het echt eens!","2025-09-29T16:19:49.488812+00:00"

@@ -1,5 +1,5 @@
-"role","content"
-"user","laten we beginne!"
+"role","content","created_at"
+"user","laten we beginne!","2025-09-29T16:12:36.476501+00:00"
 "assistant","Hier volgt de klinische context voor onze eerste casus:
 
 ### VIGNETTE 1 ###
@@ -10,33 +10,33 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)  
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-**Kun je uitleggen wat er in dit geval is gebeurd?**"
-"user","Ze heeft last van glucose stapelingsziekte"
+**Kun je uitleggen wat er in dit geval is gebeurd?**","2025-09-29T16:12:53.764332+00:00"
+"user","Ze heeft last van glucose stapelingsziekte","2025-09-29T16:14:24.382588+00:00"
 "assistant","Goed dat je dat opmerkt! Je ziet dat er een probleem is met het verwerken en vrijmaken van glucose uit glycogeen door haar ziekte.
 
 Voordat we verdergaan met de casusanalyse, laten we samen even terugblikken op de basiskennis die hiermee samenhangt. Dat helpt je straks het volledige plaatje te begrijpen. Heb je hier al vragen over, of iets waar je onzeker over bent? 
 
-Zo niet: Kun je kort uitleggen wat glycolyse is?"
-"user","glycolyse is het omzetten van glucose naar glucogeen"
+Zo niet: Kun je kort uitleggen wat glycolyse is?","2025-09-29T16:14:32.376608+00:00"
+"user","glycolyse is het omzetten van glucose naar glucogeen","2025-09-29T16:14:57.30613+00:00"
 "assistant","Je verwart hier twee processen met elkaar. Glycolyse is namelijk niet het omzetten van glucose naar glycogeen.  
-Heb je een idee wat er wél gebeurt tijdens glycolyse? Wat gebeurt er met glucose tijdens glycolyse — wordt het opgebouwd of juist afgebroken?"
-"user","glucose is het afbreken van glucose"
+Heb je een idee wat er wél gebeurt tijdens glycolyse? Wat gebeurt er met glucose tijdens glycolyse — wordt het opgebouwd of juist afgebroken?","2025-09-29T16:15:15.46096+00:00"
+"user","glucose is het afbreken van glucose","2025-09-29T16:15:32.847007+00:00"
 "assistant","Juist! Glycolyse is het proces waarbij glucose wordt afgebroken tot kleinere moleculen. 
 
-Kun je beschrijven wat het eindproduct is van glycolyse en of dit proces zuurstof nodig heeft?"
-"user","het kan melkzuur zijn ookwel lactaat of hij gaat de citroenzuursyclus in wat wordt vervolgd in additatieve fosfoliereing"
+Kun je beschrijven wat het eindproduct is van glycolyse en of dit proces zuurstof nodig heeft?","2025-09-29T16:15:38.960406+00:00"
+"user","het kan melkzuur zijn ookwel lactaat of hij gaat de citroenzuursyclus in wat wordt vervolgd in additatieve fosfoliereing","2025-09-29T16:16:47.789613+00:00"
 "assistant","Goed, je benoemt twee mogelijke routes na de glycolyse! Je zegt dus:  
 - Glycolyse kan leiden tot lactaat (melkzuur),  
 - Óf de tussenproducten gaan de citroenzuurcyclus in en dan naar de oxidatieve fosforylering.
 
-Kun je uitleggen wat bepaalt of het geproduceerde pyruvaat wordt omgezet in lactaat, of juist wordt doorgevoerd naar de citroenzuurcyclus?"
-"user","zuurstof"
+Kun je uitleggen wat bepaalt of het geproduceerde pyruvaat wordt omgezet in lactaat, of juist wordt doorgevoerd naar de citroenzuurcyclus?","2025-09-29T16:16:57.146376+00:00"
+"user","zuurstof","2025-09-29T16:17:20.180237+00:00"
 "assistant","Helemaal correct! Oftewel:  
 - Bij voldoende zuurstof wordt pyruvaat omgezet tot acetyl-CoA en gaat het de citroenzuurcyclus in (aerobe omstandigheden).
 - Bij weinig of geen zuurstof wordt pyruvaat omgezet in lactaat (anaerobe omstandigheden).
 
-Zijn er andere begrippen of processen zoals glycogenolyse, gluconeogenese of de Cori-cyclus waar je nu nog vragen over hebt, of zullen we doorgaan naar de volgende stap?"
-"user","nee ga maar door"
+Zijn er andere begrippen of processen zoals glycogenolyse, gluconeogenese of de Cori-cyclus waar je nu nog vragen over hebt, of zullen we doorgaan naar de volgende stap?","2025-09-29T16:17:29.294286+00:00"
+"user","nee ga maar door","2025-09-29T16:17:54.713101+00:00"
 "assistant","Prima, we gaan verder met het toepassen van de kennis op ons klinisch scenario.
 
 Herinner je je de casus nog?
@@ -49,44 +49,44 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)  
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Nu je de basiskennis over energiehuishouding hebt herhaald, kun je met die kennis uitleggen wat er in dit geval aan de hand is?"
-"user","haar lever is opgezwollen door het vasthouden van glucogeen en vetzuren, haar bloedsuiker is te laag doordat de aerobe dissimilatie niet kan plaatsvinden en de anaerobe wel omdat er dus geen zuurstof is"
+Nu je de basiskennis over energiehuishouding hebt herhaald, kun je met die kennis uitleggen wat er in dit geval aan de hand is?","2025-09-29T16:18:20.228942+00:00"
+"user","haar lever is opgezwollen door het vasthouden van glucogeen en vetzuren, haar bloedsuiker is te laag doordat de aerobe dissimilatie niet kan plaatsvinden en de anaerobe wel omdat er dus geen zuurstof is","2025-09-29T16:20:26.386887+00:00"
 "assistant","Je doet een goede poging om het te verklaren! Je noemt het vasthouden van glycogeen in de lever, en je koppelt de glucosewaarde aan de stofwisseling.
 
 Laten we eens inzoomen op een belangrijk punt dat je noemt: je zegt dat de aerobe dissimilatie niet kan plaatsvinden, waardoor de anaerobe route actief is omdat er “geen zuurstof” is. 
 
 Heb je overwogen of er echt geen zuurstof is bij deze patiënt? Of is er misschien een ander probleem dat ervoor zorgt dat vooral de anaerobe route (dus de omzetting naar lactaat) nu actief is?  
-Dus: waarom wordt er in deze situatie zoveel lactaat geproduceerd, ook al is er gewoon zuurstof beschikbaar? Kun je dat verklaren?"
-"user","omdat de pyruvaat niet omgezet kan worden tot acetyl coa"
-"user","omdat de pyruvaat niet omgezet kan worden tot acetyl coa"
+Dus: waarom wordt er in deze situatie zoveel lactaat geproduceerd, ook al is er gewoon zuurstof beschikbaar? Kun je dat verklaren?","2025-09-29T16:21:06.154693+00:00"
+"user","omdat de pyruvaat niet omgezet kan worden tot acetyl coa","2025-09-29T16:21:55.369741+00:00"
+"user","omdat de pyruvaat niet omgezet kan worden tot acetyl coa","2025-09-29T16:23:06.16216+00:00"
 "assistant","Goed dat je hierover nadenkt! Pyruvaat wordt normaal gesproken inderdaad omgezet in acetyl-CoA om de citroenzuurcyclus in te gaan. Maar bij GSD is het enzym dat glycogeen afbreekt defect, waardoor er te weinig glucose vrijkomt en de cellen een tekort aan energie krijgen.
 
 Heb je ook gedacht aan de rol van de Cori-cyclus of aan gluconeogenese in deze situatie?  
-Hoe zou een gestoorde gluconeogenese of een overbelaste Cori-cyclus zorgen voor ophoping van lactaat? Kun je dat uitleggen?"
-"user","is cori cyclus het zelfde als de citroenzuurciclus?"
+Hoe zou een gestoorde gluconeogenese of een overbelaste Cori-cyclus zorgen voor ophoping van lactaat? Kun je dat uitleggen?","2025-09-29T16:23:16.862657+00:00"
+"user","is cori cyclus het zelfde als de citroenzuurciclus?","2025-09-29T16:23:44.870531+00:00"
 "assistant","Dat is een goede vraag! Nee, de Cori-cyclus is niet hetzelfde als de citroenzuurcyclus.
 
-Kun je proberen te bedenken wat het verschil is, of weet je waar de Cori-cyclus vooral voor zorgt in het lichaam? Wat gebeurt er met lactaat in de Cori-cyclus?"
-"user","ik heb nog nooit van de cori cyclus gehoord"
-"user","ik heb nog nooit van de cori cyclus gehoord"
+Kun je proberen te bedenken wat het verschil is, of weet je waar de Cori-cyclus vooral voor zorgt in het lichaam? Wat gebeurt er met lactaat in de Cori-cyclus?","2025-09-29T16:23:52.507031+00:00"
+"user","ik heb nog nooit van de cori cyclus gehoord","2025-09-29T16:24:17.957155+00:00"
+"user","ik heb nog nooit van de cori cyclus gehoord","2025-09-29T16:25:25.411166+00:00"
 "assistant","Dat is helemaal niet erg! Veel studenten horen hier pas voor het eerst over tijdens hun studie.
 
 De Cori-cyclus is een proces waarbij het lichaam melkzuur (lactaat), dat bijvoorbeeld in de spieren wordt gevormd bij inspanning of bij een tekort aan directe energie, weer terugverwerkt tot glucose in de lever.
 
-Wil je proberen samen te vatten waarvoor die cyclus belangrijk is? Als je twijfelt, kun je het ook even snel opzoeken in je leerboek en daarna uitleggen wat je gevonden hebt!"
-"user","de cori cyclus zorgt er voor dat melkzuur uit de spier wordt omgezet tot glucose dmv lactaat-pyruvaat +6atp tot glucose"
+Wil je proberen samen te vatten waarvoor die cyclus belangrijk is? Als je twijfelt, kun je het ook even snel opzoeken in je leerboek en daarna uitleggen wat je gevonden hebt!","2025-09-29T16:25:35.146174+00:00"
+"user","de cori cyclus zorgt er voor dat melkzuur uit de spier wordt omgezet tot glucose dmv lactaat-pyruvaat +6atp tot glucose","2025-09-29T16:27:51.516159+00:00"
 "assistant","Goed gedaan! Je begrijpt nu de hoofdgedachte van de Cori-cyclus: lactaat uit de spier wordt naar de lever getransporteerd waar het wordt teruggezet naar glucose, wat wel veel energie kost.
 
 Laten we terugkoppelen naar de casus: Als deze cyclus overbelast raakt, bijvoorbeeld doordat er veel lactaat ontstaat, wat gebeurt er dan met het lactaatgehalte in het bloed? En hoe beïnvloedt dit het energiemetabolisme van het meisje?  
-Kun je die stap uitleggen?"
-"user","dan krijg je een lager ph"
+Kun je die stap uitleggen?","2025-09-29T16:28:05.301008+00:00"
+"user","dan krijg je een lager ph","2025-09-29T16:28:38.833553+00:00"
 "assistant","Klopt, als er veel lactaat ophoopt in het bloed, daalt de pH: dat heet lactaatacidose.
 
-Denk je ook dat dit invloed heeft op de hoeveelheid energie die haar cellen kunnen maken? Wat gebeurt er met de efficiëntie van de energieproductie als de Cori-cyclus overbelast raakt en veel energie wordt verbruikt om lactaat om te zetten in glucose?"
-"user","een verhoogt ph in de bloed"
+Denk je ook dat dit invloed heeft op de hoeveelheid energie die haar cellen kunnen maken? Wat gebeurt er met de efficiëntie van de energieproductie als de Cori-cyclus overbelast raakt en veel energie wordt verbruikt om lactaat om te zetten in glucose?","2025-09-29T16:28:53.437531+00:00"
+"user","een verhoogt ph in de bloed","2025-09-29T16:29:43.320075+00:00"
 "assistant","Even opletten: bij een ophoping van lactaat in het bloed wordt het bloed juist zuurder, dus de pH **daalt** (een lagere pH betekent meer zuur)!
 
-Terug naar de energieproductie: Als de lever veel energie kwijt is aan het omzetten van lactaat naar glucose (en dat proces kost ATP), blijft er dan genoeg energie over voor het lichaam? Of zouden de spieren en hersenen mogelijk een tekort krijgen? Wat denk je?"
+Terug naar de energieproductie: Als de lever veel energie kwijt is aan het omzetten van lactaat naar glucose (en dat proces kost ATP), blijft er dan genoeg energie over voor het lichaam? Of zouden de spieren en hersenen mogelijk een tekort krijgen? Wat denk je?","2025-09-29T16:29:54.011551+00:00"
 "assistant","**Identificeer de leercontext en rollen**  
 Deze dialoog vindt plaats in een begeleide medische onderwijssituatie, waarschijnlijk een tutoringsessie of kleinschalig werkcollege biochemie/geneeskunde. De gebruiker neemt de rol in van student/geneeskundestudent, die vragen beantwoordt en denkt over casuïstiek rondom metabole ziekten, onder leiding van een actieve, begeleidende docent/AI-begeleider. Doel van deze feedback is de student te ondersteunen richting verdieping, accuratesse en zelfreflectie bij complexe metabole concepten.
 
@@ -124,4 +124,4 @@ Deze dialoog vindt plaats in een begeleide medische onderwijssituatie, waarschij
    *Hoe te implementeren*: Check vaktermen en hun context extra, en lees je antwoord eenmalig na op logische fouten voor je het verstuurt.
 
 **Forward-looking guidance**  
-In het volgende gesprek, focus op het eerst expliciet structureren van je antwoord (bijvoorbeeld in stappen) en op zelfcontrole van begrippen voordat je verder redeneert. Besteed extra aandacht aan het herkennen en herstellen van fouten door de feedback van je tutor actief te verwerken."
+In het volgende gesprek, focus op het eerst expliciet structureren van je antwoord (bijvoorbeeld in stappen) en op zelfcontrole van begrippen voordat je verder redeneert. Besteed extra aandacht aan het herkennen en herstellen van fouten door de feedback van je tutor actief te verwerken.","2025-09-29T16:30:23.621+00:00"

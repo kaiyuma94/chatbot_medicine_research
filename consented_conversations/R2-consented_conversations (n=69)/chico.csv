@@ -1,5 +1,5 @@
-"role","content"
-"user","ik ben er klaar voor"
+"role","content","created_at"
+"user","ik ben er klaar voor","2025-09-29T15:37:16.017781+00:00"
 "assistant","Hier is de eerste casus om ons onderwerp te kaderen:
 
 ###VIGNETTE 1###
@@ -10,43 +10,43 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun je uitleggen wat er in dit geval is gebeurd?"
-"user","haar lichaam heeft weinig glucose en het glycogeenvoorraad is leeg dus haar lichaam gaat via anaerobische manier glucose dissimileren"
+Kun je uitleggen wat er in dit geval is gebeurd?","2025-09-29T15:37:34.498944+00:00"
+"user","haar lichaam heeft weinig glucose en het glycogeenvoorraad is leeg dus haar lichaam gaat via anaerobische manier glucose dissimileren","2025-09-29T15:39:50.528818+00:00"
 "assistant","Goed geprobeerd! Laten we even een stapje terug doen en samen de basiskennis ophalen. Zo wordt het makkelijker om straks de casus verder te analyseren. Heb je tot nu toe vragen of onduidelijkheden?
 
-Zo niet, dan ben ik benieuwd: kun je kort uitleggen wat glycolyse is, en wat het verschil is tussen aerobe en anaerobe glucose-omzetting?"
-"user","glycolyse is de omzetting van glucose tot pyrodruivenzuur. Aerobe omzetting leidt kan mitochondriaal. Anaerobe omzetting leidt tot melkzuur"
+Zo niet, dan ben ik benieuwd: kun je kort uitleggen wat glycolyse is, en wat het verschil is tussen aerobe en anaerobe glucose-omzetting?","2025-09-29T15:39:59.232338+00:00"
+"user","glycolyse is de omzetting van glucose tot pyrodruivenzuur. Aerobe omzetting leidt kan mitochondriaal. Anaerobe omzetting leidt tot melkzuur","2025-09-29T15:41:27.319466+00:00"
 "assistant","Dat klopt heel goed! Glycolyse is het proces waarbij glucose wordt omgezet in pyruvaat, en afhankelijk van de beschikbaarheid van zuurstof gaat pyruvaat door naar de aerobe route (mitochondriaal) of wordt omgezet naar lactaat in afwezigheid van zuurstof (anaeroob).
 
-Heb je een idee wat er gebeurt met glycogeen in het lichaam als je langere tijd niet eet? Of kun je uitleggen wat glycogenolyse is?"
-"user","als je lange tijd niet eet dan gebruikt je lichaam de glycogeen voorraad om glucose te vormen"
+Heb je een idee wat er gebeurt met glycogeen in het lichaam als je langere tijd niet eet? Of kun je uitleggen wat glycogenolyse is?","2025-09-29T15:41:35.363706+00:00"
+"user","als je lange tijd niet eet dan gebruikt je lichaam de glycogeen voorraad om glucose te vormen","2025-09-29T15:42:09.566685+00:00"
 "assistant","Precies! Dat proces heet glycogenolyse: het afbreken van glycogeen tot glucose, zodat glucose vrijkomt voor energie, vooral tijdens vasten of tussen maaltijden.
 
-Nog één puntje om het plaatje compleet te maken: weet je wat gluconeogenese is en wanneer dit proces op gang komt?"
-"user","dit is de vorming vanglucose uit pyrodruivenzuur, aminozuren en glycerol"
+Nog één puntje om het plaatje compleet te maken: weet je wat gluconeogenese is en wanneer dit proces op gang komt?","2025-09-29T15:42:19.500174+00:00"
+"user","dit is de vorming vanglucose uit pyrodruivenzuur, aminozuren en glycerol","2025-09-29T15:42:46.478496+00:00"
 "assistant","Heel goed! Gluconeogenese is inderdaad het aanmaken van nieuwe glucose uit andere stoffen, zoals pyrodruivenzuur (pyruvaat), aminozuren en glycerol, vooral tijdens langdurig vasten wanneer de glycogeenvoorraden uitgeput raken.
 
-Lijkt het je duidelijk tot zover, of heb je nog vragen over deze processen? Als het helder is, laten we dan verdergaan en het geleerde toepassen op de casus!"
-"user","ze heeft weinig bloedglucose en veel lactaat met een vergrote lever dus ik neem aan dat haar lichaam veel anaerobische dissimilatie aan het uitvoeren is. Ze heeft het enzym glucose - 6 - fosfaat niet dus kan ze niet normaal pyrofaat, wat wordt omgezet tot lactaat"
+Lijkt het je duidelijk tot zover, of heb je nog vragen over deze processen? Als het helder is, laten we dan verdergaan en het geleerde toepassen op de casus!","2025-09-29T15:42:57.156952+00:00"
+"user","ze heeft weinig bloedglucose en veel lactaat met een vergrote lever dus ik neem aan dat haar lichaam veel anaerobische dissimilatie aan het uitvoeren is. Ze heeft het enzym glucose - 6 - fosfaat niet dus kan ze niet normaal pyrofaat, wat wordt omgezet tot lactaat","2025-09-29T15:46:51.057516+00:00"
 "assistant","Je bent op de goede weg! Je koppelt de symptomen aan een verstoring in de energievoorziening door het glycogeenmetabolisme. Laten we dat stap voor stap iets verder uitwerken:
 
 - Je zegt: weinig glucose → dus meer anaerobe glycolyse → meer lactaat.
 - Je noemt het enzym glucose-6-fosfatase (dat ontbreekt in sommige typen GSD).
 
-Goed beredeneerd! Maar kun je verder toelichten waarom ze, ondanks glycogeen in haar lever, toch een lage bloedglucose heeft? Wat gebeurt er precies met het glycogeen en waarom kan het niet gebruikt worden?"
-"user","omdat ze glucose - 6 - fosfaatase mist kan ze glycogeen niet omzetten in glucose"
+Goed beredeneerd! Maar kun je verder toelichten waarom ze, ondanks glycogeen in haar lever, toch een lage bloedglucose heeft? Wat gebeurt er precies met het glycogeen en waarom kan het niet gebruikt worden?","2025-09-29T15:47:07.320999+00:00"
+"user","omdat ze glucose - 6 - fosfaatase mist kan ze glycogeen niet omzetten in glucose","2025-09-29T15:47:50.641677+00:00"
 "assistant","Juist, erg scherp! Door het ontbreken van glucose-6-fosfatase kan het glycogeen wel worden afgebroken tot glucose-6-fosfaat, maar deze laatste stap—het omzetten van glucose-6-fosfaat naar vrije glucose die in het bloed kan komen—werkt niet meer.
 
-Maar wat gebeurt er vervolgens met al dat glucose-6-fosfaat in haar levercellen? Wat doet het lichaam ermee, en waarom leidt dat tot een verhoogd lactaatgehalte in het bloed?"
-"user","ik weet het echt niet"
+Maar wat gebeurt er vervolgens met al dat glucose-6-fosfaat in haar levercellen? Wat doet het lichaam ermee, en waarom leidt dat tot een verhoogd lactaatgehalte in het bloed?","2025-09-29T15:48:04.633782+00:00"
+"user","ik weet het echt niet","2025-09-29T15:48:22.850453+00:00"
 "assistant","Dat is helemaal niet erg! Het is een lastig punt, laten we het samen opbouwen. Glucose-6-fosfaat kan niet de cel uit als glucose, dus het hoopt zich op. Het lichaam probeert deze ophoping te verwerken via andere routes, bijvoorbeeld door meer glycolyse te laten plaatsvinden.
 
-Wat is het eindproduct van glycolyse onder anaerobe omstandigheden? En wat gebeurt er als dat zich ophoopt?"
-"user","lactaat"
+Wat is het eindproduct van glycolyse onder anaerobe omstandigheden? En wat gebeurt er als dat zich ophoopt?","2025-09-29T15:48:35.028005+00:00"
+"user","lactaat","2025-09-29T15:48:47.724116+00:00"
 "assistant","Precies! Als glycolyse doorgaat, vooral als het eindproduct niet verder de mitochondriën in kan worden geleid of niet als glucose het bloed in kan, wordt pyruvaat omgezet naar lactaat. Dit lactaat komt dan in het bloed terecht, wat een verhoogd lactaatgehalte verklaart.
 
-Laatste vraag voor deze casus: de Cori-cyclus wordt actief als er veel lactaat is. Weet je hoe deze cyclus in een gezonde situatie normaal gesproken werkt tussen spier en lever?"
-"user","de spier neemt glucose uit het bloed en zit dit om tot lactaat, dat lactaat komt in de bloedbaan. De lever vangt het lactaat op en vormt het weer tot glucose. Dit glucose komt vervolgens weer het bloed in"
+Laatste vraag voor deze casus: de Cori-cyclus wordt actief als er veel lactaat is. Weet je hoe deze cyclus in een gezonde situatie normaal gesproken werkt tussen spier en lever?","2025-09-29T15:48:59.476749+00:00"
+"user","de spier neemt glucose uit het bloed en zit dit om tot lactaat, dat lactaat komt in de bloedbaan. De lever vangt het lactaat op en vormt het weer tot glucose. Dit glucose komt vervolgens weer het bloed in","2025-09-29T15:50:06.636064+00:00"
 "assistant","Mooi uitgelegd! In een normale situatie neemt de lever inderdaad het lactaat op en vormt het om tot glucose via gluconeogenese, waarna het terugkeert naar het bloed en door de spieren gebruikt kan worden.
 
 In deze casus werkt echter de laatste stap—van glucose-6-fosfaat naar glucose—niet goed, waardoor de cyclus niet volledig verloopt en lactaat zich ophoopt.
@@ -61,8 +61,8 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)
 Lactaat: 4,2 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-**Hoe begrijp je nu de oorzaken achter de klinische bevindingen in deze casus? Schrijf alles uit wat je kunt bedenken—je ideeën, redeneringen en de verbanden met wat je geleerd hebt. Hoe vollediger je uitleg, hoe meer je je begrip verdiept en je voorbereidt op het diagnosticeren van een glycogeenstapelingsziekte!**"
-"user","De spier neemt het glucose uit de bloedbaan in en zet het om tot lactaat. Dit lactaat gaat de bloedbaan weer in, waar het wordt opgevangen door de lever, die het weer omzet tot glucose. Dit glucose komt de bloedbaan weer in"
+**Hoe begrijp je nu de oorzaken achter de klinische bevindingen in deze casus? Schrijf alles uit wat je kunt bedenken—je ideeën, redeneringen en de verbanden met wat je geleerd hebt. Hoe vollediger je uitleg, hoe meer je je begrip verdiept en je voorbereidt op het diagnosticeren van een glycogeenstapelingsziekte!**","2025-09-29T15:50:32.299191+00:00"
+"user","De spier neemt het glucose uit de bloedbaan in en zet het om tot lactaat. Dit lactaat gaat de bloedbaan weer in, waar het wordt opgevangen door de lever, die het weer omzet tot glucose. Dit glucose komt de bloedbaan weer in","2025-09-29T15:51:40.74086+00:00"
 "assistant","Prima, je hebt de Cori-cyclus goed beschreven! Laten we nu kijken of je deze kennis kunt toepassen op een nieuwe situatie:
 
 ###VIGNETTE 2###
@@ -72,27 +72,27 @@ Bloedglucose: 55 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Positief (normaal: negatief)
 Lactaat: 2,8 mmol/L (normaal: 0,5–2,0 mmol/L)
 
-Kun je uitleggen waardoor de bloedwaarden van de jongen zo zijn, en waarom hij zich zo slap voelt?"
-"user","hallo"
+Kun je uitleggen waardoor de bloedwaarden van de jongen zo zijn, en waarom hij zich zo slap voelt?","2025-09-29T15:52:04.623297+00:00"
+"user","hallo","2025-09-29T15:52:13.062385+00:00"
 "assistant","Hallo! We waren bezig met de nieuwe casus over de jongen die vier dagen alleen heeft gevast:
 
 Een 13-jarige jongen is erg zwak na vier dagen vasten (alleen water). Zijn bloedonderzoek laat laag glucose, positieve ketonen en verhoogd lactaat zien.
 
-Kun je uitleggen waardoor de bloedwaarden van deze jongen zo zijn en waarom hij zich slap voelt? Als je vastloopt, laat gerust weten wat je (al) weet over vasten en energievoorziening van het lichaam!"
-"user","Hij heeft positieve ketonen dus zijn lichaam heeft vet zitten afbreken voor energie."
-"user","hallo"
+Kun je uitleggen waardoor de bloedwaarden van deze jongen zo zijn en waarom hij zich slap voelt? Als je vastloopt, laat gerust weten wat je (al) weet over vasten en energievoorziening van het lichaam!","2025-09-29T15:52:22.196807+00:00"
+"user","Hij heeft positieve ketonen dus zijn lichaam heeft vet zitten afbreken voor energie.","2025-09-29T15:55:23.337408+00:00"
+"user","hallo","2025-09-29T15:56:24.237304+00:00"
 "assistant","Dat klopt! Ketonen zijn een teken dat het lichaam vet aan het afbreken is voor energie—dit gebeurt typisch als de glucosevoorraad op is na langdurig vasten. 
 
-Wil je uitleggen waarom zijn bloedglucose tóch niet helemaal normaal is gebleven ondanks deze aanpassing? Welke andere processen spelen een rol om de hersenen en andere weefsels van energie te voorzien tijdens langdurig vasten?"
-"user","gluconeogenese"
+Wil je uitleggen waarom zijn bloedglucose tóch niet helemaal normaal is gebleven ondanks deze aanpassing? Welke andere processen spelen een rol om de hersenen en andere weefsels van energie te voorzien tijdens langdurig vasten?","2025-09-29T15:56:36.979251+00:00"
+"user","gluconeogenese","2025-09-29T15:57:10.026904+00:00"
 "assistant","Precies, gluconeogenese speelt een grote rol! Na het opraken van glycogeen gaat het lichaam over op gluconeogenese om glucose te maken uit bijvoorbeeld aminozuren en glycerol.
 
-Kun je uitleggen waarom zijn spieren slap aanvoelen, ondanks deze alternatieve energieproductie? Wat zijn de nadelen van langdurig overstappen op gluconeogenese en vetverbranding voor energie?"
-"user","je neemt weg van stoffen die je lichaam wel nodig heeft en vult ze niet aan"
+Kun je uitleggen waarom zijn spieren slap aanvoelen, ondanks deze alternatieve energieproductie? Wat zijn de nadelen van langdurig overstappen op gluconeogenese en vetverbranding voor energie?","2025-09-29T15:57:17.712853+00:00"
+"user","je neemt weg van stoffen die je lichaam wel nodig heeft en vult ze niet aan","2025-09-29T15:57:49.501531+00:00"
 "assistant","Heel goed geredeneerd! Inderdaad, bij langdurig vasten breekt het lichaam spierweefsel af voor aminozuren (voor gluconeogenese). Hierdoor worden belangrijke bouwstoffen voor spieren en andere weefsels aangesproken zonder dat er aanvulling is — met vermoeidheid en zwakte tot gevolg.
 
-Laatste vraag: de jongen heeft een licht verhoogd lactaat. Hoe draagt de Cori-cyclus hieraan bij, en is de energieopbrengst uit deze route anders dan uit volledig aerobe stofwisseling?"
-"user","de cori-cyclus heeft lactaat als resultaat nadat het glucose door de spieren is verwerkt. Dit lactaat komt de bloedstroom in. Bij aerobe stofwisseling ontstaat geen lactaat"
+Laatste vraag: de jongen heeft een licht verhoogd lactaat. Hoe draagt de Cori-cyclus hieraan bij, en is de energieopbrengst uit deze route anders dan uit volledig aerobe stofwisseling?","2025-09-29T15:57:59.979807+00:00"
+"user","de cori-cyclus heeft lactaat als resultaat nadat het glucose door de spieren is verwerkt. Dit lactaat komt de bloedstroom in. Bij aerobe stofwisseling ontstaat geen lactaat","2025-09-29T15:59:26.112657+00:00"
 "assistant","Precies! Bij anaerobe glycolyse zetten spieren glucose om in lactaat, dat via de Cori-cyclus weer gebruikt kan worden door de lever om glucose te maken. Dus bij intensief gebruik van deze route zie je een lichte stijging van lactaat in het bloed, zoals bij deze jongen.
 
 En inderdaad, de energieopbrengst uit anaerobe glycolyse is veel lager (slechts 2 ATP per glucose) dan bij volledige aerobe verbranding (tot 36-38 ATP per glucose), waardoor het lichaam sneller uitgeput raakt.
@@ -102,7 +102,7 @@ Goed gedaan! Je weet nu de koppeling te maken tussen de metabole routes en de kl
 ###Feedback
 Je bespreekt vlot de belangrijkste processen en past ze goed toe op casussen. Je zelfredzaamheid in uitwerken neemt toe bij elke stap. Blijf bij nieuwe vignetten altijd even terugdenken aan de basale routes, want die vormen je handvat bij elk klinisch raadsel!
 
-Mocht je in de toekomst nog eens willen oefenen of verdieping zoeken, stel gerust je vragen!"
+Mocht je in de toekomst nog eens willen oefenen of verdieping zoeken, stel gerust je vragen!","2025-09-29T15:59:43.384776+00:00"
 "assistant","**1. Leercontext en rollen**  
 Dit betreft een interactieve medische tutorgesprek, waarbij de gebruiker een student geneeskunde of biomedische wetenschappen lijkt en de assistant een docent/coachrol vervult. Het doel van deze feedback is de gebruiker te ondersteunen in het ontwikkelen van inzicht en redeneervaardigheden rond stofwisselingsziekten en de energiebalans van het menselijk lichaam aan de hand van casusbesprekingen.
 
@@ -131,4 +131,4 @@ Dit betreft een interactieve medische tutorgesprek, waarbij de gebruiker een stu
    *Hoe te implementeren:* Probeer bij elke metabole stoornis te benoemen hoe dit leidt tot specifieke klachten (zoals hepatomegalie of spierzwakte).
 
 **Forward-looking guidance**  
-In het volgende gesprek kun je focussen op het uitgebreider uitwerken van je antwoorden en het expliciet koppelen van biochemische processen aan klinische symptomen en patiëntpresentaties. Verdiep je in de achterliggende (patho)fysiologie en stel verdiepende vragen wanneer je ergens vastloopt."
+In het volgende gesprek kun je focussen op het uitgebreider uitwerken van je antwoorden en het expliciet koppelen van biochemische processen aan klinische symptomen en patiëntpresentaties. Verdiep je in de achterliggende (patho)fysiologie en stel verdiepende vragen wanneer je ergens vastloopt.","2025-09-29T16:01:04.352+00:00"

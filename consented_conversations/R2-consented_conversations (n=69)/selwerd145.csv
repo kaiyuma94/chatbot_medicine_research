@@ -1,5 +1,5 @@
-"role","content"
-"user","ik ben er klaar voor"
+"role","content","created_at"
+"user","ik ben er klaar voor","2025-09-29T16:12:53.994674+00:00"
 "assistant","###VIGNETTE 1###
 Het lichaam slaat glucose op in de vorm van glycogeen, vooral in de lever en spieren, om te gebruiken wanneer er energie nodig is—vooral tussen maaltijden of tijdens inspanning.  
 Bij glycogeenstapelingsziekten (GSD’s) is dit proces verstoord door erfelijke enzymdeficiënties. Hierdoor lukt het het lichaam niet om een normale bloedglucosewaarde in stand te houden, vooral tijdens vasten. Als compensatie activeert het andere metabole routes. Toch raken deze alternatieve wegen, zoals de Cori-cyclus, snel overbelast.
@@ -8,36 +8,36 @@ Bloedglucose: 45 mg/dL (norm: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal negatief)
 Lactaat: 4,2 mmol/L (norm: 0,5–2,0 mmol/L)
 
-Kun je uitleggen wat er in dit geval gebeurt?"
-"user","glycogeen kan niet meer worden omgezet naar glucose, dit zorgt voor hypoglykemie. Omdat er een tekort aan glucose is probeert je lichaam glucose te produceren via glycolyse. Hierdoor ontstaat lactaat en omdat de lever minder goed werkt door de glycogeenstapeling kan die de lactaat ook niet meer goed omzetten naar glucose wat de verhoging van het lactaat gehalte verklaart"
+Kun je uitleggen wat er in dit geval gebeurt?","2025-09-29T16:13:12.332307+00:00"
+"user","glycogeen kan niet meer worden omgezet naar glucose, dit zorgt voor hypoglykemie. Omdat er een tekort aan glucose is probeert je lichaam glucose te produceren via glycolyse. Hierdoor ontstaat lactaat en omdat de lever minder goed werkt door de glycogeenstapeling kan die de lactaat ook niet meer goed omzetten naar glucose wat de verhoging van het lactaat gehalte verklaart","2025-09-29T16:15:14.338071+00:00"
 "assistant","Goed geprobeerd! Je benoemt al een paar belangrijke begrippen, zoals glycogeenafbraak, hypoglykemie, en de rol van lactaat. Laten we even stilstaan en samen wat basiskennis opfrissen voordat we de casus verder analyseren. Dit helpt je om alles goed te ordenen. Heb je tot nu toe vragen of onduidelijkheden over wat je net zei, of over begrippen zoals glycolyse, glycogenolyse, of de Cori-cyclus?
 
-Zo niet, kun je kort beschrijven wat glycolyse precies is? Of is er een ander gerelateerd onderwerp dat je graag eerst wil opfrissen?"
-"user","glycolyse is het proces waarin glucose wordt omgezet naar pyruvaat"
+Zo niet, kun je kort beschrijven wat glycolyse precies is? Of is er een ander gerelateerd onderwerp dat je graag eerst wil opfrissen?","2025-09-29T16:15:25.403745+00:00"
+"user","glycolyse is het proces waarin glucose wordt omgezet naar pyruvaat","2025-09-29T16:15:42.749502+00:00"
 "assistant","Klopt, dat is inderdaad de essentie van glycolyse! Kun je ook benoemen waar in de cel glycolyse plaatsvindt, en wat de belangrijkste “inputs” en “outputs” van dit proces zijn?
 
-Laat gerust weten als je wilt dat ik meedenk!"
-"user","glycolyse vindt plaat in het cellichaam, de input is glucose -> ot"
+Laat gerust weten als je wilt dat ik meedenk!","2025-09-29T16:17:36.533591+00:00"
+"user","glycolyse vindt plaat in het cellichaam, de input is glucose -> ot","2025-09-29T16:18:04.688405+00:00"
 "assistant","Je zit in de goede richting! Met ""cellichaam"" bedoel je waarschijnlijk het cytoplasma van de cel. Zou je kunnen uitleggen wat er verder gebeurt met pyruvaat dat vrijkomt uit de glycolyse, en wat de belangrijkste energiedrager (output) van deze reactie is?
 
-Wat denk je: gebeurt er altijd hetzelfde met pyruvaat, of hangt dat van iets af?"
+Wat denk je: gebeurt er altijd hetzelfde met pyruvaat, of hangt dat van iets af?","2025-09-29T16:18:12.858811+00:00"
 "user","de pyruvaat wordt gebruikt in de co-proces, de belangrijkste energiedrager van dit proces is ATP -> glycolyse zelf levert 2 atp op. 
-Pyruvaat wordt of verder verwerkt in de mitochondrium wanneer er genoeg zuurstof aanwezig is. bij hoge inspanning; wanneer er te weinig O2 aanwezig is wordt het omgezet naar lactaat via de 2 NADH moleculen die dan hun waterstof molecuul afgeven aan het pyruvaat"
+Pyruvaat wordt of verder verwerkt in de mitochondrium wanneer er genoeg zuurstof aanwezig is. bij hoge inspanning; wanneer er te weinig O2 aanwezig is wordt het omgezet naar lactaat via de 2 NADH moleculen die dan hun waterstof molecuul afgeven aan het pyruvaat","2025-09-29T16:19:50.135958+00:00"
 "assistant","Heel mooi uitgelegd! Je beschrijft prima het verschil tussen aerobe en anaerobe verwerking van pyruvaat.
 
 Voordat we doorgaan wil ik kort één stap verder checken: wat gebeurt er met NADH in beide omstandigheden? En kun je zeggen waarom de omzetting van pyruvaat naar lactaat belangrijk is bij zuurstofgebrek?
 
-Wil je deze korte vragen beantwoorden, of heb je behoefte aan een korte opfrisser over bijvoorbeeld het belang van NAD+/NADH in de glycolyse?"
+Wil je deze korte vragen beantwoorden, of heb je behoefte aan een korte opfrisser over bijvoorbeeld het belang van NAD+/NADH in de glycolyse?","2025-09-29T16:20:02.459645+00:00"
 "user","NADH bij anaerobe verwerking geeft zijn waterstof atoom af aan het pyruvaat, hierdoor krijg je weer NAD+ die dan hergebruikt kan worden bij glycolyse. 
-NADH bij aerobe verwerking wordt volgens mij verder verwerkt in de citroenzuurcyclus of de coa verwerking"
+NADH bij aerobe verwerking wordt volgens mij verder verwerkt in de citroenzuurcyclus of de coa verwerking","2025-09-29T16:21:20.156989+00:00"
 "user","NADH bij anaerobe verwerking geeft zijn waterstof atoom af aan het pyruvaat, hierdoor krijg je weer NAD+ die dan hergebruikt kan worden bij glycolyse. 
-NADH bij aerobe verwerking wordt volgens mij verder verwerkt in de citroenzuurcyclus of de coa verwerking"
+NADH bij aerobe verwerking wordt volgens mij verder verwerkt in de citroenzuurcyclus of de coa verwerking","2025-09-29T16:22:17.78131+00:00"
 "assistant","Mooi! Je begrijpt goed waarom het regenereren van NAD+ essentieel is om glycolyse te laten doorgaan, vooral als er geen zuurstof is.
 
 Wat betreft je opmerking over NADH bij aerobe omstandigheden: de citroenzuurcyclus levert inderdaad NADH op, maar NADH dat gevormd wordt in de glycolyse en citroenzuurcyclus wordt uiteindelijk gebruikt in de oxidatieve fosforylering (in de mitochondriën) om ATP te produceren. Heb je daar vragen over, of weet je al wat oxidatieve fosforylering is?
 
-Laat het gerust weten. Anders kunnen we kijken naar glycogenolyse: kun je uitleggen wat glycogenolyse is, waarom dit proces belangrijk is voor het lichaam en welk orgaan vooral verantwoordelijk is voor het op peil houden van de bloedglucose tussen maaltijden?"
-"user","vertel maar wat verder over de oxidatieve fosforylering"
+Laat het gerust weten. Anders kunnen we kijken naar glycogenolyse: kun je uitleggen wat glycogenolyse is, waarom dit proces belangrijk is voor het lichaam en welk orgaan vooral verantwoordelijk is voor het op peil houden van de bloedglucose tussen maaltijden?","2025-09-29T16:22:34.251756+00:00"
+"user","vertel maar wat verder over de oxidatieve fosforylering","2025-09-29T16:22:52.158299+00:00"
 "assistant","Goed dat je het vraagt! Hier een korte en heldere uitleg:
 
 Oxidatieve fosforylering is het proces in de mitochondriën waarbij de meeste ATP wordt geproduceerd uit voedingsstoffen. Dit werkt als volgt:
@@ -46,16 +46,16 @@ Oxidatieve fosforylering is het proces in de mitochondriën waarbij de meeste AT
 - Deze elektronen bewegen door de keten en zorgen ervoor dat protonen (H⁺) vanuit de matrix naar de intermembranaire ruimte worden gepompt. Daardoor ontstaat een protonengradiënt.
 - De protonen stromen terug naar de matrix via het enzym ATP-synthase. De energie daarvan wordt gebruikt om ADP + Pi om te zetten in ATP.
 
-Waarom denk je dat deze protonengradiënt (verschil in H⁺-concentratie) zo belangrijk is voor ATP-productie?"
-"user","omdat het dan geen energie kost om het te transporteren"
+Waarom denk je dat deze protonengradiënt (verschil in H⁺-concentratie) zo belangrijk is voor ATP-productie?","2025-09-29T16:23:09.248612+00:00"
+"user","omdat het dan geen energie kost om het te transporteren","2025-09-29T16:24:13.871254+00:00"
 "assistant","Interessante gedachte! Je raakt een belangrijk punt: het gaat om de energie die vrijkomt als de protonen ""terugstromen"" naar de matrix. Zou je na willen denken over deze vervolgvraag: levert die terugstroom van protonen juist energie op, of vraagt het juist energie? En hoe helpt die energie bij het vormen van ATP? 
 
-Wat weet je over het effect van die protonengradiënt op het enzym ATP-synthase?"
-"user","de terugstroom levert energie op, de energie die vrijkomt wordt dan gebruikt"
+Wat weet je over het effect van die protonengradiënt op het enzym ATP-synthase?","2025-09-29T16:24:28.50903+00:00"
+"user","de terugstroom levert energie op, de energie die vrijkomt wordt dan gebruikt","2025-09-29T16:24:49.178238+00:00"
 "assistant","Precies! De terugstroom van protonen door het ATP-synthase levert energie op, en die energie wordt direct gebruikt om ADP en fosfaat (Pi) om te zetten in ATP. Dat is de kern van oxidatieve fosforylering! Dit hele proces noemen we ook wel het chemiosmotisch mechanisme.
 
-Goed, ik denk dat je de meeste belangrijke basisprincipes helder hebt. Wil je nog kort iets opfrissen over glycogenolyse of gluconeogenese, of zullen we doorgaan naar het toepassen van deze kennis op de casus?"
-"user","glycogenloyse is het omzetten van overtallige glucose naar glycogeen, glycogeen is een opslag vorm van glucose en wordt in de lever / spieren opgeslagen"
+Goed, ik denk dat je de meeste belangrijke basisprincipes helder hebt. Wil je nog kort iets opfrissen over glycogenolyse of gluconeogenese, of zullen we doorgaan naar het toepassen van deze kennis op de casus?","2025-09-29T16:24:59.397843+00:00"
+"user","glycogenloyse is het omzetten van overtallige glucose naar glycogeen, glycogeen is een opslag vorm van glucose en wordt in de lever / spieren opgeslagen","2025-09-29T16:25:29.388107+00:00"
 "assistant","Bijna goed! Je verwart nu glycogenolyse met glycogenese. 
 
 Glycogenese is juist het opslaan van glucose in de vorm van glycogeen.  
@@ -63,14 +63,14 @@ Glycogenolyse is het proces waarbij opgeslagen glycogeen juist wórdt afgebroken
 
 De lever speelt daarin inderdaad een sleutelrol bij het op peil houden van de bloedglucose, vooral tussen maaltijden. De spieren gebruiken glycogeen vooral voor hun eigen energiebehoefte.
 
-Wil je ook kort herhalen wat gluconeogenese inhoudt, of zullen we verder gaan met de casus?"
-"user","gluconeogenese heeft dat te maken met glucagon?"
+Wil je ook kort herhalen wat gluconeogenese inhoudt, of zullen we verder gaan met de casus?","2025-09-29T16:25:41.590161+00:00"
+"user","gluconeogenese heeft dat te maken met glucagon?","2025-09-29T16:26:08.538235+00:00"
 "assistant","Goeie vraag! Gluconeogenese is het proces waarbij het lichaam zelf nieuwe glucose maakt uit niet-koolhydraatbronnen, zoals lactaat, aminozuren en glycerol. Dit gebeurt vooral in de lever (en een beetje in de nieren), en is vooral belangrijk als de glycogeenvoorraden bijna op zijn.
 
 Glucagon is inderdaad een hormoon dat de gluconeogenese stimuleert (en ook de glycogenolyse). Dit gebeurt vooral tijdens vasten of tussen maaltijden, als je bloedsuiker laag is.
 
-Wil je nog iets meer uitleg hierover, of wil je deze kennis nu toepassen op de casus?"
-"user","pas maar toe op de casus"
+Wil je nog iets meer uitleg hierover, of wil je deze kennis nu toepassen op de casus?","2025-09-29T16:26:20.410586+00:00"
+"user","pas maar toe op de casus","2025-09-29T16:26:30.022291+00:00"
 "assistant","Hier is nogmaals de casus:
 
 ###VIGNETTE 1###
@@ -82,16 +82,16 @@ Bloedketonen: Negatief (normaal negatief)
 Lactaat: 4,2 mmol/L (norm: 0,5–2,0 mmol/L)
 
 Nu je de kennis hebt opgefrist:  
-Kun je nu met wat je net geleerd hebt uitleggen wat er gebeurt bij dit meisje? Wat gebeurt er met haar energievoorziening en haar stofwisseling?"
-"user","Bij dit meisje is het glycogenolyse proces verstoord, hierdoor kan glycogeen niet meer goed worden terug gezet naar glucose. Deze glycogeen stapelt zich op in de lever wat zorgt voor een vergrote lever, de vergrote lever werkt hierdoor minder goed waardoor lactaat ook niet meer goed kan worden omgezet naar glucose. De reden dat bloedglucose lager is dat glycogeen niet meer naar glucose kan worden omgezet"
+Kun je nu met wat je net geleerd hebt uitleggen wat er gebeurt bij dit meisje? Wat gebeurt er met haar energievoorziening en haar stofwisseling?","2025-09-29T16:26:51.827701+00:00"
+"user","Bij dit meisje is het glycogenolyse proces verstoord, hierdoor kan glycogeen niet meer goed worden terug gezet naar glucose. Deze glycogeen stapelt zich op in de lever wat zorgt voor een vergrote lever, de vergrote lever werkt hierdoor minder goed waardoor lactaat ook niet meer goed kan worden omgezet naar glucose. De reden dat bloedglucose lager is dat glycogeen niet meer naar glucose kan worden omgezet","2025-09-29T16:28:49.348066+00:00"
 "assistant","Heel goed, je beschrijft de hoofdlijnen duidelijk!  
 Mag ik je uitdagen om nog een stap verder te denken? Je noemde net al het verlaagde glucose en het probleem bij de omzetting van glycogeen naar glucose.
 
-Waarom denk je dat het lactaat in haar bloed verhoogd is? En: als het lichaam geen glucose uit glycogeen kan maken, via welke andere wegen probeert het dan toch aan energie te komen? Wat beperkt de effectiviteit van die alternatieve wegen bij deze patiënte?"
-"user","Lactaat is verhoogd door een verslechte werking van de lever waardoor lactaat niet meer kan worden omgezet naar glucose."
+Waarom denk je dat het lactaat in haar bloed verhoogd is? En: als het lichaam geen glucose uit glycogeen kan maken, via welke andere wegen probeert het dan toch aan energie te komen? Wat beperkt de effectiviteit van die alternatieve wegen bij deze patiënte?","2025-09-29T16:28:58.79142+00:00"
+"user","Lactaat is verhoogd door een verslechte werking van de lever waardoor lactaat niet meer kan worden omgezet naar glucose.","2025-09-29T16:29:40.474099+00:00"
 "assistant","Klopt, dat is één reden! Je benoemt goed dat de lever moeite heeft om lactaat weer om te zetten in glucose (via gluconeogenese). 
 
-Mag ik je stimuleren om ook te bedenken waar dat lactaat vandaan komt? Wat gebeurt er in de spieren als er weinig glucose beschikbaar is? En, kun je uitleggen wat de Cori-cyclus normaal doet, en waarom deze nu mogelijk 'overbelast' raakt?"
+Mag ik je stimuleren om ook te bedenken waar dat lactaat vandaan komt? Wat gebeurt er in de spieren als er weinig glucose beschikbaar is? En, kun je uitleggen wat de Cori-cyclus normaal doet, en waarom deze nu mogelijk 'overbelast' raakt?","2025-09-29T16:29:51.176064+00:00"
 "assistant","**1. Learning context and roles**  
 Deze dialoog betreft een begeleide medische tutoringsessie, waarin de gebruiker (vermoedelijk een geneeskundestudent) basale biochemische processen (zoals glycolyse, glycogenolyse, en oxidatieve fosforylering) bespreekt en deze toepast op een casus van een kind met glycogeenstapelingsziekte. Dit feedback is bedoeld om het leereffect en de klinisch-biochemische redenering van de gebruiker te optimaliseren.
 
@@ -123,7 +123,7 @@ Deze dialoog betreft een begeleide medische tutoringsessie, waarin de gebruiker 
    *Hoe te implementeren:* Las bij elk antwoord een reflectie in, zoals: “Het zou ook kunnen komen door ...”, of “Hierbij speelt X mogelijk een rol, klopt dat?”
 
 **Forward-looking guidance**  
-In het volgende gesprek kun je actief oefenen met het verbinden van biochemische processen aan klinische presentatie, en explicieter benoemen welke metabole routes zich na elkaar afspelen of elkaar beïnvloeden. Zo ontwikkel je meer diepgang in klinisch-biochemisch redeneren."
+In het volgende gesprek kun je actief oefenen met het verbinden van biochemische processen aan klinische presentatie, en explicieter benoemen welke metabole routes zich na elkaar afspelen of elkaar beïnvloeden. Zo ontwikkel je meer diepgang in klinisch-biochemisch redeneren.","2025-09-29T16:30:25.974+00:00"
 "assistant","**1. Learning context and roles**  
 Deze dialoog vindt plaats in een medische tutoringsessie, waarbij de gebruiker (waarschijnlijk een geneeskundestudent) via vraag-en-antwoord begeleid wordt in het begrijpen en toepassen van basis biochemie, toegespitst op een casus van een kind met een glycogeenstapelingsziekte (GSD). Deze feedback evalueert de inhoudelijke bijdrage van de gebruiker en biedt adviezen tot effectiever leren redeneren in dit soort contexten.
 
@@ -153,4 +153,4 @@ Deze dialoog vindt plaats in een medische tutoringsessie, waarbij de gebruiker (
    *Hoe te implementeren:* Daag jezelf bij elk antwoord uit met vragen als: “Wat is het alternatief als deze route niet werkt?” en “Welk orgaan compenseert, en met welk effect op het klinisch beeld?”
 
 **Forward-looking guidance**  
-In een volgende sessie kun je deze feedback gebruiken door te oefenen met het systematisch analyseren van casusgegevens: benoem per symptoom en labwaarde steeds de fysiologische achtergrond, de mogelijke compensaties van het lichaam en hun grenzen. Zo ontwikkel je stap voor stap een diepgaand klinisch redeneervermogen."
+In een volgende sessie kun je deze feedback gebruiken door te oefenen met het systematisch analyseren van casusgegevens: benoem per symptoom en labwaarde steeds de fysiologische achtergrond, de mogelijke compensaties van het lichaam en hun grenzen. Zo ontwikkel je stap voor stap een diepgaand klinisch redeneervermogen.","2025-09-29T16:30:54.473+00:00"

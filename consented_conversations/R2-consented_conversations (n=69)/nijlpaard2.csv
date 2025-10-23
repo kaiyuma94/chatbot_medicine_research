@@ -1,5 +1,5 @@
-"role","content"
-"user","Laten we beginnen"
+"role","content","created_at"
+"user","Laten we beginnen","2025-09-29T15:02:06.553379+00:00"
 "assistant","Hier is de eerste casus om de stof over energiemetabolisme te verkennen:
 
 ###VIGNETTE 1###
@@ -10,42 +10,42 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)  
 Lactaat: 4.2 mmol/L (normaal: 0.5–2.0 mmol/L)
 
-Kun je uitleggen wat er in dit geval is gebeurd?"
-"user","Hypoglykemie: Door enzymdefect kan glycogeen niet worden afgebroken ->lage bloedglucose. Geen ketonen: Alternatieve energie via vetten faalt ->geen ketonproductie. - Verhoogd lactaat: Pyruvaat wordt omgezet in lactaat -> lactaatacidose. - Vergrote lever: Glycogeen hoopt zich op ->hepatomegalie. ->Waarschijnlijk GSD type I (Von Gierke) -> Behandeling: frequente voeding maïszetmeel, voorkomen van vasten"
+Kun je uitleggen wat er in dit geval is gebeurd?","2025-09-29T15:02:26.757286+00:00"
+"user","Hypoglykemie: Door enzymdefect kan glycogeen niet worden afgebroken ->lage bloedglucose. Geen ketonen: Alternatieve energie via vetten faalt ->geen ketonproductie. - Verhoogd lactaat: Pyruvaat wordt omgezet in lactaat -> lactaatacidose. - Vergrote lever: Glycogeen hoopt zich op ->hepatomegalie. ->Waarschijnlijk GSD type I (Von Gierke) -> Behandeling: frequente voeding maïszetmeel, voorkomen van vasten","2025-09-29T15:04:27.407886+00:00"
 "assistant","Goed geprobeerd! Je noemt de belangrijkste klinische verschijnselen en schakelt meteen door naar wat mogelijke oorzaken kunnen zijn. Voordat we verder analyseren, laten we even een stap terugnemen en samen de relevante basiskennis ophalen over energiemetabolisme. Dit helpt om de rest van de casus goed te begrijpen. Heb je tot nu toe vragen of onduidelijkheden?
 
 Zo niet:  
-Kun je kort uitleggen wat glycolyse precies is?"
-"user","Glycolyse is het proces waarbij glucose (een suiker) in de cel wordt afgebroken tot pyruvaat, waarbij energie vrijkomt in de vorm van ATP en NADH. Vindt plaats in het cytoplasma Levert snel energie, zonder zuurstof Eerste stap van de cellulaire ademhaling"
+Kun je kort uitleggen wat glycolyse precies is?","2025-09-29T15:04:35.137606+00:00"
+"user","Glycolyse is het proces waarbij glucose (een suiker) in de cel wordt afgebroken tot pyruvaat, waarbij energie vrijkomt in de vorm van ATP en NADH. Vindt plaats in het cytoplasma Levert snel energie, zonder zuurstof Eerste stap van de cellulaire ademhaling","2025-09-29T15:05:27.747282+00:00"
 "assistant","Mooi samengevat! Glycolyse is inderdaad een snel proces, vindt plaats in het cytoplasma, en levert ATP en NADH – ook als er geen zuurstof is.
 
 Om verder te bouwen aan je kennisbasis:  
-Weet je wat het verschil is tussen glycogenolyse en gluconeogenese? Wil je één van beide kort uitleggen, of heb je daar specifieke vragen over?"
-"user","ik zal wel beiden uitleggen"
-"assistant","Dat is een goed idee! Neem de tijd om uit te leggen wat glycogenolyse en gluconeogenese zijn. Zo wordt het verschil meteen duidelijker voor jezelf. Begin maar!"
-"user","Glycogenolyse = glucose uit opgeslagen voorraad Gluconeogenese = glucose uit nieuwe bouwstenen"
+Weet je wat het verschil is tussen glycogenolyse en gluconeogenese? Wil je één van beide kort uitleggen, of heb je daar specifieke vragen over?","2025-09-29T15:05:36.179967+00:00"
+"user","ik zal wel beiden uitleggen","2025-09-29T15:06:03.50976+00:00"
+"assistant","Dat is een goed idee! Neem de tijd om uit te leggen wat glycogenolyse en gluconeogenese zijn. Zo wordt het verschil meteen duidelijker voor jezelf. Begin maar!","2025-09-29T15:06:09.028159+00:00"
+"user","Glycogenolyse = glucose uit opgeslagen voorraad Gluconeogenese = glucose uit nieuwe bouwstenen","2025-09-29T15:06:51.173376+00:00"
 "assistant","Korte, duidelijke omschrijving! Even controleren of het helemaal klopt en om iets verder te gaan:  
 Bij glycogenolyse wordt glycogeen afgebroken tot glucose-6-fosfaat (en vervolgens eventueel tot vrije glucose). Dit proces vindt vooral plaats in lever en spieren. Je zegt dat gluconeogenese het maken van glucose uit nieuwe bouwstenen is, en dat klopt ook.  
-Weet je uit welke ‘nieuwe bouwstenen’ (substraten) het lichaam glucose kan maken bij gluconeogenese? Noem er eens een paar!"
-"user","Lactaat alanine glycerol"
+Weet je uit welke ‘nieuwe bouwstenen’ (substraten) het lichaam glucose kan maken bij gluconeogenese? Noem er eens een paar!","2025-09-29T15:07:00.587329+00:00"
+"user","Lactaat alanine glycerol","2025-09-29T15:07:27.351145+00:00"
 "assistant","Precies, dat zijn belangrijke substraten: lactaat, alanine (een aminozuur) en glycerol (afkomstig van vetafbraak).
 
 Laten we nog één stap doen:  
-Als de glycolyse pyruvaat oplevert, welke routes kan dat pyruvaat in de cel dan vervolgen, afhankelijk van zuurstofaanwezigheid? Vertel eens wat je weet."
+Als de glycolyse pyruvaat oplevert, welke routes kan dat pyruvaat in de cel dan vervolgen, afhankelijk van zuurstofaanwezigheid? Vertel eens wat je weet.","2025-09-29T15:07:34.304207+00:00"
 "user","Pyruvaat wordt omgezet in acetyl-CoA via het enzym pyruvaatdehydrogenase. Acetyl-CoA gaat de citroenzuurcyclus (Krebs) in -> gevolgd door de oxidatieve fosforylering in de mitochondriën. Pyruvaat wordt omgezet in lactaat via lactaatdehydrogenase. Dit gebeurt vooral in spieren en rode bloedcellen.
-Lactaat kan later via de Cori-cyclus terug naar de lever ->omgezet in glucose."
-"user","s"
+Lactaat kan later via de Cori-cyclus terug naar de lever ->omgezet in glucose.","2025-09-29T15:08:36.237923+00:00"
+"user","s","2025-09-29T15:10:09.357593+00:00"
 "user","Pyruvaat wordt omgezet in acetyl-CoA via het enzym pyruvaatdehydrogenase. Acetyl-CoA gaat de citroenzuurcyclus (Krebs) in -> gevolgd door de oxidatieve fosforylering in de mitochondriën. Pyruvaat wordt omgezet in lactaat via lactaatdehydrogenase. Dit gebeurt vooral in spieren en rode bloedcellen.
-Lactaat kan later via de Cori-cyclus terug naar de lever ->omgezet in glucose."
+Lactaat kan later via de Cori-cyclus terug naar de lever ->omgezet in glucose.","2025-09-29T15:10:43.511332+00:00"
 "user","Pyruvaat wordt omgezet in acetyl-CoA via het enzym pyruvaatdehydrogenase. Acetyl-CoA gaat de citroenzuurcyclus (Krebs) in -> gevolgd door de oxidatieve fosforylering in de mitochondriën. Pyruvaat wordt omgezet in lactaat via lactaatdehydrogenase. Dit gebeurt vooral in spieren en rode bloedcellen.
-Lactaat kan later via de Cori-cyclus terug naar de lever ->omgezet in glucose."
+Lactaat kan later via de Cori-cyclus terug naar de lever ->omgezet in glucose.","2025-09-29T15:11:10.859524+00:00"
 "user","Pyruvaat wordt omgezet in acetyl-CoA via het enzym pyruvaatdehydrogenase. Acetyl-CoA gaat de citroenzuurcyclus (Krebs) in -> gevolgd door de oxidatieve fosforylering in de mitochondriën. Pyruvaat wordt omgezet in lactaat via lactaatdehydrogenase. Dit gebeurt vooral in spieren en rode bloedcellen.
-Lactaat kan later via de Cori-cyclus terug naar de lever ->omgezet in glucose."
-"user","4444"
-"user","4444"
-"user","4444"
-"user","01010111 01101000 01111001 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00100000 01101110 01101111 01110100 00100000 01110111 01101111 01110010 01101011 01101001 01101110 01100111"
-"user","restart"
+Lactaat kan later via de Cori-cyclus terug naar de lever ->omgezet in glucose.","2025-09-29T15:11:16.316426+00:00"
+"user","4444","2025-09-29T15:12:09.053468+00:00"
+"user","4444","2025-09-29T15:12:12.977645+00:00"
+"user","4444","2025-09-29T15:12:13.870875+00:00"
+"user","01010111 01101000 01111001 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00100000 01101110 01101111 01110100 00100000 01110111 01101111 01110010 01101011 01101001 01101110 01100111","2025-09-29T15:12:49.856814+00:00"
+"user","restart","2025-09-29T15:18:36.644473+00:00"
 "user","We hadden al eerder een gesprek maar u liep vast, ik zal ons gesprek nu hier plakken: You (29-9-2025, 17:02:06): Laten we beginnen
 
 Bot (29-9-2025, 17:02:26): Hier is de eerste casus om de stof over energiemetabolisme te verkennen:
@@ -113,7 +113,7 @@ You (29-9-2025, 17:12:13): 4444
 
 You (29-9-2025, 17:12:49): 01010111 01101000 01111001 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00100000 01101110 01101111 01110100 00100000 01110111 01101111 01110010 01101011 01101001 01101110 01100111
 
-You (29-9-2025, 17:18:36): restart"
+You (29-9-2025, 17:18:36): restart","2025-09-29T15:20:53.732565+00:00"
 "assistant","Hier is de casus om opnieuw te starten:
 
 ###VIGNETTE 1###
@@ -124,22 +124,22 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)  
 Lactaat: 4.2 mmol/L (normaal: 0.5–2.0 mmol/L)
 
-Kun je uitleggen wat er in dit geval is gebeurd?"
-"user","maar hier heb ik al antwoord op gegeven"
+Kun je uitleggen wat er in dit geval is gebeurd?","2025-09-29T15:21:11.277094+00:00"
+"user","maar hier heb ik al antwoord op gegeven","2025-09-29T15:21:22.721777+00:00"
 "assistant","Goed dat je het aangeeft! Je uitleg van zojuist was al heel volledig, dus daar bouwen we gewoon op verder.
 
 Voordat we de casus verder analyseren, halen we even de kern van de relevante basiskennis op over energiemetabolisme. Zo leg je een stevige ondergrond voor het vervolg.
 
 Heb je tot nu toe nog specifieke vragen over glycolyse, glycogenolyse, gluconeogenese of andere onderdelen van energiemetabolisme?  
-Zo niet, kun je kort benoemen waar in de cel glycolyse en de citroenzuurcyclus plaatsvinden?"
-"user","Glycolyse : cytoplasma krebcyclus: mitochrondrium"
+Zo niet, kun je kort benoemen waar in de cel glycolyse en de citroenzuurcyclus plaatsvinden?","2025-09-29T15:21:33.128419+00:00"
+"user","Glycolyse : cytoplasma krebcyclus: mitochrondrium","2025-09-29T15:22:05.28384+00:00"
 "assistant","Precies! Glycolyse vindt plaats in het cytoplasma en de citroenzuurcyclus (Krebs-cyclus) in het mitochondrium.
 
 Nog één verduidelijkende vraag om het plaatje compleet te maken:  
 Weet je of bij de oxidatieve fosforylering (waar het meeste ATP gemaakt wordt) zuurstof wel of niet nodig is? Waarom is dat zo?
 
-Als dat helder is voor je, laat het gerust weten—of geef een korte uitleg! Daarna gaan we de casus analyseren met deze kennis."
-"user","Oxidatieve fosforylering vindt plaats in de mitochondriën en is het laatste deel van de aerobe ademhaling. Hier worden elektronen via de elektronentransportketen doorgegeven, en uiteindelijk  Zuurstof fungeert als de eindacceptor van elektronen  Zuurstof bindt met waterstofionen ->vormt water"
+Als dat helder is voor je, laat het gerust weten—of geef een korte uitleg! Daarna gaan we de casus analyseren met deze kennis.","2025-09-29T15:22:18.394591+00:00"
+"user","Oxidatieve fosforylering vindt plaats in de mitochondriën en is het laatste deel van de aerobe ademhaling. Hier worden elektronen via de elektronentransportketen doorgegeven, en uiteindelijk  Zuurstof fungeert als de eindacceptor van elektronen  Zuurstof bindt met waterstofionen ->vormt water","2025-09-29T15:23:09.953317+00:00"
 "assistant","Heel mooi uitgelegd! Je beschrijft precies de rol van zuurstof als eindacceptor van elektronen in de elektronentransportketen—en het belang hiervan voor de vorming van water en productie van ATP.
 
 Nu we deze hoofdpunten hebben opgefrist, ben je klaar om de casus opnieuw te analyseren, maar nu met deze kennis in je achterhoofd.
@@ -152,24 +152,24 @@ Bloedglucose: 45 mg/dL (normaal: 70–110 mg/dL)
 Bloedketonen: Negatief (normaal: negatief)  
 Lactaat: 4.2 mmol/L (normaal: 0.5–2.0 mmol/L)
 
-Nu met je opgefriste kennis: kun je uitleggen wat er in dit geval is gebeurd? Probeer verbanden te leggen tussen de energiestofwisselingsroutes en de klinische verschijnselen."
-"user","Het meisje heeft waarschijnlijk GSD type I (Von Gierke):  Glycogeen kan niet worden afgebroken -> leidt tot hypoglykemie  Geen ketonen -> vetverbranding en ketogenese zijn onvoldoende geactiveerd Verhoogd lactaat -> pyruvaat wordt omgezet in lactaat door falende gluconeogenese Vergrote lever → glycogeen stapelt zich op in levercellen Energievoorziening faalt tijdens vasten → alternatieve routes zoals de Cori-cyclus zijn ontoereikend."
-"user","bruh"
+Nu met je opgefriste kennis: kun je uitleggen wat er in dit geval is gebeurd? Probeer verbanden te leggen tussen de energiestofwisselingsroutes en de klinische verschijnselen.","2025-09-29T15:23:34.010435+00:00"
+"user","Het meisje heeft waarschijnlijk GSD type I (Von Gierke):  Glycogeen kan niet worden afgebroken -> leidt tot hypoglykemie  Geen ketonen -> vetverbranding en ketogenese zijn onvoldoende geactiveerd Verhoogd lactaat -> pyruvaat wordt omgezet in lactaat door falende gluconeogenese Vergrote lever → glycogeen stapelt zich op in levercellen Energievoorziening faalt tijdens vasten → alternatieve routes zoals de Cori-cyclus zijn ontoereikend.","2025-09-29T15:24:42.806384+00:00"
+"user","bruh","2025-09-29T15:25:01.102298+00:00"
 "assistant","Goed, je legt al duidelijke verbanden! We gaan het nog één stap concreter maken: waarom is haar bloedglucose zo laag, ondanks dat er glycogeen in de lever zit opgeslagen? Welke stap in de normale energiemetabolisme werkt hier niet goed, en wat betekent dat voor haar cellen?  
 
-Kun je dat toelichten?"
-"user","Haar lever bevat glycogeen, maar door een enzymdefect (glucose-6-fosfatase) kan dit niet worden omgezet in glucose. Daardoor daalt haar bloedglucose tijdens vasten en krijgen cellen te weinig energie."
+Kun je dat toelichten?","2025-09-29T15:25:17.546589+00:00"
+"user","Haar lever bevat glycogeen, maar door een enzymdefect (glucose-6-fosfatase) kan dit niet worden omgezet in glucose. Daardoor daalt haar bloedglucose tijdens vasten en krijgen cellen te weinig energie.","2025-09-29T15:26:04.948501+00:00"
 "assistant","Dat klopt! Je benoemt precies de blokkade: het enzym glucose-6-fosfatase ontbreekt, waardoor opgeslagen glycogeen niet als vrije glucose aan het bloed kan worden afgegeven. Daarom vindt er bij deze patiënte na vasten hypoglykemie plaats—evenals een tekort aan bruikbare energie voor haar organen.
 
-Nog een verdiepende vraag: waarom is het lactaat juist verhoogd bij dit kind? Wat heeft dit te maken met de energiebalans en de alternatieve metabole routes in de lever en spieren? Kun je dat uitleggen?"
-"user","het lactaat is verhoogd omdat pyruvaat niet kan worden omgezet in glucose. Daardoor wordt het omgezet in lactaat, wat zich ophoopt door falende alternatieve routes zoals de Cori-cyclus."
+Nog een verdiepende vraag: waarom is het lactaat juist verhoogd bij dit kind? Wat heeft dit te maken met de energiebalans en de alternatieve metabole routes in de lever en spieren? Kun je dat uitleggen?","2025-09-29T15:26:13.815335+00:00"
+"user","het lactaat is verhoogd omdat pyruvaat niet kan worden omgezet in glucose. Daardoor wordt het omgezet in lactaat, wat zich ophoopt door falende alternatieve routes zoals de Cori-cyclus.","2025-09-29T15:26:39.330545+00:00"
 "assistant","Precies, je zit op het juiste spoor! Doordat gluconeogenese in de lever niet goed werkt, kan pyruvaat niet via deze route naar glucose worden omgezet. Hierdoor wordt meer pyruvaat in het cytoplasma omgezet naar lactaat, zeker bij verhoogde glycolyse in de spieren. 
 
 De Cori-cyclus, die normaal lactaat uit de spieren omzet naar glucose in de lever, raakt overbelast of functioneert niet efficiënt. Daardoor stapelt melkzuur (lactaat) zich op in het bloed.
 
 Laatste puntje voor deze casus:  
-Waarom zie je bij dit meisje géén ketonen in het bloed, ondanks haar lage bloedsuiker? Wat vertelt dat over haar energievoorziening en vetzuurmetabolisme? Denk hardop."
-"user","Ze heeft geen ketonen omdat haar lever door GSD geen vetzuren goed kan omzetten. Daardoor mist ze een alternatieve energiebron bij lage glucose, wat leidt tot energiegebrek."
+Waarom zie je bij dit meisje géén ketonen in het bloed, ondanks haar lage bloedsuiker? Wat vertelt dat over haar energievoorziening en vetzuurmetabolisme? Denk hardop.","2025-09-29T15:26:53.56265+00:00"
+"user","Ze heeft geen ketonen omdat haar lever door GSD geen vetzuren goed kan omzetten. Daardoor mist ze een alternatieve energiebron bij lage glucose, wat leidt tot energiegebrek.","2025-09-29T15:27:30.411054+00:00"
 "assistant","Goed, je koppelt het aan het tekortschieten van vetzuurverbranding en ketonproductie! Inderdaad, bij GSD type I blijft de aanmaak van ketonen beperkt, onder andere omdat het benodigde substraat (acetyI-CoA uit β-oxidatie) minder efficiënt wordt benut als de lever overbelast is met andere metabole taken én doordat verstoring in de glucose- en vetzuurstofwisseling optreedt. Er is dus geen goede metabole ""back-up"" in de vorm van ketonen.
 
 Je onderbouwt het klinisch beeld nu goed, met een duidelijke link naar de cellulaire energieroutes!
@@ -185,9 +185,9 @@ Bloedketonen: Negatief (normaal: negatief)
 Lactaat: 4.2 mmol/L (normaal: 0.5–2.0 mmol/L)
 
 **Assessmentvraag:**  
-Hoe begrijp je nu de oorzaken achter de klinische bevindingen in deze casus? Schrijf alles op wat je kunt bedenken—je ideeën, redeneringen, en de koppelingen met wat je hebt geleerd. Hoe vollediger je je uitleg, hoe meer je je begrip verdiept, je voorbereidt op tentamens, en straks beter een GSD kunt herkennen!"
-"user","einde gesprek dank u voor insteken"
-"assistant","Graag gedaan en knap hoe je alles systematisch hebt aangepakt! Je past de kennis nu al goed klinisch toe. Blijf oefenen met het koppelen van biochemische routes aan klinische situaties—dat levert je straks veel op bij (patiënten)casussen en tentamens. Als je nog vragen krijgt of verder wilt oefenen, weet je me te vinden. Succes met je studie!"
+Hoe begrijp je nu de oorzaken achter de klinische bevindingen in deze casus? Schrijf alles op wat je kunt bedenken—je ideeën, redeneringen, en de koppelingen met wat je hebt geleerd. Hoe vollediger je je uitleg, hoe meer je je begrip verdiept, je voorbereidt op tentamens, en straks beter een GSD kunt herkennen!","2025-09-29T15:27:58.11855+00:00"
+"user","einde gesprek dank u voor insteken","2025-09-29T15:29:43.118993+00:00"
+"assistant","Graag gedaan en knap hoe je alles systematisch hebt aangepakt! Je past de kennis nu al goed klinisch toe. Blijf oefenen met het koppelen van biochemische routes aan klinische situaties—dat levert je straks veel op bij (patiënten)casussen en tentamens. Als je nog vragen krijgt of verder wilt oefenen, weet je me te vinden. Succes met je studie!","2025-09-29T15:30:23.826883+00:00"
 "assistant","Learning context and roles  
 Dit betreft een tutoring sessie in het Nederlands, waarbij de gebruiker (vermoedelijk een student geneeskunde of biomedische wetenschappen) casusvragen rond energiemetabolisme (met name glycogeenstapelingsziekten) beantwoordt. Het doel van deze feedback is de gebruiker te helpen zijn of haar inhoudelijke en communicatieve vaardigheden te versterken in het klinisch-redeneren rondom metabole ziekten.
 
@@ -223,7 +223,7 @@ C. Actionable Suggestions
  • Hoe: Gebruik verbindingswoorden als ""omdat"", ""daardoor"", of ""hierdoor ontstaat"" om duidelijk oorzaak-gevolgrelaties te benoemen.
 
 Forward-looking guidance  
-Probeer in een volgend gesprek je antwoorden consequenter uit te breiden en je redeneringen glashelder te maken, met aandacht voor volledige, duidelijke toelichtingen. Oefen daarnaast met korte reflecties na afloop van casusvragen om gericht aan je eigen kennis en leerproces te werken."
+Probeer in een volgend gesprek je antwoorden consequenter uit te breiden en je redeneringen glashelder te maken, met aandacht voor volledige, duidelijke toelichtingen. Oefen daarnaast met korte reflecties na afloop van casusvragen om gericht aan je eigen kennis en leerproces te werken.","2025-09-29T15:30:49.389+00:00"
 "assistant","Learning context and roles  
 Deze sessie betreft een formatieve, casusgerichte bijles voor een student (waarschijnlijk geneeskunde of biomedische wetenschappen) rondom energiemetabolisme en glycogeenstapelingsziekten. De student oefent klinisch-redeneren en biochemische basisuitleg. Het doel van deze feedback is de zelfsturing, diepgang en communicatieve nauwkeurigheid in het leerproces te versterken.
 
@@ -259,4 +259,4 @@ C. Actionable Suggestions
  • Hoe: Als je uitlegt waarom een symptoom ontstaat, koppel dan altijd aan het onderliggend cellulaire proces (bijvoorbeeld ""Hypoglykemie ontstaat omdat… waardoor…"").
 
 Forward-looking guidance  
-In het volgende gesprek kun je jezelf uitdagen om telkens de volledige redenering te formuleren, met oog voor causale verbanden tussen biochemie en kliniek. Rond je antwoorden af met korte reflecties of leervragen om actief te werken aan verdiepende zelfevaluatie."
+In het volgende gesprek kun je jezelf uitdagen om telkens de volledige redenering te formuleren, met oog voor causale verbanden tussen biochemie en kliniek. Rond je antwoorden af met korte reflecties of leervragen om actief te werken aan verdiepende zelfevaluatie.","2025-09-29T15:31:08.624+00:00"
