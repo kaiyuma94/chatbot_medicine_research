@@ -1,0 +1,46 @@
+"role","content","created_at"
+"user","Laten we beginnen!","2025-11-05T17:37:58.000966+00:00"
+"assistant","Welkom! In deze activiteit ga je samen met een virtuele tutor verkennen hoe bloed en gaswisseling werken aan de hand van belangrijke fysiologische principes. Je wordt begeleid om je eigen verhaal te bouwen dat uitlegt wat er gebeurt en waarom in een klinische situatie.
+
+Het zelf samenstellen van een verhaal over een casus helpt je om ideeën met elkaar te verbinden, ze langer te onthouden en deze kennis later toe te passen in een klinische context. Tegelijkertijd sluit deze redeneervorm aan bij hoe artsen patientenproblemen verklaren — en ooit gebruik je dit samen met je eigen patienten.
+
+Deze activiteit bestaat uit drie fasen om je stapsgewijs te helpen leren:
+Fase 1 – Kennis activeren: haal je bestaande kennis over bloed en gaswisseling op.
+Fase 2 – Narratief construeren: pas die kennis toe om een scenario te verklaren.
+Fase 3 – Redeneren overdragen: gebruik je inzicht om te redeneren in een nieuw geval en kijk hoe dezelfde principes werken.
+
+Klaar om te beginnen?
+
+Hier is de eerste casus:
+
+Een 65-jarige vrouw wordt opgenomen in het ziekenhuis met toenemende kortademigheid (dyspnoe) gedurende de afgelopen 3 maanden. De laatste dagen is haar benauwdheid verslechterd. Zelfs kleine huishoudelijke taken en wandelen worden lastig, met veel pauzes om op adem te komen. Daarnaast is haar gebruikelijke hoest en koorts toegenomen.
+Zij heeft 5 jaar geleden de diagnose COPD gekregen. Bij COPD leidt chronische ontsteking tot beschadiging van de alveolaire wanden en verdikking van de alveolair-capillaire membraan.
+Laboratoriumuitslagen:
+- Hemoglobine: 10,0 g/dL (referentie: 12–16 g/dL) 
+- Bloedgas:
+  1. pH: 7,30 (referentie: 7,35–7,45) → acidose
+  2. PaO₂: 65 mmHg (referentie: 80–100 mmHg)
+  3. PaCO₂: 51 mmHg (referentie: 35–45 mmHg) 
+  4. SaO₂: 89% (referentie: 95–100%) 
+
+Kun je uitleggen waarom deze patiënt kortademig is en hoe haar laboratoriumuitslagen te verklaren zijn?","2025-11-05T17:38:27.331791+00:00"
+"user","omdat haar bronchium zijn ontstoken hierdoor zijn er allemaal zwellingen waardoor de vaten vernouwd zijn","2025-11-05T17:48:10.489586+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goede poging! Laten we even pauzeren en starten met Fase 1 – Kennis Activeren. In deze fase gaan we kort de belangrijkste concepten en mechanismen rondom bloed en gaswisseling doornemen die relevant zijn voor deze casus.
+
+Heb je op dit moment al vragen of dingen die je graag wilt verduidelijken voordat we starten? 
+
+[■□□□□]  20% – Kennis activeren gestart! Laten we samen de basis opfrissen.","2025-11-05T17:48:20.796346+00:00"
+"user","prima","2025-11-05T17:48:43.944196+00:00"
+"assistant","Mooi! Dan starten we samen. Als je denkt aan de gaswisseling tussen longen, bloed en weefsels: welke hoofdprocessen schieten je te binnen? Welke rollen spelen de longen, het bloed en de lichaamsweefsels elk in dit systeem? 
+
+Kun je dit kort in je eigen woorden omschrijven?","2025-11-05T17:48:52.08414+00:00"
+"user","zuursto opnamen en koostofdioxide uitstoten","2025-11-05T17:49:44.347632+00:00"
+"assistant","Precies! De longen nemen zuurstof op uit de ingeademde lucht en geven koolstofdioxide af aan de uitgeademde lucht. 
+
+Kun je uitleggen hoe zuurstof en koolstofdioxide via het bloed worden vervoerd? En weet je welke rol hemoglobine hierin speelt?","2025-11-05T17:49:52.176482+00:00"
+"user","je hebt het hemoglobine eiwit waar in de kleine luchtcirculatie zuurstof wordt opgenomen in de longen en dan via de grote circulatie via de haarvaten bloed wordt afgeleverd bij de organen door verschil in partiele druk. CO2 en O2 worden vervoerd in het bloed door hemoglobine. Hemoglobine raakt verzadigt door zuurstof wat op specifieke plekken op het eiwit bindt en dat wordt dan afgeleverd bij de organen en CO2 wordt opgenomen in het eiwit, deze kan overal binden op het eiwit","2025-11-05T17:54:20.447979+00:00"
+"assistant","Heel goed uitgelegd! Je beschrijft duidelijk hoe hemoglobine in de longen zuurstof opneemt en deze via de grote circulatie aflevert bij de weefsels. Je noemt ook het verschil in partiële druk, wat een belangrijke drijvende kracht is voor de uitwisseling.
+
+Even doorvragen: weet je welke factoren ervoor zorgen dat hemoglobine zuurstof gemakkelijker afgeeft in de weefsels? En heb je wel eens van het Bohr-effect gehoord? Wat betekent dat voor de zuurstofafgifte in actieve weefsels?","2025-11-05T17:55:11.415247+00:00"

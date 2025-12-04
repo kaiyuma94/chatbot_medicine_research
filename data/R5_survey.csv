@@ -1,0 +1,6 @@
+record_id,redcap_survey_identifier,surveysession1_timestamp,age,gender,chatbot_frequency,mental_effort,g1_construct_answer,g2_understand_topic,g3_selfexplain,g4_trust,g5_prompt_selfexplain,g6_mechanisms_case,g7_recommend,g8_boring,g9_person,arcs1,arcs2,arcs3,arcs4,arcs5,arcs6,arcs7,arcs8,arcs9,arcs10,arcs11,arcs12,surveysession1_complete
+430,,2025/11/12 15:41,18,2,2,3,1,1,3,2,1,1,2,2,4,1,1,2,2,4,2,2,2,1,1,1,1,2
+431,,2025/11/12 15:47,18,1,2,7,4,3,4,3,4,4,4,3,3,4,4,4,4,4,3,4,4,4,3,3,3,2
+432,,2025/11/12 17:59,17,1,6,3,4,4,3,4,2,4,4,2,3,4,4,4,5,5,3,4,4,4,4,3,3,2
+433,,[not completed],18,1,4,5,,,,,,,,,,,,,,,,,,,,,,0
+434,,[not completed],17,1,1,1,5,5,5,5,5,5,5,5,5,,,,,,,,,,,,,0

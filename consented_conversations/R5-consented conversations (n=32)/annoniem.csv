@@ -1,0 +1,81 @@
+"role","content","created_at"
+"user","laten we beginnen!","2025-11-12T14:38:20.784826+00:00"
+"assistant","Welcome! In this activity, you’ll work with a virtual tutor to explore how haemostasis happens through key physiological principles. You’ll be guided to build your own narrative that explains what happens and why in a clinical situation.
+
+Creating your own story about a case helps you connect ideas, remember them longer, and apply this knowledge in future clinical situations. At the same time, this way of reasoning mirrors how doctors make sense of what happens in their patients—and one day, you’ll use it to work and reason together with your own patients.
+
+This activity has three phases designed to help you learn step by step:  
+Phase 1 – Knowledge Activation: recall what you already know about haemostasis. The first case serves as a trigger to help you think and reflect — we’ll return to the case once we’ve completed this knowledge activation phase.  
+Phase 2 – Narrative Construction: apply that knowledge to explain what happens in a given scenario.  
+Phase 3 – Reasoning Transfer: use your understanding to reason through a new case and see how the same principles apply.
+
+Please note that you can access feedback on your learning progress at any time by clicking the feedback button — it’s a helpful way to reflect on what you’ve learned and what to focus on next!
+
+Ready to begin?
+
+[■□□□□]  20% – Knowledge activation started! Let’s recall how haemostasis works step by step!","2025-11-12T14:38:38.769372+00:00"
+"user","graag in het nederlands","2025-11-12T14:38:49.61841+00:00"
+"assistant","Natuurlijk, we gaan verder in het Nederlands!
+
+Hier komt de eerste casus:
+
+Een 60-jarige vrouw meldt zich met levensbedreigende bloedingen. Ze gebruikt warfarine, een antistollingsmiddel dat inwerkt op de vitamine K-afhankelijke stollingsfactoren, vanwege een hartprobleem. Ze had de afgelopen dagen al last van bloedend tandvlees.  
+Laboratoriumuitslagen:
+1. Protrombinetijd (PT): Verlengd  
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verlengd  
+3. Aantal bloedplaatjes: Normaal  
+4. Fibrinogeen: Normaal
+
+Kun je uitleggen waardoor deze patiënte deze klachten en labuitslagen heeft?
+
+","2025-11-12T14:39:03.179789+00:00"
+"user","dit gaat om hem hemofilie B","2025-11-12T14:40:50.297896+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Mooie poging! Laten we even een korte pauze nemen en starten met Fase 1 – Kennisactivering. In deze fase lopen we samen de kernbegrippen en mechanismen door die bij dit geval horen. Zijn er vragen of punten die je graag zou willen verhelderen voordat we beginnen?
+
+[■■□□□]  40% – Knowledge activation finished! Keep going - your clinical reasoning is developing!
+
+Als je zelf wilt beginnen: als je denkt aan hoe het lichaam een bloeding stopt na een beschadiging van een bloedvat, welke hoofdfasen komen dan bij je op?","2025-11-12T14:41:00.739101+00:00"
+"user","homeostase 1 en 2","2025-11-12T14:41:19.427342+00:00"
+"assistant","Goed, je noemt homeostase 1 en 2. Kun je in je eigen woorden uitleggen waar fase 1 (primaire hemostase) en fase 2 (secundaire hemostase) uit bestaan? Wat gebeurt er precies in elke fase?","2025-11-12T14:41:26.381307+00:00"
+"user","homeostase 1 gaat om de bloedplaatjes gaan binden bij de wond en ze veranderen dan van vorm. bij homeostase 2 zijn er twee wegen extrensiek en intrinsiek. het gaat hier om factoren die zorgen voor de activatie van factor 10, bij intrinsiek gaa","2025-11-12T14:43:57.782729+00:00"
+"assistant","Goed uitgelegd! Je beschrijft hoe bloedplaatjes bij primaire hemostase de eerste plug vormen, en bij secundaire hemostase via de extrinsieke en intrinsieke weg uiteindelijk factor X geactiveerd wordt.
+
+Kun je uitleggen waarom het belangrijk is dat er uiteindelijk fibrine wordt gevormd na activatie van factor X? Wat is het effect hiervan op de bloedstolling?","2025-11-12T14:44:06.017639+00:00"
+"user","hierdoor worden en rode bloedcellen die vast zij komen te zitten en de bloedplaatjes vast gezet als een soort net wat zorgt voor een soort kurk effect","2025-11-12T14:45:04.918516+00:00"
+"assistant","Heel helder! Je beschrijft dat fibrine een soort netwerk vormt waarin bloedcellen en bloedplaatjes gevangen raken, zodat er een stevig en stabiel stolsel ontstaat op de plek van vaatbeschadiging.
+
+Zou je ook kort kunnen uitleggen wat precies bedoeld wordt met de “intrinsieke” en “extrinsieke” route binnen de stollingscascade, en wanneer elke route wordt geactiveerd?","2025-11-12T14:45:14.721532+00:00"
+"user","intrinsieke route is als er van binnenuit een stoje reageerd met een stofje van bijten de ader hierdoor ontstaat de start van de cascade en we beginnen met, elke factor zorgt voor de activatie van de volgende factor, 12 dan 11 dan 9 en vervolgens 8 die dan zorgt voor het voor de activatie van 10. extrinsiek is als er een tissue factor in het bloed komt van buitenaf waardoor factor 7 wordt gaectiveer die dan ook zorgt voor de activatie van 10","2025-11-12T14:49:02.602439+00:00"
+"assistant","Dat klopt!  
+De intrinsieke route wordt geactiveerd door schade aan het bloedvat van binnenuit, waarbij de stollingsfactoren XII, XI, IX en VIII elkaar activeren, wat leidt tot activatie van factor X.  
+De extrinsieke route start als tissue factor uit beschadigd weefsel in contact komt met het bloed; via factor VII wordt dan direct factor X geactiveerd.  
+Beide routes komen dus samen bij de activatie van factor X en leiden zo tot de vorming van trombine en fibrine.
+
+Kun je ook aangeven wat er gebeurt als één of meerdere stollingsfactoren ontbreken of niet goed functioneren? Wat zou je dan verwachten bij zo’n patiënt?","2025-11-12T14:49:13.730829+00:00"
+"user","ligt er aan welke facor bij het ontbreken van factor 8 zal de intrisieke route niet meer werken, dit heet hemofile A. bij hemofilie B ontbreekt factor 9 wat zorgt voor een minder goede werking van de cascade en bij c weet ik het niet. bij van willebrand werkt de vWF niet","2025-11-12T14:51:26.858952+00:00"
+"assistant","Goed, jij noemt verschillende voorbeelden van stollingsstoornissen, zoals hemofilie A (factor VIII-deficiëntie), hemofilie B (factor IX-deficiëntie), en het von Willebrand-syndroom. Je koppelt deze factoren direct aan hun plek in de stollingscascade.
+
+Nu een laatste vraag om deze fase af te ronden: kun je kort beschrijven wat het gevolg is op het werkelijke stolsel als een bepaalde factor vroeg in de cascade ontbreekt? Wat betekent dat voor het stoppen van een bloeding?
+
+Als je hier antwoord op geeft, gaan we daarna verder naar de volgende fase!","2025-11-12T14:51:38.36287+00:00"
+"user","doordat het stollen minder goed werkt zal er veel meer bloedingen plaatsvinden zowel in al uitwendig. wwat zorgt in veel bloedingen en blauwe plekken en ander soort in- en uitwenidige bloedingen","2025-11-12T14:52:51.113947+00:00"
+"assistant","Mooi uitgelegd! Door een defect of tekort aan een belangrijke stollingsfactor werkt de cascade minder goed, waardoor bloedingen moeilijker te stelpen zijn, met risico op uitgebreide (inwendige en uitwendige) bloedingen en blauwe plekken.
+
+We gaan nu door naar de volgende fase.
+
+=== PHASE 2: Narrative Construction ===
+
+[■■■□□]  60% – Phase 2 completed! Final stretch - time to apply your insights!
+
+Hier komt opnieuw de casus:
+
+Een 60-jarige vrouw meldt zich met levensbedreigende bloedingen. Ze gebruikt warfarine, een antistollingsmiddel dat inwerkt op de vitamine K-afhankelijke stollingsfactoren, vanwege een hartprobleem. Ze had de afgelopen dagen al last van bloedend tandvlees.  
+Laboratoriumuitslagen:
+1. Protrombinetijd (PT): Verlengd  
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verlengd  
+3. Aantal bloedplaatjes: Normaal  
+4. Fibrinogeen: Normaal
+
+Kun je nu met je opgedane kennis verklaren waardoor deze patiënte deze klachten en labuitslagen heeft? Leg alles uit met je eigen woorden.","2025-11-12T14:53:07.23804+00:00"

@@ -1,0 +1,36 @@
+"role","content","created_at"
+"user","hoi","2025-11-05T15:28:20.911887+00:00"
+"assistant","Welkom! In deze activiteit ga je samen met een virtuele tutor ontdekken hoe bloed en gaswisseling werken via belangrijke fysiologische principes. Je wordt begeleid om zelf een verhaal te maken dat uitlegt wat er in een klinische situatie gebeurt en waarom.
+
+Zelf een casus verklaren helpt je om concepten beter te begrijpen, langer te onthouden en die kennis later toe te passen in klinische situaties. Dit sluit ook aan bij hoe artsen later zelf redeneren en overleggen met patiënten en collega’s.
+
+Deze activiteit bestaat uit drie fasen:
+Fase 1 – Kennis activeren: wat weet je al over bloed en gaswisseling?
+Fase 2 – Narratief opbouwen: pas je kennis toe op een (eerste) casus.
+Fase 3 – Redeneren in een nieuwe situatie: bekijk hoe de principes werken in een andere casus.
+
+Klaar om te beginnen?","2025-11-05T15:28:33.878981+00:00"
+"user","ja","2025-11-05T15:30:01.306754+00:00"
+"assistant","Hier is de eerste klinische casus:
+
+Een 65-jarige vrouw wordt opgenomen in het ziekenhuis met toenemende kortademigheid sinds drie maanden. De afgelopen dagen zijn haar klachten sterker geworden. Zelfs eenvoudige huishoudelijke taken en lopen gaan moeilijk, met veel pauzes om op adem te komen. Ze heeft ook haar gebruikelijke hoest zien verergeren en heeft koorts. 
+
+Vijf jaar geleden kreeg ze de diagnose COPD. Bij COPD leidt chronische ontsteking tot beschadiging van de alveolaire wanden en verdikking van de alveolaire-capillaire membraan.
+
+Laboratoriumuitslagen:
+- Hemoglobine: 10,0 g/dL (normaal: 12–16 g/dL)
+- Arterieel bloedgas:
+   1. pH: 7,30 (normaal: 7,35–7,45) → acidose
+   2. Partiële zuurstofdruk (PaO₂): 65 mmHg (normaal: 80–100 mmHg)
+   3. Partiële CO₂-druk (PaCO₂): 51 mmHg (normaal: 35–45 mmHg)
+   4. Percentage van hemoglobine verzadigd met zuurstof (SaO₂): 89% (normaal: 95–100%)
+
+Kun je uitleggen waarom deze patiënte kortademig is en waarom haar laboratoriumuitslagen zo zijn? Leg uit wat er gebeurt volgens jou.
+
+[■□□□□]  20% – Kennis activering gestart! Laten we stapsgewijs gaswisseling verkennen!","2025-11-05T15:30:22.441246+00:00"
+"user","omdat ze rookt","2025-11-05T15:32:31.562299+00:00"
+"assistant","Dat klopt, roken is een belangrijke risicofactor voor COPD, maar kun je nog wat verder uitleggen hoe dit leidt tot haar klachten en afwijkende bloedwaarden? Wat gebeurt er precies in de longen en met het bloed waardoor ze zo kortademig is en laboratoriumafwijkingen heeft?
+
+Probeer in je eigen woorden te beschrijven wat er misgaat bij gaswisseling bij deze vrouw. Denk aan: hoe wordt zuurstof normaal getransporteerd, en wat verandert er bij deze patiënte?","2025-11-05T15:32:59.702283+00:00"
+"user","de partieële zuurstofdruk is te laag en daardoor is er een tekort aan zuurstof waardoor ze steeds weer adem wilt halen en is ze dus kortademig","2025-11-05T15:34:16.566864+00:00"
+"assistant","Mooi begin! Je benoemt inderdaad de lage partiële zuurstofdruk en dat dit tot tekorten kan leiden. Kun je nog verder beschrijven waardoor die zuurstofdruk bij haar zo laag is? Wat gebeurt er in haar longen of met het transport van zuurstof in haar bloed? Denk bijvoorbeeld aan de alveoli, het bloed, of de rol van hemoglobine. Wat verandert er precies bij COPD of bij haar anemie?","2025-11-05T15:34:24.874891+00:00"

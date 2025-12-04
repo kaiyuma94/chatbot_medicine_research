@@ -1,0 +1,166 @@
+"role","content","created_at"
+"user","Hi","2025-11-12T16:49:44.555516+00:00"
+"assistant","Welcome! In this activity, you’ll work with a virtual tutor to explore how haemostasis happens through key physiological principles. You’ll be guided to build your own narrative that explains what happens and why in a clinical situation.
+
+Creating your own story about a case helps you connect ideas, remember them longer, and apply this knowledge in future clinical situations. At the same time, this way of reasoning mirrors how doctors make sense of what happens in their patients—and one day, you’ll use it to work and reason together with your own patients.
+
+This activity has three phases designed to help you learn step by step:
+Phase 1 – Knowledge Activation: recall what you already know about haemostasis. The first case serves as a trigger to help you think and reflect — we’ll return to the case once we’ve completed this knowledge activation phase.
+Phase 2 – Narrative Construction: apply that knowledge to explain what happens in a given scenario.
+Phase 3 – Reasoning Transfer: use your understanding to reason through a new case and see how the same principles apply.
+
+Please note that you can access feedback on your learning progress at any time by clicking the feedback button — it’s a helpful way to reflect on what you’ve learned and what to focus on next!
+
+Ready to begin?","2025-11-12T16:50:00.478779+00:00"
+"user","in het nederlands misschien?","2025-11-12T16:50:24.472893+00:00"
+"assistant","Natuurlijk, we kunnen deze activiteit in het Nederlands doen!
+
+Welkom! In deze activiteit werk je met een virtuele tutor om te verkennen hoe hemostase verloopt aan de hand van belangrijke fysiologische principes. Je wordt begeleid om jouw eigen verhaal op te bouwen dat uitlegt wat er gebeurt en waarom, aan de hand van een klinische situatie.
+
+Je eigen verhaal maken helpt je om ideeën te verbinden, ze langer te onthouden en deze kennis later toe te passen in klinische situaties. Op deze manier denk je zoals artsen doen als ze proberen te begrijpen wat er met hun patiënten aan de hand is — en uiteindelijk gebruik je dit bij jouw eigen patiënten.
+
+Deze activiteit bestaat uit drie fases om je stap voor stap te helpen leren:
+Fase 1 – Kennis activeren: je herinnert je wat je al weet over hemostase. De eerste casus dient als trigger om na te denken — we komen hierop terug na de kennisfase.
+Fase 2 – Narratief bouwen: je past de kennis toe om uit te leggen wat er in het scenario gebeurt.
+Fase 3 – Redeneren en toepassen: je gebruikt je begrip om een nieuw geval te verklaren volgens dezelfde principes.
+
+Je kunt altijd feedback op je voortgang krijgen door op de feedbackknop te klikken — handig om te reflecteren op wat je geleerd hebt en waar je nog aandacht aan wilt besteden!
+
+Ben je er klaar voor?
+
+[■□□□□]  20% – Kennis activeren gestart! Laten we stap voor stap samen aan de slag gaan!","2025-11-12T16:50:45.934814+00:00"
+"user","ja","2025-11-12T16:50:50.619307+00:00"
+"assistant","Hier is de eerste casus om mee te starten:
+
+Een 60-jarige vrouw presenteert zich met ernstig, levensbedreigend bloedverlies. Ze gebruikt warfarine, een antistollingsmiddel dat werkt op de vitamine K-afhankelijke stollingsfactoren, vanwege een hartaandoening, en had de afgelopen dagen al last van bloedend tandvlees.  
+Laboratoriumuitslagen:
+1. Protrombinetijd (PT): Verlengd
+2. Geactiveerde partiële tromboplastinetijd (aPTT): Licht verlengd
+3. Aantal bloedplaatjes: Normaal
+4. Fibrinogeen: Normaal
+
+Kun je de symptomen van deze patiënt én de laboratoriumuitslagen verklaren?
+
+","2025-11-12T16:51:06.835954+00:00"
+"user","zij heeft een paar dagen last van een bloedend tandvlees en haar pt en haar aptt zijn beide verlengd. dus dan duurt de stolling wat langer en dat is de reden waarom de tandvlees meerdere dagen heeft gebloed","2025-11-12T16:52:30.181261+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we even pauzeren en starten met Fase 1 – Kennis activeren. In deze fase lopen we kort de kernbegrippen en mechanismen door die horen bij deze casus. Heb je specifieke vragen of dingen die je graag eerst wilt verduidelijken voor we verdergaan?
+
+[■□□□□]  20% – Kennis activeren gestart! Je bouwt een stevige basis voor klinisch denken!
+
+Zo niet, dan een volgende vraag om te beginnen:  
+Als je bedenkt hoe het lichaam een bloeding stopt na een wond aan een bloedvat, welke hoofdprocessen schieten dan als eerste in je gedachten?","2025-11-12T16:52:40.672477+00:00"
+"user","vasoconstrictie en bloedstolling","2025-11-12T16:53:32.67958+00:00"
+"assistant","Mooi! Je noemt vasoconstrictie en bloedstolling.
+
+Kun je uitleggen wat vasoconstrictie precies inhoudt en welke functie het heeft bij een bloeding?
+
+En als je denkt aan bloedstolling, welke stappen of onderdelen vallen daar volgens jou onder?","2025-11-12T16:53:40.024174+00:00"
+"user","bij vasoconstrictie worden de bloedvaten nauwer zodat er minder bloed erdoorheen stroomt. en bij stolling heb je primair en secundair","2025-11-12T16:54:16.457613+00:00"
+"assistant","Goed uitgelegd! Je benoemt al een belangrijk onderscheid: primaire en secundaire hemostase.
+
+Kun je kort beschrijven wat er gebeurt tijdens de primaire hemostase, en wat het doel is van deze stap?
+
+En wat onderscheidt de secundaire hemostase hiervan?","2025-11-12T16:54:23.854365+00:00"
+"user","het is wanneer trombocyten aan de wand hechten en een prop vormen","2025-11-12T16:55:15.111381+00:00"
+"assistant","Precies, dat klopt! Bij de primaire hemostase hechten trombocyten (bloedplaatjes) zich aan het beschadigde vaatwand en vormen samen een tijdelijke prop.
+
+Nu ben ik benieuwd:  
+Wat gebeurt er bij de secundaire hemostase, en waarom is deze stap nodig na de primaire plugvorming?","2025-11-12T16:55:22.172287+00:00"
+"user","de stollingsfactoren worden geactiveerd en er wordt trombine gevormd en zo wordt het prop steeds stabilier","2025-11-12T16:56:13.936148+00:00"
+"assistant","Dat klopt! Door activatie van de stollingsfactoren ontstaat trombine, wat ervoor zorgt dat fibrinogeen wordt omgezet in fibrine — dat vormt een netwerk over de plug en maakt deze steviger en langduriger.
+
+Kun je samenvatten wat bedoeld wordt met de “stollingscascade” en waarom het een serie gekoppelde reacties wordt genoemd? Wat levert dit op voor het lichaam?","2025-11-12T16:56:21.457509+00:00"
+"user","met stollingscascade wordt er bedoeld dat er er een antaal stollingsfactoren achter elkaargeactiveerd worden","2025-11-12T16:57:05.982348+00:00"
+"assistant","Juist, het is inderdaad een kettingreactie waarbij de ene factor de volgende activeert.
+
+Wat denk je, waarom zou het lichaam zo’n ingewikkelde “cascade” gebruiken in plaats van alles tegelijk te activeren? Wat zijn daar de voordelen van?","2025-11-12T16:57:11.776422+00:00"
+"user","dat komt volgens mij doordat er verschillende routes zijn en dan kun je niet alles in een keer activeren","2025-11-12T16:57:48.545243+00:00"
+"assistant","Goede observatie. Er zijn inderdaad verschillende routes, en het geeft het lichaam controle en precisie: alleen op de juiste plek en het juiste moment wordt de ketting in gang gezet.
+
+Kun je uitleggen wat bedoeld wordt met de “intrinsieke” en “extrinsieke” route in de stolling? Hoe begint elk van die routes?","2025-11-12T16:57:57.757195+00:00"
+"user","beide routes beginnen met een factor en de intrinsieke gaat over de bloeding diep in het lichaam en extrinsiek gaat over bloedingen aan het oppervlaj","2025-11-12T16:58:42.605245+00:00"
+"assistant","Dat is een goed begin! Je benoemt al dat beide routes een eigen startpunt hebben, en dat hun activering afhankelijk is van het type beschadiging.
+
+Zou je specifieker kunnen uitleggen welke factoren betrokken zijn bij de start van de intrinsieke route, en welke juist bij de extrinsieke? Waarom heten ze zo? Heb je daar een idee over?","2025-11-12T16:58:50.009876+00:00"
+"user","bij de intrinsieke is het factor 8 en bij extrinsiek is het factor x","2025-11-12T16:59:09.760661+00:00"
+"assistant","Je zit in de goede richting, maar er zijn wat details die we kunnen aanscherpen.  
+Bij de intrinsieke route zijn factoren XII, XI, IX en VIII belangrijk, waarbij het meestal begint bij factor XII. De extrinsieke route start juist met factor VII die wordt geactiveerd door contact met weefselfactor (“tissue factor”) bij beschadiging van weefsel buiten het vat.
+
+Weet je waarom de ene route “intrinsiek” en de andere “extrinsiek” wordt genoemd? Wat betekent dat in dit verband?","2025-11-12T16:59:18.355222+00:00"
+"user","ik weet het niet","2025-11-12T16:59:29.199454+00:00"
+"assistant","Dat is helemaal prima!  
+“Extrinsiek” betekent dat de route wordt geactiveerd door iets van buiten het bloedvat, namelijk de weefselfactor die vrijkomt bij weefselschade. Die weefselfactor is dus ‘extern’ ten opzichte van het bloed.
+
+“Intrinsiek” betekent dat deze route wordt geactiveerd door stoffen die al in het bloed zelf aanwezig zijn—zoals contact met een beschadigde vaatwand waardoor bepaalde factoren (zoals XII) in het bloed worden geactiveerd.
+
+Lijkt dit logisch? Heb je hier nog vragen over voordat we verdergaan? Of wil je misschien nog dat ik een bepaald stukje verder toelicht?
+
+[■■□□□]  40% – Kennis activering afgerond! Je legt nu de koppeling naar klinische situaties!","2025-11-12T16:59:43.012169+00:00"
+"user","ik heb geen andere vragen","2025-11-12T16:59:52.806789+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Mooi! Nu gaan we naar Fase 2 – Narratief bouwen. Hier pas je de kennis toe op de eerdere casus.
+
+Hier is de casus opnieuw:
+
+Een 60-jarige vrouw presenteert zich met ernstig, levensbedreigend bloedverlies. Ze gebruikt warfarine, een antistollingsmiddel dat werkt op de vitamine K-afhankelijke stollingsfactoren, vanwege een hartaandoening, en had de afgelopen dagen al last van bloedend tandvlees.  
+Laboratoriumuitslagen:
+1. Protrombinetijd (PT): Verlengd
+2. Geactiveerde partiële tromboplastinetijd (aPTT): Licht verlengd
+3. Aantal bloedplaatjes: Normaal
+4. Fibrinogeen: Normaal
+
+Kun je nu, met de kennis die we net herhaald hebben, uitleggen waarom deze patiënte deze symptomen en labuitslagen vertoont?
+
+[■■□□□]  40% – Kennis activering afgerond! Je koppelt nu theorie aan praktijk, goed gedaan!","2025-11-12T17:00:08.041138+00:00"
+"user","zij heeft een verlengd pt en een verlengd aptt, dat laat zien dat het langer duurt om te stollen dan normaal en dat is de reden waarom haar tandvlees nog aan het bloeden is","2025-11-12T17:01:07.355524+00:00"
+"assistant","Dat is een goede eerste stap! Je ziet dat de stollingstijden verlengd zijn en relateert dit aan het langdurig bloeden van het tandvlees.
+
+Kun je nu uitleggen hoe het gebruik van warfarine precies tot deze laboratoriumafwijkingen leidt? Welke stollingsfactoren zijn door warfarine beïnvloed? Wat heeft dat voor effect op de stollingscascade?","2025-11-12T17:01:16.008057+00:00"
+"user","warfarine beinvloedt de factoren II, VII , IX, en X","2025-11-12T17:02:27.727112+00:00"
+"assistant","Goed, je somt de juiste vitamine K-afhankelijke factoren op: II, VII, IX en X. 
+
+Kun je uitleggen hoe een tekort aan deze factoren de stollingscascade beïnvloedt? Denk vooral aan welke delen van de cascade — intrinsiek, extrinsiek of gemeenschappelijk — hierdoor verstoord raken, en wat dat betekent voor de PT en aPTT uitslagen. Kun je dat toelichten?","2025-11-12T17:02:36.651066+00:00"
+"user","de intrinsieke route loopt dan niet en wordt verstoord en daardoor krijg je een verlengde pt en een licht verlengde aptt","2025-11-12T17:03:19.528993+00:00"
+"assistant","Mooi geprobeerd, maar laten we het wat verder uitdiepen!  
+Factor VII (vitamine K-afhankelijk) speelt vooral een rol bij de extrinsieke route. Factor II (trombine) en X zijn onderdeel van de gemeenschappelijke route, en IX van de intrinsieke route.  
+
+Kun je nu uitleggen waarom vooral de PT als eerste verlengd raakt bij een vitamine K-tekort of warfarinegebruik? Wat gebeurt er precies met factor VII en met de andere factoren?","2025-11-12T17:03:27.96732+00:00"
+"user","PT meet de tijd van de extrinsieke route en hier wordt de factor 7 verstoord en daarom zal de pt als eerst verlengd worden","2025-11-12T17:04:59.882368+00:00"
+"assistant","Precies! Factor VII is de vitamine K-afhankelijke factor met de kortste halfwaardetijd, dus het effect van warfarine op PT, die de extrinsieke route meet, is het snelst zichtbaar.
+
+Kun je nu uitleggen waarom de aPTT soms slechts licht verlengd is, ondanks het effect van warfarine op andere factoren zoals II, IX en X? Wat zegt dat over de gevoeligheid van de aPTT-test en over de mate van remming door warfarine?","2025-11-12T17:06:01.570112+00:00"
+"assistant","You showed a solid grasp of the basics of haemostasis: you clearly distinguished tussen vasoconstrictie, primaire bloedplaatjesplugvorming, en de stollingscascade, en je benoemde de betrokken factoren bij warfarinegebruik. Goed gedaan! Most of the help was needed in PHASE 2, especially in linking welke stollingsfactoren door warfarine worden beïnvloed aan de gevolgen voor PT en aPTT. To strengthen this reasoning, probeer een visueel schema te tekenen waarin je de (extrinsieke, intrinsieke, en gemeenschappelijke) routes met hun factoren uitzet, en aangeeft waar warfarine ingrijpt—zo wordt het duidelijker waarom PT als eerste verlengd is (vanwege factor VII) en waarom aPTT meestal slechts licht verlengd is. You’re progressing well—keep oefenen met het ontrafelen van testuitslagen en koppelen aan mechanismen, zo bouw je steeds meer klinisch inzicht op!
+
+Hier zijn materialen ter herziening—neem ze rustig door om je inzicht verder te verdiepen:
+
+###VIGNETTE 1###
+Een 65-jarige man presenteert zich na een kleine val met uitgebreide blauwe plekken. Zijn voorgeschiedenis vermeldt atriumfibrilleren waarvoor hij acenocoumarol gebruikt. Bloedonderzoek toont: 
+- Verlengde protrombinetijd (PT)
+- Licht verlengde aPTT
+- Normaal aantal trombocyten
+
+###EXEMPLAR EXPERT EXPLANATION 1###
+Deze patiënt gebruikt acenocoumarol, een vitamine K-antagonist. Vitamine K is essentieel voor de synthese van stollingsfactoren II, VII, IX, en X. De extrinsieke route (waarbij factor VII belangrijk is) wordt als eerste aangedaan; daarom is PT duidelijk verlengd. Factor II, IX, en X – betrokken bij de intrinsieke en de gemeenschappelijke route – kunnen ook lager zijn, wat een lichte verlenging van aPTT geeft. Het aantal trombocyten is normaal; het probleem zit in de plasmatische stolling, niet in de primaire hemostase.
+
+###VIGNETTE 2###
+Een 35-jarige vrouw presenteert zich met spontane blauwe plekken. Haar voorgeschiedenis is blanco, geen medicijngebruik. Bloedonderzoek: 
+- Normale PT 
+- Verlengde aPTT 
+- Normaal aantal trombocyten
+
+###EXEMPLAR EXPERT EXPLANATION 2###
+Een verlengde aPTT met normale PT en trombocyten wijst op een afwijking in de intrinsieke route, bijvoorbeeld hemofilie A (factor VIII-deficiëntie) of hemofilie B (factor IX-deficiëntie). De normale PT toont aan dat de extrinsieke route intact is. Een normaal trombocytenaantal en geen voorgeschiedenis van medicatiegebruik maken een trombopenie of vitamine K-antagonisme onwaarschijnlijk. Bij jonge vrouwen met een blanco voorgeschiedenis kan ook verworven factor VIII-remming worden overwogen.
+
+###KNOWLEDGE###
+- Hemostase bestaat uit vasoconstrictie, primaire hemostase (bloedplaatjesplug) en secundaire hemostase (stollingscascade, met extrinsieke, intrinsieke, en gemeenschappelijke route).
+- Vitamine K is noodzakelijk voor de synthese van stollingsfactoren II, VII, IX, en X.
+- Warfarine/acenocoumarol remmen de vitamine K-afhankelijke factoren: VII (extrinsiek), IX (intrinsiek), X en II (beide gemeenschappelijk).
+- PT (protrombinetijd) test vooral de extrinsieke en gemeenschappelijke route; PT is als eerste verlengd bij vitamine K-deficiëntie of –antagonisme (door korte halfwaardetijd van factor VII).
+- aPTT (activated partial thromboplastin time) test de intrinsieke en gemeenschappelijke route; is minder gevoelig voor milde afwijkingen door vitamine K-antagonisten.
+- Fibrinogeen en trombocyten zijn normaal bij vitamine K-antagonisme.
+- Bij afwijkende stollingstesten altijd de pathways en factoren in gedachten houden en koppelen aan kliniek en medicatie.
+
+Blijf oefenen: met inzicht in de routes en overzicht van de factoren maak je voortaan makkelijker het bruggetje van labuitslagen naar onderliggende mechanismen!","2025-11-12T22:11:37.729+00:00"

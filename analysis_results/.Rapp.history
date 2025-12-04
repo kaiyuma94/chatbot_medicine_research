@@ -1,0 +1,6 @@
+load("/Users/ramonazhao/Desktop/chatbot_medicine_research/analysis_results/R2-survey_results.rds")
+load("/Users/ramonazhao/Desktop/R2-survey_results.rds")
+load("/Users/ramonazhao/Desktop/R2-survey_results.rds")
+load("/Users/ramonazhao/Desktop/R2-survey_results.rds")
+load("/Users/ramonazhao/Desktop/chatbot_medicine_research/analysis_results/R1-survey_results.rds")
+load("/Users/ramonazhao/Desktop/R2-survey_results.rds")

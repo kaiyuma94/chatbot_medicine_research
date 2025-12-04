@@ -1,0 +1,96 @@
+"role","content","created_at"
+"user","ik ben er klaar voor!","2025-11-12T14:23:46.088572+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Welkom! In deze activiteit werk je samen met een virtuele tutor om te ontdekken hoe hemostase gebeurt, aan de hand van belangrijke fysiologische principes. Je wordt stap voor stap begeleid om je eigen verhaal te bouwen dat uitlegt wat er gebeurt en waarom in een klinische situatie.
+
+Zelf een casusverhaal maken helpt om ideeën te verbinden, ze langer te onthouden en de kennis later toe te passen in andere situaties. Tegelijk is dit ook hoe artsen redeneerpatronen opbouwen—en zul je deze aanpak uiteindelijk ook in het echte werk gebruiken.
+
+Deze activiteit heeft drie fases:
+Fase 1 – Kennis activeren: haal naar boven wat je al weet over hemostase. De eerste casus is een prikkel om je aan het denken te zetten — we keren er later op terug.
+Fase 2 – Narratief bouwen: pas die kennis toe om uit te leggen wat er aan de hand is in een gegeven situatie.
+Fase 3 – Toepassing: breng je begrip over naar een nieuwe casus en kijk hoe dezelfde mechanismen daar werken.
+
+Je kunt op elk moment de feedbackknop aanklikken om te reflecteren op je voortgang en aandachtspunten!
+
+Klaar om te beginnen?
+
+[■□□□□]  20% – Knowledge activation started! Let’s recall how haemostasis works step by step!","2025-11-12T14:24:05.945474+00:00"
+"user","de primaire stolling: er binden bloedplaatjes aan de vaatwand door te binden met von willebrand's factor, dan gaat de stollingscascade in zijn werking dan wordt protrombine omgezet in trombine en fibrinogeen naar fibrine en dan is er een stolling gevormd","2025-11-12T14:28:13.811862+00:00"
+"assistant","Prima! Laten we nu met een casus het onderwerp wat concreter maken:
+
+Een 60-jarige vrouw presenteert zich met ernstige, levensbedreigende bloedingen. Ze gebruikt warfarine (een antistollingsmiddel dat werkt op de vitamine K-afhankelijke stollingsfactoren) vanwege een hartprobleem en had de dagen ervoor al tandvleesbloedingen opgemerkt.  
+Labuitslagen:
+1. Protrombinetijd (PT): Verlengd  
+2. aPTT: Licht verlengd  
+3. Trombocyten: Normaal  
+4. Fibrinogeen: Normaal
+
+Kun je uitleggen waardoor deze patiënte klachten en deze laboratoriumuitslagen heeft?","2025-11-12T14:28:25.430724+00:00"
+"user","door de medicatie die ze gebruikt zijn deze lab uitslagen te verklaren. Want dit werkt tegen factor II, VII, IX and X, and tegen proteïnen C en S.","2025-11-12T14:30:34.974646+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Mooie eerste poging! Laten we een korte pauze nemen en met Fase 1 – Kennis activeren starten. In deze fase gaan we de kernconcepten en mechanismen kort doornemen die relevant zijn voor de casus. Zijn er punten of vragen die je nu direct wil verduidelijken voordat we doorgaan?
+
+[■□□□□]  20% – Knowledge activation started! Let’s recall how haemostasis works step by step!","2025-11-12T14:30:56.057764+00:00"
+"user","nee","2025-11-12T14:31:01.826145+00:00"
+"assistant","Prima! Laten we eens samen nadenken hoe het lichaam een bloeding normaal gesproken stopt.
+
+Wanneer je denkt aan het stelpen van een bloeding na een vaatbeschadiging, welke hoofdprocessen komen dan bij je op? Kun je de volgorde of samenhang kort uitleggen?","2025-11-12T14:31:09.222486+00:00"
+"user","primaire en secundaire stolling","2025-11-12T14:31:25.090268+00:00"
+"assistant","Dat klopt! Kun je uitleggen wat het verschil is tussen primaire en secundaire stolling? Wat gebeurt er bij elk van deze stappen, en waarom zijn beide nodig voor effectieve bloedstelping?","2025-11-12T14:31:30.912326+00:00"
+"user","primaire stolling is het binden van bloedplaatjes aan de vaatwand door von willebrand's factor en secundaire stolling is de stollingscascade met de uiteindelijke vorming van fibrine","2025-11-12T14:32:15.928651+00:00"
+"assistant","Mooi uitgelegd! Wat denk je dat de functie is van het gevormde fibrine aan het einde van de secundaire stolling? Waarom is die stap van belang na de primaire vorming van een bloedplaatjesplug?","2025-11-12T14:32:21.119768+00:00"
+"user","omdat fibrine een soort draadjes zijn die de bloedplaatjes als een soort netwerk verbindt","2025-11-12T14:33:21.581254+00:00"
+"assistant","Precies! Fibrine vormt een netwerk dat de bloedplaatjesplug stevig maakt en zorgt zo voor een stabiel, duurzaam stolsel.
+
+Nog één verduidelijkende vraag:  
+De stollingscascade bestaat uit verschillende enzymreacties. Wat bedoelen we met de “intrinsieke” en “extrinsieke” pathway? En hoe starten deze paden, weet je dat?","2025-11-12T14:33:28.909129+00:00"
+"user","nee niet precies","2025-11-12T14:35:37.955079+00:00"
+"assistant","Geen probleem, dat is een veelvoorkomende vraag. Laten we het samen kort verkennen.
+
+De stollingscascade kan via twee paden op gang komen: de intrinsieke en de extrinsieke route. Kun je bedenken wat het woord “extrinsiek” (of “van buitenaf”) bij weefselschade zou kunnen betekenen? Heb je een idee waarom dit pad heel snel geactiveerd kan worden na een verwonding?","2025-11-12T14:35:46.006713+00:00"
+"user","omdat het een kort snel pad is","2025-11-12T14:36:00.076845+00:00"
+"assistant","Klopt, het extrinsieke pad wordt heel snel geactiveerd! Kun je bedenken welk signaal of welk molecuul uit het beschadigde weefsel deze route precies activeert? Wat maakt het mogelijk dat het extrinsieke pad zo’n snelle start geeft?","2025-11-12T14:36:11.99378+00:00"
+"user","het wordt geactiveerd door weefsel factor wat wordt afgegeven door de beschadigde vaatwand","2025-11-12T14:36:55.990122+00:00"
+"assistant","Uitstekend! Weefselfactor bindt aan factor VII in het bloed, waardoor de extrinsieke route direct wordt gestart na vaatbeschadiging—en zo dus snel het stolselproces in werking kan treden.
+
+Nu nog kort de andere kant:  
+De intrinsieke pathway—wat denk je dat hiermee bedoeld wordt? Onder welke omstandigheden wordt dit pad geactiveerd, en welke factoren spelen daarbij een rol?","2025-11-12T14:37:04.31017+00:00"
+"user","het wordt ook geactiveerd bij beschadiging van de vaatwand en factor 12 wordt hierdoor geactiveerd","2025-11-12T14:38:15.86252+00:00"
+"assistant","Heel goed! Bij blootstelling van het bloed aan negatief geladen oppervlakken (bijvoorbeeld het collageen van een beschadigde vaatwand) wordt factor XII geactiveerd, waarmee de intrinsieke pathway van start gaat en vervolgens leidt tot activatie van achtereenvolgens factor XI, IX en VIII.
+
+Laatste kennischeck:  
+Wat zou er kunnen gebeuren als één van deze stollingsfactoren ontbreekt of niet goed werkt? Wat denk je dat het effect is op het hele proces van stolling?","2025-11-12T14:38:24.237724+00:00"
+"user","het zal de stolling blokkeren of vertragen","2025-11-12T14:38:44.867492+00:00"
+"assistant","Precies! Als een stollingsfactor ontbreekt of niet goed werkt, wordt het hele proces vertraagd of geblokkeerd. Hierdoor ontstaat een verhoogde neiging tot bloeden, omdat het fibrinestolsel niet goed kan worden gevormd.
+
+Goed, je hebt de kernmechanismen nu scherp! We gaan nu verder met het toepassen van deze kennis op de casus.  
+
+[■■□□□]  40% – Knowledge activation finished! Keep going - your clinical reasoning is developing!","2025-11-12T14:38:55.807297+00:00"
+"user","ok","2025-11-12T14:39:04.874506+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Mooi! We starten nu met Fase 2 – Narratief bouwen. Hieronder nogmaals de casus:
+
+Een 60-jarige vrouw presenteert zich met ernstige, levensbedreigende bloedingen. Ze gebruikt warfarine (een antistollingsmiddel dat werkt op de vitamine K-afhankelijke stollingsfactoren) vanwege een hartprobleem en had de dagen ervoor al tandvleesbloedingen opgemerkt.  
+Labuitslagen:
+1. Protrombinetijd (PT): Verlengd  
+2. aPTT: Licht verlengd  
+3. Trombocyten: Normaal  
+4. Fibrinogeen: Normaal
+
+Kun je met de kennis die we net besproken hebben uitleggen waardoor deze patiënte klachten en deze laboratoriumuitslagen heeft?
+
+[■■□□□]  40% – Knowledge activation finished! Keep going - your clinical reasoning is developing!","2025-11-12T14:39:18.376952+00:00"
+"user","omdat de medicatie een remmende werking heeft op factoren II, VII, IX en X, en on proteïnen C en S","2025-11-12T14:40:07.108518+00:00"
+"assistant","Mooi begin! Je noemt terecht dat deze factoren onderdrukt worden door het medicijn. Kun je nu uitleggen hoe de remming van deze factoren precies leidt tot een verlengde PT, een licht verlengde aPTT, maar wél normale trombocyten en fibrinogeen? Wat is het onderliggende mechanisme achter die labwaarden – kun je die stap uitleggen?","2025-11-12T14:40:15.011064+00:00"
+"user","doordat factor VII minder aanwezig is zal de PT moeilijker kunnen worden gestart en dus verlengd zijn. Doordat de beginnende factoren bij de aPTT wel aanwezig zijn zal dit wel eerst normaal verlopen alleen daarna worden geremt","2025-11-12T14:43:47.566507+00:00"
+"assistant","Goed uitgelegd over factor VII en PT! Kun je nog toelichten waarom de trombocyten en het fibrinogeen wél normaal blijven bij deze patiënte, ondanks het gebruik van warfarine? Wat zegt dat over welk deel van de stolling wél en niet is aangedaan?","2025-11-12T14:43:54.440429+00:00"
+"user","de primaire stolling is niet aangedaan dat verklaard de normaal waarden van trombocyten het fibrinogeen is ook niet aangedaan omdat het medicijn niet op dit eiwit werkt","2025-11-12T14:45:23.61289+00:00"
+"assistant","Heel scherp! Dus: de primaire stolling (bloedplaatjes) én het fibrinogeen blijven intact, omdat warfarine alleen invloed heeft op de vitamine K-afhankelijke stollingsfactoren. De secundaire stolling—de cascade en fibrinetvorming—wordt hierdoor verstoord.
+
+Kun je in je eigen woorden samenvatten waarom deze patiënte hierdoor gevaarlijk kan gaan bloeden, ondanks normale bloedplaatjes en fibrinogeen? Wat gebeurt er met de stevigheid van het stolsel?","2025-11-12T14:45:32.554443+00:00"
+"user","het zal langer duren voordat er een stolsel is gevormd. De stevigheid van het stolsel zal gelijk zijn alleen de tijd voordat het is gestolt duurt langer","2025-11-12T14:46:27.021285+00:00"
+"user",".","2025-11-12T14:47:13.699377+00:00"
+"user","het zal langer duren voordat er een stolsel is gevormd. De stevigheid van het stolsel zal gelijk zijn alleen de tijd voordat het is gestolt duurt langer","2025-11-12T14:47:55.412538+00:00"

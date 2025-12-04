@@ -1,0 +1,121 @@
+"role","content","created_at"
+"user","ik wil beginnen","2025-11-12T14:24:36.741682+00:00"
+"assistant","Welcome! In this activity, you’ll work with a virtual tutor to explore how haemostasis happens through key physiological principles. You’ll be guided to build your own narrative that explains what happens and why in a clinical situation.
+
+Creating your own story about a case helps you connect ideas, remember them longer, and apply this knowledge in future clinical situations. At the same time, this way of reasoning mirrors how doctors make sense of what happens in their patients—and one day, you’ll use it to work and reason together with your own patients.
+
+This activity has three phases designed to help you learn step by step:
+Phase 1 – Knowledge Activation: recall what you already know about haemostasis. The first case serves as a trigger to help you think and reflect — we’ll return to the case once we’ve completed this knowledge activation phase.
+Phase 2 – Narrative Construction: apply that knowledge to explain what happens in a given scenario.
+Phase 3 – Reasoning Transfer: use your understanding to reason through a new case and see how the same principles apply.
+
+Please note that you can access feedback on your learning progress at any time by clicking the feedback button — it’s a helpful way to reflect on what you’ve learned and what to focus on next!
+
+Ready to begin?
+
+[■□□□□]  20% – Knowledge activation started! Let’s recall how haemostasis works step by step!","2025-11-12T14:24:56.722493+00:00"
+"user","is hemostase de vorming van bloecellen?","2025-11-12T14:26:37.000456+00:00"
+"assistant","Dank voor je vraag! Hemostase is niet de vorming van bloedcellen, maar heeft te maken met het stoppen van een bloeding na een beschadiging van een bloedvat. Dit gebeurt door verschillende nauw samenwerkende mechanismen in het lichaam.
+
+Hier volgt een klinisch voorbeeld om je denken te prikkelen:
+
+Een 60-jarige vrouw komt binnen met ernstig, levensbedreigend bloedverlies. Ze gebruikt warfarine (een antistollingsmiddel dat werkt op de vitamine K-afhankelijke factoren) vanwege een hartaandoening en merkte de afgelopen dagen al bloedend tandvlees op. 
+Laboratoriumuitslagen:
+1. Protrombinetijd (PT): Verlengd
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verhoogd
+3. Aantal bloedplaatjes: Normaal
+4. Fibrinogeen: Normaal
+
+Kun je uitleggen waardoor de klachten van deze patiënt en de laboratoriumuitslagen ontstaan?
+
+","2025-11-12T14:26:50.763877+00:00"
+"user","door de verlengde PT en de licht verhoogde aPTT (wat komt door het antistollingsmiddel dat ze inneemt) duurt de stolling veel langer, waardoor ze hele heftige bloedingen krijgt die maar neit stoppen","2025-11-12T14:28:07.835102+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we kort pauzeren en naar Fase 1 gaan – Kennisactivatie. In deze fase bespreken we kort de belangrijkste begrippen en mechanismen die met dit geval te maken hebben. Heb je nu vragen of punten die je eerst graag wilt verduidelijken voordat we dieper op de theorie ingaan?
+
+[■■□□□]  40% – Knowledge activation finished! Keep going - your clinical reasoning is developing!","2025-11-12T14:28:16.143699+00:00"
+"user","ja wat is het verschil tussen PT en aPTT","2025-11-12T14:28:43.306723+00:00"
+"assistant","Goede vraag! De PT (protrombinetijd) en aPTT (geactiveerde partiële tromboplastinetijd) meten allebei hoe snel het bloed stolt, maar ze testen verschillende delen van de stollingscascade.
+
+Kun je bedenken welke onderdelen van de stollingscascade ze elk testen, of heb je daarover al voorkennis? Wat betekent het bijvoorbeeld als alleen de PT verlengd is versus alleen de aPTT, qua pathways?","2025-11-12T14:28:51.36599+00:00"
+"user","ja ze bevatten beide andere stollingsfactoren toch? dus ze meten beide de werking van andere factoren","2025-11-12T14:29:28.603982+00:00"
+"assistant","Precies, ze testen inderdaad elk een ander deel van de stollingscascade doordat ze zich op verschillende stollingsfactoren richten.
+
+Kun je uitleggen welke pathway(s) elke test vooral bekijkt – oftewel: welke factoren vooral bij PT horen, en welke bij aPTT? Wat betekent het als bij een patiënt alleen de PT afwijkend is ten opzichte van alleen de aPTT?","2025-11-12T14:29:36.393704+00:00"
+"user","ik weet niet exact welke factoren bij welk pathway horen, maar als alleen een PT afwijkend is, betekent dat waarschijnlijk dat er iets mis is met een factor die alleen in de PT zit en niet in de aPTT","2025-11-12T14:30:22.323306+00:00"
+"assistant","Heel logisch geredeneerd! Je zit op het juiste spoor: als alleen de PT afwijkend is, wijst dat vaak op een probleem in het deel van de cascade dat vooral door de PT wordt getest.
+
+Wil je proberen te benoemen welke pathways de PT en de aPTT meten? Waar denk je bij termen als ""intrinsiek"" en ""extrinsiek""? En weet je hoe deze pathways in het grotere geheel van de stollingscascade met elkaar zijn verbonden?","2025-11-12T14:30:30.87252+00:00"
+"user","PT is intrinsiek en aPTT is extrinsiek","2025-11-12T14:30:54.863379+00:00"
+"assistant","Dat is een veelvoorkomende verwarring! Eigenlijk is het precies andersom: de PT meet vooral de extrinsieke pathway, terwijl de aPTT de intrinsieke pathway test.
+
+Kun je je voorstellen waarom een beschadiging van weefsel (buiten het bloed) relevant zou zijn voor de extrinsieke pathway (en dus de PT)? En weet je welke stollingsfactor het snelst reageert bij de extrinsieke pathway?","2025-11-12T14:31:02.701141+00:00"
+"user","als er schade optreeft in een weefsel dat zich niet in het bloed bevindt maar wel in de extrinsieke pathway, kan de route niet vervolgd worden tot aan het bloed en vindt er geen stolling plaats","2025-11-12T14:32:12.915475+00:00"
+"assistant","Mooi, je redeneert al goed over het verschil tussen binnen en buiten het bloedvat! De extrinsieke pathway wordt inderdaad geactiveerd door weefselschade — zodra tissue factor (een eiwit uit beschadigd weefsel) in contact komt met bloed, wordt factor VII geactiveerd. Dit is de start van de extrinsieke route.
+
+Wil je nu proberen uit te leggen wat er gebeurt bij de intrinsieke pathway en welke factoren daar bij betrokken zijn? Wat activeert deze pathway, en hoe verschilt dat van de extrinsieke pathway?","2025-11-12T14:32:23.116792+00:00"
+"user","daar is het toch ook factor 7","2025-11-12T14:33:43.492299+00:00"
+"assistant","Goede poging! Factor VII hoort juist bij de extrinsieke pathway. Bij de intrinsieke pathway zijn andere factoren betrokken.
+
+Weet je welke gebeurtenissen of structuren in het bloed juist de intrinsieke pathway activeren? Kun je misschien enkele factoren noemen die specifiek bij deze route horen?","2025-11-12T14:33:50.731958+00:00"
+"user","XII","2025-11-12T14:33:56.630804+00:00"
+"assistant","Klopt! Factor XII is de eerste stap van de intrinsieke pathway. Die wordt geactiveerd wanneer bloed in aanraking komt met een negatief geladen oppervlak, bijvoorbeeld bij beschadiging van het endotheel.
+
+Kun je opsommen welke vervolgfactoren daarna geactiveerd worden in de intrinsieke pathway, en hoe ze samen leiden tot activatie van het gezamenlijke (common) deel van de cascade? Wat gebeurt er na factor XII?","2025-11-12T14:34:05.055698+00:00"
+"user","aPTT (intrinsiek) bevat factor XII, XI, IX en VIII en PT (extrinsiek) bevat factor 7 en als ze samen komen krijg je factor V, X en XIII","2025-11-12T14:36:22.787175+00:00"
+"assistant","Heel goed! Je hebt nu de juiste verdeling van de factoren benoemd.
+
+Wil je nu, op basis van wat je net beschreef, kort uitleggen hoe het gezamenlijke (""common"") deel van de stollingscascade verloopt? Wat gebeurt er na activatie van factor X en waarom is dit zo belangrijk om uiteindelijk een stevig stolsel te krijgen?","2025-11-12T14:36:30.310356+00:00"
+"user","dan komen de twee soorten stollingen samen en kan het bloedvat pas echt goed helen","2025-11-12T14:36:58.194079+00:00"
+"assistant","Precies, ze komen samen bij factor X. Maar kun je nog specifieker uitleggen wat de rol is van geactiveerde factor X (Xa)? Wat gebeurt er daarna met prothrombine en fibrinogeen, en hoe draagt dat bij aan het vormen van een stevig stolsel?","2025-11-12T14:37:12.403243+00:00"
+"user","die 2 stoffen worden geactiveerd en dan krijg je fibrinedraden en trombine wat zorgt voor stevige stolling","2025-11-12T14:37:49.686646+00:00"
+"assistant","Goed! Je zit in de kern juist: geactiveerde factor X (Xa) zet prothrombine (factor II) om in trombine. Trombine zet vervolgens fibrinogeen (factor I) om in fibrine, en die fibrinedraden vormen het uiteindelijke netwerk dat het stolsel echt stevig maakt.
+
+Wil je nu nog kort uitleggen wat er zou gebeuren als één van die stollingsfactoren mist of niet werkt? Wat verwacht je te zien bij de bloedstolling en bij de laboratoriumtesten?","2025-11-12T14:37:59.053441+00:00"
+"user","dan verloopt een van deze pathways niet normaal en krijg je niet dat ze samenkomen en uiteindelijk die fibrinedraden gaan vormen","2025-11-12T14:38:38.536958+00:00"
+"assistant","Helemaal goed! Als een factor mist of niet werkt, stokt de cascade en wordt het uiteindelijke fibrinenetwerk niet goed gevormd. Daardoor ontstaat een grotere kans op bloedingen, al naar gelang welke factor ontbreekt of is uitgeschakeld.
+
+Als laatste stap in deze fase: heb je hier nog vragen over, of zijn er onderdelen van de stollingscascade en de pathways waar je op wilt terugkomen voordat we met een klinisch scenario gaan oefenen?
+
+Als niet: ben je klaar om de kennis toe te passen op het oorspronkelijke patiëntvoorbeeld?
+
+[■■□□□]  40% – Knowledge activation finished! Keep going - your clinical reasoning is developing!","2025-11-12T14:38:48.790534+00:00"
+"user","ja doorgaan","2025-11-12T14:39:08.18267+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Mooi! Nu zijn we bij Fase 2 – Narrative Construction. Hieronder nogmaals de casus:
+
+Een 60-jarige vrouw komt binnen met ernstig, levensbedreigend bloedverlies. Ze gebruikt warfarine (een antistollingsmiddel dat werkt op de vitamine K-afhankelijke factoren) vanwege een hartaandoening en merkte de afgelopen dagen al bloedend tandvlees op.  
+Laboratoriumuitslagen:
+1. Protrombinetijd (PT): Verlengd  
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verhoogd  
+3. Aantal bloedplaatjes: Normaal  
+4. Fibrinogeen: Normaal
+
+Nu je net de belangrijkste stappen en factoren hebt herhaald: kun je met deze kennis uitleggen waardoor deze patiënte zulke bloedingen heeft en waarom haar labuitslagen er zo uitzien?","2025-11-12T14:39:21.179708+00:00"
+"user","beide pathways zijn verlengd, dus het ligt aan factor X, V of XIII, waardoor er ondanks de normale fibrinogeen waardes dit niet goed kan worden omgezet in fibrinedraden en dus de stolling niet goed tot uiting kan komen","2025-11-12T14:41:11.953162+00:00"
+"assistant","Mooie redenering! Je koppelt netjes de verlenging van beide tijden aan de common pathway. Toch is bij deze patiënte vooral de PT sterk verhoogd en de aPTT slechts licht verlengd. Daarnaast gebruikt ze warfarine, wat specifiek werkt op vitamine K-afhankelijke factoren.
+
+Kun je uitleggen welke factoren vitamine K nodig hebben om goed te functioneren? En waarom verlengt warfarine vooral de PT-test? Wat gebeurt er met factor VII en de extrinsieke pathway bij dit mechanisme?","2025-11-12T14:41:20.484144+00:00"
+"user","II, VII, IX en X zijn vitamine K afhankelijk, waarvan factor VII en IX in de aPTT route zitten en dus deze sterk verlengd wordt, maar factor X zit in de common pathway, waardoor deze nog een beetje extra verlengd wordt en de PT route ook een klein beetje","2025-11-12T14:43:29.825417+00:00"
+"assistant","Goede poging en je brengt al verband aan tussen de factoren en de pathways! Alleen: factor VII hoort juist bij de extrinsieke pathway (PT), niet bij de intrinsieke (aPTT). Factor IX hoort bij de intrinsieke (aPTT).
+
+Weet je waarom de PT bij warfarinegebruik juist snel verlengd is, terwijl de aPTT maar licht verhoogd is? Kun je nog eens uitleggen welke factor als eerste problemen geeft bij vitamine K-tekort en waarom dat in de PT tot uiting komt?","2025-11-12T14:43:39.998143+00:00"
+"user","omdat factor II als eerste aangetast wordt en deze bevindt zich in de PT","2025-11-12T14:45:28.839478+00:00"
+"assistant","Interessant dat je factor II noemt! Factor II (prothrombine) is inderdaad vitamine K-afhankelijk, maar het heeft juist een relatief lange halfwaardetijd. Factor VII daarentegen heeft de kortste halfwaardetijd van de vitamine K-afhankelijke factoren.
+
+Kun je uitleggen waarom juist factor VII-tekort als eerste zichtbaar wordt bij warfarinegebruik, en waarom dat vooral een effect heeft op de PT? Wat betekent dit voor de interpretatie van een verlengde PT bij deze patiënte?","2025-11-12T14:45:38.182958+00:00"
+"user","er zit maar 1 factor in de PT waardoor bij ontbreken of slechter werken van die factor de hele PT aangetast wordt","2025-11-12T14:46:43.70184+00:00"
+"assistant","Juist! Factor VII is de enige vitamine K-afhankelijke factor in de extrinsieke pathway (PT). Omdat deze factor de kortste halfwaardetijd heeft, zie je bij tekort hier als eerste een verlengde PT.
+
+Nu je dit weet:  
+Kun je in eigen woorden uitleggen hoe het gebruik van warfarine bij deze patiënte leidt tot haar bloedingsklachten en deze specifieke labwaarden? Probeer alle stappen en verbindingen in je uitleg te verwerken.","2025-11-12T14:46:52.285344+00:00"
+"user","door warfarine wordt de factor VII het meest aangetast door de kortste halfwaardetijd en wordt dus de PT het sterkst verlengd. de factoren in de aPTT die ook aangetast worden door het vitamine K tekort zorgen ook voor lichte verlenging van de aPTT. en de factoren in de common pathway worden ook aangetast waardoor in alle stappen de cascade niet of te langzaam verloopt waardoor fibrinogeen neit goed kan worden omgezet in fibrinedraden en je dus geen stevige stolling krijgt.\","2025-11-12T14:49:27.876007+00:00"
+"assistant","Dat heb je nu heel compleet en correct uitgelegd! Warfarine blokkeert de werking van vitamine K, waardoor de aanmaak van de vitamine K-afhankelijke stollingsfactoren (II, VII, IX, X) in de lever vermindert. Door de korte halfwaardetijd wordt factor VII als eerste laag, wat leidt tot een snelle verlenging van de PT (extrinsieke pathway). De intrinsieke pathway (aPTT) wordt pas na verloop van tijd licht verlengd doordat factor IX ook beïnvloed wordt. De common pathway is door afname van factor X en II ook aangedaan, wat de hele cascade vertraagt en tot ernstige bloedingen leidt ondanks een normaal aantal bloedplaatjes en normale fibrinogeenwaarden.
+
+Hier komt nu het laatste deel van deze fase:
+
+Hoe begrijp je nu de symptomen en labuitslagen van deze patiënt? Schrijf alles zo gedetailleerd mogelijk op – je ideeën, redeneerstappen en verbanden met wat je hebt geleerd!
+
+[■■■□□]  60% – Phase 2 completed! Final stretch - time to apply your insights!","2025-11-12T14:49:43.627699+00:00"

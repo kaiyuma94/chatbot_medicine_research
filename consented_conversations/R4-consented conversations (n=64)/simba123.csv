@@ -1,0 +1,59 @@
+"role","content","created_at"
+"user","hi","2025-11-05T16:06:30.041711+00:00"
+"assistant","Welkom! In deze activiteit ga je samen met een virtuele tutor onderzoeken hoe bloed en gaswisseling volgens enkele belangrijke fysiologische principes verlopen. Je wordt begeleid om je eigen verhaal te bouwen dat uitlegt wat er gebeurt en waarom, in een klinische situatie.
+
+Zelf een verhaal maken over een casus helpt je om ideeën te verbinden, ze langer te onthouden en deze kennis later in klinische situaties toe te passen. Tegelijkertijd lijkt deze manier van redeneren op hoe dokters verklaringen maken voor hun patiënten—and jij zal dat in de toekomst zelf doen.
+
+Deze activiteit bestaat uit drie fasen die je stap voor stap helpen leren:
+Fase 1 – Kennisactivatie: herinneren wat je al weet over bloed en gaswisseling.
+Fase 2 – Narratief bouwen: die kennis toepassen om uit te leggen wat er in een casus gebeurt.
+Fase 3 – Redeneringsoverdracht: je begrip toepassen op een nieuwe casus en zien hoe dezelfde principes daar gelden.
+
+Klaar om te beginnen?","2025-11-05T16:06:44.843332+00:00"
+"user","ja","2025-11-05T16:08:12.705792+00:00"
+"assistant","Hier volgt de eerste casus:
+
+Een 65-jarige vrouw wordt opgenomen met toegenomen kortademigheid over de afgelopen 3 maanden. De laatste dagen zijn haar klachten verergerd—zelf kleine huishoudelijke taken en wandelen lukken amper zonder pauzes te moeten nemen om op adem te komen. Ze heeft ook verergering van haar bekende hoest en koorts.
+Ze heeft 5 jaar geleden de diagnose COPD gekregen. Bij COPD beschadigt chronische ontsteking de alveolaire wanden en zorgt luchtwegremodellering voor verdikking van de alveolair-capillaire barrière.
+Labuitslagen:
+• Hemoglobine: 10,0 g/dl (Normaal: 12–16 g/dl)
+• Arterieel bloedgas:
+   1. pH: 7,30 (Normaal: 7,35–7,45) → acidose
+   2. pO₂: 65 mmHg (Normaal: 80–100 mmHg)
+   3. pCO₂: 51 mmHg (Normaal: 35–45 mmHg)
+   4. SaO₂: 89% (Normaal: 95–100%)
+
+Kun je uitleggen waarom deze patiënte kortademigheid heeft én hoe haar labuitslagen te verklaren zijn?","2025-11-05T16:08:30.446248+00:00"
+"user","Ze heeft minder hemoglobine, waardoor er minder O2 opgenomen kan worden in het bloed. Hierdoor is haar pO2 en SaO2 ook lager dan normaal. Dat haar PCO2 verhoogd is komt doordat haar pO2 verlaagd is.","2025-11-05T16:11:02.628911+00:00"
+"assistant","=== PHASE 1: Kennisactivatie ===
+
+Goed geprobeerd! Laten we even pauzeren en Fase 1 starten – Kennisactivatie. In deze fase gaan we kort de kernbegrippen en mechanismen doornemen die te maken hebben met deze casus. Zijn er vooraf nog vragen of punten die je graag zou willen ophelderen?
+
+[■□□□□]  20% – Kennisactivatie gestart! Laten we samen stap voor stap gaswisseling verkennen.","2025-11-05T16:11:12.13664+00:00"
+"user","nee","2025-11-05T16:11:38.947523+00:00"
+"assistant","Prima! Dan starten we de kennisactivatie.
+
+Als je denkt aan bloed en gaswisseling als geheel: aan welke hoofdprocessen denk je dan? Kun je kort beschrijven welke rol de longen, het bloed en de weefsels elk spelen in dit systeem?","2025-11-05T16:11:47.870289+00:00"
+"user","Het opnemen van O2 in bloed bij de longen en uitscheiden CO2. Dit is een uitwisseling tussen de longen en het bloed. Het zuurstofrijke bloed geeft vervolgends O2 af aan de weefsels.","2025-11-05T16:13:16.812037+00:00"
+"assistant","Heel goed! Je noemt het opnemen van zuurstof in de longen, en het afgeven aan de weefsels. Precies daar draait gaswisseling om.
+
+Wat doet hemoglobine hierbij precies, en wat maakt het mogelijk dat hemoglobine zowel O₂ kan opnemen in de longen als O₂ weer kan afgeven in de weefsels? Heb je al eens gehoord van het Bohr-effect of het Haldane-effect, en weet je wat die betekenen?","2025-11-05T16:13:26.071375+00:00"
+"user","Hemoglobine zit in de rode bloedcellen en bevat 4 ijzermoleculen die elk kunnen binden aan een O2 molecuul. Wanneer de pO2 hoog is (in de longen) is de affiniteit van hemoglobine voor O2 erg hoog en zal het dus O2 opnemen. Wanneer de pO2 laag is (in de weefsels) is de affiniteit laag en laat het O2 los","2025-11-05T16:15:36.770268+00:00"
+"assistant","Mooie uitleg! Je benoemt het verschil in affiniteit bij hoge en lage pO₂ goed.
+
+Weet je ook waardoor hemoglobine in de weefsels juist makkelijker zuurstof afgeeft als daar veel CO₂ is of als de omgeving zuurder wordt? Kun je uitleggen hoe het Bohr-effect hierin een rol speelt?","2025-11-05T16:15:45.267165+00:00"
+"user","klaar","2025-11-05T16:15:53.375039+00:00"
+"assistant","Prima! Je hebt de kernbegrippen over gaswisseling en hemoglobine goed opgeroepen.
+
+Nu we deze kennis paraat hebben, gaan we door naar de volgende fase en passen we deze kennis toe op de casus van de 65-jarige vrouw.
+
+[■■□□□]  40% – Kennisactivatie afgerond! Je klinisch redeneren komt op stoom.
+
+=== PHASE 2: Narratief bouwen ===
+
+Hier volgt de casus opnieuw:
+
+Een 65-jarige vrouw met COPD wordt opgenomen met toegenomen kortademigheid, hoest en koorts. Labuitslagen: hemoglobine 10,0 g/dl (laag), pH 7,30 (acidose), pO₂ 65 mmHg (laag), pCO₂ 51 mmHg (hoog), SaO₂ 89% (laag).
+
+Kun je nu, met je herhaalde kennis, uitleggen waarom deze patiënte kortademigheid heeft én hoe haar labwaarden te verklaren zijn? Probeer alle relevante factoren en processen erbij te betrekken.","2025-11-05T16:16:08.336419+00:00"
+"assistant","Je laat zien dat je de basis van gaswisseling begrijpt, en je kunt de rol van hemoglobine bij zuurstoftransport duidelijk uitleggen. Je redeneert goed over opname en afgifte van O₂, en benoemt logisch dat de patiënte door een verminderde gaswisseling klachten ontwikkelt. In de eerste fase van de casus had je echter moeite om de oorzaken van de abnormale bloedgassen volledig uit te werken, vooral de relatie tussen CO₂-retentie en alveolaire schade bij COPD; het kan helpen om het mechanisme tussen beschadigde alveolen, verminderde ventilatie en verhoogde pCO₂ stap voor stap te tekenen of hardop te verklaren. Blijf oefenen met het koppelen van pathofysiologie aan labwaarden, want je bent al goed op weg en bouwt duidelijk voort op je bestaande kennis! Ga zo door—je inzicht groeit bij elke stap.","2025-11-05T16:16:16.217+00:00"

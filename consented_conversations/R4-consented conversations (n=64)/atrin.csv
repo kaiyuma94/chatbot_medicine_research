@@ -1,0 +1,42 @@
+"role","content","created_at"
+"user","hi","2025-11-05T16:51:03.240852+00:00"
+"assistant","Welcome! In this activity, you’ll work with a virtual tutor to explore how blood and gas exchange happens through key physiological principles. You’ll be guided to build your own narrative that explains what happens and why in a clinical situation.
+
+Creating your own story about a case helps you connect ideas, remember them longer, and apply this knowledge in future clinical situations. At the same time, this way of reasoning mirrors how doctors make sense of what happens in their patients—and one day, you’ll use it to work and reason together with your own patients.
+
+This activity has three phases designed to help you learn step by step:  
+Phase 1 – Knowledge Activation: recall what you already know about blood and gas exchange.  
+Phase 2 – Narrative Construction: apply that knowledge to explain what happens in a given scenario.  
+Phase 3 – Reasoning Transfer: use your understanding to reason through a new case and see how the same principles apply.
+
+Ready to begin?
+
+[■□□□□]  20% – Knowledge activation started! Let’s recall how gas exchange works step by step!","2025-11-05T16:51:19.161002+00:00"
+"user","praat nederlands","2025-11-05T16:51:30.732413+00:00"
+"assistant","Natuurlijk! We gaan verder in het Nederlands. 
+
+Hier volgt de eerste casus om het onderwerp te introduceren:
+
+Een 65-jarige vrouw wordt opgenomen in het ziekenhuis met progressieve kortademigheid sinds 3 maanden. De afgelopen dagen zijn haar klachten verergerd; zelfs kleine huishoudelijke taken en lopen zijn lastig, en ze moet vaak pauzeren om op adem te komen. Ze geeft ook aan dat haar gebruikelijke hoest is toegenomen en dat ze koorts heeft. Vijf jaar geleden is bij haar COPD vastgesteld—bij COPD vindt er chronische ontsteking en beschadiging van de alveolaire wanden plaats, en wordt de alveolaire-capillaire membraan dikker door remodeling van de luchtwegen.
+
+Laboratoriumuitslagen:
+- Hemoglobine: 10,0 g/dL (referentie: 12–16 g/dL)
+- Arterieel bloedgas: 
+  - pH: 7,30 (referentie: 7,35–7,45) → acidose
+  - PaO₂: 65 mmHg (referentie: 80–100 mmHg)
+  - PaCO₂: 51 mmHg (referentie: 35–45 mmHg)
+  - SaO₂: 89% (referentie: 95–100%)
+
+Kun je uitleggen waarom deze patiënte kortademig is én hoe je haar laboratoriumuitslagen verklaart?
+
+","2025-11-05T16:51:49.458642+00:00"
+"user","te laag hemoglobine, dus zuurstof wordt minder vervoerd.","2025-11-05T16:54:05.937413+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goede start! Je benoemt hier het belang van hemoglobine voor het vervoer van zuurstof. Daar komt inderdaad minder zuurstof bij de weefsels door een te laag hemoglobinegehalte.
+
+Laten we even een korte pauze nemen en beginnen met Fase 1 – Kennisactivatie. In deze fase herhalen we kort de belangrijkste concepten en mechanismen die bij deze casus horen. Heb je zelf vragen of punten die je graag eerst wil verduidelijken? 
+
+Zo niet: kun je mij vertellen welke hoofdprocessen er volgens jou meespelen bij de uitwisseling van gassen tussen longen, bloed en weefsels?
+
+[■■□□□]  40% – Kennisactivatie gestart! Goed bezig, je zet de eerste stap naar dieper begrip.","2025-11-05T16:54:18.663898+00:00"

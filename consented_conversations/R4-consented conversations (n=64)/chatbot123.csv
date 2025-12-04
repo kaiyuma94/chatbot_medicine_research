@@ -1,0 +1,62 @@
+"role","content","created_at"
+"user","ik ben klaar om te beginnen","2025-11-05T16:48:55.216344+00:00"
+"assistant","Welkom! In deze activiteit ga je samen met een virtuele tutor ontdekken hoe bloed en gasuitwisseling werken aan de hand van belangrijke fysiologische principes. Je wordt begeleid om je eigen verhaal te bouwen dat uitlegt wat er gebeurt en waarom, in een klinische situatie.
+
+Door je eigen verhaal te maken over een casus, verbind je concepten, onthoud je ze beter, en leer je deze kennis toe te passen in toekomstige klinische situaties. Zo redeneer je net zoals artsen doen bij echte patiënten—en op een dag ga je dit zelf ook inzetten in de praktijk.
+
+Deze activiteit kent drie fasen om je stap voor stap te begeleiden:
+Fase 1 – Kennis activeren: roep op wat je al weet over bloed en gasuitwisseling.
+Fase 2 – Narratief bouwen: pas deze kennis toe om uit te leggen wat er gebeurt in een specifieke situatie.
+Fase 3 – Redenering overdragen: gebruik je inzicht om ook in een nieuwe situatie dezelfde principes toe te passen.
+
+Klaar om te beginnen?
+
+[■□□□□]  20% – Knowledge activation started! Let’s recall how gas exchange works step by step!","2025-11-05T16:49:12.228779+00:00"
+"user","ik ben er klaar voor","2025-11-05T16:49:39.833097+00:00"
+"assistant","Hier volgt de eerste casus:
+
+Een 65-jarige vrouw wordt opgenomen in het ziekenhuis met progressieve kortademigheid sinds 3 maanden. De laatste dagen zijn haar klachten erger geworden. Zelfs kleine huishoudelijke taken en korte stukjes lopen kosten haar veel moeite, en tussendoor moet ze vaak stoppen om op adem te komen. Ook merkt ze dat haar gebruikelijke hoest verergert, en ze heeft koorts gekregen.  
+Ze heeft 5 jaar geleden de diagnose COPD gekregen. Bij COPD zorgt chronische ontsteking voor schade aan de alveoli en leidt remodellering van de luchtwegen tot een verdikking van de alveolair-capillaire membraan.  
+Labonderzoek toont:
+- Hemoglobine: 10,0 g/dl (Normaal: 12–16 g/dl)
+- Arterieel bloedgas:  
+  1. pH: 7,30 (Normaal: 7,35–7,45) → acidose  
+  2. Partiële zuurstofdruk (PaO₂): 65 mmHg (Normaal: 80–100 mmHg)  
+  3. Partiële koolstofdioxidedruk (PaCO₂): 51 mmHg (Normaal: 35–45 mmHg)  
+  4. Saturatie van hemoglobine met zuurstof (SaO₂): 89% (Normaal: 95–100%)  
+
+Leg uit waarom deze patiënte kortademig is en hoe je haar laboratoriumuitslagen verklaart.","2025-11-05T16:50:00.155012+00:00"
+"user","door de verdenking van de alveolaire-capillaire membraan, is het moeilijker voor gaswisseling om plaats te vinden. dit komt doordat diffusie van gassen moeilijker plaatsvindt als het membraan dikker is, dus kan zuurstof minder makkelijk in het bloed terecht komt, waardoor de spieren en andere organen minder zuurstof krijgen, waardoor je kortademig wordt omdat je lichaam dit probeert te compenseren","2025-11-05T16:52:16.310213+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we even pauzeren en starten met Fase 1 – Kennis activeren. In deze fase halen we kort de belangrijkste concepten en mechanismen naar boven die met deze casus te maken hebben. Heb je specifieke vragen of punten die je graag verhelderd wilt zien voordat we beginnen?
+
+Als je geen vraag hebt, wil ik graag weten: als je denkt aan bloed en gaswisseling als geheel, welke hoofdprocessen schieten je te binnen?","2025-11-05T16:52:25.762419+00:00"
+"user","diffusie, ademen","2025-11-05T16:53:59.552804+00:00"
+"assistant","Mooi! Je noemt diffusie en ademen. Kun je kort uitleggen hoe deze processen samenwerken om zuurstof en koolstofdioxide tussen de longen, het bloed en de weefsels uit te wisselen? Wat zijn de belangrijkste stappen, en wie spelen daarin een rol?","2025-11-05T16:54:06.920632+00:00"
+"user","door lucht in te ademen komt zuurstof in je longen, hierdoor vullen je alveoli met verse lucht, vervolgens gaat via diffusie, zuurstof van een hoge partiële druk in je langen naar een lage partiële druk in je bloed door het membraan heen naar je bloed, het omgekeerde gebeurt voor koolstofdioxide","2025-11-05T17:02:07.670574+00:00"
+"assistant","Heel goed beschreven! Je geeft duidelijk aan hoe zuurstof en koolstofdioxide via diffusie over het membraan bewegen op basis van partiële drukken.
+
+Nu een vervolgvraag: welke rol speelt hemoglobine in dit proces? En wat maakt het mogelijk dat hemoglobine zowel zuurstof opneemt in de longen als afgeeft in de weefsels?","2025-11-05T17:02:15.951987+00:00"
+"user","mag ik feedback","2025-11-05T17:13:51.704898+00:00"
+"assistant","Zeker! Je uitleg tot nu toe is duidelijk: je benoemt correct dat zuurstof vanuit de alveoli diffundeert naar het bloed op basis van het drukverschil, en dat koolstofdioxide de tegenovergestelde route volgt.
+
+Wat je nog niet benoemd hebt, is wat er met het zuurstof gebeurt zodra het in het bloed is aangekomen:  
+- Hoe zorgt het bloed ervoor dat er voldoende zuurstof aan de weefsels wordt afgeleverd, ondanks het relatief lage oplossend vermogen van zuurstof in plasma?
+- En wat zorgt ervoor dat hemoglobine in staat is om onder verschillende omstandigheden zuurstof op te nemen (in de longen) of juist los te laten (in de weefsels)?
+
+Kun je beschrijven welke eigenschappen van hemoglobine dit mogelijk maken? Denk bijvoorbeeld aan de rol van de Bohr- en Haldane-effecten.","2025-11-05T17:14:04.311967+00:00"
+"user","end conversation","2025-11-05T17:14:43.503885+00:00"
+"assistant","De sessie is beëindigd. Bedankt voor je deelname!
+
+=== End of the Session ===","2025-11-05T17:14:48.034182+00:00"
+"user","feedback","2025-11-05T17:14:55.834596+00:00"
+"assistant","We zijn nog in PHASE 1: Knowledge Activation. Goed dat je om feedback vraagt! Je legt het proces van diffusie en ventilatie helder uit. Je beschrijving laat duidelijk zien dat je begrijpt hoe gassen over het alveolair-capillair membraan bewegen, afhankelijk van hun partiële drukken.
+
+Wat zou het verhaal completer maken:
+– Benoem hoe hemoglobine functioneert als zuurstoftransporter. 
+– Leg uit hoe hemoglobine zijn zuurstof kan afgeven in de weefsels en juist opnemen in de longen. Hierbij spelen het Bohr-effect (zuurstofafgifte wordt bevorderd door hogere CO₂ en lagere pH) en het Haldane-effect (zuurstofopname bevordert CO₂-afgifte) een rol.
+
+Kun je, met deze ‘tips’, in je eigen woorden uitleggen wat het Bohr-effect en het Haldane-effect betekenen voor de gaswisseling in het lichaam?
+
+[■■□□□]  40% – Knowledge activation finished! Keep going - your clinical reasoning is developing!","2025-11-05T17:15:10.57836+00:00"

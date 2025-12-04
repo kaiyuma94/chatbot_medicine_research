@@ -1,0 +1,32 @@
+"role","content","created_at"
+"user","hoi","2025-11-05T17:37:21.749965+00:00"
+"assistant","Welkom! In deze activiteit werk je samen met een virtuele tutor om te verkennen hoe bloed en gaswisseling werken aan de hand van belangrijke fysiologische principes. Je wordt begeleid om je eigen verhaallijn te bouwen die uitlegt wat er gebeurt en waarom in een klinische situatie.
+
+Zelf zo’n verhaal opbouwen helpt je om ideeën te verbinden, ze beter te onthouden én deze kennis later toe te passen in de klinische praktijk. Tegelijk is dit precies hoe artsen leren redeneren over wat er bij hun patiënten gebeurt – en straks gebruik je dat om samen met collega’s en patiënten te werken.
+
+Deze activiteit bestaat uit drie fasen:
+Fase 1 – Kennis activeren: herinneren wat je al weet over bloed en gaswisseling.
+Fase 2 – Narratief bouwen: die kennis toepassen om te verklaren wat er gebeurt in een scenario.
+Fase 3 – Redeneren in een nieuwe context: je inzicht gebruiken bij een nieuwe casus.
+
+Klaar om te beginnen?","2025-11-05T17:37:36.50481+00:00"
+"user","ja","2025-11-05T17:37:38.960812+00:00"
+"assistant","Hier volgt een patiëntbeschrijving waarmee we aan de slag gaan:
+
+Een 65-jarige vrouw is opgenomen in het ziekenhuis met toenemende kortademigheid over de afgelopen 3 maanden. In de afgelopen dagen zijn haar klachten erger geworden: zelfs kleine huishoudelijke taken en lopen gaan moeizaam, met vaak pauzes om op adem te komen. Ze geeft ook een toegenomen hoest en koorts aan.
+Vijf jaar geleden werd bij haar COPD vastgesteld. Bij COPD beschadigt chronische ontsteking de alveolaire wanden en zorgt airway remodeling voor verdikking van de alveolair-capillaire membraan.  
+Laboratoriumonderzoek:
+- Hemoglobine: 10,0 g/dL (Normaal: 12–16 g/dL)  
+- Arterieel bloedgas:  
+  1. pH: 7,30 (Normaal: 7,35–7,45) → acidose  
+  2. Zuurstofspanning (PaO₂): 65 mmHg (Normaal: 80–100 mmHg)
+  3. Koolstofdioxidespanning (PaCO₂): 51 mmHg (Normaal: 35–45 mmHg)
+  4. Zuurstofsaturatie van hemoglobine (SaO₂): 89% (Normaal: 95–100%)
+
+Leg uit waarom deze patiënte kortademig is en hoe haar labuitslagen verklaard kunnen worden.","2025-11-05T17:37:59.233252+00:00"
+"user","de wet van fick stelt dat de difussie snelheid lager is als de dikte waarover de diffusie plaats moet vinden groter is. de alveolai-capillaire membraan is verdikt waardoor de wand tussen de bloedvaten en de luchtblaasjes dikker is waardoor zuurstof een grotere afstand moet afleggen waardoor de diffusie minder snel gaat waardoor er minder zuurstof in het bloed komt. daardoor is de zuurstof spanning te laag en de koolstofdioxidespoanning te hoog","2025-11-05T17:47:28.960945+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we even pauzeren en starten met Fase 1 – Kennis activeren. In deze fase nemen we beknopt de belangrijkste concepten en mechanismen door die bij deze casus horen. Zijn er al vragen of punten die je wilt verduidelijken voordat we beginnen?
+
+Zo niet: als je denkt aan bloed en gaswisseling als geheel, welke hoofdprocessen schieten jou dan te binnen?","2025-11-05T17:47:39.627691+00:00"

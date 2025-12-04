@@ -1,0 +1,49 @@
+"role","content","created_at"
+"user","ik ben klaar om te beginnen","2025-11-05T16:32:23.622384+00:00"
+"assistant","Welkom! In deze activiteit ga je samen met een virtuele tutor verkennen hoe bloed en gaswisseling plaatsvinden aan de hand van belangrijke fysiologische principes. Je wordt begeleid om je eigen verhaal te bouwen dat uitlegt wat er gebeurt en waarom in een klinische situatie.
+
+Je eigen uitleg over een casus helpt je om verbanden te leggen, ze langer te onthouden, en deze kennis later toe te passen in klinische situaties. Tegelijk lijkt deze manier van redeneren erg op hoe dokters zich een beeld vormen van wat er bij hun patiënten gebeurt—en straks werk en redeneer je daar ook zelf mee!
+
+Deze activiteit bestaat uit drie fasen die je stap voor stap helpen leren:
+Fase 1 – Kennisactivatie: herinneren wat je al weet over bloed en gaswisseling.  
+Fase 2 – Narratief opbouwen: toepassen van die kennis om uit te leggen wat er gebeurt in een casus.  
+Fase 3 – Redeneren met transfer: je begrip gebruiken in een nieuwe casus en zien hoe dezelfde principes werken.
+
+Klaar om te beginnen? 
+
+Als je wilt starten, reageer dan even; dan krijg je de eerste casus!","2025-11-05T16:32:40.35038+00:00"
+"user","ik wil de eerste casus","2025-11-05T16:34:23.482672+00:00"
+"assistant","Hier volgt de eerste casus:
+
+Een 65-jarige vrouw wordt opgenomen in het ziekenhuis met progressieve benauwdheid sinds drie maanden. De afgelopen dagen zijn haar klachten erger geworden. Zelfs simpele huishoudelijke taken en lopen kosten veel moeite, waarbij ze regelmatig moet stoppen om op adem te komen. Ze merkt ook dat haar hoest is toegenomen en ze heeft koorts gekregen.  
+Vijf jaar geleden is bij haar COPD vastgesteld. Bij COPD zorgt chronische ontsteking voor beschadiging van de alveolaire wanden en wordt de alveolair-capillaire membraan dikker door ‘airway remodeling’.  
+Laboratoriumonderzoek laat het volgende zien:  
+Hemoglobine: 10.0 g/dL (referentie: 12–16 g/dL)  
+Arterieel bloedgas:
+- pH: 7.30 (referentie: 7.35–7.45) → acidose  
+- pO₂: 65 mmHg (referentie: 80–100 mmHg)  
+- pCO₂: 51 mmHg (referentie: 35–45 mmHg)  
+- SaO₂: 89% (referentie: 95–100%)  
+
+Leg uit waarom deze patiënt benauwd is en hoe haar laboratoriumuitslagen te verklaren zijn. Wat denk jij?","2025-11-05T16:34:40.941337+00:00"
+"user","ik denk dat deze patiënt een anemie heeft dankzij de lage Hb waarde, verder denk ik dat deze patiënt een verminderde functie heeft van haar longen wegens de chronische ontsteking en het COPD, dit leidt namelijk tot de lage pO2 SaO2 waarden en de hoge pCO2 waarde","2025-11-05T16:37:57.813811+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed gedaan, je hebt al relevante verbanden gelegd! We nemen nu even een korte pauze om te starten met Fase 1 – Kennisactivatie. In deze fase frissen we kort de belangrijkste concepten en mechanismen op die bij dit geval horen.
+
+Heb je op dit moment al specifieke vragen of begrippen die je graag nog wil verduidelijken voordat we de basiskennis bespreken? 
+
+Zo niet:  
+Als je denkt aan bloed en gaswisseling als geheel, welke hoofdprocessen komen dan bij jou op?","2025-11-05T16:38:08.384804+00:00"
+"user","ventilatie, de wet van Fick, transport van zuurstof door middel van oplossing in het plasma en binding met Hb, afgifte aan het weefsel, het transport en verwerking van CO2 komt in mijn hoofd op","2025-11-05T16:39:50.208448+00:00"
+"assistant","Mooi begin! Je noemt ventilatie, de wet van Fick, zuurstoftransport via plasma en hemoglobine, afgifte aan het weefsel, en CO₂-verwerking. Daarmee pak je in feite het hele proces van gaswisseling.
+
+Kun je kort uitleggen wat volgens jou de kernrol van hemoglobine is bij de gaswisseling—dus zowel bij opname in de longen als afgifte in de weefsels? Welke factoren zorgen ervoor dat hemoglobine zuurstof loslaat waar dat nodig is?","2025-11-05T16:40:00.810532+00:00"
+"user","De kernrol van hemoglobine is het transport van zuurstof en de buffering van zuurstof, hiermee bedoel ik het voorkomen van het ontstaan van oxidatieve radicalen. Verder, de factoren die ervoor zorgen dat Hb zuurstof loslaat kunnen samengevat worden onder partiële drukverschil en de wet van Bohr","2025-11-05T16:42:54.805185+00:00"
+"assistant","Dat klopt, hemoglobine transporteert zuurstof en voorkomt ook dat er te veel vrije zuurstof in het bloed is.
+
+Kun je verder toelichten wat het Bohr-effect precies inhoudt? Welke omstandigheden in het lichaam beïnvloeden volgens het Bohr-effect de affiniteit van hemoglobine voor zuurstof, en hoe helpt dat het lichaam?","2025-11-05T16:43:02.913593+00:00"
+"user","Het Bohr-effect houdt in dat de affiniteit van Hb verminderen kan waardoor het meer zuurstof gaat afgeven. Dit kan worden gedaan door een partiële druk verhoging van CO2, een verhoging van de temperatuur en een verhoging van het pH. Dit kan nuttig zijn voor het lichaam in geval van een toename van de celmetabolisme, dit zal ervoor zorgen dat de cel meer zuurstof nodig heeft en bij de verhoging van het metabolisme zal de cel meer CO2 afgeven wat het pH zal verhoging door de verwerking van CO2 en het zal het meer warmte produceren","2025-11-05T16:47:26.504189+00:00"
+"assistant","Je hebt het concept van het Bohr-effect bijna helemaal goed! Kijken we naar je uitleg: inderdaad, bij verhoogd CO₂, verhoogde temperatuur en veranderde pH laat hemoglobine makkelijker zuurstof los. Maar let op: een stijging van CO₂ zorgt juist voor een daling van de pH (dus acidose). Het is die zuurdere omgeving die juist de affiniteit verlaagt.
+
+Wil je nog kort verwoorden hoe de pH precies verandert bij verhoogde CO₂, en waarom dat invloed heeft op zuurstofafgifte door Hb? Denk ook aan het belang hiervan bij intensief gebruikte weefsels!","2025-11-05T16:47:49.216492+00:00"

@@ -1,0 +1,102 @@
+"role","content","created_at"
+"user","hoi!","2025-11-12T15:51:37.708881+00:00"
+"assistant","Welcome! In this activity, you’ll work with a virtual tutor to explore how haemostasis happens through key physiological principles. You’ll be guided to build your own narrative that explains what happens and why in a clinical situation.
+
+Creating your own story about a case helps you connect ideas, remember them longer, and apply this knowledge in future clinical situations. At the same time, this way of reasoning mirrors how doctors make sense of what happens in their patients—and one day, you’ll use it to work and reason together with your own patients.
+
+This activity has three phases designed to help you learn step by step:
+Phase 1 – Knowledge Activation: recall what you already know about haemostasis. The first case serves as a trigger to help you think and reflect — we’ll return to the case once we’ve completed this knowledge activation phase.
+Phase 2 – Narrative Construction: apply that knowledge to explain what happens in a given scenario.
+Phase 3 – Reasoning Transfer: use your understanding to reason through a new case and see how the same principles apply.
+
+Please note that you can access feedback on your learning progress at any time by clicking the feedback button — it’s a helpful way to reflect on what you’ve learned and what to focus on next!
+
+Ready to begin?","2025-11-12T15:51:54.125001+00:00"
+"user","Ja, nederlands graag!","2025-11-12T15:52:04.671371+00:00"
+"assistant","Prima, we gaan verder in het Nederlands!
+
+Hier is de eerste casus waarmee je je kennis kunt activeren:
+
+Een 60-jarige vrouw komt binnen met ernstige, levensbedreigende bloedingen. Ze gebruikt warfarine, een antistollingsmiddel dat inwerkt op de vitamine K-afhankelijke stollingsfactoren, vanwege een hartprobleem. Ze had de laatste dagen ook al last van bloedend tandvlees. 
+Labuitslagen:
+1. Protrombinetijd (PT): Verlengd
+2. Geactiveerde partiële tromboplastinetijd (aPTT): Licht verhoogd
+3. Trombocytenaantal: Normaal
+4. Fibrinogeen: Normaal
+
+Kun je uitleggen hoe de klachten van de patiënte én deze labuitslagen met elkaar te maken hebben?","2025-11-12T15:52:21.330754+00:00"
+"user","Kun je mij vertellen wat de vitamine K-afhankelijke stollingsfactoren zijn? En daarnaast weet ik ook niet wat de PT en de aPTT precies inhouden","2025-11-12T15:53:14.302008+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goede vragen! Voordat ik direct antwoord geef, wil ik je uitnodigen om eerst even stil te staan bij het grote geheel: als het lichaam een bloedvatbeschadiging heeft, via welke hoofdprocessen zorgt het lichaam er dan voor dat er geen bloedverlies optreedt?  
+
+Wat weet je al over het algemene proces van bloedstelping? Wat gebeurt er eerst, en wat daarna?
+
+[■□□□□]  20% – Knowledge activation started! Laten we de eerste stap samen doorlopen.","2025-11-12T15:53:24.923862+00:00"
+"user","De eerste stap is vasoconstrictie, het kleiner worden van het bloedvat, de tweede fase is primaire hemostase hierbij verzamelen de bloedplaatjes bij de beschadiging door middel van von willebrand factor wat in het subepitheel zit. De derde fase is de secundaire hemostase, dit is de vorming van fibrinedraden door het hele stollingscascade, hierdoor wordt de prop bloedplaatjes extra stevig. De laatste fase is fibrinolyse, de afbraak van het stolsel zodra de vaat is geheeld.","2025-11-12T15:55:19.171839+00:00"
+"assistant","Mooi uitgelegd! Je hebt de vier fasen van hemostase helder benoemd. Laten we die derde stap — de secundaire hemostase ofwel het stollingscascade — iets verder uitdiepen. 
+
+Je vroeg naar vitamine K-afhankelijke factoren. Weet je welke stollingsfactoren door vitamine K geactiveerd worden, of kun je bedenken waarom juist voor deze factoren vitamine K belangrijk is? 
+
+En wat denk je, waar meten de PT en de aPTT precies? Heb je een idee via welke “route” (intrinsiek, extrinsiek) je ze test?
+
+Wat wil je als eerste bespreken: de vitamine K-afhankelijke factoren, of het verschil tussen PT en aPTT?","2025-11-12T15:55:30.511047+00:00"
+"user","Stollingsfactoren II, VII, IX en X zijn vitamine K afhankelijk. Ik denk dat je de PT via de extrinsieke route test en de aPTT via de intrinsieke route","2025-11-12T15:56:34.69615+00:00"
+"assistant","Precies! Factoren II, VII, IX en X zijn inderdaad vitamine K-afhankelijk. PT meet vooral de extrinsieke route (en de gemeenschappelijke pathway), en aPTT test de intrinsieke route (en deels ook de gemeenschappelijke pathway). 
+
+Zou je nu in een paar zinnen kunnen uitleggen waarom het belangrijk is dat deze verschillende routes bestaan binnen het stollingscascade? En wat zou er gebeuren als één van de factoren in een van deze routes mist of niet werkt?","2025-11-12T15:56:43.245464+00:00"
+"user","Als een van de factoren mist in deze routes, verloopt deze route langzamer, maar doordat je 2 routes hebt, kan er nog steeds wel stolling plaatsvinden. Ze backen elkaar op","2025-11-12T15:57:28.382875+00:00"
+"assistant","Interessante gedachte! De routes komen uiteindelijk inderdaad samen in de gemeenschappelijke pathway, maar voor een volledige stolling moeten alle benodigde factoren in de juiste volgorde actief zijn. Als een factor uit de intrinsieke of extrinsieke route mist — bijvoorbeeld factor VIII in de intrinsieke route — kan de activatie van factor X onvoldoende zijn en raakt het hele proces vertraagd of ernstig verstoord.
+
+Wanneer denk je dat een afwijkende PT of aPTT het snelst optreedt — als er een probleem is in de extrinsieke route, de intrinsieke route, of de gemeenschappelijke pathway? Wat maakt dat je dat denkt?","2025-11-12T15:57:40.468127+00:00"
+"user","Bij PT in de extrinsieke route en bij aPTT in de intrinsieke route","2025-11-12T15:58:17.400562+00:00"
+"assistant","Dat klopt! Een afwijkende PT wijst meestal op een probleem in de extrinsieke route (of de gemeenschappelijke pathway), terwijl een afwijkende aPTT vooral past bij problemen in de intrinsieke route (of de gemeenschappelijke pathway). 
+
+Nu je deze kernbegrippen weer scherp hebt: zijn er nog begrippen of stappen binnen het stollingsproces of bij de labtesten waar je meer over wilt weten, of wil je door naar de volgende fase?
+
+[■■□□□]  40% – Knowledge activation finished! Je legt de basis voor goed klinisch redeneren!","2025-11-12T15:58:28.980965+00:00"
+"user","Ik wil door naar de volgende fase","2025-11-12T15:58:42.025129+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+[■■□□□]  40% – Knowledge activation finished! Je legt de basis voor goed klinisch redeneren!
+
+Hier is de casus opnieuw:
+
+Een 60-jarige vrouw komt binnen met ernstige, levensbedreigende bloedingen. Ze gebruikt warfarine, een antistollingsmiddel dat inwerkt op de vitamine K-afhankelijke stollingsfactoren, vanwege een hartprobleem. Ze had de laatste dagen ook al last van bloedend tandvlees.  
+Labuitslagen:
+1. Protrombinetijd (PT): Verlengd
+2. Geactiveerde partiële tromboplastinetijd (aPTT): Licht verhoogd
+3. Trombocytenaantal: Normaal
+4. Fibrinogeen: Normaal
+
+Kun je nu met jouw kennis uitleggen hoe de klachten van deze patiënte én de labuitslagen met elkaar samenhangen? Probeer in je eigen woorden je redenering te geven!","2025-11-12T15:58:57.229988+00:00"
+"user","De PT is verlengd, dit duidt op een probleem in de extrinsieke route. De extrinsieke route omvat factor VII, deze is ook vitamine-K afhankelijk. Het kan dus zijn dat door de warfine die mevrouw slikt te weinig factor VII is. Hierdoor is de extrinsieke route verlengd. Daarnaast heeft dit middel ook een effect op factor II, waardoor de aPTT ook licht is verhoogd. Mevrouw heeft een normaal trombocytenaantal en een normaal fibrinogeen aantal, dus het probleem ligt niet bij de primaire hemostase of bij het beenmerg. Het bloedende tandvlees is ook ter verklaren door deze missende/niet werkende factoren, want bij een langzame secundaire hemostase, vind er een langdurigere bloeding plaats die niet goed opgelost kan worden door middel van stolling.","2025-11-12T16:04:00.367042+00:00"
+"assistant","Goed geredeneerd! Je koppelt de labuitslagen aan de werking van warfarine en herkent het belang van vitamine K-afhankelijke factoren, vooral factor VII (extrinsieke route) en factor II (gemeenschappelijke pathway). Je legt ook juist de relatie met het bloedend tandvlees en normale trombocyten/fibrinogeen.
+
+Zou je willen proberen om nog specifieker te benoemen waarom juist de PT (en niet eerst de aPTT) vaak als eerste afwijkend wordt bij overdosering van warfarine? Denk hierbij aan de halfwaardetijden van de factoren; wat gebeurt er met factor VII in vergelijking met de andere vitamine K-afhankelijke factoren?
+
+Kun je dat uitleggen?","2025-11-12T16:04:19.292961+00:00"
+"user","Bij overdosering van warfarine wordt de PT als eerste verlengd doordat factor VII (vitamine K-afhankelijk en met de kortste halfwaardetijd) het snelst daalt.
+Pas later, als ook factoren II, IX en X verminderen, wordt eventueel ook de aPTT verlengd.","2025-11-12T16:06:56.87954+00:00"
+"assistant","Precies! Factor VII heeft inderdaad de kortste halfwaardetijd, waardoor PT snel verlengd raakt na warfarinegebruik, terwijl dalingen van de andere vitamine K-afhankelijke factoren pas later een merkbaar effect hebben op de aPTT. Je benoemt daarmee precies het tijdsverloop én de verschillen tussen beide testen.
+
+We zijn bijna klaar met deze fase. Hier volgt de laatste vraag om alles compleet samen te vatten:
+
+Hoe begrijp je nu de klachten en de labuitslagen van deze patiënte? Schrijf elk detail op dat je kunt bedenken — jouw ideeën, redeneringen en verbanden met wat je hebt geleerd. Hoe completer jouw uitleg, hoe sterker je je diagnostisch denken ontwikkelt!
+
+[■■■□□]  60% – Phase 2 completed! Final stretch - tijd om je inzichten toe te passen!","2025-11-12T16:07:09.816364+00:00"
+"user","De 60-jarige vrouw met bloedend tandvlees en ernstige bloedingen gebruikt warfarine, dat de synthese van vitamine K-afhankelijke stollingsfactoren (II, VII, IX, X) remt. Omdat factor VII de kortste halfwaardetijd heeft, stijgt de PT het eerst. Bij verdere verlaging van factoren II, IX en X wordt ook de aPTT licht verlengd. Het normale trombocytenaantal en fibrinogeen sluiten primaire hemostaseproblemen, DIC of leverfalen uit. De bloedingsneiging komt dus door een warfarine-geïnduceerde coagulopathie, die leidt tot ernstige secundaire hemostasestoornis.","2025-11-12T16:08:14.524487+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+[■■■□□]  60% – Phase 2 completed! Final stretch - tijd om je inzichten toe te passen!
+
+Nu gaan we kijken of je deze kennis kunt toepassen in een nieuwe situatie:
+
+Een 24-jarige man komt op de spoedeisende hulp met spontane blauwe plekken op armen en benen, en langdurig nabloeden na een klein sneetje. Er is geen familiegeschiedenis van bloedingsstoornissen. Bij lichamelijk onderzoek vallen meerdere grote blauwe plekken op en licht bloedend tandvlees.  
+Labuitslagen:
+1. Protrombinetijd (PT): Normaal
+2. Geactiveerde partiële tromboplastinetijd (aPTT): Verlengd
+3. Trombocytenaantal: Normaal
+4. Fibrinogeen: Normaal
+
+Kun je nu uitleggen hoe de klachten en de labuitslagen van deze patiënt samenhangen? Geef in je eigen woorden je redenering!","2025-11-12T16:09:08.40931+00:00"

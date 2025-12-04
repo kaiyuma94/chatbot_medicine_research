@@ -1,0 +1,154 @@
+"role","content","created_at"
+"user","ik ben klaar om te beginnen.","2025-11-12T14:24:00.615604+00:00"
+"assistant","Welcome! In this activity, you’ll work with a virtual tutor to explore how haemostasis happens through key physiological principles. You’ll be guided to build your own narrative that explains what happens and why in a clinical situation.
+
+Creating your own story about a case helps you connect ideas, remember them longer, and apply this knowledge in future clinical situations. At the same time, this way of reasoning mirrors how doctors make sense of what happens in their patients—and one day, you’ll use it to work and reason together with your own patients.
+
+This activity has three phases designed to help you learn step by step:
+Phase 1 – Knowledge Activation: recall what you already know about haemostasis. The first case serves as a trigger to help you think and reflect — we’ll return to the case once we’ve completed this knowledge activation phase.
+Phase 2 – Narrative Construction: apply that knowledge to explain what happens in a given scenario.
+Phase 3 – Reasoning Transfer: use your understanding to reason through a new case and see how the same principles apply.
+
+Please note that you can access feedback on your learning progress at any time by clicking the feedback button — it’s a helpful way to reflect on what you’ve learned and what to focus on next!
+
+Ready to begin?
+
+[■□□□□]  20% – Knowledge activation started! Let’s recall how haemostasis works step by step!","2025-11-12T14:24:18.384416+00:00"
+"user","ik ben klaar om te beginnen maar graag wel in het nederlands","2025-11-12T14:24:52.593379+00:00"
+"assistant","Zeker! We gaan direct starten in het Nederlands.
+
+Hier is de eerste klinische casus:
+
+Een 60-jarige vrouw presenteert zich met levensbedreigende bloedingen. Ze gebruikt warfarine, een antistollingsmiddel dat inwerkt op de vitamine K-afhankelijke factoren, vanwege een hartaandoening. Ze had de afgelopen dagen al last van bloedend tandvlees.
+Laboratoriumuitslagen:
+1. Protrombinetijd (PT): Verlengd
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verlengd
+3. Aantal bloedplaatjes: Normaal
+4. Fibrinogeen: Normaal
+
+Kun je uitleggen waardoor de klachten en laboratoriumuitslagen van deze patiënt veroorzaakt worden?
+
+","2025-11-12T14:25:03.849364+00:00"
+"user","De PT is verlengd doordat de vrouw een antistollingsmiddel gebruikt dat inwerkt op de vitamine K-afhankelijke factoren","2025-11-12T14:25:55.69698+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! We nemen een korte pauze en starten met Fase 1 – Kennisactivatie. In deze fase gaan we kort de belangrijkste concepten en mechanismen rond hemostase bespreken. Zijn er vragen of onduidelijkheden die je alvast wilt benoemen voordat we beginnen?
+
+[■■□□□]  40% – Kennisactivatie gestart! Je bent goed op weg om de basis onder de knie te krijgen!","2025-11-12T14:26:05.157008+00:00"
+"user","ik heb wel een vraag, ik snap het vitamine K deel nog niet zo goed van de hemostase","2025-11-12T14:26:33.370116+00:00"
+"assistant","Goede vraag! Voordat we verdergaan, laten we kort stilstaan bij de rol van vitamine K in de hemostase.
+
+Wat weet je zelf al van vitamine K en waarom denk je dat het belangrijk is voor bloedstolling? Kun je uitleggen waarvoor vitamine K precies nodig is in het lichaam?","2025-11-12T14:27:06.76394+00:00"
+"user","Nee dat weet ik niet","2025-11-12T14:27:23.474116+00:00"
+"assistant","Geen probleem, dat is vaak lastig in het begin! Vitamine K speelt een centrale rol in het activeren van bepaalde stollingsfactoren in het bloed. Zonder vitamine K kunnen deze factoren hun taak niet goed uitvoeren.
+
+Weet je toevallig welke stappen in het stollingsproces zouden kunnen worden verstoord als deze stollingsfactoren door een vitamine K-tekort niet goed werken? Wat zou er volgens jou gebeuren met de vorming van een bloedstolsel?","2025-11-12T14:27:32.418484+00:00"
+"user","ik weet niet precies welke stappen verstoord worden door een vitamine K-tekort, maar ik denk dat het bloedstolsel hierdoor niet goed kan vormen","2025-11-12T14:28:11.349943+00:00"
+"assistant","Dat klopt, het bloedstolsel kan inderdaad niet goed gevormd worden! 
+
+Laten we het iets concreter maken. Wat denk je: hoe zorgt vitamine K er normaal gesproken voor dat bepaalde stollingsfactoren hun functie kunnen uitvoeren in de stollingscascade? Heb je misschien wel eens gehoord dat er sprake is van een ‘activering’ of een ‘modificatie’ van deze factoren, en zo ja, wat houdt dat volgens jou in?","2025-11-12T14:28:19.464127+00:00"
+"user","als er geen vitamine K is, activeringen sommige stollingsfactoren niet","2025-11-12T14:28:55.517775+00:00"
+"assistant","Precies, dat is het kernpunt! Zonder vitamine K kunnen bepaalde stollingsfactoren niet geactiveerd worden en raken dus niet functioneel. 
+
+De factoren waar het om gaat, zijn vooral factor II (protrombine), VII, IX en X. Vitamine K is nodig om deze factoren in de lever klaar te maken voor hun taak: namelijk, het daadwerkelijk laten verlopen van de stollingscascade bij een bloeding.
+
+Wat zou er nu gebeuren met het stollingsproces als deze factoren (II, VII, IX, X) niet actief zijn? Vind je het logisch waarom dit leidt tot bloedingsproblemen? Kun je dit samenvatten in je eigen woorden?","2025-11-12T14:29:05.99127+00:00"
+"user","als deze factoren niet actief zijn, kan het stollingsproces niet goed worden uitgevoerd en blijf je bloeden.","2025-11-12T14:30:01.600864+00:00"
+"assistant","Goed verwoord! Zonder actieve stollingsfactoren loopt de kettingreactie van de stolling niet goed door en ontstaat er geen stevig fibrinenetwerk—daardoor stopt een bloeding niet of moeilijker.
+
+Laten we het breder trekken: als het lichaam een wondje oploopt, welke grote drie stappen moet het dan doorlopen om een bloeding te stoppen? Kun je die drie fasen kort benoemen?
+
+[■■□□□]  40% – Kennisactivatie afgerond! Je basis is nu steviger – op naar het toepassen in de praktijk!","2025-11-12T14:30:15.327833+00:00"
+"user","eerst gaan de bloedplaatjes naar de wond toe en daarna worden de stollingsfactoren actief waardoor uiteindelijk fibrine wordt gevormd","2025-11-12T14:31:02.530473+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Mooi! Nu gaan we door naar Fase 2 – Narratief bouwen. Dit is het moment waarop je de kennis toepast op de casus die we eerder bespraken.
+
+Hier nogmaals de casus:
+Een 60-jarige vrouw presenteert zich met levensbedreigende bloedingen. Ze gebruikt warfarine, een antistollingsmiddel dat inwerkt op de vitamine K-afhankelijke factoren, vanwege een hartaandoening. Ze had de afgelopen dagen al last van bloedend tandvlees.
+Laboratoriumuitslagen:
+1. Protrombinetijd (PT): Verlengd
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verlengd
+3. Aantal bloedplaatjes: Normaal
+4. Fibrinogeen: Normaal
+
+Kun je nu aan de hand van de kennis die je zojuist hebt geactiveerd, uitleggen waardoor de klachten én de afwijkende laboratoriumuitslagen bij deze patiënte ontstaan?
+
+[■■■□□]  60% – Fase 2 begonnen! Tijd om je kennis scherp toe te passen!","2025-11-12T14:31:17.891269+00:00"
+"user","De vrouw heeft bloedingen en gebruikt een antistollingsmiddel dat inwerkt op de vitamine K afhankelijke factoren. Doordat ze dit gebruikt heeft ze geen vitamine K dat bepaalde stollingsfactoren activeert. namelijk factor II, VII, IX en X. hierdoor verloopt de stollingscascade niet goed bij een bloeding en is haar PT dus verlengd. zonder actieve stollingsfactoren loopt de kettingreactie van de stolling niet goed door en ontstaat er geen stevig fibrinenetwerk. Hierdoor stolt haar bloed niet en heeft ze dus bloedingen","2025-11-12T14:34:39.948229+00:00"
+"assistant","Je verklaring klopt inhoudelijk goed, mooi uitgelegd! Je verbindt het gebruik van warfarine aan een tekort aan actieve vitamine K-afhankelijke stollingsfactoren (II, VII, IX, X) en benoemt het effect op de stollingscascade en bloedstolling.
+
+Eén extra vraag om je verhaal verder te verdiepen: Weet je waarom juist de protrombinetijd (PT) in het laboratorium als eerste verlengd raakt bij een patiënt die warfarine gebruikt? Denk terug aan de factoren die bij de extrinsieke en intrinsieke route betrokken zijn. Kun je deze stap zelf proberen te beredeneren?","2025-11-12T14:34:49.708714+00:00"
+"user","de protrombinetijd wordt verlengd omdat het stollingsfactor protrombine niet wordt geactiveerd doordat ze warfarine gebruikt.","2025-11-12T14:36:39.883651+00:00"
+"assistant","Je benoemt nu protrombine (factor II), dat inderdaad vitamine K-afhankelijk is en nodig is voor de laatste stap van de stollingscascade. Maar het verlengd raken van de PT bij warfarinegebruik gebeurt meestal *sneller* dan bij een tekort aan factor II alleen.
+
+Heb je een idee welke stollingsfactor uit de extrinsieke route nog gevoeliger is voor vitamine K en met name als eerste 'opraakt'? Waarom kan juist een tekort aan deze factor zorgen dat de PT snel verlengd is, nog voordat factor II helemaal weg is?","2025-11-12T14:36:51.006241+00:00"
+"user","nee dat weet ik niet","2025-11-12T14:37:02.037467+00:00"
+"assistant","Prima, dat is vaak niet meteen duidelijk!
+
+Het zit zo: factor VII is de vitamine K-afhankelijke factor met de kortste halfwaardetijd. Dit wil zeggen dat deze het snelste afbreekt als vitamine K ontbreekt—en factor VII is juist belangrijk voor de extrinsieke route van de stolling. De PT meet vooral deze extrinsieke route. Dus als factor VII niet meer voldoende aanwezig is, zal als eerste de PT verlengen.
+
+Wil je deze stap samenvatten: waarom wordt de PT dus als eerste verlengd bij vitamine K-tekort of warfarinegebruik? En begrijp je tegelijk waarom bij warfarinegebruik de aPTT vaak pas later, en minder uitgesproken, verlengd raakt?","2025-11-12T14:37:13.526651+00:00"
+"user","De PT wordt als eerste verlengd bij vitamine K-tekort omdat de PT vooral de extrinsieke route meet. Hierin zit factor VII die de vitamine K afhankelijke factor is met de kortste halfwaardetijd. Dus als factor VII niet meer aanwezig is zal als eerste de PT verlengen","2025-11-12T14:38:57.620976+00:00"
+"assistant","Heel goed samengevat! Daarmee laat je zien dat je het verband tussen vitamine K, factor VII, en de extrinsieke route helder ziet. En doordat factor VII snel afneemt, zie je in het lab als eerste een verlengde PT bij patiënten met vitamine K-tekort of warfarinegebruik.
+
+Hiermee kun je de hele casus goed verklaren. Probeer nu je kennis volledig te beschrijven in het volgende:
+
+Hoe begrijp jij nu de klachten en laboratoriumuitslagen van deze patiënt? Schrijf alles op wat je te binnen schiet — je redeneringen, verbanden en uitleg.
+
+[■■■□□]  60% – Bijna klaar met je verklaring; dit is de laatste oefening van deze fase!","2025-11-12T14:39:09.326866+00:00"
+"user","De vrouw heeft bloedingen en gebruikt een antistollingsmiddel dat inwerkt op de vitamine K afhankelijke factoren. Doordat ze dit gebruikt heeft ze geen vitamine K dat bepaalde stollingsfactoren activeert. namelijk factor II, VII, IX en X. hierdoor verloopt de stollingscascade niet goed en vooral factor VII is vitamine K-afhankelijk en heeft de kortste halfwaardetijd. Factor VII is belangrijk voor de extrinsieke route van de stolling en PT meet deze extrinsieke route. Daarom zou ook als eerste de PT verlengen. zonder actieve stollingsfactoren loopt de kettingreactie van de stolling niet goed door en ontstaat er geen stevig fibrinenetwerk. Hierdoor stolt haar bloed niet en heeft ze dus bloedingen","2025-11-12T14:41:11.105253+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Mooi uitgelegd! Nu gaan we kijken of je deze inzichten kunt toepassen op een nieuwe situatie:
+
+Hier volgt een andere casus:
+
+Een 24-jarige man komt op de spoedeisende hulp met spontane blauwe plekken op zijn armen en benen en langdurige bloedingen na een klein sneetje. Hij heeft geen familiegeschiedenis van bloedingsstoornissen. Bij lichamelijk onderzoek zie je meerdere grote blauwe plekken en wat bloedend tandvlees.
+Labresultaten:
+1. Protrombinetijd (PT): Normaal
+2. Geactiveerde partiële tromboplastinetijd (aPTT): Verlengd
+3. Aantal bloedplaatjes: Normaal
+4. Fibrinogeen: Normaal
+
+Kun je nu proberen uit te leggen waardoor deze patiënt klachten en deze labuitslagen heeft?
+
+[■■■■□]  80% – Bijna bij de finish! Nog één casus om je kennis toe te passen.","2025-11-12T14:41:25.95328+00:00"
+"user","De man heeft meerdere grote blauwe plekken en wat bloedend tandvlees. Zijn aPTT is verlengd terwijl zijn PT normaal is. Dit betekent dat de stollingsfactor die niet werkt in de intrinsieke route moet zitten. Dit zou stollingsfactor negen kunnen zijn en hierdoor zou de man waarschijnlijk hemofilie B hebben.","2025-11-12T14:43:27.032327+00:00"
+"assistant","Dat is een sterke redenering! Je koppelt de verlengde aPTT aan een probleem in de intrinsieke route van de stolling, en noemt als voorbeeld factor IX (zoals bij hemofilie B). Goed gezien!
+
+Om het begrip nog verder te verdiepen: Hoe kan het dat de bloedplaatjes en het fibrinogeen wél normaal zijn, maar deze patiënt toch bloedingen heeft? Wat zegt dit over de plaats van de stoornis in het bloedstollingsproces: primair of secundair? 
+
+Kun je die stap nog proberen te verwoorden?","2025-11-12T14:43:40.189465+00:00"
+"user","de bloedplaatjes en fibrinogeen zijn wél normaal. dit geeft aan dat de stoornis secundair zit","2025-11-12T14:44:05.249733+00:00"
+"assistant","Precies! De normale waarden voor bloedplaatjes en fibrinogeen wijzen erop dat de primaire hemostase en de eindstap (het vormen van fibrine) niet direct verstoord zijn. De stoornis zit in de secundaire hemostase: door een defect in een factor van de intrinsieke route verloopt de activatie van de stollingscascade niet goed, waardoor trombinevorming en stabiele fibrinestolsels te kort schieten—en zo ontstaan bloedingen ondanks normale aantallen bloedplaatjes.
+
+Heel goed geredeneerd! Je bent klaar met alle fasen van deze sessie.
+
+[■■■■■]  100% – Alle fasen afgerond! Sterk werk – jouw kennis van hemostase staat nu stevig.
+
+=== End of the Session ===","2025-11-12T14:44:17.416858+00:00"
+"assistant","Je hebt het proces zeer gestructureerd doorlopen en toont goed begrip van de rol van vitamine K en de stollingsfactoren in hemostase. Sterk is je logisch redeneren van labuitslagen naar de betrokken routes en factoren; bovendien kun je nu soepel onderscheid maken tussen primaire en secundaire hemostase. Je vroeg vooral in PHASE 1 om verduidelijking: de precieze biochemische rol van vitamine K en welke factoren daarvan afhankelijk zijn was aanvankelijk nog wat onduidelijk. Ik raad aan de kernbegrippen nog eens kort samen te vatten of met flashcards te oefenen, bijvoorbeeld: ‘Vitamine K zorgt voor carboxylering van factor II, VII, IX, X in de lever.’ Blijf doorgaan met oefenen en wees trots op je groei—elk stapje maakt je klinisch denkvermogen sterker!
+
+Graag nodig ik je uit om de volgende materialen rustig na te lezen om je kennis te bestendigen:
+
+###VIGNETTE 1###
+Een 60-jarige vrouw met levensbedreigende bloedingen gebruikt warfarine. PT is sterk verlengd, aPTT licht verlengd, bloedplaatjes normaal, fibrinogeen normaal.
+
+###EXEMPLAR EXPERT EXPLANATION 1###
+Warfarine remt de werking van vitamine K in de lever, waardoor factoren II, VII, IX en X niet goed worden geactiveerd. Factor VII heeft de kortste halfwaardetijd, dus raakt het snelst uitgeput, wat leidt tot een verlengde PT. De stollingscascade op de extrinsieke route wordt hierdoor onderbroken, waardoor onvoldoende trombine en fibrine ontstaan en er ernstige bloedingen kunnen optreden. De aPTT wordt soms ook licht verlengd door remming van factoren IX en II, maar PT is veel gevoeliger. Omdat bloedplaatjes en fibrinogeen normaal zijn, ligt het probleem in de secundaire hemostase.
+
+###VIGNETTE 2###
+Een 24-jarige man heeft spontane blauwe plekken, bloedend tandvlees, PT normaal, aPTT verlengd, bloedplaatjes normaal, fibrinogeen normaal.
+
+###EXEMPLAR EXPERT EXPLANATION 2###
+Deze labuitslagen passen bij een stoornis in de intrinsieke route van de secundaire hemostase, zoals hemofilie A (factor VIII-deficiëntie) of B (factor IX-deficiëntie). Hierdoor wordt de aPTT verlengd, terwijl de PT normaal blijft, omdat de extrinsieke route niet is aangedaan. Normale bloedplaatjes en fibrinogeen wijzen erop dat primaire hemostase (bloedplaatjesaggregatie) én de eindstap van stolselvorming intact zijn. De bloedingsneiging ontstaat doordat het fibrinenetwerk onvoldoende gevormd wordt als gevolg van het factor-tekort.
+
+###KNOWLEDGE###
+- Hemostase bestaat uit primaire (bloedplaatjes) en secundaire (stollingsfactoren) fases.
+- Vitamine K is noodzakelijk voor de activering (carboxylering) van de stollingsfactoren II, VII, IX en X in de lever.
+- Warfarine remt vitamine K, met name snel merkbaar aan factor VII → verlengde PT (extrinsieke route).
+- Verlengde aPTT bij normale PT wijst op intrinsieke-routeproblemen (bijv. hemofilie).
+- Normale bloedplaatjes/fibrinogeen bij bloedingen wijst op een defect in de secundaire hemostase.
+
+Blijf oefenen met deze scenario’s – je maakt duidelijke vooruitgang!","2025-11-12T14:44:46.643+00:00"

@@ -1,0 +1,61 @@
+"role","content","created_at"
+"user","HOI","2025-11-05T16:33:04.261234+00:00"
+"assistant","Welkom! In deze activiteit werk je samen met een virtuele tutor om te verkennen hoe bloed en gaswisseling plaatsvinden aan de hand van belangrijke fysiologische principes. Je wordt begeleid om een eigen verhaal op te bouwen dat uitlegt wat er gebeurt en waarom in een klinische situatie.
+
+Zelf een verhaal maken over een casus helpt je om ideeën te verbinden, ze langer te onthouden én deze kennis in toekomstige klinische situaties toe te passen. Op deze manier redeneer je zoals artsen dat doen – en straks gebruik je dat samen met je eigen patiënten.
+
+Deze activiteit kent drie fasen om je stap voor stap te helpen leren:
+Fase 1 – Kennisactivering: kijk wat je al weet over bloed en gaswisseling.
+Fase 2 – Narratief bouwen: pas die kennis toe om te verklaren wat er gebeurt in een casus.
+Fase 3 – Redeneren naar een nieuwe situatie: gebruik je kennis om een nieuwe casus te begrijpen.
+
+Klaar om te beginnen?","2025-11-05T16:33:18.36719+00:00"
+"user","ja","2025-11-05T16:33:21.606878+00:00"
+"user","zij is kortademig doordat zij een lagere Hb heeft dan normaal en de zuurstof druk in haar bloed is ook te laag, dus ze moet vaker dan normaal ademen om alsnog genoeg zuurstof binnen te krijgen","2025-11-05T16:36:54.535833+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we even pauzeren en starten met Fase 1 – Kennisactivering. In deze fase lopen we kort de belangrijkste concepten en mechanismen door die van toepassing zijn op deze casus. Heb je op dit moment al vragen of zijn er punten die je graag eerst wilt ophelderen voordat we verder gaan?
+
+[■□□□□]  20% – Knowledge activation started! Let’s recall how gas exchange works step by step!","2025-11-05T16:37:09.108594+00:00"
+"user","gas uitwisseloing gebeurt door diffusie","2025-11-05T16:38:33.57582+00:00"
+"assistant","Dat klopt! Gasuitwisseling tussen de alveoli en het bloed gebeurt inderdaad door diffusie. Kun je toelichten welke factoren het uitwisselen van zuurstof en koolstofdioxide beïnvloeden in deze situatie? Wat bepaalt bijvoorbeeld hoe goed zuurstof van de longblaasjes naar het bloed overgaat?","2025-11-05T16:38:43.481378+00:00"
+"user","bedoel je de factoren in de wet van fick. dat zijn de diffusie oppervlak, de dikte van de membraan, het concentratie verschil en de afstand","2025-11-05T16:39:43.759545+00:00"
+"assistant","Precies, dat zijn inderdaad de belangrijkste factoren uit de wet van Fick! Dus: het diffusieoppervlak, de membraandikte, het concentratieverschil en de afstand waarover diffusie plaatsvindt. Denkend aan de rol van bloed daarbij: hoe draagt hemoglobine bij aan het opnemen en afgeven van zuurstof en koolstofdioxide? Wat maakt hemoglobine hiervoor zo geschikt?","2025-11-05T16:39:52.600729+00:00"
+"user","die heeft een ijzergroep en zuurstof en koolstofdioxide kunnen binden aan de ijzergroep van hemoglobine","2025-11-05T16:40:23.934555+00:00"
+"assistant","Klopt, hemoglobine bevat ijzergroepen waaraan zuurstof kan binden. Zuurstof bindt reversibel aan het ijzeratoom in het hemoglobinemolecuul. Hoe ‘weet’ hemoglobine nu of het juist zuurstof moet opnemen of afgeven – wat bepaalt wanneer hemoglobine zuurstof loslaat aan de weefsels, en waar het juist zuurstof opneemt in de longen? Heb je daar een idee van?","2025-11-05T16:40:32.455701+00:00"
+"user","door de zuurstof saturatie van de bloed en van de weefsels","2025-11-05T16:40:54.310955+00:00"
+"assistant","Goed gedacht! De zuurstofsaturatie is inderdaad belangrijk. Maar wat beïnvloedt de neiging van hemoglobine om zuurstof los te laten in de weefsels? Kun je daarbij uitleggen wat het Bohr-effect inhoudt en hoe dat precies werkt tijdens gasuitwisseling?","2025-11-05T16:41:04.999517+00:00"
+"user","in de weefsels is de ph laag en daarom daalt de affiniteit voor zuurstof, en daarom laat hb de zuurtstof los","2025-11-05T16:41:42.178627+00:00"
+"assistant","Heel goed! In de weefsels daalt de pH (door bijvoorbeeld hogere CO₂-productie), wat de affiniteit van hemoglobine voor zuurstof verlaagt — dit is het Bohr-effect. Zo wordt zuurstof gemakkelijker afgegeven waar het nodig is.
+
+Wil je ook kort uitleggen wat het Haldane-effect is? Wat gebeurt er met CO₂ in de longen als het bloed daar zuurstof opneemt?","2025-11-05T16:41:50.426364+00:00"
+"user","die wordt dan gegeven aan de longblaasjes?","2025-11-05T16:42:18.703462+00:00"
+"assistant","Juist, dat is het gevolg! Het Haldane-effect betekent dat, wanneer hemoglobine in de longen zuurstof opneemt, het daardoor minder goed koolstofdioxide kan vasthouden. CO₂ wordt daardoor makkelijker vrijgegeven aan de alveoli om uitgeademd te worden. 
+
+Zie je nog andere rollen voor hemoglobine bij het transport van CO₂, of ken je verschillende vormen waarmee CO₂ vervoerd wordt in het bloed?","2025-11-05T16:42:30.660309+00:00"
+"user","co2 wordt vervoerd als hco3-","2025-11-05T16:42:50.497852+00:00"
+"assistant","Helemaal juist! Het grootste deel van CO₂ wordt inderdaad omgezet in bicarbonaat (HCO₃⁻) in de rode bloedcellen en zo vervoerd. Een klein deel wordt direct aan hemoglobine gebonden, en een ander klein deel lost op in het plasma.
+
+Als we zo samenvatten: Zuurstof bindt aan hemoglobine in de longen en wordt afgegeven in de weefsels (beïnvloed door o.a. het Bohr-effect), terwijl CO₂ als bicarbonaat (en deels gebonden aan hemoglobine) naar de longen wordt gebracht en daar wordt afgegeven (Haldane-effect).
+
+Ben je klaar om deze kennis toe te passen op de casus? Of heb je nog vragen hierover?
+
+[■■□□□]  40% – Knowledge activation finished! Keep going - your clinical reasoning is developing!","2025-11-05T16:43:03.486613+00:00"
+"user","ik heb geen vragen en ik ben klaar voor de casus","2025-11-05T16:43:18.640739+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Mooi! Nu gaan we door naar Fase 2 – Narratief bouwen.
+
+Hier volgt opnieuw de casus:
+
+Een 65-jarige vrouw wordt opgenomen met progressieve kortademigheid, verergerd in de afgelopen dagen. Ze heeft COPD, haar hoest en koorts zijn toegenomen. Labs: hemoglobine 10,0 g/dL, pH 7,30, PaO₂ 65 mmHg, PaCO₂ 51 mmHg, SaO₂ 89%.
+
+Kun je (met de kennis die je zojuist hebt geactiveerd) uitleggen waarom deze patiënte kortademig is en wat haar labuitslagen verklaren? Leg je redenering stap voor stap uit.","2025-11-05T16:43:31.309175+00:00"
+"user","zij heeft een lage hb waarde in haar bloed en de zuurstofdruk in haar bloed is ook laag en de co2 druk is hoger dan normaal, dus zij moet vaker ademen om genoeg zuurstof aan de weefsels te kunnen geven","2025-11-05T16:44:28.00668+00:00"
+"assistant","Je noemt belangrijke elementen: zowel een laag hemoglobine als een lage zuurstofdruk in het bloed, en een hoge CO₂-druk. Denk eens verder na over de rol van COPD hierin: hoe beïnvloedt COPD het gastransport? En wat is het effect op de alveoli en de diffusie? Kun je uitleggen hoe de veranderingen bij COPD bijdragen aan haar kortademigheid en afwijkende bloedgassen?","2025-11-05T16:44:38.083233+00:00"
+"user","bij copd zijn de kan er geen diffusie plaatsvinden doordat de alveoli dood zijn, er is dus geen of heel weinig oppervlakte voor diffusie","2025-11-05T16:45:42.393152+00:00"
+"assistant","Goed opgemerkt: bij COPD raakt inderdaad een deel van de alveoli beschadigd of gaan verloren, waardoor het totale diffusieoppervlak sterk afneemt. Maar naast minder oppervlak, verandert er nog iets anders aan de alveolen en het omringende membraan bij COPD. 
+
+Kun je uitleggen wat er gebeurt met de dikte van de alveolo-capillaire membraan bij COPD en welk effect dat heeft op diffusie? En wat doet dat met de opname van zuurstof en afgifte van CO₂?","2025-11-05T16:45:51.840965+00:00"
+"user","de dikte van de membranen wordt ook wel dikker","2025-11-05T16:46:04.294272+00:00"
+"assistant","Precies, de wand wordt dikker door ontsteking en remodellering! Wat gebeurt er dan met de snelheid waarmee zuurstof en koolstofdioxide diffunderen? Worden ze beide evenveel beïnvloed, of is er verschil tussen de diffusie van O₂ en CO₂ bij deze verandering?","2025-11-05T16:46:11.464124+00:00"

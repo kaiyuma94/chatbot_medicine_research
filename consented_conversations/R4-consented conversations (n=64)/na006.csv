@@ -1,0 +1,54 @@
+"role","content","created_at"
+"user","hoi","2025-11-05T16:05:44.475266+00:00"
+"assistant","Welkom! In deze activiteit ga je samen met een virtuele tutor verkennen hoe bloed en gaswisseling plaatsvinden aan de hand van belangrijke fysiologische principes. Je wordt begeleid om je eigen uitleg te formuleren die beschrijft wat er gebeurt en waarom, in een klinische situatie.
+
+Het maken van je eigen verhaal over een casus helpt je om ideeën met elkaar te verbinden, ze langer te onthouden en de opgedane kennis later toe te passen in een praktijksituatie. Op deze manier redeneren artsen ook wanneer ze naar hun patiënten kijken – en op een dag ga jij dit gebruiken samen met je eigen patiënten.
+
+Deze activiteit bestaat uit drie fasen waarmee je stap voor stap leert:
+Fase 1 – Kennis activeren: ophalen wat je al weet over bloed en gaswisseling.
+Fase 2 – Narratief bouwen: toepassen van die kennis op een concreet scenario.
+Fase 3 – Redeneren in een nieuwe context: je inzichten toepassen in een nieuwe casus.
+
+Klaar om te beginnen?","2025-11-05T16:05:59.029807+00:00"
+"user","ja","2025-11-05T16:07:09.425164+00:00"
+"assistant","Hier volgt de eerste casus:
+
+Een 65-jarige vrouw wordt opgenomen in het ziekenhuis met progressieve kortademigheid sinds drie maanden. In de afgelopen dagen zijn haar klachten verergerd. Zelfs kleine huishoudelijke taken en wandelen zijn lastig geworden; ze moet vaak stoppen om op adem te komen. Ze merkt ook een toename van haar gebruikelijke hoest en koorts. Vijf jaar geleden werd bij haar COPD vastgesteld. Bij COPD leidt chronische ontsteking tot beschadiging van de alveolaire wanden en verdikking van de alveolair-capillaire membraan. Laboratoriumuitslagen tonen:
+- Hemoglobine: 10,0 g/dL (norm: 12–16 g/dL) 
+- Bloedgasanalyse: 
+   1. pH: 7,30 (norm: 7,35–7,45) → acidose
+   2. PaO₂: 65 mmHg (norm: 80–100 mmHg)
+   3. PaCO₂: 51 mmHg (norm: 35–45 mmHg)
+   4. SaO₂: 89% (norm: 95–100%)
+
+Kun je uitleggen waarom deze patiënte kortademig is en verklaar je haar labuitslagen?
+
+[■□□□□]  20% – Kennis activeren gestart! Weet je nog hoe gaswisseling werkt?","2025-11-05T16:07:28.133151+00:00"
+"user","De Hemoglobine is te laag, en van de bloedgasanalyse kunnen we zien dat haar p","2025-11-05T16:08:32.833012+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we even pauzeren en starten met Fase 1 – Kennis activeren. In deze fase bespreken we kort de belangrijkste concepten en mechanismen die te maken hebben met deze casus. 
+
+Zijn er specifieke vragen of onderwerpen die je graag eerst wilt verduidelijken voordat we verdergaan?
+
+[■■□□□]  40% – Kennis activeren afgerond! Blijf oefenen – je klinisch redeneervermogen groeit!","2025-11-05T16:08:42.736447+00:00"
+"user","isgoed","2025-11-05T16:09:02.704577+00:00"
+"assistant","Mooi! Als je denkt aan bloed en gaswisseling als geheel, welke hoofdprocessen komen dan bij je op? 
+
+Kun je in je eigen woorden beschrijven wat de longen, het bloed en de weefsels elk voor rol spelen in dit systeem?","2025-11-05T16:09:08.994645+00:00"
+"user","wanneer je lucht inademt, komt het uiteindelijk in de alveoli. Gassen, dus O2 en CO2 worden uitgewisseld tussen de alveoli en het bloed. O2 gaat van het alveoli naar het bloed en CO2 gaat van het bloed naar de alveoli via diffusie. O2 moleculen binden in het bloed aan hemoglobine, hemoglobine kan in totaal 4 O2 moleculen vast houden.","2025-11-05T16:11:28.294947+00:00"
+"assistant","Dat is een helder begin! Je benoemt inderdaad al het transport en de binding van zuurstof aan hemoglobine. 
+
+Kun je nog uitleggen hoe het zuurstof uiteindelijk weer wordt afgegeven aan de weefsels en hoe koolstofdioxide dan weer in het bloed terechtkomt? Wat zorgt ervoor dat hemoglobine in de longen vooral O2 opneemt, maar in de weefsels juist loslaat?","2025-11-05T16:11:36.976929+00:00"
+"user","Bij weefsels is het pH laag, omdat er veel CO2 word afgegeven van de weefsels. Dit zorgt ervoor dat hemoglobine makkelijker O2 moleculen loslaat, vanwege de Bohr shift.","2025-11-05T16:13:16.658723+00:00"
+"assistant","Mooi uitgelegd! Je noemt hier de Bohr-effect goed: bij een lage pH (dus meer H⁺ en meer CO₂) geeft hemoglobine inderdaad meer zuurstof af waar dit nodig is. 
+
+Weet je ook wat het Haldane-effect is, en wat die doet in de longen?","2025-11-05T16:13:23.558092+00:00"
+"user","Het Haldane effect zorgt ervoor dat het voor hemoglobine makkelijker is om te binden aan O2 moleculen","2025-11-05T16:14:33.93173+00:00"
+"assistant","Je zit in de buurt, maar het Haldane-effect draait eigenlijk om de afvoer van CO₂. Wil je proberen toe te lichten wat er met CO₂ gebeurt wanneer hemoglobine zuurstof opneemt in de longen? Wat verandert er in de capaciteit van hemoglobine voor CO₂, en hoe draagt dit bij aan gaswisseling?","2025-11-05T16:14:41.574083+00:00"
+"user","Het is makkelijker voor hemoglobine om CO2 af te geven bij de longen","2025-11-05T16:15:35.652174+00:00"
+"assistant","Precies! Wanneer hemoglobine zuurstof opneemt in de longen, verandert de structuur van het molecuul. Daardoor laat hemoglobine juist gemakkelijker koolstofdioxide (en H⁺) los – dat is het Haldane-effect. Zo wordt CO₂ effectief uit het bloed verwijderd in de longen. 
+
+Voel je je comfortabel bij deze basisprincipes of is er nog iets over de gaswisseling wat je wilt ophelderen voordat we doorgaan?
+
+[■■■□□]  60% – Fase 1 afgerond! Je hebt de bouwstenen te pakken. Op naar het toepassen!","2025-11-05T16:15:46.193124+00:00"

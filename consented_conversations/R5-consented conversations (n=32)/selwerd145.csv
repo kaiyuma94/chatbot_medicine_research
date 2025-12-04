@@ -1,0 +1,209 @@
+"role","content","created_at"
+"user","Laten we beginnen","2025-11-12T14:38:07.490973+00:00"
+"assistant","Welcome! In this activity, you’ll work with a virtual tutor to explore how haemostasis happens through key physiological principles. You’ll be guided to build your own narrative that explains what happens and why in a clinical situation.
+
+Creating your own story about a case helps you connect ideas, remember them longer, and apply this knowledge in future clinical situations. At the same time, this way of reasoning mirrors how doctors make sense of what happens in their patients—and one day, you’ll use it to work and reason together with your own patients.
+
+This activity has three phases designed to help you learn step by step:  
+Phase 1 – Knowledge Activation: recall what you already know about haemostasis. The first case serves as a trigger to help you think and reflect — we’ll return to the case once we’ve completed this knowledge activation phase.  
+Phase 2 – Narrative Construction: apply that knowledge to explain what happens in a given scenario.  
+Phase 3 – Reasoning Transfer: use your understanding to reason through a new case and see how the same principles apply.
+
+Please note that you can access feedback on your learning progress at any time by clicking the feedback button — it’s a helpful way to reflect on what you’ve learned and what to focus on next!
+
+Ready to begin?
+
+[■□□□□]  20% – Knowledge activation started! Let’s recall how haemostasis works step by step!","2025-11-12T14:38:28.207128+00:00"
+"user","nederlands","2025-11-12T14:38:30.692022+00:00"
+"assistant","Welkom! In deze activiteit werk je samen met een virtuele tutor om te onderzoeken hoe hemostase werkt aan de hand van belangrijke fysiologische principes. Je wordt begeleid in het opbouwen van je eigen verhaallijn die uitlegt wat er gebeurt in een klinische situatie, en waarom.
+
+Door zelf een verhaal te maken over een casus, verbind je ideeën, onthoud je ze beter én kun je deze kennis toepassen bij toekomstige klinische situaties. Dit soort redeneren lijkt sterk op hoe artsen zelf situaties analyseren – en uiteindelijk doe je dat zelf ook bij je eigen patiënten.
+
+Deze activiteit bestaat uit drie fases, waarmee je stap voor stap leert:  
+Fase 1 – Kennis activeren: We halen eerst je eigen voorkennis over hemostase op. De eerste casus dient als aanleiding om na te denken — na deze fase komen we terug op de casus.  
+Fase 2 – Narratief opbouwen: Je past daarna je kennis toe op de casus en probeert deze zo volledig mogelijk te verklaren.  
+Fase 3 – Kennis overdragen: Je gebruikt je inzichten om over een nieuwe casus te redeneren en te zien hoe dezelfde principes werken.
+
+Je kunt altijd tussendoor feedback op je leerproces opvragen via de feedbackknop — zo kun je reflecteren op je voortgang en waar je aandachtspunten liggen!
+
+Klaar om te beginnen?
+
+[■□□□□]  20% – Kennis activeren gestart! Laten we stap voor stap ophalen hoe hemostase werkt!","2025-11-12T14:38:51.136255+00:00"
+"user","ja","2025-11-12T14:38:52.33697+00:00"
+"assistant","Hier volgt de eerste casus:
+
+Een 60-jarige vrouw presenteert zich met ernstig, levensbedreigend bloedverlies. Ze gebruikt warfarine, een antistollingsmiddel dat inwerkt op de vitamine K-afhankelijke stollingsfactoren, wegens een hartprobleem. Ze merkte de afgelopen dagen al bloedend tandvlees op.  
+Laboratoriumuitslagen:  
+1. Protrombinetijd (PT): Verlengd  
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verlengd  
+3. Aantal bloedplaatjes: Normaal  
+4. Fibrinogeen: Normaal  
+
+Kun je de symptomen van de patiënt en de laboratoriumuitslagen verklaren?
+
+","2025-11-12T14:39:04.699783+00:00"
+"user","verlengde PT houdt in dat er iets mis is met de primaire hemeostase, door warfarine kunnen bloedplaatjes zich waarschijnlijk niet meer hechten en kan de wond ook niet meer dicht. aPTT verlengd geeft waarschijnlijk aan dat er ergens een tekort is aan een factor ( VIII / IX )","2025-11-12T14:41:05.748994+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Mooi geprobeerd! Laten we even pauzeren en doorgaan naar Fase 1 – Kennis activeren. In deze fase lopen we kort de kernbegrippen en mechanismen door die met deze casus te maken hebben. Zijn er onderwerpen of begrippen over hemostase waar je eerst vragen over hebt, of die je graag wilt verduidelijkt zien, voordat we verder gaan?
+
+[■■□□□]  40% – Kennis activeren gestart! Je bent goed onderweg; je basis wordt steeds sterker!","2025-11-12T14:41:17.375145+00:00"
+"user","ja","2025-11-12T14:41:18.993506+00:00"
+"assistant","Welke vragen of onduidelijkheden heb je over hemostase of over het stoppen van bloedingen? Noem gerust waar je meer uitleg over wilt, dan pakken we dat eerst samen op.
+
+Als je nog moet opstarten, kun je alvast eens nadenken over deze vraag:  
+Welke hoofdprocessen spelen in jouw ogen allemaal een rol bij het stoppen van een bloeding bij een gezond persoon?","2025-11-12T14:41:27.599365+00:00"
+"user","bloedplaatjes die naar de wond gaan, dat ze zich daar gaan adheren en opstapelen en vervolgens dat er fibrinedraden ontstaan die crosslinks alles met elkaar vervind","2025-11-12T14:42:11.045773+00:00"
+"assistant","Dat is een mooie beschrijving! Je noemt al de bloedplaatjes die zich hechten en samenklonteren, en daarna de fibrinedraden die het geheel versterken.
+
+Zou je kunnen uitleggen welke volgorde deze processen hebben en welke onderdelen 'primaire' en 'secundaire' hemostase genoemd worden? Wat gebeurt er eerst, en waar passen die fibrinedraden precies in het proces?","2025-11-12T14:42:19.525988+00:00"
+"user","hechten en samenklonteren zijn primair, als eerst gaan ze zich hechten, daarna samenklonteren. die fibrinedraden passen bij het samenklonteren","2025-11-12T14:43:06.654395+00:00"
+"assistant","Je zit bijna goed! Het hechten en samenklonteren van bloedplaatjes horen inderdaad bij de primaire hemostase. Er is echter nog een vervolgstap: de fibrinedraden horen eigenlijk bij de secundaire hemostase, dus ná de vorming van de primaire plug.
+
+Kun je uitleggen wat het doel is van die overgang van primaire naar secundaire hemostase? Waarom is alleen een plug van bloedplaatjes meestal niet genoeg, en wat dragen de fibrinedraden hieraan bij?","2025-11-12T14:43:15.94945+00:00"
+"user","nee","2025-11-12T14:43:25.582566+00:00"
+"assistant","Geen probleem! Laten we het stap voor stap bekijken:
+
+Wanneer een bloedvat beschadigd raakt, vormen de bloedplaatjes snel samen een plug—dat is de primaire hemostase. Maar deze plug is nog kwetsbaar en kan makkelijk uit elkaar vallen. De secundaire hemostase zorgt dat het geheel stevig en stabiel wordt door een 'netwerk' van fibrinedraden om en door de plug te vormen: daardoor wordt het bloedstolsel sterker.
+
+Waarom zou het belangrijk zijn dat een stolsel stevig wordt gemaakt door fibrine, en niet alleen maar bestaat uit samenklonterende plaatjes? Wat denk je dat er zou gebeuren als die tweede stap niet goed werkt?","2025-11-12T14:43:37.672498+00:00"
+"user","dan kan die weer open/los gaan","2025-11-12T14:43:55.397741+00:00"
+"assistant","Precies! Zonder het netwerk van fibrine zou de tijdelijke plug van bloedplaatjes makkelijk weer uit elkaar vallen, en zou de bloeding kunnen terugkomen.
+
+Nu we dit helder hebben:  
+Wat weet je van het proces waardoor die fibrinedraden worden gevormd? Kun je in je eigen woorden uitleggen wat het ‘stollingscascade’ is en waarom het een aaneenschakeling van reacties wordt genoemd?","2025-11-12T14:44:02.645473+00:00"
+"user","nee","2025-11-12T14:44:14.754164+00:00"
+"assistant","Helemaal goed, laten we het dan samen bekijken.
+
+De stollingscascade is een ketting van opeenvolgende reacties tussen verschillende stollingsfactoren in het bloed. Elk van deze factoren is eerst inactief. Elke stap activeert de volgende factor, waardoor uiteindelijk trombine ontstaat. Dit trombine zorgt ervoor dat oplosbaar fibrinogeen wordt omgezet in onoplosbare fibrinedraden die de plug stevig maken.
+
+Waarom zou het handig zijn dat de cascade bestaat uit zoveel stappen waarin elke factor pas wordt geactiveerd door de vorige? Wat zou een voordeel zijn van zo'n systeem?","2025-11-12T14:44:25.363501+00:00"
+"user","het voordeel is dat het niet zomaar kan gebeuren, je lichaam kan niet zomaar trombine creëren. dit voorkomt trombose","2025-11-12T14:45:23.406267+00:00"
+"assistant","Heel goed geredeneerd! Juist doordat de cascade uit veel stappen bestaat, kan het lichaam nauwkeurig regelen wáár en wanneer stolling optreedt. Het risico op ongewenste stolselvorming (trombose) wordt daarmee kleiner.
+
+Nog een belangrijke stap:  
+De cascade wordt in gang gezet via verschillende “routes”: de intrinsieke en de extrinsieke route. Kun je uitleggen wat hiermee bedoeld wordt, of heb je daar nog vragen over?","2025-11-12T14:45:36.039995+00:00"
+"user","intrinsieke = binnen en deze is langer, extrinsieke is buiten en korter","2025-11-12T14:45:54.948846+00:00"
+"assistant","Goede start! Je hebt gelijk: de intrinsieke route wordt “van binnenuit” (door factoren in het bloed zelf) geactiveerd, terwijl de extrinsieke route “van buitenaf” (via weefselfactor bij schade buiten de vaten) begint, en die is inderdaad korter.
+
+Wil je proberen te verwoorden wanneer en hoe deze routes geactiveerd worden bij een bloeding? Wat is daarbij de rol van weefselschade en het verschil tussen deze twee routes volgens jou?","2025-11-12T14:46:04.414725+00:00"
+"user","kan ik niet","2025-11-12T14:46:12.473342+00:00"
+"assistant","Geen probleem! We bekijken het samen:
+
+Bij een verwonding komt weefselschade voor: cellen buiten het bloedvat geven dan “weefselfactor” (tissue factor) af. Deze factor start de extrinsieke route. Dit is een snelle respons, zodat de stolling snel begint.
+
+Als het bloed in contact komt met een beschadigde binnenwand van het vat of vreemde oppervlakken, wordt de intrinsieke route geactiveerd. Dit zorgt voor verdere versterking en stabiliteit van het stolsel.
+
+Kortom: de extrinsieke route reageert direct op schade buiten het vat via weefselfactor, de intrinsieke route begint door contact van bloed met bepaalde oppervlakken en werkt meer “van binnen” uit.
+
+Laatste kennisvraag voordat we doorgaan:  
+Wat denk je dat er gebeurt als één van de stollingsfactoren ontbreekt of niet goed werkt binnen zo’n route? Wat is het gevolg voor het proces van stolling?","2025-11-12T14:46:39.566269+00:00"
+"user","dan verloopt het hele stollingsproces niet goed en dit zorgt dus voor bloedingen","2025-11-12T14:46:50.82105+00:00"
+"assistant","Precies! Als één van de stollingsfactoren ontbreekt of niet goed functioneert, raakt de hele keten verstoord. Hierdoor kan het lichaam geen goed fibrinenetwerk maken en blijf je (lang) doorbloeden na een verwonding.
+
+Je hebt de kern van hemostase nu helder. Laten we deze kennis toepassen!
+
+=== PHASE 2: Narrative Construction ===  
+[■■■□□]  60% – Fase 1 voltooid! Je zit in de laatste rechte lijn: tijd om je inzichten toe te passen!
+
+Hier volgt opnieuw de casus:
+
+Een 60-jarige vrouw presenteert zich met ernstig, levensbedreigend bloedverlies. Ze gebruikt warfarine, een antistollingsmiddel dat inwerkt op de vitamine K-afhankelijke stollingsfactoren, wegens een hartprobleem. Ze merkte de afgelopen dagen al bloedend tandvlees op.  
+Laboratoriumuitslagen:  
+1. Protrombinetijd (PT): Verlengd  
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verlengd  
+3. Aantal bloedplaatjes: Normaal  
+4. Fibrinogeen: Normaal  
+
+Kun je nu de symptomen van de patiënt en de laboratoriumuitslagen verklaren met de kennis die je zojuist hebt opgehaald?","2025-11-12T14:47:08.703886+00:00"
+"user","Ze heeft ernstig, levensbedreigend bloedverlies, dit wijst erop dat ze waarschijnlijk stollingsproblemen heeft. Warfarine is een antistollingsmiddel dus dit zal waarschijnlijk de boosdoener zijn. Ze heeft bloedend tandvlees, verlengd PT en een licht verlengd aPTT -> de primaire hemostase is verstoord en de secundaire ook. Bloedplaatjes en fibrinogeen zijn normaal. Gebaseerd op deze feiten lijkt het dat ze vW ziekte heeft","2025-11-12T14:48:59.243771+00:00"
+"assistant","Dat is een interessante redenering! Je combineert hier de symptomen en labuitslagen, maar er zijn een paar punten om verder te bekijken:
+
+- Warfarine remt inderdaad de stolling, maar heeft die vooral effect op de primaire of secundaire hemostase?  
+- De bloedplaatjes en het fibrinogeen zijn normaal – past dat bij vW ziekte of bij iets anders?
+- PT is duidelijk verlengd en aPTT iets verlengd. Als vW ziekte, waarbij vaak vooral aPTT verlengd is, het niet helemaal lijkt te passen, wat zegt dit dan over het onderliggende probleem?
+
+Kun je proberen te beredeneren via welke route(n) in de cascade warfarine werkt? Welke factoren zijn hier vooral bij betrokken, en waarom beïnvloedt dat vooral de PT (en soms ook de aPTT)?","2025-11-12T14:49:12.307288+00:00"
+"user","de primaire route, want de PT is voornamelijk verlengd.","2025-11-12T14:49:42.271142+00:00"
+"assistant","Interessante gedachte! Laten we het verder uitwerken:
+
+De PT meet vooral de extrinsieke route (met name factor VII) en de gemeenschappelijke route. De intrinsieke route wordt meer door de aPTT gemeten. Warfarine remt de vitamine K-afhankelijke factoren II, VII, IX en X.
+
+Gezien deze kennis:  
+Hoe verklaar je dat de PT sterk verlengd is, en de aPTT slechts licht verlengd? Wat zegt dit over welke factoren het eerst worden aangetast door warfarine?","2025-11-12T14:49:52.378264+00:00"
+"user","factor 7 is waarschijnlijk aangetast","2025-11-12T14:50:19.291789+00:00"
+"assistant","Juist! Factor VII wordt als eerste beïnvloed, omdat deze een korte halfwaardetijd heeft. Dit zorgt dat de extrinsieke route (en dus PT) snel verlengd raakt. Warfarine grijpt op meerdere factoren aan, maar het effect op factor VII laat zich als eerste in het lab zien. 
+
+Als warfarinegebruik door de tijd doorgaat, raken ook factor II en X verder uitgeput.
+
+Wil je in eigen woorden samenvatten hoe warfarine zorgt voor het ernstig, levensbedreigend bloedverlies bij deze patiënt? Wat gebeurt er in de stollingscascade en waarom leidt dat tot doorbloeden?","2025-11-12T14:50:29.815299+00:00"
+"user","kan ik niet","2025-11-12T14:50:40.304136+00:00"
+"assistant","Geen probleem, ik help je op weg:
+
+Warfarine remt een enzym in de lever dat nodig is om vitamine K actief te maken. Vitamine K is nodig om bepaalde stollingsfactoren (II, VII, IX, X) werkzaam te maken. Zonder deze factoren werkt de stollingscascade niet goed; vooral de extrinsieke route kan niet meer goed worden opgestart (want factor VII mist als eerste). Daardoor wordt thrombine nauwelijks gevormd, en kan fibrinogeen niet worden omgezet in fibrine.
+
+Kun je hiermee zelf afmaken waarom een tekort aan deze factoren, door warfarine, leidt tot doorbloeden ondanks een normaal aantal bloedplaatjes? Wat gebeurt er met het bloedstolsel?","2025-11-12T14:50:53.39354+00:00"
+"user","doordat er geen fibrine gevormd kan worden kan de stollingsproces ook niet afgerond worden. hierdoor zullen bloedingen aanhouden wat leidt tot bloedverlies","2025-11-12T14:52:02.549174+00:00"
+"assistant","Helemaal goed! Zonder voldoende actieve stollingsfactoren kan fibrine niet gevormd worden. Een normaal aantal bloedplaatjes kan nog wel zorgen voor een tijdelijke plug, maar zonder fibrinenetwerk wordt het stolsel niet stabiel. Daardoor blijft het bloeden doorgaan, zoals bij deze patiënte.
+
+Nu volgt een laatste vraag in deze fase:
+
+Een 60-jarige vrouw presenteert zich met ernstig, levensbedreigend bloedverlies. Ze gebruikt warfarine, een antistollingsmiddel dat inwerkt op de vitamine K-afhankelijke stollingsfactoren, wegens een hartprobleem. Ze merkte de afgelopen dagen al bloedend tandvlees op.  
+Laboratoriumuitslagen:  
+1. Protrombinetijd (PT): Verlengd  
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verlengd  
+3. Aantal bloedplaatjes: Normaal  
+4. Fibrinogeen: Normaal  
+
+Hoe verklaar je nu de symptomen en labuitslagen van deze patiënt? Schrijf zo volledig mogelijk op wat je nu begrijpt: je ideeën, redenering, en je verbanden met de theorie. Hoe completer je uitleg, hoe meer je hiervan leert!
+
+Als je dit hebt gedaan, gaan we door naar de laatste fase.
+
+[■■■■□]  80% – Fase 2 afgerond! Fantastisch werk, je past je kennis toe als een echte clinicus!","2025-11-12T14:52:21.709552+00:00"
+"user","Mevrouw heeft ernstig, levensbedreigend bloedverlies. Warfarine werkt op vitamine K-afhankelijke stollignsfactoren. Deze stolling factoren ( VII, IX, X ) werken voornamelijk in de extrinsieke route. Doordat deze incompleet is kan er geen fibrine meer gevormd worden en kan dus het stollingsproces niet afgerond worden,. Hierdoor zal de bloeding doorbloeden en leidt dit dus tot bloedverlies","2025-11-12T14:53:59.761784+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+[■■■■■]  100% – Alle fases afgerond! Je laat nu zien dat je je kennis echt kunt toepassen – houd deze manier van denken vast!
+
+Nu gaan we kijken of je je inzichten kunt toepassen op een nieuwe casus:
+
+Een 24-jarige man meldt zich op de Spoedeisende Hulp met spontaan blauwe plekken op armen en benen en langdurig nabloeden na een kleine snijwond. Hij heeft geen familiegeschiedenis van bloedingsziekten. Bij lichamelijk onderzoek zie je meerdere grote blauwe plekken en licht bloedend tandvlees.  
+Labuitslagen:  
+1. Protrombinetijd (PT): Normaal  
+2. Geactiveerde partiële tromboplastinetijd (aPTT): Verlengd  
+3. Aantal bloedplaatjes: Normaal  
+4. Fibrinogeen: Normaal  
+
+Kun je met alles wat je tot nu toe hebt geleerd, uitleggen waardoor deze patiënt deze klachten en uitslagen krijgt? Wat gebeurt er in zijn stollingssysteem?","2025-11-12T14:54:17.301488+00:00"
+"assistant","Je hebt laten zien dat je de basisprincipes van hemostase goed begrijpt: je herkende het verschil tussen primaire en secundaire hemostase en wist bloedplaatjes en fibrinestolling juist te plaatsen. Je vatte het cascade-idee en het belang van vitamine K-afhankelijke stollingsfactoren netjes samen. De meeste hulp was nodig in fase 1, vooral bij het onderscheiden van de primaire versus secundaire hemostase en de details van de stollingsroutes. Het is nuttig om de precieze volgorde en rol van elke fase nog eens te herhalen: maak bijvoorbeeld flashcards van de kernbegrippen (primaire/secundaire hemostase, stollingsfactoren, extrinsiek/intrinsiek) en probeer deze zelf hardop toe te lichten. Je groeit duidelijk in je klinisch redeneren—ga zo door, elke keer wordt je kennis gestructureerder!
+
+Hieronder vind je materiaal om te herhalen en te verdiepen:  
+
+---
+
+### VIGNETTE 1 ###
+Een 60-jarige vrouw presenteert zich met ernstig, levensbedreigend bloedverlies. Ze gebruikt warfarine, een antistollingsmiddel dat inwerkt op de vitamine K-afhankelijke stollingsfactoren, wegens een hartprobleem. Ze merkt bloedend tandvlees op.
+Lab: PT verlengd, aPTT licht verlengd, bloedplaatjes normaal, fibrinogeen normaal.  
+
+### EXEMPLAR EXPERT EXPLANATION 1 ###
+Warfarine remt de productie van actieve vitamine K in de lever, essentieel voor de activering van factoren II, VII, IX en X. Door tekort aan deze stollingsfactoren werkt vooral de extrinsieke route (factor VII, meetbaar met PT) niet goed meer. PT is dan sterk verlengd, aPTT licht verlengd bij langer gebruik. Doordat er onvoldoende fibrine kan worden gevormd, blijft de bloedplaatjesplug kwetsbaar en ontstaan ernstige bloedingen ondanks normale bloedplaatjes en fibrinogeen.
+
+---
+
+### VIGNETTE 2 ###
+Een 24-jarige man meldt zich met snel optredende blauwe plekken en langdurig nabloeden na een kleine snijwond. Geen familiegeschiedenis van bloedingsziekten.
+Lab: PT normaal, aPTT verlengd, bloedplaatjes normaal, fibrinogeen normaal.
+
+### EXEMPLAR EXPERT EXPLANATION 2 ###
+Een geïsoleerd verlengde aPTT (maar normale PT, plaatjes en fibrinogeen) wijst op een defect in de intrinsieke route, typisch bij hemofilie A (factor VIII-deficiëntie) of hemofilie B (factor IX-deficiëntie). Omdat de extrinsieke route (PT) normaal is en de primaire hemostase niet gestoord is, passen blauwe plekken en nabloeden bij een secundair stollingsdefect. De bloedplaatjes kunnen nog een plug vormen, maar zonder stollingsfactoractivatie wordt het stolsel niet gestabiliseerd door fibrine.
+
+---
+
+### KENNIS ###
+- Primaire hemostase: aanhechting en samenklontering van bloedplaatjes tot een tijdelijke plug.
+- Secundaire hemostase: activatie van de stollingscascade, leidend tot omzetting van fibrinogeen naar stevig fibrinenetwerk.
+- Extrinsieke route (factor VII en PT), vooral geactiveerd door weefselschade; intrinsieke route (factoren VIII, IX, XI, XII en aPTT), geactiveerd door contact met beschadigde vaatwand.
+- Warfarine remt vitamine K-afhankelijke factoren (II, VII, IX, X), belemmert vooral snel de extrinsieke route.
+- Factor-deficiënties in intrinsieke route geven verlengde aPTT zonder effect op PT (zoals bij hemofilie).
+
+Blijf oefenen met het uitleggen van deze mechanismen in je eigen woorden—dat maakt het verschil in je klinisch denken!","2025-11-12T14:55:11.102+00:00"

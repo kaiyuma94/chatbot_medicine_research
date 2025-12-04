@@ -1,0 +1,166 @@
+"role","content","created_at"
+"user","ik ben er klaar voor","2025-11-12T14:38:01.375284+00:00"
+"assistant","Je bent klaar? Mooi! Hier komt de eerste casus:
+
+Een 60-jarige vrouw presenteert zich met ernstig, levensbedreigend bloedverlies. Ze gebruikt warfarine, een antistollingsmiddel dat inwerkt op de vitamine K-afhankelijke factoren, vanwege een hartaandoening. Ze had al een paar dagen last van bloedend tandvlees.  
+Laboratoriumuitslagen:
+1. Protrombinetijd (PT): Verlengd  
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verhoogd  
+3. Aantal bloedplaatjes: Normaal  
+4. Fibrinogeen: Normaal  
+
+Kun je de klachten van de patiënte en de laboratoriumuitslagen uitleggen?","2025-11-12T14:38:12.866778+00:00"
+"user","Door k-antagonisten worden de stollingsfactoren niet/minder  geactiveerd, hierdoor verloopt de stollingscascade, en dus de secundaire homeostase minder goed aangezien hier de factoren voor nodig zijn. Als de stolling minder goed verloopt blijven wonden langer bloeden wat dus leidt tot veel bleodverlies","2025-11-12T14:39:53.265995+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we kort pauzeren en starten met Fase 1 – Kennisactivatie. In deze fase nemen we de belangrijkste concepten en mechanismen die bij de casus horen kort door.  
+Heb je vragen of punten die je graag wilt ophelderen voordat we starten?
+
+[■□□□□]  20% – Knowledge activation started! Let’s recall how haemostasis works step by step!","2025-11-12T14:40:01.256821+00:00"
+"user","nee hoor","2025-11-12T14:40:03.859261+00:00"
+"assistant","Prima! Als je denkt aan hoe het lichaam een bloeding stopt na een vaatbeschadiging, welke hoofdprocessen schieten je dan te binnen? Kun je die kort benoemen of beschrijven?","2025-11-12T14:40:08.828358+00:00"
+"user","het begint bij de primaire homeostase, hierbij komt vWf vrij dit zorgt ervoor dat bloedplaatjes aan elkaar en aan collageen plakken waardoor een plug onstaat, de bloedplaatsjes veranderen van vorm waardoor hun oppervlak en bindingscapaciteit groter wordt. In het subendotheel zit TF, dit een en enzym dat de stollingsfactoren 12 en 7 aanstuurt om de stolllingscascade te beginnen, de secundaire hemostatse.","2025-11-12T14:41:53.998681+00:00"
+"assistant","Mooi dat je deze stappen noemt! Je vertelt dat vWF zorgt voor de bloedplaatjesplug (primaire hemostase) en dat tissue factor (TF) het startsein geeft voor de stollingscascade (secundaire hemostase). Je koppelt TF aan factor XII en VII—wil je nog eens uitleggen wat precies het verschil is tussen de intrinsieke en extrinsieke route van de stolllingscascade, en hoe deze routes uiteindelijk samenkomen?
+
+En wat bedoelt men eigenlijk met een “cascade” in dit verband?","2025-11-12T14:42:02.228496+00:00"
+"user","cascade houdt in dat het een soort dominoreactie is, de eerste reactie stimuleert de tweede enzovoort. De intrinsieke route begint bij factor 12 en onstaat door een negatief geladen weefsel gevormd door de bloedplaatjes. De exintrieke route begint door tissue factor","2025-11-12T14:43:12.118164+00:00"
+"assistant","Dat klopt: een cascade werkt inderdaad als een dominoreactie! Je zegt dat de intrinsieke route begint bij factor XII en geactiveerd wordt door negatief geladen oppervlakken, bijvoorbeeld van geactiveerde bloedplaatjes. De extrinsieke route begint door tissue factor die vrijkomt bij beschadiging van het weefsel, en activeert vooral factor VII.
+
+Nu een andere vraag: wat gebeurt er als één van deze stollingsfactoren ontbreekt of niet goed werkt? Wat verwacht je dan te zien qua bloedingen of labuitslagen?","2025-11-12T14:43:21.267673+00:00"
+"user","Als een van de factoren in de intrinsieke route niet werkt, dus 12, 11, of 9, dan verloopt de aptt langzamer en vindt er minder stolling plaats. Als de exintrieke route miner werkt dus factor 7 of 8 dan is de PT verlengt, beide routes leiden tot stolling dus als er een factor in een van de beide routes mist is er wel stolling, maar minder.","2025-11-12T14:44:59.09763+00:00"
+"assistant","Je redeneert al goed over de gevolgen voor de labbepalingen! Je noemt dat bij een probleem in de intrinsieke route (factor XII, XI, IX, VIII) vooral de aPTT verlengd raakt, en bij de extrinsieke route (vooral factor VII) de PT verlengd wordt. Zou je ook kunnen uitleggen wat er gebeurt als factoren uit het gemeenschappelijke gedeelte (zoals factor X of II/protrombine) tekortschieten? En wat het effect daarvan is op zowel PT als aPTT?
+
+Als je geen vragen meer hebt over deze basis, ben je klaar voor de volgende stap! Wil je verder of heb je nog iets nodig ter verduidelijking?","2025-11-12T14:45:09.87437+00:00"
+"user","als de factoren in het gemeenschappelijke deel afwijken is er minder stolling, dus dan wordt zowel de Aptt als PT langer","2025-11-12T14:46:01.791099+00:00"
+"assistant","Precies! Een afwijking in een factor van de gemeenschappelijke route (zoals X of II) vertraagt zowel de intrinsieke als extrinsieke route, waardoor zowel PT als aPTT verlengd raken.
+
+Ik zie dat je goed overzicht hebt van de hoofdlijnen van de hemostase! Als er geen verdere vragen zijn, gaan we nu door naar het toepassen van deze kennis op de casus.
+
+=== PHASE 2: Narrative Construction ===
+
+[■■□□□]  40% – Knowledge activation finished! Keep going - your clinical reasoning is developing!
+
+Nu we Fase 2 – Narratief Construeren ingaan: Kun je, gebruikmakend van de kennis die je net hebt doorgenomen, de symptomen van de patiënt en haar laboratoriumuitslagen verklaren?","2025-11-12T14:46:15.018379+00:00"
+"user","Haar appt en pt zijn beide verlengd, wat duidt op een afwijking het gemeenschappelijke deel van de hemostase, wat leidt tot minder stolling. Door minder stolling zal de vrouw bij kleine wondjes veel bloed verliezen aangezien deze lanngzaam herstellen.","2025-11-12T14:47:30.938785+00:00"
+"assistant","Goed dat je ziet dat beide tijden verlengd zijn! Kijk nog eens goed: in het lab is de PT veel verlengd, maar aPTT slechts licht verhoogd. Heeft dat gevolgen voor je conclusie? Denk ook aan het geneesmiddel dat deze patiënte gebruikt, en welke factoren dat beïnvloedt. 
+
+Kun je nogmaals uitleggen hoe de combinatie van haar medicatie, de laboratoriumuitslagen én de klinische symptomen samenhangen? Welk gedeelte van de stolling is het meest gevoelig voor warfarine?","2025-11-12T14:47:39.540993+00:00"
+"user","De vitamine k afhankelijke stollingsfactoren zijn 2 7 9 en 10, dus de gemeenschappelijke route heeft twee afwijkende factoren, de intrinsieke route 1 en de extrinsieke route ook 1, maar de extrinsieke route bestaat maar uit 1 dus daar heeft het meer invloed op]","2025-11-12T14:50:08.816553+00:00"
+"assistant","Precies, je redeneert nu in de juiste richting! Warfarine remt de aanmaak van vitamine K-afhankelijke factoren (II, VII, IX en X). Je merkt terecht op dat factor VII de enige vitamine K-afhankelijke factor in de extrinsieke route is, en deze route wordt dus als eerste en meest uitgesproken beïnvloed.
+
+Kun je nu beredeneren waarom de PT sterker verlengd raakt dan de aPTT? En waarom dit past bij ernstige bloedingsneiging bij deze vrouw? Wil je proberen de samenhang tussen factor VII, de PT, en haar bloeding nog toe te lichten?","2025-11-12T14:50:20.238998+00:00"
+"user","de Pt omschrijft de extrinsieke route, die meer beïnvloed en dus meer vertraagd is. De aptt hoort bij de intrinsieke route en is dus minder aangetast","2025-11-12T14:50:58.94253+00:00"
+"assistant","Heel goed uitgelegd! De PT meet inderdaad de extrinsieke route, waar factor VII zit, die als eerste wordt beïnvloed door warfarine. Omdat factor VII een korte halfwaardetijd heeft, zie je daar snel een vertraging. De aPTT (intrinsieke route) verandert pas later, als ook andere vitamine K-afhankelijke factoren (zoals IX) lager worden.
+
+Haar bloedingsneiging ontstaat dus doordat de stollingscascade minder goed werkt, met name doordat de extrinsieke route (en uiteindelijk ook het gemeenschappelijke pad) tekortschiet.
+
+Hier volgt de assessmentvraag:
+
+De casus nogmaals:
+Een 60-jarige vrouw presenteert zich met ernstig, levensbedreigend bloedverlies. Ze gebruikt warfarine, een antistollingsmiddel dat inwerkt op de vitamine K-afhankelijke factoren, vanwege een hartaandoening. Ze had al een paar dagen last van bloedend tandvlees.  
+Laboratoriumuitslagen:
+1. Protrombinetijd (PT): Verlengd  
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verhoogd  
+3. Aantal bloedplaatjes: Normaal  
+4. Fibrinogeen: Normaal  
+
+Hoe begrijp je nu de klachten en de laboratoriumuitslagen van deze patiënte? Schrijf zo veel mogelijk details op — je ideeën, redenering, en links met wat je geleerd hebt!
+
+Wanneer je klaar bent, gaan we door naar de laatste fase!
+
+[■■■□□]  60% – Phase 2 completed! Final stretch - time to apply your insights!","2025-11-12T14:51:19.504917+00:00"
+"user","Door vitamine-K antagonisten werken factor 2 7 9 en 10 minder goed. Dit heeft meer invloed op de extrinsieke route dan op de intrinsieke route waardoor de PT sterkt verhoogd is, en de aptt maar licht verhoogd. Ook de gemeenschappelijke route werk minder goed door afwijkingen in factor 10 en factor 2 (trombine). Door een afwijking in de cascade stolt het bloed minder goed wat leidt to meer bleodverlies","2025-11-12T14:53:31.076401+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+[■■■■□]  80% – Je bent er bijna; nu nog toepassen in een nieuw scenario!
+
+Goed gedaan! Laten we nu kijken hoe je kennis toepast in een nieuw geval:
+
+Een 24-jarige man komt op de spoedeisende hulp met spontane blauwe plekken op armen en benen en langdurig bloedverlies na een kleine sneetje. Er is geen familiegeschiedenis van bloedingsstoornissen. Lichamelijk onderzoek toont meerdere grote, blauwe plekken en licht bloedend tandvlees.  
+Laboratoriumuitslagen:
+1. Protrombinetijd (PT): Normaal  
+2. Geactiveerde partiële tromboplastinetijd (aPTT): Verlengd  
+3. Aantal bloedplaatjes: Normaal  
+4. Fibrinogeen: Normaal  
+
+Kun je de klachten en de laboratoriumuitslagen van deze patiënt uitleggen?","2025-11-12T14:53:43.68342+00:00"
+"user","De PT is normaal, dus er is niks mis met tissue factor, vWF of factor 7, en ook niet met de gemeenschappelijk route. De aptt is wel vertraagd, dus er is een afwijking id de factor 12, 11, of 9. Dus alsnog verloopt de bloedstolling minder goed aangezien je alleen de extrinsieke route funcitoneel hebt.","2025-11-12T16:57:24.179911+00:00"
+"assistant","Goed geanalyseerd! Je merkt terecht op dat bij normale PT en verlengde aPTT de extrinsieke route en de gemeenschappelijke route intact zijn, en dat de afwijking ligt in de intrinsieke route (factors XII, XI, IX, of VIII).
+
+Zou je nog kunnen uitleggen waarom de aanwezigheid van spontane blauwe plekken en langdurig nabloeden past bij deze labuitslagen? En welke klinische consequenties heeft het als een van deze intrinsieke factoren (bijvoorbeeld factor VIII of IX) ontbreekt of slecht functioneert, ondanks normale bloedplaatjes en fibrinogeen?
+
+Kun je het plaatje afmaken door in je eigen woorden samen te vatten waarom deze patiënt blijft bloeden?","2025-11-12T16:57:35.069626+00:00"
+"user","klaar","2025-11-12T16:58:02.088392+00:00"
+"assistant","=== End of the Session ===
+
+[■■■■■]  100% – All phases completed! Excellent work applying your knowledge.
+
+Goed gedaan! Je hebt systematisch je kennis van hemotase toegepast, van mechanisme naar klinisch redeneren. Blijf oefenen met het uitleggen van verbanden en zelf uitleg geven aan nieuwe situaties—zo groei je als toekomstig arts. Mocht je later nog vragen hebben of verder willen oefenen, kom gerust terug!","2025-11-12T16:58:10.293159+00:00"
+"assistant","Je hebt laten zien dat je de basismechanismen van de hemostase goed begrijpt, met name het verschil tussen de primaire en secundaire hemostase en de rol van vitamine K-afhankelijke factoren. Je koppelt laboratoriumuitslagen aan de juiste routes in de stollingscascade en herkent het effect van anticoagulantia als warfarine. In PHASE 2 had je het meeste hulp nodig bij het diepgaand uitleggen waarom verstoring van de extrinsieke route (PT) uitgesprokener is door warfarine dan de intrinsieke route (aPTT), en hoe dit leidt tot de klinische bevindingen. Om deze redenering te versterken, kun je bijvoorbeeld een schematische tekening maken van de cascade en markeren welke factoren worden beïnvloed en waar laboratoriumtesten gevoelig voor zijn – dit helpt bij het visueel en verbaal verbinden van mechanisme aan uitslag. Je maakt mooie stappen: blijf oefenen met het verwoorden van deze causale links en wees trots op je groei!
+
+Hier zijn materialen om nog eens rustig door te nemen:
+
+---
+
+### VIGNETTE 1 ###
+Een 60-jarige vrouw met ernstig bloedverlies. Ze gebruikt warfarine. PT sterk verlengd, aPTT licht verhoogd, normaal aantal bloedplaatjes en fibrinogeen.
+
+### EXEMPLAR EXPERT EXPLANATION 1 ###
+Warfarine remt de aanmaak van vitamine K-afhankelijke stollingsfactoren (II, VII, IX, X). Factor VII, die deel uitmaakt van de extrinsieke route, heeft de kortste halfwaardetijd. Daardoor zie je eerst een sterke verlenging van de PT; de aPTT kan later licht stijgen als ook factor IX (intrinsieke route) lager wordt. De bloedplaatjes en het fibrinogeen zijn niet aangedaan, dus primaire hemostase en de uiteindelijke vorming van fibrine zijn niet direct gestoord. De verhoogde bloedingsneiging is vooral het gevolg van een gestoorde secundaire hemostase via de extrinsieke (en, bij zeer lage waarden, ook de intrinsieke) route.
+
+---
+
+### VIGNETTE 2 ###
+Een 24-jarige man met spontane blauwe plekken, lang nabloeden, geen familiegeschiedenis, aPTT verlengd, PT normaal, normaal aantal bloedplaatjes en fibrinogeen.
+
+### EXEMPLAR EXPERT EXPLANATION 2 ###
+Een geïsoleerd verlengde aPTT met een normale PT wijst op een probleem in de intrinsieke route van de stolling (factoren XII, XI, IX, VIII). De aanwezigheid van normale bloedplaatjes en normaal fibrinogeen sluit een probleem in de primaire hemostase en in de laatste stap van de cascade uit. Het ontbreken of slecht functioneren van factor VIII of IX leidt tot een verminderde vorming van stabiel fibrinenetwerk, waardoor patiënten makkelijk blauwe plekken krijgen en lang nabloeden. Dit past bijvoorbeeld bij hemofilie A (factor VIII) of B (factor IX), die ook bij jongvolwassenen kunnen voorkomen.
+
+---
+
+### KENNIS ###
+- Primaire hemostase: vorming van bloedplaatjesplug via vWF na vaatbeschadiging.
+- Secundaire hemostase: stollingscascade; extrinsieke route (TF, VII → X), intrinsieke route (XII, XI, IX, VIII → X), daarna gemeenschappelijke route (X → V → II/protrombine → trombine → fibrinogeen → fibrine).
+- Vitamine K-afhankelijke factoren: II, VII, IX, X.
+- PT (protrombinetijd): meet vooral de extrinsieke en gemeenschappelijke route; gevoelig voor factor VII.
+- aPTT (geactiveerde partiële tromboplastinetijd): meet de intrinsieke en gemeenschappelijke route; gevoelig voor factoren XII, XI, IX, VIII.
+- Warfarine veroorzaakt als eerste een verlenging van de PT.
+- Hemofilie A (factor VIII) of B (factor IX): verlengde aPTT, normale PT, normale bloedplaatjes en fibrinogeen.
+
+---
+
+Blijf deze kernpunten herhalen en probeer laboratoriumuitslagen telkens te koppelen aan het onderliggende stollingsmechanisme. Je bent goed op weg!","2025-11-12T16:58:32.434+00:00"
+"assistant","Je hebt duidelijk laten zien dat je begrijpt hoe primaire en secundaire hemostase verlopen en hoe warfarine de vitamine K-afhankelijke stollingsfactoren beïnvloedt. Ook kon je de laboratoriumwaarden logisch koppelen aan afwijkingen in de stollingsroutes. In PHASE 2 had je het meeste hulp nodig om het verschil tussen extrinsieke en intrinsieke route verder te verduidelijken, vooral waarom de verlenging van PT (door factor VII) zo uitgesproken is bij warfarinegebruik. Om je inzicht daarin te versterken, kan het helpen een overzichtelijk schema te tekenen van de cascade, de vitamine K-afhankelijke stappen te markeren en vervolgens te koppelen aan de verschillende labtesten—zo wordt het causale verband tussen geneesmiddel, factor, test en kliniek nog beter zichtbaar. Je maakt mooie vooruitgang en kunt trots zijn op hoe je je redenering steeds verder verdiept!
+
+Hier zijn materialen om te herhalen:
+
+---
+
+### VIGNETTE 1 ###
+Een 60-jarige vrouw met ernstig bloedverlies. Ze gebruikt warfarine. PT sterk verlengd, aPTT licht verhoogd, normaal aantal bloedplaatjes en fibrinogeen.
+
+### EXEMPLAR EXPERT EXPLANATION 1 ###
+Warfarine remt de aanmaak van vitamine K-afhankelijke stollingsfactoren (II, VII, IX, X). Factor VII, die deel uitmaakt van de extrinsieke route, heeft de kortste halfwaardetijd. Daardoor zie je eerst een sterke verlenging van de PT; de aPTT kan later licht stijgen als ook factor IX (intrinsieke route) lager wordt. De bloedplaatjes en het fibrinogeen zijn niet aangedaan, dus primaire hemostase en de uiteindelijke vorming van fibrine zijn niet direct gestoord. De verhoogde bloedingsneiging is vooral het gevolg van een gestoorde secundaire hemostase via de extrinsieke (en, bij zeer lage waarden, ook de intrinsieke) route.
+
+---
+
+### VIGNETTE 2 ###
+Een 24-jarige man met spontane blauwe plekken, lang nabloeden, geen familiegeschiedenis, aPTT verlengd, PT normaal, normaal aantal bloedplaatjes en fibrinogeen.
+
+### EXEMPLAR EXPERT EXPLANATION 2 ###
+Een geïsoleerd verlengde aPTT met een normale PT wijst op een probleem in de intrinsieke route van de stolling (factoren XII, XI, IX, VIII). De aanwezigheid van normale bloedplaatjes en normaal fibrinogeen sluit een probleem in de primaire hemostase en in de laatste stap van de cascade uit. Het ontbreken of slecht functioneren van factor VIII of IX leidt tot een verminderde vorming van stabiel fibrinenetwerk, waardoor patiënten makkelijk blauwe plekken krijgen en lang nabloeden. Dit past bijvoorbeeld bij hemofilie A (factor VIII) of B (factor IX), die ook bij jongvolwassenen kunnen voorkomen.
+
+---
+
+### KENNIS ###
+- Primaire hemostase: vorming bloedplaatjesplug via vWF na vaatbeschadiging.
+- Secundaire hemostase: stollingscascade – extrinsiek (TF, VII → X), intrinsiek (XII, XI, IX, VIII → X), gemeenschappelijk traject (X → V → II/protrombine → trombine → fibrinogeen → fibrine).
+- Vitamine K-afhankelijke factoren: II, VII, IX, X.
+- PT (protrombinetijd): meet vooral extrinsieke en gemeenschappelijke route; gevoelig voor factor VII.
+- aPTT: meet intrinsieke en gemeenschappelijke route; gevoelig voor factoren XII, XI, IX, VIII.
+- Warfarine veroorzaakt als eerste een verlenging van de PT.
+- Hemofilie A/B: verlengde aPTT, normale PT, normale bloedplaatjes, normaal fibrinogeen.
+
+---
+
+Herhaal deze kernpunten, teken het cascade-overzicht, en blijf jezelf uitdagen met klinische casussen – je bent uitstekend op weg!","2025-11-12T16:58:45.622+00:00"

@@ -1,0 +1,124 @@
+"role","content","created_at"
+"user","Hoi ik ben klaar om te beginnen!","2025-11-12T15:16:16.471855+00:00"
+"assistant","Welcome! In this activity, you’ll work with a virtual tutor to explore how haemostasis happens through key physiological principles. You’ll be guided to build your own narrative that explains what happens and why in a clinical situation.
+
+Creating your own story about a case helps you connect ideas, remember them longer, and apply this knowledge in future clinical situations. At the same time, this way of reasoning mirrors how doctors make sense of what happens in their patients—and one day, you’ll use it to work and reason together with your own patients.
+
+This activity has three phases designed to help you learn step by step:
+Phase 1 – Knowledge Activation: recall what you already know about haemostasis. The first case serves as a trigger to help you think and reflect — we’ll return to the case once we’ve completed this knowledge activation phase.
+Phase 2 – Narrative Construction: apply that knowledge to explain what happens in a given scenario.
+Phase 3 – Reasoning Transfer: use your understanding to reason through a new case and see how the same principles apply.
+
+Please note that you can access feedback on your learning progress at any time by clicking the feedback button — it’s a helpful way to reflect on what you’ve learned and what to focus on next!
+
+Ready to begin?
+
+[■□□□□]  20% – Knowledge activation started! Let’s recall how haemostasis works step by step!","2025-11-12T15:16:35.889339+00:00"
+"user","In het Nederlands aub","2025-11-12T15:16:44.396599+00:00"
+"assistant","Welkom! In deze activiteit werk je samen met een virtuele tutor om te onderzoeken hoe hemostase plaatsvindt aan de hand van belangrijke fysiologische principes. Je wordt begeleid om zelf een verhaal op te bouwen dat uitlegt wat er gebeurt en waarom, in een klinische situatie.
+
+Zelf zo’n verhaal maken helpt je om concepten met elkaar te verbinden, ze beter te onthouden en deze kennis straks toe te passen in echte klinische situaties. Deze manier van redeneren lijkt ook op hoe artsen klinisch denken — en jij zult dit later zelf gebruiken in de praktijk.
+
+Deze activiteit bestaat uit drie fasen:
+Fase 1 – Kennis activeren: think na over wat je al weet over hemostase. De eerste casus is bedoeld om je aan het denken te zetten — we keren daarna weer terug op de casus.
+Fase 2 – Narratief bouwen: pas je kennis toe en leg in je eigen woorden uit wat er gebeurt bij deze patiënte.
+Fase 3 – Redeneren in een nieuwe situatie: gebruik je begrip om een nieuwe casus te analyseren — zo zie je dat de basisprincipes telkens terugkomen.
+
+Je kunt altijd feedback op je voortgang bekijken: zo zie je snel wat goed gaat en waar je nog op kunt letten!
+
+Klaar om te beginnen?
+
+[■□□□□]  20% – Kennisactivering gestart! Laten we stap voor stap terughalen hoe hemostase werkt!","2025-11-12T15:17:02.889886+00:00"
+"user","Yep! Ben er klaar voor","2025-11-12T15:17:34.031315+00:00"
+"assistant","Hier volgt de eerste casus:
+
+Een 60-jarige vrouw presenteert zich met levensbedreigende bloedingen. Ze gebruikt warfarine, een antistollingsmiddel dat werkt op de vitamine K-afhankelijke stollingsfactoren, vanwege een hartaandoening, en had de afgelopen dagen al last van bloedend tandvlees.  
+Laboratoriumuitslagen:
+1. Protrombinetijd (PT): Verlengd
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verlengd
+3. Trombocytenaantal: Normaal
+4. Fibrinogeen: Normaal
+
+Kun je uitleggen hoe deze klachten en de laboratoriumuitslagen met elkaar samenhangen?","2025-11-12T15:17:45.210903+00:00"
+"user","1: PT verlengd omdat vitamine K afhankelijke stollingsfactoren worden beïnvloedt. Deze stollingsfactoren zijn 10, 9, 7 en 2. 7 is bij de extrinsieke pathway een belangrijke stollingsfactor en deze wordt geremd door warfarine die de vitaK afhankelijke stollingsfactoren remt. 2: aPTT is lichtelijk verlengd, 9 is een vitaK afhankelijke stollingsfactor in de intrinsieke pathway. 3 en 4: zijn beide niet direct afhankelijk van vitaK en zijn dus normaal.","2025-11-12T15:25:57.154964+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Mooie poging! Laten we kort pauzeren en Fase 1 – Kennisactivering starten. In deze fase lopen we samen de belangrijkste concepten en mechanismen na die bij de casus horen.
+
+Heb je voordat we beginnen alvast vragen over hemostase of bepaalde onderdelen die je graag wilt verduidelijken?
+
+[■■□□□]  40% – Kennisactivering gestart! Je klinisch redeneren is volop in ontwikkeling!","2025-11-12T15:26:05.455839+00:00"
+"user","Ik heb wel een vraag! Hoe ontstaan fibrinogeen en welk romeinse nummer krijgt deze?","2025-11-12T15:27:10.264163+00:00"
+"assistant","Goede vraag! Fibrinogeen is een eiwit dat in de lever wordt aangemaakt. Het is een oplosbaar plasma-eiwit en speelt een grote rol in de laatste stap van de stollingscascade. In de cascade wordt fibrinogeen door het enzym trombine omgezet in fibrine, dat dan het uiteindelijke stolsel vormt.
+
+Weet je welk Romeins nummer bij fibrinogeen hoort? Misschien kun je het proberen te herleiden vanuit de volgorde van de cascade: Factor …?","2025-11-12T15:27:23.078127+00:00"
+"user","2","2025-11-12T15:27:47.430371+00:00"
+"assistant","Dat is een goed geraden poging! Factor II is echter prothrombine. Fibrinogeen heeft een ander Romeins nummer.
+
+Denk eens na over de volgorde van de stollingsfactoren in de laatste stap van de cascade: vanuit prothrombine krijg je trombine, en dat zorgt voor de omzetting van fibrinogeen naar fibrine. Als factor II prothrombine is, welk nummer zou dan fibrinogeen kunnen zijn?
+
+Wil je het nog eens proberen?","2025-11-12T15:27:56.132834+00:00"
+"user","1","2025-11-12T15:28:11.243241+00:00"
+"assistant","Helemaal juist! Fibrinogeen is factor I.
+
+Wil je beschrijven waarom het omzetten van fibrinogeen in fibrine zo’n cruciale stap is in de hemostase? Wat gebeurt er als deze stap niet goed verloopt?","2025-11-12T15:28:17.383823+00:00"
+"user","De primaire homeostase bestaat uit een voorlopige 'plug', dit is niet stevig genoeg. Hierna volgt de secundaire homeostase waar fibrinogeen omgezet wordt in fibrine. Dit is cruciaal omdat er anders geen stevige werkzame bloedprop vormt.","2025-11-12T15:30:19.614668+00:00"
+"assistant","Dat klopt goed! Je geeft duidelijk aan dat de primaire plug van plaatjes (trombocyten) alleen niet voldoende is om het bloeden te stelpen. De fibrinelaag verstevigt deze plug pas echt.
+
+Kun je kort uitleggen hoe de stollingscascade, dus de keten van factoractivaties, uiteindelijk zorgt dat trombine wordt gevormd? Waar start deze cascade, en waarom zijn er verschillende 'routes'?","2025-11-12T15:30:27.817519+00:00"
+"user","Formuleer een nieuwe vraag!","2025-11-12T15:35:25.488717+00:00"
+"assistant","Natuurlijk! Hier een nieuwe vraag om je kennis te activeren:
+
+Wat betekenen de termen “intrinsieke” en “extrinsieke pathway” bij de stolling, en waarom zijn er twee verschillende manieren waarop de stollingscascade gestart kan worden?","2025-11-12T15:35:31.525374+00:00"
+"user","waar begint de stollingscascade? de primaire of secundaire hemostase?","2025-11-12T15:36:06.600146+00:00"
+"assistant","Goede vraag! De primaire en secundaire hemostase lopen gelijktijdig, maar ze verwijzen naar verschillende fases en mechanismen.
+
+Kun je uitleggen wat er precies gebeurt tijdens de primaire hemostase en wat tijdens de secundaire hemostase? Hoe zouden deze elkaar kunnen beïnvloeden bij het ontstaan van een bloedstolsel?","2025-11-12T15:36:30.532565+00:00"
+"user","Bedankt! Ik wil feedback","2025-11-12T15:39:12.727213+00:00"
+"assistant","Natuurlijk! Hier volgt een korte feedback over jouw voortgang tot nu toe:
+
+- Je hebt duidelijke kennis van de verschillende fasen binnen de hemostase: je benoemt goed het onderscheid tussen primaire en secundaire hemostase en kunt uitleggen dat fibrinogeen (factor I) wordt omgezet in fibrine voor een stevig stolsel.
+- Je legt het verband tussen vitamine K-afhankelijke factoren, warfarine en de uitslagen van de labwaarden goed uit, en je weet de rol en het Romeins nummer van fibrinogeen correct te benoemen na doorvragen.
+- Je bent actief bezig met het stellen van vervolgvragen, wat een heel sterke leeraanpak is.
+
+Aandachtspunten:
+- Blijf goed letten op de Romeinse nummering van de stollingsfactoren; kleine verwarring hierin is gebruikelijk, maar belangrijk bij het analyseren van casussen.
+- Probeer de samenhang en verschillen tussen de ‘intrinsieke’ en ‘extrinsieke’ pathways, en hun startpunten binnen het totale stollingsproces, verder uit te diepen.
+- Let erop dat stolling écht een samenhangend geheel is waarbij primaire en secundaire processen elkaar nodig hebben en versterken.
+
+Wil je nog iets toelichten of heb je behoefte aan uitleg bij een specifiek onderdeel? Anders gaan we verder naar de volgende fase!
+
+[■■□□□]  40% – Kennisactivering afgerond! Blijf zo doorgaan – je klinische inzicht groeit!","2025-11-12T15:39:31.064755+00:00"
+"assistant","Je hebt duidelijk al een goed begrip laten zien van de kernbegrippen rondom hemostase, waaronder het onderscheid tussen primaire en secundaire hemostase en de rol van vitamine K-afhankelijke stollingsfactoren. Je benoemt verbanden tussen medicatie (warfarine), labuitslagen en pathofysiologie helder, en na doorvragen kon je het Romeins nummer voor fibrinogeen correct koppelen. De meeste hulp was nodig bij het verdiepen van de samenhang tussen de verschillende pathways (intrinsiek versus extrinsiek) en hoe die samenkomen tot factoractivatie en trombinevorming. Om deze causale schakels te versterken kun je bijvoorbeeld een diagram tekenen van de cascade, waarbij je inleidende stappen van elke pathway en hun kruispunt (via factor X) visueel maakt, of het proces hardop uitleggen aan een medestudent. Blijf vooral vragen stellen en actief redeneren—je maakt mooie progressie en met dit leerproces worden je mechanistische inzichten in hemostase steeds sterker!
+
+Hier zijn je post-session reviewmaterialen—besteed hier nog eens aandacht aan voor verdere verdieping:
+
+---
+
+### VIGNETTE 1
+Een 60-jarige vrouw gebruikt warfarine en presenteert zich met ernstige bloedingen. Haar PT is verlengd, aPTT licht verhoogd, trombocyten en fibrinogeen zijn normaal.
+
+### EXEMPLAR EXPERT EXPLANATION 1
+Warfarine remt de vitamine K-afhankelijke factor II, VII, IX en X, waardoor vooral de extrinsieke route (via factor VII) wordt beïnvloed. Verlenging van de PT duidt dus op een probleem met de extrinsieke pathway. De aPTT kan ook licht verlengd zijn door remming van factor IX binnen de intrinsieke pathway. Omdat trombocyten en fibrinogeen niet direct afhankelijk zijn van vitamine K, blijven deze normaal. Door gebrekkige omzetting van prothrombine naar trombine ontstaat te weinig fibrinevorming, waardoor het stolsel niet stevig wordt en bloedingen optreden.
+
+---
+
+### VIGNETTE 2
+Een 20-jarige man met een spontane hemartrose. Laboratorium: PT normaal, aPTT sterk verlengd, trombocyten normaal.
+
+### EXEMPLAR EXPERT EXPLANATION 2
+Een geïsoleerde sterke verlenging van de aPTT betekent een stoornis in de intrinsieke pathway. Hemofilie (vaak factor VIII- of IX-deficiëntie) veroorzaakt zo’n beeld. PT blijft normaal omdat de extrinsieke pathway (en factor VII) niet aangedaan zijn, terwijl trombocyten normaal blijven omdat primaire hemostase niet is verstoord. Ook hier zien we dat onvoldoende activatie van de stollingscascade leidt tot onvoldoende vorming van fibrine en dus onvoldoende stevige stolsels.
+
+---
+
+### KENNIS
+- Primaire hemostase = snellere, voorlopige stop van bloeding via plaatjes (‘plug’).
+- Secundaire hemostase = activatie van stollingsfactoren: fibrinogeen (factor I) → fibrine, via de stollingscascade.
+- Intrinsieke pathway: geactiveerd door schade in het vat (factoren XII, XI, IX, VIII).
+- Extrinsieke pathway: geactiveerd door weefselfactor (factor VII).
+- Beide pathways komen samen bij activatie van factor X, dat prothrombine (II) activeert tot trombine, dat op zijn beurt fibrinogeen in fibrine omzet.
+- Warfarine blokkeert vitamine K-afhankelijke factoren: II, VII, IX, X.
+- PT test extrinsieke pathway, aPTT de intrinsieke pathway.
+- Deficiënties in stollingsfactoren leiden tot onvoldoende fibrinestevigheid en bloedingsneiging.
+
+Blijven oefenen! Herhalen en visualiseren van de cascade helpt je om het geheel te doorgronden.","2025-11-12T15:40:08.063+00:00"

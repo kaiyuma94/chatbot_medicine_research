@@ -1,0 +1,145 @@
+"role","content","created_at"
+"user","laten we beginnen","2025-11-12T15:51:31.39726+00:00"
+"assistant","Welcome! In this activity, you’ll work with a virtual tutor to explore how haemostasis happens through key physiological principles. You’ll be guided to build your own narrative that explains what happens and why in a clinical situation.
+
+Creating your own story about a case helps you connect ideas, remember them longer, and apply this knowledge in future clinical situations. At the same time, this way of reasoning mirrors how doctors make sense of what happens in their patients—and one day, you’ll use it to work and reason together with your own patients.
+
+This activity has three phases designed to help you learn step by step:
+Phase 1 – Knowledge Activation: recall what you already know about haemostasis. The first case serves as a trigger to help you think and reflect — we’ll return to the case once we’ve completed this knowledge activation phase.
+Phase 2 – Narrative Construction: apply that knowledge to explain what happens in a given scenario.
+Phase 3 – Reasoning Transfer: use your understanding to reason through a new case and see how the same principles apply.
+
+Please note that you can access feedback on your learning progress at any time by clicking the feedback button — it’s a helpful way to reflect on what you’ve learned and what to focus on next!
+
+Ready to begin?
+
+[■□□□□]  20% – Knowledge activation started! Let’s recall how haemostasis works step by step!","2025-11-12T15:51:49.334302+00:00"
+"user","laten we beginnenn","2025-11-12T15:51:53.922163+00:00"
+"assistant","Hier is het eerste vignet als startpunt:
+
+Een 60-jarige vrouw presenteert zich met levensbedreigende bloedingen. Ze gebruikt warfarine, een antistollingsmiddel dat werkt op de vitamine K-afhankelijke factoren, wegens een hartaandoening, en had de afgelopen dagen al bloedend tandvlees opgemerkt.  
+Laboratoriumuitslagen:  
+1. Protrombinetijd (PT): Verlengd  
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verlengd  
+3. Trombocytenaantal: Normaal  
+4. Fibrinogeen: Normaal  
+
+Kun je uitleggen hoe deze symptomen en labuitslagen met elkaar verband houden? Wat denk je dat er aan de hand is?","2025-11-12T15:52:05.284952+00:00"
+"user","Door het antistollingsmiddel zijn de protrombinetijd en de geactiveerde partiële tromboplastinetijd verlengd. Dit zijn namelijk factoren waardoor bloed gaat stollen, maar de vrouw neemt een antistollingsmiddel dus het duurt langer voordat het bloed gestold is","2025-11-12T15:53:26.858884+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed gedaan! Laten we even pauzeren en doorgaan met Fase 1 – Knowledge Activation. In deze fase kijken we kort naar de belangrijkste concepten en mechanismen die te maken hebben met het bovenstaande geval. Heb je nu bepaalde vragen of punten die je graag eerst zou willen verduidelijken?
+
+[■■□□□]  40% – Knowledge activation finished! Keep going - your clinical reasoning is developing!","2025-11-12T15:53:34.547555+00:00"
+"user","ga verder","2025-11-12T15:53:39.840619+00:00"
+"assistant","Prima! Laten we beginnen met de basis: wanneer je denkt aan hoe het lichaam bloedverlies stopt na een verwonding aan een bloedvat, welke hoofdprocessen komen dan bij je op? 
+
+Kun je uitleggen wat er in de verschillende fases van haemostase gebeurt?","2025-11-12T15:53:46.261272+00:00"
+"user","trombocyten die zich hechten aan het vaatendotheel","2025-11-12T15:54:18.588179+00:00"
+"assistant","Klopt, het hechten van trombocyten (bloedplaatjes) aan het beschadigde endotheel is een belangrijk onderdeel van de eerste reactie van het lichaam op een bloeding. Kun je deze stap verder toelichten? Wat gebeurt er nadat de trombocyten zich hebben gehecht?
+
+En: welke andere fasen zijn er naast deze primaire hemostase?","2025-11-12T15:54:26.539541+00:00"
+"user","nadat de trombocyten zich hebben gehecht laten ze weer los","2025-11-12T15:54:48.260491+00:00"
+"assistant","Interessante gedachte! Meestal is het zo dat wanneer trombocyten zich aan het beschadigde endotheel hechten, ze geactiveerd worden en stoffen vrijlaten die ervoor zorgen dat nog meer trombocyten aangetrokken en geactiveerd worden. Dit leidt tot de vorming van een tijdelijke trombocytenplug.
+
+Wat gebeurt er vervolgens om deze plug steviger te maken? Is er een tweede proces dat hierbij betrokken is, en zo ja, hoe werkt dat?","2025-11-12T15:54:57.888109+00:00"
+"user","dat weet ik niet","2025-11-12T15:55:09.920995+00:00"
+"assistant","Geen probleem! De volgende stap na de primaire plug heet de secundaire hemostase of de stollingscascade. Hierbij raken stollingsfactoren in het bloed betrokken.  
+Weet je wat men bedoelt met “de stollingscascade”? En waarom noemt men het een keten van opeenvolgende reacties?","2025-11-12T15:55:19.75706+00:00"
+"user","het heet de sollingscascade omdat het een kettingreactie is van stollingsfactor na stollingsfactor","2025-11-12T15:55:52.080989+00:00"
+"assistant","Precies, goed uitgelegd! De stollingscascade bestaat inderdaad uit een reeks opeenvolgende reacties, waarbij elke geactiveerde stollingsfactor de volgende factor activeert. Aan het einde van deze cascade ontstaat trombine, dat fibrinogeen omzet in fibrine. Fibrine vormt vervolgens een netwerk dat de plaatjesplug verstevigt tot een stabiel stolsel.
+
+Kun je uitleggen hoe deze kettingreactie in gang wordt gezet? Er zijn namelijk twee manieren waarop de stolling kan beginnen—wat betekenen ‘intrinsiek’ en ‘extrinsiek’ hierin?","2025-11-12T15:56:01.075881+00:00"
+"user","intrinsiek is binnen het vat en extrinsiek buiten het bloedvat","2025-11-12T15:56:23.050189+00:00"
+"assistant","Goed, je benoemt het verschil in locatie van de triggers! Bij de intrinsieke route wordt de stolling inderdaad binnen het bloedvat geactiveerd, bijvoorbeeld als bloed in contact komt met een vreemd oppervlak. De extrinsieke route wordt vooral geactiveerd door weefselschade buiten het vat, waarbij “tissue factor” (weefselfactor) vrijkomt en factor VII in het bloed activeert.
+
+Waarom is het voordelig voor het lichaam dat er twee verschillende routes zijn om de cascade te starten? Wat denk je?","2025-11-12T15:56:33.671488+00:00"
+"user","zodat er zo snel mogelijk een cascade geactiveerd kan worden bij schade, ongeacht de locatie, dus of het nou binnen of buiten het bloedvat is","2025-11-12T15:57:04.445938+00:00"
+"assistant","Mooi omschreven! Inderdaad, door twee routes te hebben, kan het lichaam snel reageren op verschillende soorten schade en op verschillende plaatsen, zodat bloedverlies snel wordt gestopt.
+
+Wat zou er kunnen gebeuren als één of meer stollingsfactoren ontbreken of niet goed werken? En kun je bedenken hoe dat zich zou presenteren bij een patiënt?","2025-11-12T15:57:12.82742+00:00"
+"user","als één of meer stollingsfactoren ontbreken vind de stollingscascade maar gebrekkig plaats en stopt de bloeding dus niet","2025-11-12T15:57:39.384178+00:00"
+"assistant","Precies! Bij een tekort aan of een defect in stollingsfactoren verloopt de cascade niet goed, en kan een stabiel stolsel niet gevormd worden. Hierdoor blijft de bloeding langer doorgaan of stopt deze zelfs helemaal niet.
+
+Denk je dat dit zich klinisch altijd op dezelfde manier uit, of kunnen verschillende defecten leiden tot verschillende typen bloedingsproblemen? Waarom zou dat zo zijn?
+
+Als je denkt dat je de basis begrijpt, kunnen we doorgaan naar de volgende fase—maar stel gerust nog een vraag als je wilt!
+
+[■■■□□]  60% – Phase 2 completed! Final stretch - time to apply your insights!","2025-11-12T15:58:06.652338+00:00"
+"user","Verschillende defecten leiden tot verschillende typen bloedingsproblemen. Je kunt namelijk een inwendige bloeding hebben maar ook een uitwendige. Dit uit zich klinisch niet op dezelfde manier","2025-11-12T15:58:48.896963+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Mooi! Nu gaan we naar Fase 2 – Narrative Construction. Hier pas je je kennis toe op het eerste klinische vignet.
+
+VIGNETTE 1:
+Een 60-jarige vrouw presenteert zich met levensbedreigende bloedingen. Ze gebruikt warfarine, een antistollingsmiddel dat werkt op de vitamine K-afhankelijke factoren, wegens een hartaandoening, en had de afgelopen dagen al bloedend tandvlees opgemerkt.  
+Laboratoriumuitslagen:  
+1. Protrombinetijd (PT): Verlengd  
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verlengd  
+3. Trombocytenaantal: Normaal  
+4. Fibrinogeen: Normaal  
+
+Nu je de kennis hebt opgehaald: kun je met die kennis deze symptomen en labuitslagen verklaren? Welke mechanismen zijn hier betrokken?","2025-11-12T15:59:03.42606+00:00"
+"user","Door het antistollingsmiddel wat ze slikt kan de stollingscascade niet volledig plaatsvinden waardoor haar bloeding aan het tandvlees niet heelt.","2025-11-12T15:59:58.236328+00:00"
+"assistant","Goed begin! Je noemt terecht dat het antistollingsmiddel de stollingscascade beïnvloedt en daarmee het stolsel verhindert. Kun je verder uitleggen:  
+- Op welke specifieke onderdelen van de cascade warfarine inwerkt?  
+- Waarom de PT meer verlengd is dan de aPTT?  
+- Welke stollingsfactoren hieronder vallen?
+
+Kun je hier een stap verder over nadenken en dat proberen toe te lichten?","2025-11-12T16:00:05.725815+00:00"
+"user","dat weet ik niet","2025-11-12T16:00:33.312275+00:00"
+"assistant","Geen probleem, laten we het stapsgewijs benaderen. Warfarine beïnvloedt bepaalde stollingsfactoren—het zijn de vitamine K-afhankelijke factoren. Weet je (of kun je bedenken) welke dat zijn? Waarom zou dat invloed hebben op de PT-tijd? 
+
+Probeer te bedenken of sommige van deze factoren sneller aangetast worden dan andere bij warfarinegebruik. Wat denk je?","2025-11-12T16:01:11.793885+00:00"
+"user","Ik weet niet welke stollingsfactoren dat precies beïnvloedt, maar wel dat het dus invloed heeft op de PT tijd omdat er in de stollingscascade één factor is aangetast waardoor de tijd dat trombocyten hun werk kunnen doen veel langer is.","2025-11-12T16:02:47.659432+00:00"
+"assistant","Mooi geredeneerd! Je weet dat het tot verlengde stolling leidt en dat er specifieke factoren betrokken zijn. Warfarine remt de aanmaak van de vitamine K-afhankelijke factoren: dit zijn factor II (protrombine), VII, IX en X. Factor VII heeft de kortste halfwaardetijd en raakt dus het snelst uitgeput, wat vooral invloed heeft op de extrinsieke route van stolling. Daarom is bij warfarine de PT (die de extrinsieke route meet) snel verlengd.
+
+Kun je nu in je eigen woorden uitleggen waarom de aPTT ook licht verlengd raakt, maar minder dan de PT? Wat gebeurt er met de intrinsieke en de gemeenschappelijke route?","2025-11-12T16:02:59.361534+00:00"
+"user","de aPTT raakt minder verlengd dan de PT doordat deze via de intrinsieke route is dus daar heeft factor VII minder invloed op.","2025-11-12T16:04:04.383292+00:00"
+"assistant","Goed, je hebt het patroon herkend! PT verlengt vooral door factor VII—de extrinsieke route. De aPTT (meet de intrinsieke route) raakt slechts licht verlengd omdat warfarine ook invloed heeft op factor IX, onderdeel van de intrinsieke route, maar de effecten daarop ontstaan langzamer. Beide routes komen samen in de gemeenschappelijke route (factor X en II), die door warfarine ook mild wordt beïnvloed.
+
+Kun je nu nog samenvatten welke laboratoriumuitslagen logisch zijn en hoe ze passen bij het mechanisme van warfarine? Welke uitslagen verwacht je en welke niet?","2025-11-12T16:04:17.2516+00:00"
+"user","Warfarine heeft invloed op de vitamine K-factoren, hier valt onder andere factor VII onder. Deze gaat via de extrinsieke route. Het is dus logisch dat de aPTT minder is verlengd dan de PT","2025-11-12T16:06:00.98273+00:00"
+"assistant","Goed samengevat! Inderdaad: factor VII wordt snel beïnvloed door warfarine, waardoor vooral de PT verlengd raakt. De aPTT kan licht verlengd zijn, vooral als ook factor IX (intrinsieke route) na langere tijd beïnvloed raakt. Het trombocytenaantal en het fibrinogeen blijven normaal, omdat warfarine daarop geen effect heeft.
+
+Hier volgt de assessmentvraag—schrijf alles op wat je nu begrijpt!
+
+VIGNETTE 1:
+Een 60-jarige vrouw presenteert zich met levensbedreigende bloedingen. Ze gebruikt warfarine, een antistollingsmiddel dat werkt op de vitamine K-afhankelijke factoren, wegens een hartaandoening, en had de afgelopen dagen al bloedend tandvlees opgemerkt.  
+Laboratoriumuitslagen:  
+1. Protrombinetijd (PT): Verlengd  
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verlengd  
+3. Trombocytenaantal: Normaal  
+4. Fibrinogeen: Normaal  
+
+Hoe begrijp je nu haar symptomen en uitslagen? Schrijf alles wat je erover kunt bedenken op—je ideeën, redenering en koppelingen met wat je zojuist hebt geleerd!
+
+[■■■□□]  60% – Phase 2 completed! Final stretch - time to apply your insights!","2025-11-12T16:06:18.707399+00:00"
+"user","Ze heeft al dagen bloedend tandvlees doordat ze een antistollingsmiddel slikt, waardoor de virtamine K afhankelijke factoren in de stollingscascade worden aangetast. Hierdoor kan haar tandvlees dus niet stollen en blijft het bloeden. Warfarine heeft invloed op de vitamine K-factoren, hier valt onder andere factor VII onder. Deze gaat via de extrinsieke route. Het is dus logisch dat de aPTT minder is verlengd dan de PT.","2025-11-12T16:07:51.429179+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Goed gedaan! Nu kijken we of je deze kennis kunt toepassen op een nieuw scenario.
+
+VIGNETTE 2:
+Een 24-jarige man komt op de spoedeisende hulp met spontaan blauwe plekken op armen en benen en langdurig bloeden na een klein wondje. Hij heeft geen familiegeschiedenis van bloedingsstoornissen. Bij lichamelijk onderzoek zie je meerdere grote, blauwe plekken en licht bloedend tandvlees.  
+Laboratoriumuitslagen:
+1. Protrombinetijd (PT): Normaal  
+2. Geactiveerde partiële tromboplastinetijd (aPTT): Verlengd  
+3. Trombocytenaantal: Normaal  
+4. Fibrinogeen: Normaal  
+
+Kun je met je kennis nu deze klachten en uitslagen verklaren? Welke mechanismen zijn hier volgens jou betrokken? Leg uit in je eigen woorden. 
+
+[■■■■■]  100% – All phases completed! Excellent work applying your knowledge.","2025-11-12T16:08:11.3631+00:00"
+"user","de aPTT is verlengd, dit betekent dat er iets bij de intrinsieke route verkeerd gaat in de stollingscascade.","2025-11-12T16:08:55.831262+00:00"
+"assistant","Dat klopt, een verlengde aPTT wijst inderdaad op een probleem in de intrinsieke route van de stollingscascade. Kun je verder toelichten aan welke stollingsfactoren je nu moet denken? En waarom is het logisch dat de PT, het trombocytenaantal en het fibrinogeen normaal zijn bij deze patiënt?
+
+Kun je het geheel uitleggen als een samenhangend klinisch verhaal? 
+
+=== End of the Session ===","2025-11-12T16:09:10.588704+00:00"
+"user","De normale waarden zijn logisch omdat hij geen uitwendige bloedingen heeft, het gaat mis bij de intrinsieke weg, niet de extrinsieke","2025-11-12T16:10:09.67271+00:00"
+"assistant","Goede redenatie! Inderdaad, de extrinsieke route (en dus de PT) is niet aangedaan, wat kenmerkend is voor een probleem met een factor uit de intrinsieke route (zoals factor VIII, IX, XI of XII). Het trombocytenaantal en het fibrinogeen zijn normaal, dus primaire hemostase en de laatste stap van de stolling zijn niet aangedaan—het defect zit specifiek in de factor(en) van de intrinsieke route, wat past bij het klinisch beeld van spontane bloedingen en blauwe plekken.
+
+Dit was heel netjes uiteengezet! Hiermee sluit je deze leeractiviteit af.
+
+=== End of the Session ===","2025-11-12T16:10:19.955653+00:00"

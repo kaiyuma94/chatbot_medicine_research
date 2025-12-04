@@ -1,0 +1,71 @@
+"role","content","created_at"
+"user","ik ben er klaar voor","2025-11-12T14:38:07.518159+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===  
+[■□□□□]  20% – Knowledge activation started! Let’s recall how haemostasis works step by step!
+
+Welkom! In deze activiteit werk je samen met een virtuele tutor om te onderzoeken hoe haemostase in het lichaam verloopt, stap voor stap volgens belangrijke fysiologische principes. Je wordt begeleid om je eigen narratief op te bouwen dat uitlegt wat er gebeurt en waarom, aan de hand van een klinisch voorbeeld.
+
+Zelf proberen uit te leggen wat er gebeurt, helpt je om verbanden te leggen, kennis langer te onthouden en later klinisch toe te passen. Dit lijkt ook op de manier waarop artsen zelf nadenken – en straks zet je deze stappen samen met je eigen patiënten!
+
+Deze activiteit bestaat uit drie fases:
+- Fase 1 – Kennisactivatie: haal op wat je al weet over haemostase. Het eerste casusvoorbeeld is een trigger om je aan het denken te zetten—en we komen hierop terug zodra deze fase afgerond is.
+- Fase 2 – Narratief constructie: pas die kennis toe om het klinische voorbeeld uit te leggen.
+- Fase 3 – Redeneren in een nieuw scenario: kijk of je het nu ook kunt toepassen op een andere casus.
+
+Je kunt altijd feedback op je voortgang opvragen via de feedbackknop — handig voor reflectie en om te bepalen waar je nog meer mee kunt oefenen!
+
+Ben je er klaar voor?
+
+Zodra je aangeeft dat je verder wilt, krijg je de eerste casus te zien!","2025-11-12T14:38:27.095498+00:00"
+"user","ik wil wel verder graag","2025-11-12T14:38:59.928441+00:00"
+"assistant","Hier komt het eerste klinische voorbeeld:
+
+Een 60-jarige vrouw presenteert zich met ernstig, levensbedreigend bloedverlies. Ze gebruikt warfarine, een antistollingsmiddel dat inwerkt op de vitamine K-afhankelijke stollingsfactoren, vanwege een hartaandoening. De afgelopen dagen merkte ze al bloedend tandvlees op.  
+Labuitslagen:
+1. Protrombinetijd (PT): Verlengd  
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verhoogd  
+3. Trombocyten aantal: Normaal  
+4. Fibrinogeen: Normaal
+
+Kun je proberen uit te leggen waardoor deze patiënte deze symptomen en labuitslagen heeft?","2025-11-12T14:39:12.486206+00:00"
+"user","Ik zou zeggen dat ze de ziekte van von wildebrand heeft, ze mist dus de von willebrand factor","2025-11-12T14:40:05.913033+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===  
+[■□□□□]  20% – Knowledge activation started! Let’s recall how haemostasis works step by step!
+
+Goede poging! Laten we een korte pauze nemen en starten met Fase 1 – Kennisactivatie. We halen kort de kernbegrippen en mechanismen op die met de casus te maken hebben. Heb je op dit moment al vragen of onderdelen waar je graag verduidelijking over wilt, voordat we verdergaan?
+
+Als je geen specifieke vragen hebt, kan ik je alvast een vraag stellen om je kennis te activeren:  
+Als jij nadenkt over hoe het lichaam een bloeding stopt na een vaatbeschadiging: welke hoofdprocessen schieten je dan als eerste te binnen?","2025-11-12T14:40:16.953239+00:00"
+"user","Bij de beschadiging van een vaat treden er een aantal processen op. Dit begint met vasoconstrictie om de bloeding zo min mogelijk te houden. Dit bestaat uit het opmerken van een beschadiging, het blootstellen van collageen waar de VWf zich aan bind.  de bloedplaatjes die van rond naar een soort zeegeel vorm gaan en de fibrine draden die zich beginnen te vormen. Dan kom je bij de secundaire hemostase hier komen de stollingsfactoren bij kijken om de fibrogeen om te zetten in fibrine en dus de fibrinedraden.","2025-11-12T14:44:34.044079+00:00"
+"assistant","Mooi overzicht! Je benoemt de vasoconstrictie, de rol van vWF en bloedplaatjes, en de vorming van fibrinedraden. Laten we het verder uitdiepen:
+
+Kun je kort uitleggen wat er precies gebeurt tijdens de ""secundaire hemostase""? Hoe zorgen de stollingsfactoren dat fibrinogeen wordt omgezet tot fibrine? Welk proces ligt daaraan ten grondslag — en waarom noemt men dit een “cascade”?","2025-11-12T14:44:43.045551+00:00"
+"user","Tijdens de secundaire hemostase word de tijdelijke ""plug"" van de bloedplaatjes verstevigd mbv fibrine. Dit gebeurd door een opeenvolging van activatie van de stollingsfactoren, een soort cascade dus (vandaar de naam). Daarna heb je de intrinsieke en de extrinsieke route. Bij de extrinsieke factor wordt factor VIIa geactiveerd dmv TF. Bij de intrinsieke route wordt Vactor IX geactiveerd met behulp van collageen wat bloed aanraakt. Door zijde routes activeert Xa zich en dan V wat het protrombine complex maakt. Trombine zet dan fibrinogeen om in fibrine waardoor je de vaste stop krijgt van het bloeden.","2025-11-12T14:48:58.56208+00:00"
+"assistant","Mooi uitgelegd! Je beschrijft duidelijk het samenspel van de intrinsieke en extrinsieke route richting de vorming van fibrine, en hoe dat uiteindelijk zorgt voor een stevige stolsel.
+
+Laten we het nog even scherp stellen:  
+Wat zou er volgens jou gebeuren als één of meer van deze stollingsfactoren missen of niet goed werken? Hoe beïnvloedt dat het totaalproces van bloedstelping?","2025-11-12T14:49:09.501586+00:00"
+"user","Het totaalproces can de bloedstelling zou daardoor best in de war raken. Vooral de secundaire homeostase zal verstoord raken. Hierdoor blijft de tijdelijke plug dus zwak (zonder de fibrine). Het ligt aan welke stollingsfactor mist en waar in de cascade deze hoort wat het precieze gevolg is, maar de secundaire homeostase zal verstoord zijn.","2025-11-12T14:51:06.856843+00:00"
+"assistant","Precies, goed opgemerkt! De ernst en het soort bloedingsprobleem hangt dan inderdaad af van welke factor ontbreekt of niet goed werkt, en op welke plek in de cascade dat gebeurt.
+
+Heb je nog vragen of onduidelijkheden over deze basiskennis rondom haemostase en het stollingssysteem? Zo niet, dan kunnen we verder naar de volgende fase en het eerste voorbeeld toepassen op wat je nu opnieuw hebt opgefrist.
+
+Laat het gerust weten als je nog iets wilt bespreken, of geef aan dat je klaar bent voor de volgende stap!","2025-11-12T14:51:16.746829+00:00"
+"user","Ik ben klaar voor de volgende stap","2025-11-12T14:51:31.107749+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===  
+[■■□□□]  40% – Knowledge activation finished! Keep going - your clinical reasoning is developing!
+
+Hier is opnieuw het eerste voorbeeld:
+
+Een 60-jarige vrouw presenteert zich met ernstig, levensbedreigend bloedverlies. Ze gebruikt warfarine, een antistollingsmiddel dat inwerkt op de vitamine K-afhankelijke stollingsfactoren, vanwege een hartaandoening. De afgelopen dagen merkte ze al bloedend tandvlees op.  
+Labuitslagen:
+1. Protrombinetijd (PT): Verlengd  
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verhoogd  
+3. Trombocyten aantal: Normaal  
+4. Fibrinogeen: Normaal
+
+Kun je nu — met de kennis die je zojuist hebt opgefrist — uitleggen waardoor deze patiënte deze symptomen en labuitslagen heeft? Probeer het onder woorden te brengen!","2025-11-12T14:51:46.575424+00:00"
+"user","Door het medicijn dat ze slikt, warmarine, wordt vitamine K geremd. Dit zorgt er voor dat de lever bepaalde stollingsfactoren niet goed kan activeren en dus de secundere homeostase is verstoord. Er wordt dus geen fibrine geproduceerd wat zorgt voor haar bloedingen","2025-11-12T14:54:07.763277+00:00"
+"assistant","Je hebt al een mooie kern te pakken: warfarine remt vitamine K, waardoor bepaalde stollingsfactoren niet goed functioneren en de secundaire hemostase verstoord raakt. 
+
+Kun je nog specifieker benoemen om welke stollingsfactoren het gaat? En kun je uitleggen waarom met name de PT (protrombinetijd) verlengd is, en de aPTT maar licht afwijkend? Wat zegt dat over het aangrijpingspunt van warfarine in de cascade?","2025-11-12T14:54:16.826998+00:00"

@@ -1,0 +1,122 @@
+"role","content","created_at"
+"user","hey","2025-11-12T15:52:06.883721+00:00"
+"assistant","Welcome! In this activity, you’ll work with a virtual tutor to explore how haemostasis happens through key physiological principles. You’ll be guided to build your own narrative that explains what happens and why in a clinical situation.
+
+Creating your own story about a case helps you connect ideas, remember them longer, and apply this knowledge in future clinical situations. At the same time, this way of reasoning mirrors how doctors make sense of what happens in their patients—and one day, you’ll use it to work and reason together with your own patients.
+
+This activity has three phases designed to help you learn step by step:
+Phase 1 – Knowledge Activation: recall what you already know about haemostasis. The first case serves as a trigger to help you think and reflect — we’ll return to the case once we’ve completed this knowledge activation phase.
+Phase 2 – Narrative Construction: apply that knowledge to explain what happens in a given scenario.
+Phase 3 – Reasoning Transfer: use your understanding to reason through a new case and see how the same principles apply.
+
+Please note that you can access feedback on your learning progress at any time by clicking the feedback button — it’s a helpful way to reflect on what you’ve learned and what to focus on next!
+
+Ready to begin?","2025-11-12T15:52:22.846519+00:00"
+"user","nederlands graag","2025-11-12T15:52:27.588305+00:00"
+"assistant","Zeker! We gaan samen stap voor stap werken aan jouw begrip van hemostase met behulp van een klinisch voorbeeld. Jij bouwt je eigen verhaal om te verklaren wat er gebeurt en waarom — precies zoals een arts dat ook in de praktijk doet.
+
+Deze activiteit bestaat uit drie fasen:
+Fase 1 – Kennis activeren: eerst haal je herinneringen op over hoe hemostase werkt. De eerste casus helpt als prikkel om na te denken — zodra we de basiskennis hebben opgefrist, keren we terug naar die casus.
+Fase 2 – Narratief bouwen: je legt zelf, in je eigen woorden, uit wat er in het scenario aan de hand is.
+Fase 3 – Redeneren in een nieuwe situatie: je past jouw kennis toe op een andere casus.
+
+Je kunt altijd de voortgangsfeedback bekijken om te zien waar je staat en waaraan je verder kunt werken.
+
+Klaar om te starten?","2025-11-12T15:52:41.643505+00:00"
+"user","ja","2025-11-12T15:52:43.523247+00:00"
+"assistant","Hier komt de eerste casus om je denken te prikkelen:
+
+Een vrouw van 60 jaar komt binnen met levensbedreigende bloedingen. Ze gebruikt warfarine, een antistollingsmiddel dat werkt op de vitamine K-afhankelijke stollingsfactoren, vanwege een hartprobleem. De afgelopen dagen had ze al last van bloedend tandvlees.  
+Laboratoriumuitslagen:
+1. Protrombinetijd (PT): Verlengd  
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verlengd  
+3. Aantal bloedplaatjes: Normaal  
+4. Fibrinogeen: Normaal  
+
+Kun jij uitleggen waardoor deze patiënte deze symptomen en labuitslagen heeft?","2025-11-12T15:52:55.238986+00:00"
+"user","door het antistollingsmiddel is de PT en APTT dus inderdaad langer. Bloedplaatjes veranders niet en fibrinogeen niet","2025-11-12T15:53:52.790276+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===  
+[■□□□□]  20% – Knowledge activation gestart! Laten we de kernconcepten samen opfrissen.
+
+Goed geprobeerd! Laten we even pauzeren en starten met Fase 1 – Kennis activeren. In deze fase staan de belangrijkste begrippen en mechanismen van hemostase centraal voordat we teruggaan naar deze casus. Zijn er vragen of dingen waar je meer over wil weten voordat we van start gaan?
+
+Als niet: Als je denkt aan hoe het lichaam een bloeding stopt na beschadiging van een bloedvat, welke hoofdprocessen schieten je dan als eerste te binnen?","2025-11-12T15:54:02.404967+00:00"
+"user","dan zorgen ze dat er een korst op komt","2025-11-12T15:54:16.710394+00:00"
+"assistant","Goed, het lichaam zorgt inderdaad voor een soort “korst”, oftewel een stolsel, op de wond. Kun je uitleggen welke stappen er allemaal gebeuren voordat zo’n korst daadwerkelijk ontstaat? Welke mechanismen zijn erbij betrokken, denk je?","2025-11-12T15:54:22.012731+00:00"
+"user","de bloedplaatjes hechten zich aan de plek waar het bloedvast stuk is, dan veranderen ze van vorm voor meer oppervlakte en dan worden er stoffen uitgescheden en hechten ze ook aan elkaar goed vast","2025-11-12T15:55:04.492999+00:00"
+"assistant","Heel goed! Je beschrijft hier het begin van primaire hemostase: de bloedplaatjesplak. Dit is een cruciale eerste stap.  
+
+Weet je wat er daarna gebeurt om de plug steviger en stabieler te maken? Kun je uitleggen wat er nodig is voor het vormen van een blijvend, sterk stolsel na deze eerste fase?","2025-11-12T15:55:11.550415+00:00"
+"user","fibrinogeen","2025-11-12T15:55:30.412546+00:00"
+"assistant","Klopt! Fibrinogeen speelt een belangrijke rol in het versterken van het stolsel. Kun je uitleggen hoe fibrinogeen wordt omgezet in iets dat het stolsel stevig maakt? Wat is hier het mechanisme achter?","2025-11-12T15:55:36.522817+00:00"
+"user","ik zou et niet weten","2025-11-12T15:55:46.289438+00:00"
+"assistant","Geen probleem — dat is precies waarvoor deze oefening bedoeld is!
+
+Fibrinogeen wordt omgezet naar fibrine, en dit maakt het stolsel sterker. Weet je misschien welk proces of welke factor verantwoordelijk is voor die omzetting van fibrinogeen naar fibrine? Of kun je aangeven wat je weet over het stollingsproces in het bloed na de activatie van de bloedplaatjes?","2025-11-12T15:55:53.734662+00:00"
+"user","dat weet ik niet","2025-11-12T15:56:14.584104+00:00"
+"assistant","Helemaal prima, dat is normaal in het begin! Het stollingsproces bestaat uit een keten van reacties waarbij verschillende stollingsfactoren elkaar activeren. Op die manier wordt uiteindelijk het enzym trombine gevormd, en trombine zet fibrinogeen om in fibrine.
+
+Heb je vragen over wat stollingsfactoren zijn, of waarom het systeem als een “cascade” werkt van opeenvolgende reacties? Of is er iets anders aan deze basis dat je nog wilt verduidelijken voordat we verdergaan naar de volgende fase?","2025-11-12T15:56:24.765178+00:00"
+"user","volgende fase","2025-11-12T15:56:35.509852+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===  
+[■■□□□]  40% – Kennis activeren voltooid! Goed bezig – je denkkracht groeit!
+
+Hier is de casus nogmaals:
+
+Een vrouw van 60 jaar komt binnen met levensbedreigende bloedingen. Ze gebruikt warfarine, een antistollingsmiddel dat werkt op de vitamine K-afhankelijke stollingsfactoren, vanwege een hartprobleem. De afgelopen dagen had ze al last van bloedend tandvlees.  
+Laboratoriumuitslagen:
+1. Protrombinetijd (PT): Verlengd  
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verlengd  
+3. Aantal bloedplaatjes: Normaal  
+4. Fibrinogeen: Normaal  
+
+Kun je nu — met wat je hebt herhaald — uitleggen hoe haar symptomen en labuitslagen samenhangen met het onderliggende probleem van de stolling? Probeer je eigen redenering zo volledig mogelijk op te schrijven.","2025-11-12T15:56:50.34623+00:00"
+"user","door de mediceijnen is de stollingstijd PT en aPTT verlengd, het duurt dus langer voordat iets stolt.","2025-11-12T15:57:36.997559+00:00"
+"assistant","Dat klopt, haar medicijnen verlengen inderdaad de PT en aPTT. Kun je misschien verduidelijken hoe warfarine precies zorgt voor die langere stollingstijd? Welke factoren of stappen in de stollingscascade worden beïnvloed door warfarine? Wat is het uiteindelijke effect op het vormen van fibrine en het stevige stolsel?","2025-11-12T15:57:44.312514+00:00"
+"user","ze zorgen ervoor dat er minder is van bepaalde factoren","2025-11-12T15:58:00.355919+00:00"
+"assistant","Heel goed! Warfarine beïnvloedt inderdaad de hoeveelheid van bepaalde stollingsfactoren. Kun je misschien benoemen welke groep factoren dit zijn, of op welk proces in de cascade dit effect heeft? En hoe verklaar je aan de hand hiervan waarom vooral de PT zo sterk verlengd is?","2025-11-12T15:58:09.884457+00:00"
+"user","misschien de trombine","2025-11-12T15:58:14.683626+00:00"
+"assistant","Dat is een goed spoor, want trombine is inderdaad cruciaal in de omzetting van fibrinogeen naar fibrine. Warfarine werkt echter iets eerder in de cascade. Het zorgt ervoor dat de lever minder van de zogenaamde vitamine K-afhankelijke stollingsfactoren kan maken. Weet je welke factoren dit zijn en hoe dit verklaart dat vooral de PT (die het extrinsieke pad test) als eerste verlengt? Of heb je hierover nog een vraag?","2025-11-12T15:58:23.140319+00:00"
+"user","ik ken de factoren en wanneer ze voorkomen nog niet uit mijn hoofd","2025-11-12T15:58:45.830629+00:00"
+"assistant","Geen probleem! De belangrijkste vitamine K-afhankelijke factoren zijn II (trombine), VII, IX en X. Vooral factor VII heeft een korte halfwaardetijd en raakt als eerste uitgeput als warfarine wordt gebruikt. Dit verklaart waarom de PT — die gevoelig is voor factor VII — meestal als eerste verlengd raakt. 
+
+Zie je nu hoe een tekort aan deze factoren door warfarine het hele stolselvormingsproces bemoeilijkt? Of wil je nog iets verder verduidelijkt hebben over deze stap?","2025-11-12T15:58:55.768418+00:00"
+"user","ik snap het","2025-11-12T15:59:20.744634+00:00"
+"assistant","Mooi! Laten we nu je begrip toetsen met een overzicht:
+
+Dezelfde casus:  
+Een vrouw van 60 jaar met levensbedreigende bloedingen, gebruikt warfarine.  
+Lab: PT verlengd, aPTT licht verlengd, bloedplaatjes normaal, fibrinogeen normaal.
+
+Beantwoord nu deze vraag zo volledig mogelijk:
+
+Hoe begrijp je nu de symptomen en labuitslagen van deze patiënte? Schrijf zo gedetailleerd mogelijk op — je ideeën, onderbouwing en welke concepten je hebt gekoppeld aan wat je geleerd hebt. Hiermee verdiep je je kennis en bereid je je optimaal voor op soortgelijke casussen!
+
+(Zodra je antwoord klaar is, gaan we door naar de laatste fase.)","2025-11-12T15:59:32.486342+00:00"
+"user","Pt eb aptt us dus langer want medicijnen hebben invloed op factor VII en die iz heel belanrgijk voor stolsels","2025-11-12T16:00:31.181088+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===  
+[■■■□□]  60% – Fase 2 afgerond! Op naar de laatste uitdaging – laat je klinische redeneervaardigheden zien!
+
+Hier is een nieuwe casus om je kennis toe te passen:
+
+Een man van 24 jaar komt op de spoedeisende hulp met spontane blauwe plekken op armen en benen en langdurig nabloeden na een kleine wond. Geen familiegeschiedenis van bloedingsziekten. Lichamelijk onderzoek: meerdere grote blauwe plekken en licht bloedend tandvlees.  
+Laboratorium:
+1. PT: Normaal  
+2. aPTT: Verlengd  
+3. Bloedplaatjes: Normaal  
+4. Fibrinogeen: Normaal  
+
+Kun je uitleggen hoe deze klachten en labuitslagen samenhangen met het onderliggende stollingsmechanisme? Probeer je eigen verhaal te maken!","2025-11-12T16:00:44.704651+00:00"
+"user","er is een factor in aPTT die het niet goed doet","2025-11-12T16:01:20.870255+00:00"
+"assistant","Goed gezien! De verlengde aPTT wijst inderdaad op een probleem met een factor uit het intrinsieke stollingspad. Kun je toelichten welke factoren hieronder vallen, en hoe een tekort daaraan zorgt voor zijn klachten? Denk ook aan het verschil met het extrinsieke pad (PT), dat wel normaal is. Wat gebeurt er dan bij de omzetting naar een stevig stolsel?","2025-11-12T16:01:29.435628+00:00"
+"user","8 11 en 9","2025-11-12T16:02:00.678938+00:00"
+"assistant","Precies! De intrinsieke route bestaat onder andere uit factor VIII, IX en XI (en XII). Als één van deze niet goed functioneert of ontbreekt, ontstaat er verstoring in de cascade en wordt er onvoldoende trombine gevormd. Daardoor wordt te weinig fibrine gemaakt en ontstaat een zwak of instabiel stolsel.
+
+Kun je met deze informatie uitleggen waarom deze patiënt, ondanks normale bloedplaatjes en extrinsieke route, toch makkelijk blauwe plekken en nabloedingen krijgt? Wat betekent dat voor de vorm en stevigheid van de stolsels bij deze patiënt?
+
+(Als je wilt mag je dit nog even uitschrijven, laat het gerust weten als je vragen hebt!)","2025-11-12T16:02:21.8612+00:00"
+"user","het stollen kan dus niet/heel langzaam. dus vandaar dat hij snel blauwenplekken en nabloedingen heeft","2025-11-12T16:02:53.496352+00:00"
+"assistant","Dat klopt! Door het gebrek aan (of defecte) factoren in de intrinsieke weg wordt onvoldoende trombine en fibrine gevormd. Hierdoor verloopt de stolling traag of onvolledig, waardoor zelfs kleine verwondingen of gewone stoten gemakkelijk leiden tot blauwe plekken en nabloeding. De bloedplaatjes werken wél normaal, dus de eerste plug vormt zich, maar zonder voldoende fibrinesteun blijft het stolsel zwak.
+
+=== End of the Session ===  
+[■■■■■]  100% – Alle fasen voltooid! Sterk gewerkt, je hebt de basis van klinisch redeneren met hemostase gezet.","2025-11-12T16:03:05.027109+00:00"

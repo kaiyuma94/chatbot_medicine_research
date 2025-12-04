@@ -1,0 +1,60 @@
+"role","content","created_at"
+"user","yo","2025-11-05T16:31:39.231781+00:00"
+"assistant","Welkom! In deze activiteit werk je samen met een virtuele tutor om te onderzoeken hoe bloed en gaswisseling werken aan de hand van belangrijke fysiologische principes. Je wordt begeleid om je eigen uitleg te geven over wat er gebeurt in een klinische situatie.
+
+Je eigen verhaal maken over een casus helpt je om ideeën te verbinden, het langer te onthouden, en deze kennis toe te passen in toekomstige klinische situaties. Tegelijkertijd lijkt deze manier van redeneren op hoe artsen begrijpen wat er bij hun patiënten gebeurt – en op een dag zul je dit zelf in de praktijk brengen.
+
+Deze activiteit bestaat uit drie fasen om je stap voor stap te begeleiden:
+Fase 1 – Kennisactivatie: haal op wat je al weet over bloed en gaswisseling.
+Fase 2 – Narratief construeren: pas die kennis toe om uit te leggen wat er gebeurt in een casus.
+Fase 3 – Redenatie overdragen: gebruik je inzicht in een nieuwe casus en zie hoe dezelfde principes werken.
+
+Ben je er klaar voor om te beginnen?","2025-11-05T16:31:56.062619+00:00"
+"user","Als je inhaleert met de longen dan komt de lucht uiteindelijk in longblaasjes. Zuurstof diffundeert dan over het membraam naar de haarvaten waar hemoglobine bind aan zuurstof mbv een Fe atoom. vanaf daar stroomt het zuurstofrijke bloed door de longader naar de rest van het lichaam om het lichaam te voorzien van zuurstofrijkbloed","2025-11-05T16:34:29.915556+00:00"
+"assistant","Mooi begin! Hier komt alvast de eerste casus zodat we dit samen kunnen verkennen:
+
+Een 65-jarige vrouw wordt opgenomen in het ziekenhuis met toenemende kortademigheid sinds 3 maanden. De klachten zijn de laatste dagen duidelijk erger geworden. Zelfs kleine huishoudelijke taken en lopen kosten veel moeite, waarbij ze vaak tussendoor op adem moet komen. Ook heeft ze een toename van haar gebruikelijke hoest en koorts.  
+Ze heeft 5 jaar geleden de diagnose COPD gekregen. Bij COPD leidt een chronische ontsteking tot schade aan de alveolaire wanden, en airway remodeling verdikt de alveolair-capillaire barrière.  
+Laboratoriumonderzoek:  
+- Hemoglobine: 10,0 g/dL (Referentie: 12–16 g/dL)  
+- Arterieel bloedgas:  
+  1. pH: 7,30 (Referentie: 7,35–7,45) → acidose  
+  2. Partiële zuurstofdruk (PaO₂): 65 mmHg (Referentie: 80–100 mmHg)  
+  3. Partiële koolstofdioxidedruk (PaCO₂): 51 mmHg (Referentie: 35–45 mmHg)  
+  4. Percentage zuurstofverzadiging van hemoglobine (SaO₂): 89% (Referentie: 95–100%)  
+
+Kun je uitleggen waarom deze patiënte kortademigheid heeft en hoe haar labwaarden in verband staan met wat er in haar lichaam gebeurt?","2025-11-05T16:34:52.822425+00:00"
+"user","Oke wat ik hier zie aan de waarde zijn: een verlaagd hemoglobine, een verlaagde PaO2, een redelijk verhoogde PaCO2  en een lage saturatie van zuurstof. Ze heeft waarschijnlijk door schade aan de aleveolaire wanden een verhoogde een verminderde gasuiwisseling, en verminderd transport van zuurstof. Hierdoor stijgt de PaCO2 en verlaagd de PaO2, doordat de pH daalt heeft ze de kortademigheid. HEmoglobine is laag en dat zou kunnen wijzen op een potentiele lichte anemie","2025-11-05T16:38:42.342078+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we even pauzeren en beginnen met Fase 1 – Kennisactivatie. In deze fase lopen we kort samen door de belangrijkste concepten en mechanismen die te maken hebben met deze casus. Zijn er specifieke vragen of punten die je eerst wilt verduidelijken voordat we starten?
+
+Als je wilt beginnen:  
+Als je denkt aan bloed en gaswisseling als geheel, welke hoofdprocessen komen dan bij je op? Denk daarbij aan welke rol de longen, het bloed en de weefsels spelen in dit systeem. Wat weet je hierover?","2025-11-05T16:38:55.256227+00:00"
+"user","Wet van fick en de Bohr curve","2025-11-05T16:39:17.414019+00:00"
+"assistant","Mooi dat je deze noemt!  
+Kun je kort toelichten wat de wet van Fick inhoudt in de context van gaswisseling in de longen? En wat zegt de Bohr-curve over hoe hemoglobine met zuurstof omgaat in verschillende omstandigheden?
+
+Probeer het in je eigen woorden uit te leggen.","2025-11-05T16:39:24.810862+00:00"
+"user","De wet van fick houdt eigenlijk de diffusiesnelheid in over het membraam van de longblaasjes en de bohr curve zegt iets over de affiniteit van zuurstof aan hemoglobine bij een bepaalde pH","2025-11-05T16:40:20.697284+00:00"
+"assistant","Goed uitgelegd! Kun je iets meer vertellen over welke factoren de diffusiesnelheid volgens de wet van Fick beïnvloeden in de alveoli? 
+
+En bij de Bohr-curve: wat gebeurt er met de zuurstofafgifte aan de weefsels als de pH daalt of als het CO₂-gehalte stijgt? 
+
+Leg beide onderdelen kort toe.","2025-11-05T16:40:28.896333+00:00"
+"user","Bij de wet van fick is het zo hoe groter het oppervlakte bijvoorbeeld, des te hoger de diffusiesnelheid. Factoren zoals een concentratieverschil en de diffusiecoeficient zijn hier belangrijk. Bij het bohr effect daalt de affiniteit van hemoglobine voor O2 wanneer het CO2 gehalte stijgt, omdat hemoglobine het dan afgeeft aan de weefsels","2025-11-05T16:43:18.545878+00:00"
+"assistant","Precies, heel scherp! Je noemt duidelijke hoofdpunten van beide effecten.
+
+Laatste vraagje voordat we doorgaan: wat gebeurt er met de transport en afgifte van CO₂ in het bloed wanneer hemoglobine juist méér zuurstof opneemt in de longen? Weet je welk effect daarbij hoort?
+
+En als je nog een korte samenvatting kan geven: hoe werken Bohr- en Haldane-effect samen om gaswisseling efficiënt te laten verlopen?","2025-11-05T16:43:27.33311+00:00"
+"user","Het omgekeerde effect is er in de longen van het bohr effect, zuurstiof heeft an juist meer affiniteit voor hemoglobine. Omgekeerde bohr effect. Het haldane effect zorgt voor meer afgifte van CO2 doordat de affiniteit hoger voor CO2 is in lage PH situaties","2025-11-05T16:47:18.791674+00:00"
+"assistant","Mooie poging! Je hebt de hoofdlijn van het Haldane-effect te pakken, maar kun je hem nog net iets preciezer formuleren?  
+
+Wat gebeurt er met de CO₂-afgifte door hemoglobine zodra er meer zuurstof aan hemoglobine bindt in de longen? Hoe draagt dat bij aan het efficiënt verwijderen van CO₂ uit het bloed? Kun je deze stap nog in je eigen woorden uitleggen, zodat het helemaal duidelijk is?","2025-11-05T16:47:28.859581+00:00"
+"user","n de longen: Zuurstof bindt aan hemoglobine. De hemoglobine wordt hierdoor zuurstofrijker (geoxygeneerd). Geoxygeneerde hemoglobine heeft een lagere affiniteit voor protonen (\(H^{+}\)), waardoor er meer protonen vrijkomen. Dit zorgt ervoor dat bicarbonaat (\(HCO_{3}^{-}\)) wordt omgezet naar \(CO_{2}\) en water, waardoor de \(CO_{2}\) het bloed kan verlaten en uitgeademd wordt.","2025-11-05T16:47:58.858817+00:00"
+"assistant","Heel goed en precies uitgelegd! Je hebt nu duidelijk in beeld hoe het Haldane-effect bijdraagt aan de afgifte van CO₂ in de longen.
+
+Heb je op dit moment nog vragen over een van deze basisprincipes? Of voelt de stof helder genoeg aan om door te gaan naar de volgende fase?
+
+[■□□□□]  20% – Kennisactivatie gestart! Je hebt de bouwstenen voor gaswisseling goed in beeld.","2025-11-05T16:48:08.273163+00:00"

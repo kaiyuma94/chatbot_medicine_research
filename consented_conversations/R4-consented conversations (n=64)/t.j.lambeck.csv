@@ -1,0 +1,48 @@
+"role","content","created_at"
+"user","ik ben klaar om te beginnen","2025-11-05T16:47:19.194404+00:00"
+"assistant","Welkom! In deze activiteit ga je samen met een virtuele tutor onderzoeken hoe bloed en gaswisseling verlopen aan de hand van belangrijke fysiologische principes. Je wordt begeleid in het opbouwen van je eigen verhaal om te verklaren wat er gebeurt en waarom in een klinische situatie.
+
+Zelf een verhaal maken over een patiënt helpt je om verbanden te leggen, de stof langer te onthouden en deze kennis later in andere klinische situaties toe te passen. Dit lijkt op hoe artsen in de praktijk redeneren bij echte patiënten—en straks ga jij dat ook doen!
+
+Deze activiteit bestaat uit drie onderdelen om je stap voor stap te begeleiden:
+Fase 1 – Kennis activeren: ophalen wat je al weet over bloed en gaswisseling.
+Fase 2 – Narratief bouwen: die kennis toepassen om te verklaren wat er gebeurt in een casus.
+Fase 3 – Toepassing op een nieuwe situatie: je kennis inzetten bij een nieuw scenario.
+
+Klaar om te beginnen?
+
+Als je er klaar voor bent, lees dan onderstaande casus en leg uit waarom deze patiënt kortademig is en afwijkende labwaarden heeft:
+
+Een 65-jarige vrouw wordt opgenomen in het ziekenhuis met toenemende kortademigheid sinds drie maanden. In de afgelopen dagen zijn haar klachten erger geworden. Zelfs lichte huishoudelijke taken en lopen lukken nauwelijks nog, en ze moet vaak pauzeren om op adem te komen. Ze heeft ook een toename van haar gebruikelijke hoest en koorts opgemerkt.
+Ze kreeg vijf jaar geleden de diagnose COPD. Bij COPD zorgt chronische ontsteking voor beschadiging van de alveolaire wanden en zorgt remodellering van de luchtwegen voor verdikking van de alveolo-capillaire barrière.
+Labresultaten:
+- Hemoglobine: 10,0 g/dL (referentie: 12–16 g/dL)
+- Bloedgas:
+  1. pH: 7,30 (referentie: 7,35–7,45) → acidose
+  2. Zuurstofspanning (PaO₂): 65 mmHg (referentie: 80–100 mmHg)
+  3. Koolstofdioxidespanning (PaCO₂): 51 mmHg (referentie: 35–45 mmHg)
+  4. Hemoglobineverzadiging met O₂ (SaO₂): 89% (referentie: 95–100%)
+
+Leg uit waarom deze patiënt kortademig is en waarom haar laboratoriumuitslagen zo zijn.","2025-11-05T16:47:58.864549+00:00"
+"user","de patiënt heeft een lage hemoglobine waarde","2025-11-05T16:48:21.059822+00:00"
+"assistant","Inderdaad, een laag hemoglobinegehalte betekent dat er minder zuurstof door het bloed getransporteerd kan worden. Dat draagt zeker bij aan haar klachten. Maar wat kun je zeggen over de rol van haar longen? Hoe denk je dat COPD en haar afwijkende bloedgassen bijdragen aan haar kortademigheid en de overige afwijkingen in het lab?","2025-11-05T16:48:31.324539+00:00"
+"user","Door het COPD is er meer slijm in de luchtwegen en is het ook een beetje ontstoken waardoor het zuurstof lastiger in het bloed diffundeert","2025-11-05T16:49:50.143711+00:00"
+"assistant","Heel goed! Je benoemt het slijm en de ontsteking bij COPD die de zuurstofopname belemmeren. Daardoor is de zuurstofspanning (PaO₂) verlaagd in het bloed. Kun je bedenken waarom haar koolstofdioxide (PaCO₂) juist verhoogd is, en wat dat betekent voor de pH van haar bloed?","2025-11-05T16:49:57.611422+00:00"
+"user","door die verdikking is het ook lastiger om CO2 uit het bloed te krijgen en uiteindelijk zorgt deze hoge waarde van CO2 voor verzuring van het bloed wat kan leiden tot je uiteindelijk orgaanfalen kan hebben","2025-11-05T16:51:41.945731+00:00"
+"assistant","Precies! De verdikking van de alveolo-capillaire barrière hindert ook de afgifte van CO₂ aan de longblaasjes, waardoor het CO₂ in het bloed blijft en zo een respiratoire acidose veroorzaakt. 
+
+Nu vraag ik me af: de zuurstofsaturatie van het hemoglobine is ook laag, ondanks dat er toch zuurstof in de longen aanwezig is. Heb je een idee welke rol het zuurstofbindingsvermogen van hemoglobine hierin speelt? En weet je misschien waardoor dit zuurstofbindingsvermogen verandert in verschillende omstandigheden?","2025-11-05T16:51:52.006723+00:00"
+"user","ik snap dit niet leg me dit uit","2025-11-05T16:53:05.551999+00:00"
+"assistant","Natuurlijk! Hemoglobine in rode bloedcellen kan zuurstof opnemen in de longen en afgeven aan de weefsels. Hoe sterk hemoglobine zuurstof vasthoudt, hangt af van de omstandigheden zoals zuurgraad (pH), hoeveelheid CO₂, en temperatuur. 
+
+Als er veel CO₂ is of als het bloed zuurder wordt (lage pH), laat hemoglobine zuurstof makkelijker los: dat noemen we het Bohr-effect. In actieve weefsels, waar veel CO₂ en melkzuur geproduceerd worden, helpt dit om extra zuurstof af te geven. Maar als dit effect al in de longen optreedt—zoals bij deze patiënt met veel CO₂ en een lage pH—wordt zuurstof juist moeilijker opgenomen door hemoglobine, waardoor de saturatie lager blijft.
+
+Kun je met deze uitleg nu zelf bedenken wat er gebeurt met het zuurstofbindingsvermogen van hemoglobine bij deze patiënt en waarom haar saturatie laag blijft?","2025-11-05T16:53:19.285288+00:00"
+"user","nee help me","2025-11-05T16:54:08.727933+00:00"
+"assistant","Geen probleem, ik help je verder.
+
+Door het hoge CO₂-gehalte en de lagere pH in haar bloed (dus zuur milieu), verandert de vorm van hemoglobine. Hierdoor houdt hemoglobine minder goed aan zuurstof vast (het Bohr-effect). In gezonde omstandigheden zorgt dat ervoor dat zuurstof makkelijker wordt afgegeven aan de weefsels. Maar als dit al gebeurt in de longen—zoals bij deze patiënt—betekent het dat hemoglobine minder goed verzadigd raakt met zuurstof, ook al ademt ze zuurstof in.
+
+Daardoor blijft de zuurstofsaturatie (SaO₂) van haar hemoglobine in het bloed dus relatief laag.
+
+Wil je dat ik nog iets verder toelicht over het Bohr-effect, of wil je het nu samenvatten in je eigen woorden?","2025-11-05T16:54:22.410398+00:00"

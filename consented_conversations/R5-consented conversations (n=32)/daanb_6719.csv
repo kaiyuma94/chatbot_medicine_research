@@ -1,0 +1,103 @@
+"role","content","created_at"
+"user","jo","2025-11-12T16:49:26.44056+00:00"
+"assistant","Welcome! In this activity, you’ll work with a virtual tutor to explore how haemostasis happens through key physiological principles. You’ll be guided to build your own narrative that explains what happens and why in a clinical situation.
+
+Creating your own story about a case helps you connect ideas, remember them longer, and apply this knowledge in future clinical situations. At the same time, this way of reasoning mirrors how doctors make sense of what happens in their patients—and one day, you’ll use it to work and reason together with your own patients.
+
+This activity has three phases designed to help you learn step by step:
+Phase 1 – Knowledge Activation: recall what you already know about haemostasis. The first case serves as a trigger to help you think and reflect — we’ll return to the case once we’ve completed this knowledge activation phase.
+Phase 2 – Narrative Construction: apply that knowledge to explain what happens in a given scenario.
+Phase 3 – Reasoning Transfer: use your understanding to reason through a new case and see how the same principles apply.
+
+Please note that you can access feedback on your learning progress at any time by clicking the feedback button — it’s a helpful way to reflect on what you’ve learned and what to focus on next!
+
+Ready to begin?","2025-11-12T16:49:43.068289+00:00"
+"user","in het nederlands","2025-11-12T16:50:08.333657+00:00"
+"assistant","Welkom! In deze activiteit werk je samen met een virtuele tutor om te ontdekken hoe hemostase verloopt aan de hand van belangrijke fysiologische principes. Je wordt begeleid om je eigen verhaal op te bouwen dat uitlegt wat er gebeurt en waarom, in een klinische situatie.
+
+Door je eigen verhaal te maken over een casus, leg je verbindingen tussen ideeën, onthoud je ze langer en kun je deze kennis beter toepassen in toekomstige klinische situaties. Deze manier van redeneren weerspiegelt ook hoe artsen begrijpen wat er gebeurt bij hun patiënten — en op een dag zul jij op dezelfde manier samen met je eigen patiënten werken.
+
+Deze activiteit bestaat uit drie fasen waarin je stap voor stap leert:
+Fase 1 – Kennisactivering: je haalt op wat je al weet over hemostase. De eerste casus is bedoeld als prikkel om na te denken — we komen hierop terug na deze kennisactiveringsfase.
+Fase 2 – Narratief Constructie: je past je kennis toe om uit te leggen wat er in een gegeven scenario gebeurt.
+Fase 3 – Overdracht van Redenering: je gebruikt je kennis om uit te leggen wat er gebeurt bij een nieuwe casus en ziet hoe dezelfde principes daar gelden.
+
+Je kunt op elk moment feedback op je voortgang vragen via de feedback-knop — dit helpt je reflecteren op wat je geleerd hebt en waar je verder op kunt letten!
+
+Ben je klaar om te beginnen?","2025-11-12T16:50:27.0369+00:00"
+"user","Je hebt eigenlijk twee grote sectoren: de primaire en secundaire hemostase, waar de primaire hemostase vooral bestaat uit de tormbocyten: adhesie, aggregatie activatie m.b.v. bijvoorbeeld de vWf. En de secundaure hemostase bestaat uit de omzetting van fibrinogeen naar fibrine en pro trombine naar trombine m.b.v. allerlei factoren","2025-11-12T16:53:16.979407+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed uitgelegd! Je noemt inderdaad de primaire hemostase, waarbij trombocyten een centrale rol spelen, en de secundaire hemostase, waarin fibrinestolling centraal staat door activatie van stollingsfactoren.
+
+Laten we een korte pauze nemen om Fase 1 – Kennisactivering te starten. In deze fase bespreken we kort de belangrijkste concepten en mechanismen die bij de casus horen. Zijn er vóór we beginnen nog vragen of onduidelijkheden over deze basisprincipes?
+
+[■□□□□]  20% – Knowledge activation started! Let’s recall how haemostasis works step by step!","2025-11-12T16:53:36.744566+00:00"
+"user","vasoconstrictie (het vernauwen van het bloedvat), primaire hemostase (vorming van een bloedplaatjesprop) en secundaire hemostase (de stolling van plasma, waarbij een stevig fibrine-stolsel wordt gevormd). Als laatste wordt het stolsel weer afgebroken tijdens fibrinolyse wanneer het bloedvat hersteld is.","2025-11-12T16:54:09.477347+00:00"
+"assistant","Prima, je hebt goed de grote lijnen van hemostase geschetst: eerst vasoconstrictie, dan primaire en secundaire hemostase, en tot slot fibrinolyse. Zou je kunnen uitleggen waarom het bloed stolt via een complexe cascade van stollingsfactoren in plaats van één enkel snelle stap, denk je? Wat zou het voordeel kunnen zijn van deze serie van opeenvolgende reacties?","2025-11-12T16:54:17.26134+00:00"
+"user","het voordeel van zoveel stappen is dat de hemostase daardoor minder kwetsbaar is en een goede grond heeft om het proces in leven te houden. Bijvoorbeeld als factor 12 mist, id dat niet een ramp. Het zorgt ervoor dat het bestand is","2025-11-12T16:55:22.515758+00:00"
+"assistant","Dat is een mooie gedachte—de cascade brengt inderdaad robuustheid met zich mee. Maar denk ook eens aan de regulatie en snelheid van het proces: waarom zou een kettingreactie de controle over het stolsel verbeteren? Hoe helpt deze opeenvolging van stappen bij het (snelle) stoppen van bloedingen en tegelijk het voorkomen van overmatige stolling?","2025-11-12T16:55:29.094949+00:00"
+"user","het zorgt ook voor homeostase van de stolling, zodat het evenwichtig blijft en bijvoorbeeld geen trombi veroorzaakt","2025-11-12T16:56:15.414187+00:00"
+"assistant","Precies—de cascade zorgt ervoor dat het lichaam het proces nauwkeurig kan sturen: snel opstarten wanneer nodig, maar ook tijdig stoppen of afremmen om overdreven stolselvorming te voorkomen. De vele stappen bieden dus controle- en afrempunten.
+
+Kun je nu uitleggen wat bedoeld wordt met de intrinsieke en extrinsieke route van de stollingscascade? Wat triggert deze verschillende routes, en hoe komen ze uiteindelijk samen?","2025-11-12T16:56:24.367323+00:00"
+"user","Het zorgt ervoor dat er als het ware een homeostase is van de hemostase. Dit is belangrijk zodat het proces evenwichtig blijft en er bijvoorbeeld geen overmatige trombi ontstaan","2025-11-12T16:57:25.428847+00:00"
+"assistant","Dat klopt! De regulatie via meerdere routes en feedbackmechanismen zorgt voor een dynamisch evenwicht en voorkomt complicaties zoals trombose.
+
+Kun je nu beschrijven wat het verschil is tussen de intrinsieke en extrinsieke route van de stollingscascade? Wat is het startpunt van elke route, en waarom heb je beide routes nodig voor een goede hemostase?","2025-11-12T16:57:33.286906+00:00"
+"user","hallo ik was bij kennisactivatie gebleven, de chatbot werkte net niet","2025-11-12T16:58:21.069178+00:00"
+"assistant","Welkom! Fijn dat je weer verder wilt. 
+
+Hier is de eerste casus om het onderwerp te verkennen:
+
+###VIGNETTE 1###
+Een 60-jarige vrouw presenteert zich met ernstige, levensbedreigende bloedingen. Ze gebruikt warfarine, een antistollingsmiddel dat inwerkt op de vitamine K-afhankelijke factoren, vanwege een hartprobleem. Ze had de afgelopen dagen al bloedend tandvlees opgemerkt. 
+Laboratoriumresultaten:
+1. Protrombinetijd (PT): Verlengd
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verhoogd
+3. Trombocytentelling: Normaal
+4. Fibrinogeen: Normaal
+
+Kun je de symptomen van de patiënte en de laboratoriumuitslagen uitleggen?","2025-11-12T16:58:34.474187+00:00"
+"user","haar exinstrieke en intrinsieke stollingstijd zijn meer, dus er is iets meer met de stolling","2025-11-12T17:00:09.678796+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we een korte pauze nemen en Phase 1 – Kennisactivatie starten. In deze fase halen we samen de belangrijkste concepten en mechanismen op die met dit geval te maken hebben. Zijn er vragen of onduidelijkheden die je graag eerst zou willen bespreken voordat we beginnen?
+
+[■□□□□]  20% – Kennisactivatie gestart! Laten we stap voor stap de werking van haemostase ophalen!","2025-11-12T17:00:17.957297+00:00"
+"user","vasoconstrictie (het vernauwen van het bloedvat), primaire hemostase (vorming van een bloedplaatjesprop) en secundaire hemostase (de stolling van plasma, waarbij een stevig fibrine-stolsel wordt gevormd). Als laatste wordt het stolsel weer afgebroken tijdens fibrinolyse wanneer het bloedvat hersteld is.","2025-11-12T17:00:56.117675+00:00"
+"assistant","Mooi samengevat! Je benoemt de vier hoofdfases: vasoconstrictie, primaire hemostase, secundaire hemostase, en fibrinolyse.
+
+Zullen we nog wat dieper ingaan op de secundaire hemostase? Kun je uitleggen wat de stollingscascade precies is, waarom het als een “cascade” wordt beschreven, en welke factoren hierin een rol spelen?","2025-11-12T17:01:07.235677+00:00"
+"user","Het is een snelle cascade die belangrijk is voor een snelle stolling en virming van trombine en fibrine. Factoren zoal: X, 9 en 8 zijn bekangrijk. Ook vitamine K","2025-11-12T17:02:25.491538+00:00"
+"assistant","Dat klopt, de cascade zorgt inderdaad snel voor de vorming van trombine en uiteindelijk fibrine om het stolsel stevig te maken. Je noemt factor X, IX en VIII en vitamine K. Goed!
+
+Hoe kun je uitleggen dat de cascade vanuit verschillende ‘routes’ kan beginnen (intrinsiek en extrinsiek)? Wat betekent dat precies, en weet je welke factoren vooral bij elke route betrokken zijn?","2025-11-12T17:02:33.804012+00:00"
+"user","De extrinsieke weg wordt geactiveerd door weefselfactor die vrijkomt bij een beschadigd bloedvat en is de primaire route in het lichaam. De intrinsieke weg wordt geactiveerd door contact met de beschadigde vaatwand, maar is in het lichaam van minder fysiologisch belang dan de extrinsieke weg. Beide cascades leiden tot de vorming van trombin, dat vervolgens fibrine vormt, hetgeen een stevig stolsel creëert.","2025-11-12T17:03:12.266404+00:00"
+"assistant","Heel goed uitgelegd! De extrinsieke route begint inderdaad met weefselfactor (en factor VII). De intrinsieke route start bij contact met de beschadigde vaatwand en betrekt onder andere factor XII, XI, IX en VIII. Beide komen uit bij de gemeenschappelijke pathway, waar factor X, trombine en fibrine aan bod komen.
+
+Nog één vraag voor nu: Wat zou er kunnen gebeuren als één of meer van deze stollingsfactoren helemaal ontbreken, of niet goed werken? Welke gevolgen heeft dat voor het hele proces?","2025-11-12T17:03:21.846288+00:00"
+"user","gevolg is dat de stollingstijd sowieso per route langer duurt en er insufficiente stolling is en sommig eindproducten zoals finbrine niet ontstaan","2025-11-12T17:04:20.661385+00:00"
+"assistant","Helemaal juist! Als bepaalde stollingsfactoren ontbreken of defect zijn, verloopt de cascade trager of helemaal niet, waardoor trombine en fibrine niet optimaal gevormd worden. Dit leidt tot onvoldoende stolselvorming en dus verhoogde bloedingsneiging.
+
+Als je op dit punt geen vragen meer hebt, stel ik voor dat we doorgaan naar de volgende fase!
+
+[■■□□□]  40% – Kennisactivatie afgerond! Je klinisch redeneervermogen groeit goed – ga zo door!
+
+Zullen we doorgaan naar fase 2?","2025-11-12T17:04:32.489301+00:00"
+"user","ja","2025-11-12T17:04:36.068605+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Mooi! Nu zijn we bij fase 2 – Narrative Construction. Hieronder herhaal ik kort de casus:
+
+###VIGNETTE 1###
+Een 60-jarige vrouw presenteert zich met ernstige, levensbedreigende bloedingen. Ze gebruikt warfarine, een antistollingsmiddel dat inwerkt op de vitamine K-afhankelijke factoren, vanwege een hartprobleem. Ze had de afgelopen dagen al bloedend tandvlees opgemerkt. 
+Laboratoriumresultaten:
+1. Protrombinetijd (PT): Verlengd
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verhoogd
+3. Trombocytentelling: Normaal
+4. Fibrinogeen: Normaal
+
+Kun je nu—met de kennis die je net hebt opgehaald—uitleggen waardoor de symptomen en de laboratoriumuitslagen van deze patiënt worden veroorzaakt?
+
+[■■□□□]  40% – Je zit in de narrative construction fase: verbind je kennis aan het patiëntenvoorbeeld!","2025-11-12T17:04:52.39259+00:00"

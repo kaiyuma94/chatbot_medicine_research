@@ -1,0 +1,113 @@
+"role","content","created_at"
+"user","klaar om te beginnen","2025-11-12T16:50:00.972722+00:00"
+"assistant","Welcome! In this activity, you’ll work with a virtual tutor to explore how haemostasis happens through key physiological principles. You’ll be guided to build your own narrative that explains what happens and why in a clinical situation.
+
+Creating your own story about a case helps you connect ideas, remember them longer, and apply this knowledge in future clinical situations. At the same time, this way of reasoning mirrors how doctors make sense of what happens in their patients—and one day, you’ll use it to work and reason together with your own patients.
+
+This activity has three phases designed to help you learn step by step:  
+Phase 1 – Knowledge Activation: recall what you already know about haemostasis. The first case serves as a trigger to help you think and reflect — we’ll return to the case once we’ve completed this knowledge activation phase.  
+Phase 2 – Narrative Construction: apply that knowledge to explain what happens in a given scenario.  
+Phase 3 – Reasoning Transfer: use your understanding to reason through a new case and see how the same principles apply.
+
+Please note that you can access feedback on your learning progress at any time by clicking the feedback button — it’s a helpful way to reflect on what you’ve learned and what to focus on next!
+
+Ready to begin?
+
+[■□□□□]  20% – Knowledge activation started! Let’s recall how haemostasis works step by step!","2025-11-12T16:50:20.110583+00:00"
+"user","ja begin maar","2025-11-12T16:50:46.627264+00:00"
+"assistant","Hier is de eerste casus:
+
+Een 60-jarige vrouw presenteert zich met ernstig, levensbedreigend bloedverlies. Ze gebruikt warfarine, een anticoagulans dat werkt op de vitamine K-afhankelijke factoren, vanwege een hartaandoening, en had de afgelopen dagen al bloedend tandvlees opgemerkt.  
+Laboratoriumuitslagen:  
+1. Protrombinetijd (PT): Verlengd  
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verhoogd  
+3. Trombocytenaantal: Normaal  
+4. Fibrinogeen: Normaal
+
+Kun je de klachten van deze patiënt en de laboratoriumuitslagen uitleggen?","2025-11-12T16:50:57.376833+00:00"
+"user","Jazeker, er gaat zo te zien niets mis in de primaire hemostase, maar in de secundaire hemostase, dus de stollingscascade. Dit is terug te zien in de labwaarden: de stolling is verlengd, terwijl er een normaal aantal bloedplaatjes is en het fibrinogeen ook normaal is. Dit komt waarschijnlijk door het warfarine, want dit beïnvloedt dus de vitamine k afhankelijke stollingsfactoren: 10, 9, 7 en 2.","2025-11-12T16:54:41.325021+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Great try! Laten we even pauzeren en starten met Fase 1 – Kennisactivatie. In deze fase blikken we kort terug op de kernbegrippen en mechanismen die met de casus te maken hebben. Zijn er vóór we beginnen al vragen of onduidelijkheden die je alvast wilt bespreken?
+
+[■■□□□]  40% – Knowledge activation finished! Keep going - your clinical reasoning is developing!
+
+Om gelijk te beginnen:  
+Als je denkt aan hoe het lichaam bloedverlies tot stilstand brengt na een vaatbeschadiging, welke hoofdprocessen schieten je dan als eerste te binnen?","2025-11-12T16:54:51.277327+00:00"
+"user","zoals genoemd: primaire hemostase en secundaire hemostase","2025-11-12T16:55:16.001111+00:00"
+"assistant","Mooi, dat klopt. Kun je in je eigen woorden beschrijven wat er precies gebeurt tijdens de primaire hemostase, en wat de rol is van de secundaire hemostase? Wat gebeurt er in elke stap en waarom zijn ze beide belangrijk?","2025-11-12T16:55:22.728368+00:00"
+"user","tijdens de primaire hemostase wordt een platelet plug gevormd, die tijdelijk het bloeden stelpt, totdat de secundaire hemostase met alle stollingsfactoren het bloeden volledig stopt, door middel van bloedstolling","2025-11-12T16:56:48.473317+00:00"
+"assistant","Goed uitgelegd! Je hebt helemaal gelijk dat de primaire hemostase zorgt voor het vormen van een tijdelijke plug met behulp van bloedplaatjes, terwijl de secundaire hemostase met stollingsfactoren deze plug verstevigt tot een stabiel stolsel.
+
+Kun je uitleggen wat de stollingscascade precies inhoudt, en waarom het wordt beschreven als een reeks opeenvolgende reacties? Wat is het voordeel hiervan voor het lichaam?","2025-11-12T16:56:56.937964+00:00"
+"user","de stollingscascade bestaat uit opeenvolgende eiwitten die een omzetting faciliteren. het einddoel is het maken van fibrinedraden","2025-11-12T16:57:51.760087+00:00"
+"assistant","Mooie samenvatting! Het klopt dat de stollingscascade bestaat uit een keten van activaties van stollingsfactoren, die uiteindelijk leidt tot fibrinevorming.
+
+De cascade kan op verschillende manieren gestart worden. Weet je hoe de stolling in gang wordt gezet via de intrinsieke en extrinsieke route? Wat betekenen die termen, en kun je uitleggen wat het verschil is tussen beide pathways?","2025-11-12T16:57:59.73693+00:00"
+"user","extrinsiek wordt gestart door een combi van factor 7 en tissue factor, die vrijkomt wanneer er weefselschade is. de intrinsieke route wordt gestart wanneer er schade is aan de wand van een bloedvat, deze route wordt gestart met factor 12","2025-11-12T16:59:27.111328+00:00"
+"assistant","Precies! De extrinsieke route start snel via tissue factor en factor VII wanneer er weefselschade is, terwijl de intrinsieke route begint bij contact van bloed met beschadigd endotheel, beginnend met factor XII.
+
+Wat zou er gebeuren in het lichaam als één van de stollingsfactoren mist of niet goed werkt? Hoe zou dat de bloedstolling beïnvloeden?","2025-11-12T16:59:34.107783+00:00"
+"user","dat ligt eraan waar die zit, maar dit zou zorgen voor bloedingen","2025-11-12T17:00:11.594232+00:00"
+"assistant","Helemaal waar: afhankelijk van welke factor niet goed werkt, kan het effect verschillen—maar meestal ontstaat er een verhoogde neiging tot bloeden door onvoldoende vorming van fibrine.
+
+Voel je je zeker over het onderscheid tussen primaire en secundaire hemostase en kun je het verschil zien tussen de intrinsieke en extrinsieke route? Zijn er nog dingen waar je over twijfelt, of wil je iets verder verduidelijkt hebben voordat we doorgaan naar de volgende fase?","2025-11-12T17:00:20.15293+00:00"
+"user","ga door","2025-11-12T17:00:43.794319+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Great! Nu gaan we verder met Fase 2 – Narratief Constructie.
+
+Hier is de casus nogmaals:
+
+Een 60-jarige vrouw presenteert zich met ernstig, levensbedreigend bloedverlies. Ze gebruikt warfarine, een anticoagulans dat werkt op de vitamine K-afhankelijke factoren, vanwege een hartaandoening, en had de afgelopen dagen al bloedend tandvlees opgemerkt.  
+Laboratoriumuitslagen:  
+1. Protrombinetijd (PT): Verlengd  
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verhoogd  
+3. Trombocytenaantal: Normaal  
+4. Fibrinogeen: Normaal
+
+Kun je nu met de kennis die je zojuist hebt opgefrist uitleggen wat de klachten en laboratoriumuitslagen van deze patiënt verklaren? Denk hardop en maak de koppeling tussen het klinische beeld en de betrokken mechanismen.
+
+[■■■□□]  60% – Phase 2 completed! Final stretch - time to apply your insights!","2025-11-12T17:00:58.416585+00:00"
+"user","in eerste antwoord al uitgebreid beantwoord","2025-11-12T17:01:15.80653+00:00"
+"assistant","Je hebt inderdaad al een duidelijke uitleg gegeven! Laten we toch nog even de vertaalslag maken naar een volledig samenhangend verhaal, zoals in de klinische praktijk wordt verwacht.
+
+Kun je stap voor stap toelichten hoe het gebruik van warfarine leidt tot deze specifieke labwaarden én klachten? Denk bijvoorbeeld aan:  
+- Op welke factoren (en bijbehorende pathways) werkt warfarine?  
+- Waarom zien we als eerste vooral een verlengde PT en pas later ook een licht verlengde aPTT?  
+- Waarom is het trombocytenaantal en fibrinogeen normaal gebleven?
+
+Kun je deze onderdelen integreren in je verhaal?","2025-11-12T17:01:27.023688+00:00"
+"user","invloed van warfarine op factoren 10, 9, 7 en 2 heb ik al benoemd. factor 7, 10 en 2 vallen binnen de PT, daardoor is die verlengd, vooral ook omdat die dus minder goed gestart kan worden met factor 7. vervolgens is er ook een licht verlengde aptt, omdat factoren 9, 10 en 2 daarin vallen. factor 9 is niet de start van de aptt, dus vandaar lichte verlenging. normale trombocyten en fibrinogeen heb ik al uitgelegd. enige dat ik nog kan toevoegen is dat het probleem niet zit bij fibrinogeen, maar bij de omzetting van fibrinogeen naar fibrine, vanwege factor 2","2025-11-12T17:04:52.33374+00:00"
+"assistant","Je redenatie is volledig en goed doordacht! Je hebt heel duidelijk het verband gelegd tussen warfarine-gebruik, de specifieke remming van vitamine K-afhankelijke stollingsfactoren, en de gevolgen voor zowel de labwaarden als het klinisch beeld. Ook heb je het verschil tussen primaire en secundaire hemostase correct toegepast.
+
+Hier volgt de laatste vraag voor Fase 2:
+
+Herhaal de casus nogmaals:  
+Een 60-jarige vrouw presenteert zich met ernstig, levensbedreigend bloedverlies. Ze gebruikt warfarine, een anticoagulans dat werkt op de vitamine K-afhankelijke factoren, vanwege een hartaandoening, en had de afgelopen dagen al bloedend tandvlees opgemerkt.  
+Laboratoriumuitslagen:  
+1. Protrombinetijd (PT): Verlengd  
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verhoogd  
+3. Trombocytenaantal: Normaal  
+4. Fibrinogeen: Normaal
+
+Hoe begrijp je nu de klachten en labuitslagen van deze patiënt? Noteer elk detail dat je kunt bedenken—je ideeën, redeneringen en de links met wat je net geleerd hebt. Hoe completer je uitleg, hoe meer je je begrip verdiept en hoe beter je voorbereid bent op soortgelijke klinische situaties in de toekomst!
+
+[■■■□□]  60% – Phase 2 completed! Final stretch - time to apply your insights!","2025-11-12T17:05:44.372186+00:00"
+"user","allemaal al in heel veel detail gedaan","2025-11-12T17:06:07.33415+00:00"
+"assistant","=== PHASE 3: Reasoning Transfer ===
+
+Great! Nu gaan we bekijken of je je kennis kunt toepassen op een nieuw scenario.
+
+Hier is de volgende casus:
+
+Een 24-jarige man komt op de spoedeisende hulp met spontane blauwe plekken op zijn armen en benen en langdurig bloedverlies na een kleine snee. Hij geeft aan geen familiegeschiedenis van bloedingsstoornissen te hebben. Bij lichamelijk onderzoek zie je meerdere grote, blauwe plekken en licht bloedend tandvlees.  
+Laboratoriumuitslagen:  
+1. Protrombinetijd (PT): Normaal  
+2. Geactiveerde partiële tromboplastinetijd (aPTT): Verlengd  
+3. Trombocytenaantal: Normaal  
+4. Fibrinogeen: Normaal
+
+Kun je uitleggen hoe de symptomen en labuitslagen bij deze patiënt te verklaren zijn? Leg je redenering stap voor stap uit.
+
+[■■■■■]  100% – All phases completed! Excellent work applying your knowledge.","2025-11-12T17:06:31.99777+00:00"

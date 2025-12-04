@@ -1,0 +1,58 @@
+"role","content","created_at"
+"user","start","2025-11-05T16:07:26.610755+00:00"
+"assistant","Welcome! In this activity, you’ll work with a virtual tutor to explore how blood and gas exchange happens through key physiological principles. You’ll be guided to build your own narrative that explains what happens and why in a clinical situation.
+
+Creating your own story about a case helps you connect ideas, remember them longer, and apply this knowledge in future clinical situations. At the same time, this way of reasoning mirrors how doctors make sense of what happens in their patients—and one day, you’ll use it to work and reason together with your own patients.
+
+This activity has three phases designed to help you learn step by step:  
+Phase 1 – Knowledge Activation: recall what you already know about blood and gas exchange.  
+Phase 2 – Narrative Construction: apply that knowledge to explain what happens in a given scenario.  
+Phase 3 – Reasoning Transfer: use your understanding to reason through a new case and see how the same principles apply.
+
+Ready to begin?
+
+[■□□□□]  20% – Knowledge activation started! Let’s recall how gas exchange works step by step!","2025-11-05T16:07:42.080081+00:00"
+"user","kan het in het nederlands","2025-11-05T16:07:55.411799+00:00"
+"assistant","Natuurlijk, we gaan verder in het Nederlands!
+
+Hier is de eerste casus om ons gesprek te starten:
+
+Een 65-jarige vrouw wordt opgenomen in het ziekenhuis met progressieve kortademigheid sinds 3 maanden. De afgelopen dagen zijn haar klachten verergerd. Zelfs kleine huishoudelijke taken en lopen gaan moeilijk, waarbij ze vaak moet pauzeren om op adem te komen. Ze merkte ook dat haar gebruikelijke hoest verergerde en dat ze koorts kreeg. 
+Vijf jaar geleden werd bij haar COPD vastgesteld. Bij COPD veroorzaakt chronische ontsteking beschadiging van de alveolaire wanden, en leidt een remodellering van de luchtwegen tot verdikking van de alveolo-capillaire barrière.
+Labonderzoek laat zien:
+- Hemoglobine: 10,0 g/dL (Referentie: 12–16 g/dL) 
+- Bloedgas: 
+   1. pH: 7,30 (Referentie: 7,35–7,45) → acidose
+   2. Zuurstofspanning (PaO₂): 65 mmHg (Referentie: 80–100 mmHg)
+   3. Koolstofdioxidespanning (PaCO₂): 51 mmHg (Referentie: 35–45 mmHg) 
+   4. Percentage hemoglobine verzadigd met zuurstof (SaO₂): 89% (Referentie: 95–100%) 
+
+Kun jij uitleggen waarom deze patiënte kortademig is en wat haar labuitslagen betekenen?
+
+","2025-11-05T16:08:19.867412+00:00"
+"user","Deze patient is kortademig omdat haar zuurstofspanning erg laag is en haar koolstofdioxidespanning juist te hoog is. Dat betekent dat er weinig zuurstof gebonden wordt aan het bloed. Dat zie je ook aan de percentage hemoglobine verzadigd met zuurstof, die is onder de norm.","2025-11-05T16:10:01.30099+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we even pauzeren en starten met Fase 1 – Kennisactivering. In deze fase halen we kort de belangrijkste concepten en mechanismen op over bloed en gaswisseling die bij deze casus horen. 
+
+Heb je nog vragen of punten die je wilt verduidelijken voordat we starten? 
+
+Wanneer je denkt aan bloed en gaswisseling als geheel, welke hoofdprocessen komen dan bij je op?","2025-11-05T16:10:10.161823+00:00"
+"user","zuurstofverzadiging","2025-11-05T16:11:07.546402+00:00"
+"assistant","Zeker, zuurstofverzadiging speelt een belangrijke rol. Kun je wat uitgebreider uitleggen wat zuurstofverzadiging precies betekent en waar in het lichaam dit proces plaatsvindt? 
+
+En hoe denk je dat zuurstofverzadiging samenhangt met de uitwisseling van gassen tussen longen, bloed en weefsels?","2025-11-05T16:11:15.987539+00:00"
+"user","vindt plaats in de longen en dat is het binden van zuurstof aan de heemgroepen van de hemoglobone","2025-11-05T16:12:22.289755+00:00"
+"assistant","Heel goed! Dus in de longen bindt zuurstof aan de heemgroepen van hemoglobine. 
+
+Wat gebeurt er vervolgens met deze gebonden zuurstof als het bloed door het lichaam stroomt? En welke factoren bepalen of zuurstof makkelijk wordt afgegeven aan de weefsels? Kun je één of meer van deze factoren noemen?","2025-11-05T16:12:30.379768+00:00"
+"user","deze gebonden zuurstof gaat door je bloedvaten heen en wordt geleverd bij weefsels die zuurstof nodig hebben om te functioneren. de zuurstof laat los van de hemoglobine. ph temperatuur bepalen","2025-11-05T16:13:57.656779+00:00"
+"assistant","Mooi uitgelegd! Dus inderdaad, zuurstof laat los van hemoglobine bij de weefsels. Je noemt pH en temperatuur als factoren. Kun je uitleggen hoe juist veranderingen in pH en temperatuur invloed hebben op de afgifte van zuurstof door hemoglobine? 
+
+Heb je ooit gehoord van het Bohr-effect in dit verband? Wat weet je daarvan?","2025-11-05T16:14:06.913095+00:00"
+"user","ja ik weet bohr effect ben alleen vergeten wat de formule is en waar de bohr effect vior staat","2025-11-05T16:15:13.319972+00:00"
+"assistant","Prima! Het Bohr-effect gaat minder om een vaste formule en meer om het principe erachter. Kun je in je eigen woorden proberen te beschrijven wat het Bohr-effect doet met hemoglobine en zuurstofafgifte? Wat verandert er bij een hogere hoeveelheid CO₂ of lagere pH in het bloed?","2025-11-05T16:15:21.878504+00:00"
+"user","stop gesprek","2025-11-05T16:15:24.95091+00:00"
+"assistant","Prima, ik stop het gesprek hier.
+
+","2025-11-05T16:15:29.731489+00:00"

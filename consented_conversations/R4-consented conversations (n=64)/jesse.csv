@@ -1,0 +1,59 @@
+"role","content","created_at"
+"user","hey topper","2025-11-05T16:45:45.089863+00:00"
+"assistant","Welkom! In deze activiteit ga je samen met een virtuele tutor onderzoeken hoe bloed en gaswisseling werken aan de hand van belangrijke fysiologische principes. Je wordt begeleid om zelf een verhaal op te bouwen dat uitlegt wat er gebeurt en waarom, in een klinische situatie.
+
+Zelf een verklarend verhaal maken bij een casus helpt je om ideeën te koppelen, ze langer te onthouden en deze kennis later toe te passen in klinische situaties. Zo leer je ook redeneren zoals artsen: verklaren wat je ziet bij een patiënt. Daar ga je later in de praktijk veel aan hebben.
+
+Deze activiteit bestaat uit drie fases:
+Fase 1 – Kennis activeren: ophalen wat je al weet over bloed en gaswisseling.
+Fase 2 – Narratief bouwen: toepassen van die kennis op een klinische casus.
+Fase 3 – Redeneren met transfer: je kennis toepassen op een nieuwe casus.
+
+Klaar om te beginnen?
+
+[■□□□□]  20% – Knowledge activation started! Let’s recall how gas exchange works step by step!","2025-11-05T16:45:59.830004+00:00"
+"user","yes beginnen maar","2025-11-05T16:46:26.59206+00:00"
+"assistant","Hier volgt de eerste klinische casus:
+
+Een 65-jarige vrouw wordt opgenomen met progressieve kortademigheid gedurende de afgelopen 3 maanden. De laatste dagen zijn haar klachten verergerd; zelfs kleine huishoudelijke taken en lopen kosten haar moeite en ze moet vaak pauzeren om op adem te komen. Ze heeft ook meer last van haar gebruikelijke hoest en koorts gekregen.
+Zij heeft 5 jaar geleden de diagnose COPD gekregen. Bij COPD veroorzaakt chronische ontsteking schade aan de alveolaire wanden en verdikking van de alveolair-capillaire barrière.
+Laboratoriumuitslagen:
+- Hemoglobine: 10,0 g/dL (Referentie: 12–16 g/dL)
+- Arterieel bloedgas:  
+    1. pH: 7,30 (Referentie: 7,35–7,45) → acidose  
+    2. Zuurstofdruk (PaO₂): 65 mmHg (Referentie: 80–100 mmHg)  
+    3. Koolstofdioxidedruk (PaCO₂): 51 mmHg (Referentie: 35–45 mmHg)  
+    4. Hemoglobinesaturatie (SaO₂): 89% (Referentie: 95–100%)  
+
+Leg uit waarom de patiënte kortademig is en waarom haar laboratoriumwaarden zo zijn.
+
+","2025-11-05T16:46:50.226339+00:00"
+"user","Haar hemoglobine is laag dan de referentiewaarde. Dit betekent dat er minder hemoglobine aanwezig is die zuurstaf kan vervoeren. Hierdoor heeft het lichaam minder zuurstof en dit heeft weer als gevolg dat de co2 stijgt en het lichaam dus zuurder wordt. dit is ook weer terug te zien in de koolstofdioxidedruk. De hemoglobinesaturatie is ook lager dus dat betekent dat er minder gevonden is","2025-11-05T16:50:03.237399+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! We gaan nu even pauzeren en starten met Fase 1 – Kennis activeren. In deze fase gaan we samen kort de belangrijkste concepten en mechanismen rondom bloed en gaswisseling doornemen. Heb je op dit moment vragen of zijn er onduidelijkheden die je eerst wilt bespreken? 
+
+[■■□□□]  40% – Knowledge activation finished! Keep going - your clinical reasoning is developing!","2025-11-05T16:50:12.493856+00:00"
+"user","oke","2025-11-05T16:50:27.455967+00:00"
+"assistant","Mooi! Om je kennis te activeren: als je denkt aan bloed en gaswisseling als geheel, welke hoofdprocessen schieten je dan te binnen? Kun je in je eigen woorden kort beschrijven welke rol de longen, het bloed en de weefsels spelen in dit systeem? 
+
+Probeer te bedenken: wat gebeurt er op elk van deze plekken en waarom is dat belangrijk?","2025-11-05T16:50:35.744116+00:00"
+"user","Longen: nemen zuurstof op uit ingeademde lucht en geven koolstofdioxide af aan de uitgeademde lucht.
+Bloed: vervoert zuurstof (gebonden aan hemoglobine) van de longen naar de weefsels en brengt koolstofdioxide terug naar de longen.
+Weefsels: gebruiken zuurstof voor energieproductie en maken daarbij koolstofdioxide, dat weer aan het bloed wordt afgegeven.
+Samen zorgen ze dat cellen voortdurend zuurstof krijgen en afvalgas (CO₂) wordt afgevoerd.","2025-11-05T16:51:41.199449+00:00"
+"assistant","Heel helder! Nu een vervolgvraag: We weten dat hemoglobine zowel zuurstof als koolstofdioxide kan binden en loslaten. Kun je uitleggen hoe hemoglobine weet op welke plek (longen of weefsels) het de gassen moet opnemen of juist afgeven? Wat beïnvloedt dit proces?","2025-11-05T16:51:48.340312+00:00"
+"user","Dit gebeurt door diffusie. Als in de difussiedruk lager in de weefsels er omheen dan in het bloed geeft hij o2 af en neemt dan weer co2 als afvalstof op","2025-11-05T16:52:22.117965+00:00"
+"assistant","Heel goed, het verschil in partiële drukken (van O₂ en CO₂) tussen bloed en de omgeving zorgt inderdaad voor diffusie. Maar behalve dat speelt hemoglobine zelf ook een actieve rol: de omgeving verandert zijn affiniteit voor zuurstof.
+
+Kun je uitleggen wat bijvoorbeeld de Bohr-effect inhoudt, en hoe dat helpt bij het afgeven van zuurstof in de weefsels? Wat gebeurt er dan precies?","2025-11-05T16:52:30.660738+00:00"
+"user","Ik weet zo niet meer precies wat het Bohr effect is","2025-11-05T16:52:54.781295+00:00"
+"assistant","Geen probleem, dat komt vaker voor. Probeer eens te bedenken: wat gebeurt er met CO₂ en pH in actief werkende spieren of weefsel? En hoe zou dat een signaal kunnen zijn voor hemoglobine om zuurstof los te laten? 
+
+Kun je deze redenering proberen af te maken?","2025-11-05T16:53:06.741866+00:00"
+"user","actief werkende spieren is verhoogde co2  en dus een lagere ph. Dit zorgt voor een hogere affiniteit","2025-11-05T16:54:11.782019+00:00"
+"assistant","Je zit heel dichtbij! Maar denk nog eens aan het effect van een lage pH en veel CO₂ op de zuurstofafgifte door hemoglobine. Heeft hemoglobine dan juist een hogere affiniteit, of laat het zuurstof makkelijker los? Kun je je antwoord nog eens heroverwegen?","2025-11-05T16:54:19.726747+00:00"
+"user","Lage affiniteit met zuurstof en hierdoor laat het dus makkelijke o2 log","2025-11-05T16:55:27.691821+00:00"
+"assistant","Precies, dat is het Bohr-effect! In een omgeving met veel CO₂ en lage pH vermindert de affiniteit van hemoglobine voor zuurstof, waardoor zuurstof makkelijker vrijkomt in actieve weefsels.
+
+Wil je nu ook kort beschrijven wat het Haldane-effect is, en hoe dat het transport van CO₂ beïnvloedt vanuit de weefsels naar de longen?","2025-11-05T16:55:35.391317+00:00"

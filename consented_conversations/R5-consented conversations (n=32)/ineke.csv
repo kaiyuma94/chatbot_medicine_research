@@ -1,0 +1,118 @@
+"role","content","created_at"
+"user","ik ben er klaar voor","2025-11-12T14:24:20.527717+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Mooi! Hier is het eerste klinische vignet als startpunt:
+
+Een 60-jarige vrouw presenteert zich met grote, levensbedreigende bloedingen. Ze gebruikt warfarine, een antistollingsmiddel dat werkt op de vitamine K-afhankelijke stollingsfactoren, vanwege een hartprobleem. Ze had de afgelopen dagen al bloedend tandvlees opgemerkt.  
+Laboratoriumuitslagen:
+1. Protrombinetijd (PT): Verlengd  
+2. Geactiveerde partiële tromboplastinetijd (aPTT): licht verhoogd  
+3. Trombocytenaantal: Normaal  
+4. Fibrinogeen: Normaal
+
+Kun je uitleggen waardoor de klachten en labuitslagen van deze patiënt ontstaan?","2025-11-12T14:24:32.787213+00:00"
+"user","de patient heeft een verlengde PT en een licht verhoogde aPTT. doordat de patient het antistollingsmiddel gebruikt gaat stollen minder goed. hierdoor is de PT en aPTT verlengd en kan het bloed bij bloedingen niet stollen waardoor ze groot en levensbedreigend zijn.","2025-11-12T14:27:26.184052+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! Laten we even een korte pauze nemen en starten met Fase 1 – Knowledge Activation. In deze fase herhalen we samen kort de belangrijkste concepten en mechanismen rondom stolling die van belang zijn voor deze casus. Heb je op dit moment al vragen of zijn er bepaalde punten die je graag wilt verduidelijken voordat we starten?
+
+[■□□□□]  20% – Knowledge activation started! Let’s recall how haemostasis works step by step!","2025-11-12T14:27:35.241664+00:00"
+"user","nee","2025-11-12T14:27:51.192554+00:00"
+"assistant","Mooi, dan trap ik af met een algemene vraag:  
+Als je denkt aan hoe het lichaam bloedverlies voorkomt na een beschadiging van een bloedvat, welke hoofdprocessen komen dan bij je op? Kun je deze kort beschrijven?","2025-11-12T14:27:57.403624+00:00"
+"user","de beschadiging wordt herkend er ontstaat een cascade van reacties. waardoor er bloedplaatjes naar de beschadiging gaan. daarna worden er fibrine draden gevormd die hechten aan de bloedplaatjes om zo de bloeding te stoppen","2025-11-12T14:29:14.171182+00:00"
+"assistant","Heel goed! Je noemt al de cascade van reacties, betrokkenheid van bloedplaatjes en het vormen van fibrinedraden. Kun je deze stappen proberen op te splitsen? Wat gebeurt er als eerste, wat volgt er daarna, en wat gebeurt er uiteindelijk? Hoe zou je deze fases benoemen?","2025-11-12T14:29:20.377885+00:00"
+"user","als eerst herkenning, dan bloedplaatjes naar plek van beschadiging en daarna fibrine draden gevormd die daarna gaan hechten. ik weet het verder niet","2025-11-12T14:30:07.008823+00:00"
+"assistant","Prima uiteenzetting tot nu toe! Je zit al in de goede richting. 
+
+Laten we het wat concreter maken:  
+- Je noemt bloedplaatjes die zich naar de plek van beschadiging bewegen. Wat gebeurt er met die bloedplaatjes precies als ze daar aankomen?
+- En hoe ontstaan die fibrinedraden eigenlijk? Is dat direct of via andere reacties?
+
+Wil je deze twee punten proberen uit te werken? Wat weet je van de rol van bloedplaatjes en van de reactie die leidt tot fibrinevorming?","2025-11-12T14:30:15.599221+00:00"
+"user","bloedplaatjes die aankomen bij de beschadiging hechten aan de vaatwand, het ontstaan van fibrine gaat via andere reacties, fibrinogeen wordt omgezet in fibrine","2025-11-12T14:31:03.843885+00:00"
+"assistant","Heel goed! Bloedplaatjes hechten aan de beschadigde vaatwand en vormen zo een tijdelijke 'prop'. Daarna wordt, zoals je zegt, fibrinogeen omgezet in fibrine om deze prop steviger te maken. 
+
+Nu een vervolgvraag:  
+Je gaf aan dat fibrine uit fibrinogeen ontstaat via andere reacties. Dit noemen we de stollingscascade. Kun je uitleggen wat hiermee wordt bedoeld? Waarom is dit een “cascade” en geen simpele één-op-één reactie?","2025-11-12T14:31:12.439123+00:00"
+"user","omdat elke omzetting van een stof in een andere stof een andere omzettingsreactie aanzet","2025-11-12T14:31:39.010231+00:00"
+"assistant","Precies, het is een reeks reacties waarbij elk geactiveerd stollingsfactor het volgende activeert. Zo ontstaat er een kettingreactie.  
+
+Nog een belangrijke stap:  
+Deze cascade kan op twee verschillende manieren beginnen (de ‘paden’). Weet je hoe deze paden heten en wat ze in gang zet? Wat betekent “intrinsiek” en “extrinsiek” hier?","2025-11-12T14:31:46.132936+00:00"
+"user","je hebt 2 paden. de aPTT en de PT. bij intrinsiek wordt de lange route bedoeld en bij extrinsiek de kortere route. volgensmij is de aPTT de lange route","2025-11-12T14:33:09.339114+00:00"
+"assistant","Dat klopt grotendeels! De aPTT meet inderdaad de intrinsieke (lange) route en de PT meet de extrinsieke (korte) route.
+
+Kun je proberen te verwoorden waardoor deze routes geactiveerd worden?  
+Wat zorgt voor het starten van de intrinsieke route en wat voor het starten van de extrinsieke route?","2025-11-12T14:33:16.307351+00:00"
+"user","ze worden beide gestart bij een beschadiging van de vaatwand","2025-11-12T14:33:57.630058+00:00"
+"assistant","Dat is zeker waar, maar er is wel een duidelijk verschil in de manier waarop ze worden geactiveerd:
+
+- De extrinsieke route (PT) wordt geactiveerd door een factor van buiten het bloed, namelijk het weefselfactor (Tissue Factor) dat vrijkomt uit beschadigd weefsel.
+- De intrinsieke route (aPTT) wordt op gang gebracht door stoffen binnen het bloed zelf, bijvoorbeeld door contact met een negatief geladen oppervlak bij schade aan het endotheel.
+
+Wil je dit verschil nog eens samenvatten met je eigen woorden? Wat is de belangrijkste trigger voor elk pad?","2025-11-12T14:34:06.89437+00:00"
+"user","voor de extrinsieke route is de trigger factoren buiten het bloed en bij de intrinsieke route is de trigger stoffen in het bloed zelf","2025-11-12T14:35:02.374919+00:00"
+"assistant","Heel duidelijk uitgelegd! Een laatste focuspunt voor deze fase:
+
+Wat zou er gebeuren als één van de stollingsfactoren wegvalt of niet werkt in een van die cascades? Wat is het gevolg voor het stollingsproces?
+
+[■■□□□]  40% – Knowledge activation finished! Keep going - your clinical reasoning is developing!","2025-11-12T14:35:09.58768+00:00"
+"user","als 1 van de stollingsfactoren wegvalt valt 1 van de 2 routes ook stil. het zou kunnen zijn dat bij de aPTT een factor wegvalt waardoor het dus alleen nog maar via de PT kan, hierdoor gaat het stollingsproces langzamer","2025-11-12T14:37:12.363138+00:00"
+"assistant","=== PHASE 2: Narrative Construction ===
+
+Mooi uitgelegd! We gaan nu verder naar Fase 2 – Narrative Construction. Hier passen we de net besproken kennis toe op het eerste vignet.
+
+Herhaling van het vignet:
+Een 60-jarige vrouw presenteert zich met grote, levensbedreigende bloedingen. Ze gebruikt warfarine (werkt op vitamine K-afhankelijke stollingsfactoren) voor een hartprobleem. Ze had al bloedend tandvlees opgemerkt.  
+Laboratoriumuitslagen:
+1. PT: Verlengd  
+2. aPTT: licht verhoogd  
+3. Trombocytenaantal: Normaal  
+4. Fibrinogeen: Normaal
+
+Nu de kennis vers in het geheugen zit: Kun je uitleggen waardoor de klachten en labuitslagen van deze patiënt ontstaan met de kennis die we net besproken hebben?
+
+[■■■□□]  60% – Phase 2 completed! Final stretch - time to apply your insights!","2025-11-12T14:37:25.757237+00:00"
+"user","doordat mevrouw warfine gebruikt vallen vitamine k afhankelijke stollingsfacoren weg. hierdoor werken de stollingsfactoren 10, 9, 7 en 2 niet. waardoor de aPTT route van mevrouw niet werkt. alle stollingen moeten nu veroorzaakt worden door de PT, deze kan minder snel stollingen maken waardoor bloedingen die mevrouw heeft niet goed kunnen stollen","2025-11-12T14:40:09.147871+00:00"
+"assistant","Je benoemt goed dat warfarine de vitamine K-afhankelijke stollingsfactoren remt: factoren II, VII, IX en X. Ook dat dit invloed heeft op het stollingsproces. Er zijn echter een paar punten die je nog zou kunnen verduidelijken:
+
+- Is het juist dat ‘alle stollingen nu via PT moeten’? Of heeft remming van vitamine K-afhankelijke factoren effect op beide routes?
+- Bij wie van die factoren hoort factor VII (extrinsiek) en welke bij intrinsiek/combinatie?
+- Waarom is PT sterker verlengd en aPTT slechts licht verhoogd?
+
+Kun je deze punten toelichten? Wat zou bijvoorbeeld het effect zijn van een tekort aan factor VII op de PT? En hoe zit het met de relatie tussen het verlengde PT en warfarinegebruik?","2025-11-12T14:40:20.628409+00:00"
+"user","ik weet het niet","2025-11-12T14:41:36.633936+00:00"
+"assistant","Geen probleem! Laten we het samen stap voor stap bekijken.
+
+Warfarine remt de aanmaak van vitamine K-afhankelijke factoren: II, VII, IX en X.  
+- Factor VII is vooral belangrijk voor de extrinsieke route (die wordt gemeten met de PT). 
+- Factor IX valt juist binnen de intrinsieke route (die wordt gemeten met de aPTT). 
+- Factor II en X zijn cruciaal voor de gezamenlijke (common) route.
+
+Omdat factor VII een hele korte halfwaardetijd heeft, merk je een tekort hieraan het snelst aan de PT (de extrinsieke route). Daarom is de PT vaak het eerst en het meest verlengd bij warfarinegebruik. De aPTT is soms licht verlengd omdat factor IX ook een vitamine K-afhankelijke factor is, maar factor VII geeft het duidelijkste effect in het lab.
+
+Waarom denk je dat het tekort aan deze factoren leidt tot zulke ernstige bloedingen, ondanks een normaal aantal bloedplaatjes en normaal fibrinogeen? Wat gebeurt er precies in de laatste stappen van de stollingscascade?","2025-11-12T14:41:52.138463+00:00"
+"user","wat is een halfwaardetijd","2025-11-12T14:43:06.619187+00:00"
+"assistant","Goede vraag! De halfwaardetijd is de tijd die het duurt voordat de hoeveelheid van een bepaalde stof, zoals een stollingsfactor, in het bloed tot de helft is afgenomen. Dus: als een stollingsfactor een korte halfwaardetijd heeft, wordt hij snel uit het bloed verwijderd of raakt hij snel uitgeput als de aanmaak wordt geremd, zoals bij warfarinegebruik.
+
+Waarom zou het belangrijk zijn voor het effect van warfarine welke stollingsfactor de kortste halfwaardetijd heeft? Wat betekent dat voor hoe snel je veranderingen in de stollingstesten ziet?","2025-11-12T14:43:16.881497+00:00"
+"user","als die stollingsfactor uit het bloed is kan die route niet vervolgen,","2025-11-12T14:45:47.631433+00:00"
+"assistant","Precies! Als een stollingsfactor met een korte halfwaardetijd snel verdwijnt, zie je als eerste effect dat díe route niet meer goed werkt—zoals de extrinsieke route bij factor VII. Daarom verlengt de PT als eerste bij warfarinegebruik.
+
+Wil je nu nog één keer proberen samen te vatten waarom deze patiënt zo ernstig bloedt, ondanks een normaal trombocytenaantal en normaal fibrinogeen? Welke stap faalt er waardoor het bloed niet goed kan stollen?","2025-11-12T14:45:55.916025+00:00"
+"user","omdat door de warfarine de stollingsfactor 7 uit het bloed verdwijnt aangezien deze de korste halfwaardetijd heeft. kan de PT niet meer vervolgt of gaat veel langzamer worden en moet het stollingsproces via de aPTT wat veel lanegr duurt.","2025-11-12T14:47:45.552157+00:00"
+"assistant","Goed gedaan, je benoemt het effect van factor VII op de PT en dat daardoor het stollingsproces veel trager verloopt. 
+
+Nog één scherpte: Warfarine beïnvloedt uiteindelijk meerdere factoren, en vertraagt zo het hele proces van vorming van fibrine. Daardoor wordt het voorlopige plaatjespropje niet verstevigd door fibrinedraden. Dus: door remming van die factoren wordt de cascade stokend, is er minder trombinevorming, en zet fibrinogeen niet meer goed om in fibrine.
+
+Nu de laatste toetsvraag voor deze fase. 
+
+Herhaling van het vignet:
+Een 60-jarige vrouw presenteert zich met grote, levensbedreigende bloedingen. Ze gebruikt warfarine (werkt op vitamine K-afhankelijke stollingsfactoren).  
+Lab: PT verlengd, aPTT licht verhoogd, trombocyten normaal, fibrinogeen normaal.
+
+Hoe begrijp je nu haar klachten en labuitslagen? Schrijf alle details op die je kunt bedenken—je gedachten, redenering, en verbanden met wat je leerde. Hoe vollediger je antwoord, hoe beter je inzicht en voorbereiding op soortgelijke cases in de toekomst!
+
+[■■■□□]  60% – Phase 2 completed! Final stretch - time to apply your insights!","2025-11-12T14:48:03.509661+00:00"

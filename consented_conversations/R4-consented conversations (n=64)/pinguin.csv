@@ -1,0 +1,46 @@
+"role","content","created_at"
+"user","hallo","2025-11-05T16:07:25.535806+00:00"
+"assistant","Welkom! In deze activiteit ga je samen met een virtuele tutor ontdekken hoe bloed en gasuitwisseling werkt aan de hand van belangrijke fysiologische principes. Je wordt begeleid om je eigen verhaal op te bouwen dat uitlegt wat er gebeurt en waarom in een klinische situatie.
+
+Je eigen verhaal maken over een casus helpt je om ideeën te verbinden, ze langer te onthouden en deze kennis toe te passen in toekomstige klinische situaties. Deze manier van redeneren lijkt op hoe artsen begrijpen wat er gebeurt bij hun patiënten—en op een dag gebruik je deze aanpak zelf in het ziekenhuis.
+
+Deze activiteit heeft drie fasen om je stap voor stap te helpen leren:
+Fase 1 – Kennis activeren: herinneren wat je al weet over bloed en gasuitwisseling.
+Fase 2 – Opbouwen van een verklaring: die kennis toepassen op een klinisch scenario.
+Fase 3 – Redeneren in een nieuwe situatie: je inzicht gebruiken in een nieuwe casus en zien hoe dezelfde principes gelden.
+
+Ben je er klaar voor?
+
+[■□□□□]  20% – Knowledge activation started! Let’s recall how gas exchange works step by step!","2025-11-05T16:07:41.567093+00:00"
+"user","ja","2025-11-05T16:07:54.658234+00:00"
+"assistant","Hier is de eerste casus waarmee we gaan oefenen:
+
+Een 65-jarige vrouw wordt opgenomen in het ziekenhuis met toenemende kortademigheid in de afgelopen 3 maanden. De laatste dagen zijn haar klachten erger geworden. Zelfs kleine huishoudelijke klusjes en wandelen lukken nauwelijks nog zonder vaak te moeten pauzeren om op adem te komen. Ze heeft ook last van toegenomen hoesten en koorts. Vijf jaar geleden kreeg ze de diagnose COPD. Daarbij veroorzaakt chronische ontsteking schade aan de alveolaire (longblaasjes) wanden en zorgt remodellering van de luchtwegen voor verdikking van de alveolair-capillaire barrière.
+
+Laboratoriumuitslagen:
+- Hemoglobine: 10,0 g/dL (Normaal: 12–16 g/dL)
+- Bloedgas:
+   1. pH: 7,30 (Normaal: 7,35–7,45) → acidose
+   2. Zuurstofdruk (PaO₂): 65 mmHg (Normaal: 80–100 mmHg)
+   3. Koolzuurdruk (PaCO₂): 51 mmHg (Normaal: 35–45 mmHg)
+   4. Zuurstofverzadiging (SaO₂): 89% (Normaal: 95–100%)
+
+Kun je uitleggen waarom deze patiënte kortademig is en wat haar laboratoriumuitslagen betekenen? Probeer zo concreet mogelijk in je eigen woorden te verwoorden wat er in het lichaam gebeurt.","2025-11-05T16:08:15.181949+00:00"
+"user","Ze is kortademig, omdat ze een bloedarmoede heeft. lage hemoglobine betekent een anemie. De lage pH/acidose betekent dat er teveel H²CO³ wordt aangemaakt. de lage zuurstofdruk betekent dat er te weinig zuurstof wordt opgenomen. De hoge koolzuurdruk betekent dat koostofdioxide niet goed wordt afgegeven aan de longen. de lage zuurstofverzadiging betekent dat niet genoeg zuurstof aan de hemoglobine bindt.","2025-11-05T16:11:17.648037+00:00"
+"assistant","=== PHASE 1: Knowledge Activation ===
+
+Goed geprobeerd! We nemen nu een korte pauze en starten met Fase 1 – Kennis activeren. In deze fase herhalen we kort de belangrijkste concepten en mechanismen rondom bloed en gasuitwisseling.
+
+Heb je vooraf vragen of iets wat je extra wilt verduidelijken? 
+
+Als je wilt beginnen: als je aan ‘bloed en gasuitwisseling’ denkt, welke hoofdprocessen komen dan bij jou op?","2025-11-05T16:11:27.055506+00:00"
+"user","Anemie, bloedcirculatie, hematocriet, hemoglobine, Bohr- en Haldane effect, zuurstofdissociatiecurve, etc.","2025-11-05T16:12:24.828821+00:00"
+"assistant","Mooi, je noemt al veel belangrijke begrippen! Kun je in je eigen woorden beschrijven wat de rol van de longen, het bloed en de weefsels is binnen het systeem van gasuitwisseling? Wat doet elk van die onderdelen precies?","2025-11-05T16:12:37.112601+00:00"
+"user","de longen zorgen voor toevoer van O² en de afvoer van CO². Het bloed zorgt dat O² van de longen naar de weefsels wordt getransporteerd en het CO² van de weefsels naar de longen. De weefsels nemen O² op en geven CO² af aan het bloed.","2025-11-05T16:13:46.608365+00:00"
+"assistant","Dat klopt! Je hebt de hoofdlijnen van het transportsysteem te pakken. Hemoglobine is hierin essentieel. Kun je uitleggen hoe hemoglobine in staat is om zowel zuurstof als koolstofdioxide op te nemen en los te laten, afhankelijk van de omstandigheden? Wat maakt hemoglobine flexibel in deze functie?","2025-11-05T16:13:53.630404+00:00"
+"user","Hemoglobine heeft 4 heemgroepen die elk een ijzeratoom bevatten, dit ijzeratoom kan binden met O² of CO². Als O² bindt aan hemoglobine, dan verandert het van vorm, deze vorm kan weer beter nog meer O² binden.","2025-11-05T16:15:10.467397+00:00"
+"assistant","Dat is een mooie beschrijving van de O₂-binding! Nu, zuurstofbinding en -afgifte worden sterk beïnvloed door omgevingseigenschappen. Denk aan het Bohr-effect: hoe zorgt een hogere CO₂-concentratie of lagere pH ervoor dat hemoglobine in de weefsels makkelijker zuurstof afgeeft? Wat gebeurt er precies?","2025-11-05T16:15:18.646147+00:00"
+"user","stop","2025-11-05T16:15:39.644378+00:00"
+"assistant","Begrepen, ik stop het gesprek hier. Mocht je later verder willen, laat het gerust weten.","2025-11-05T16:15:44.0811+00:00"
+"user","hoeveel procent heb ik gedaan?","2025-11-05T16:16:38.369637+00:00"
+"assistant","[■□□□□]  20% – Je bent gestart met Phase 1 (Kennis activeren). Als je verder wilt oefenen of door wilt naar de volgende fase, laat het gerust weten!","2025-11-05T16:16:45.361686+00:00"
